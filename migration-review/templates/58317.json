@@ -1,0 +1,310 @@
+[
+  {
+    "id": "38df93a1",
+    "elType": "section",
+    "settings": {
+      "structure": "10",
+      "padding": {
+        "unit": "px",
+        "top": "80",
+        "bottom": "80",
+        "isLinked": false
+      },
+      "background_background": "classic",
+      "background_color": "#FFFFFF",
+      "premium_tooltip_icon": {
+        "value": "fas fa-star",
+        "library": "fa-solid"
+      },
+      "premium_tooltip_container_bg_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_slideshow_gallery": [],
+      "background_hover_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_hover_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_hover_slideshow_gallery": [],
+      "background_overlay_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_slideshow_gallery": [],
+      "background_overlay_hover_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_hover_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_hover_slideshow_gallery": [],
+      "pa_condition_repeater": []
+    },
+    "elements": [
+      {
+        "id": "5f5b6e2d",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_slideshow_gallery": [],
+          "background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_hover_slideshow_gallery": [],
+          "background_overlay_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_overlay_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_overlay_slideshow_gallery": [],
+          "background_overlay_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_overlay_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_overlay_hover_slideshow_gallery": [],
+          "pa_condition_repeater": [],
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [
+          {
+            "id": "13c0afe5",
+            "elType": "widget",
+            "settings": {
+              "title": "Our Website Development Process",
+              "align": "center",
+              "header_size": "h2",
+              "pa_condition_repeater": [],
+              "premium_tooltip_icon": {
+                "value": "fas fa-star",
+                "library": "fa-solid"
+              },
+              "premium_tooltip_container_bg_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_slideshow_gallery": [],
+              "_background_hover_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_hover_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_hover_slideshow_gallery": [],
+              "_mask_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "876be1a",
+            "elType": "widget",
+            "settings": {
+              "editor": "<p style='text-align: center;'>Our structured six-step process ensures clear communication, on-time delivery, and websites that meet your objectives.</p>",
+              "pa_condition_repeater": [],
+              "premium_tooltip_icon": {
+                "value": "fas fa-star",
+                "library": "fa-solid"
+              },
+              "premium_tooltip_container_bg_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_slideshow_gallery": [],
+              "_background_hover_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_hover_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_hover_slideshow_gallery": [],
+              "_mask_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              }
+            },
+            "elements": [],
+            "widgetType": "text-editor"
+          },
+          {
+            "id": "6491447f",
+            "elType": "widget",
+            "settings": {
+              "tabs": [
+                {
+                  "tab_title": "1. Discovery",
+                  "tab_content": "<h3>Discovery and Planning</h3><div class='elementor-image-placeholder' style='background: #f1f5f9; height: 200px; margin: 20px 0; display: flex; align-items: center; justify-content: center; border: 2px dashed #cbd5e1;'>[IMAGE WIDGET PLACEHOLDER]</div><p>Every successful website starts with thorough planning. We begin by learning about your business, your target customers, and your specific goals for the website. We deliver a detailed project plan that outlines deliverables, timelines, and milestones.</p>",
+                  "_id": ""
+                },
+                {
+                  "tab_title": "2. UI/UX",
+                  "tab_content": "<h3>UI/UX Design</h3><div class='elementor-image-placeholder' style='background: #f1f5f9; height: 200px; margin: 20px 0; display: flex; align-items: center; justify-content: center; border: 2px dashed #cbd5e1;'>[IMAGE WIDGET PLACEHOLDER]</div><p>Our designers create wireframes and high-fidelity mockups. This includes colour schemes aligned with your brand identity, typography, and imagery. For bilingual sites, we create separate designs for Arabic and English versions.</p>",
+                  "_id": ""
+                },
+                {
+                  "tab_title": "3. Development",
+                  "tab_content": "<h3>Development and Integration</h3><div class='elementor-image-placeholder' style='background: #f1f5f9; height: 200px; margin: 20px 0; display: flex; align-items: center; justify-content: center; border: 2px dashed #cbd5e1;'>[IMAGE WIDGET PLACEHOLDER]</div><p>We build the functional website using modern frameworks like React, Vue.js, and Laravel. We connect your website to existing tools like ERP, CRM, and marketing automation platforms.</p>",
+                  "_id": ""
+                },
+                {
+                  "tab_title": "4. QA",
+                  "tab_content": "<h3>Testing and Quality Assurance</h3><div class='elementor-image-placeholder' style='background: #f1f5f9; height: 200px; margin: 20px 0; display: flex; align-items: center; justify-content: center; border: 2px dashed #cbd5e1;'>[IMAGE WIDGET PLACEHOLDER]</div><p>Rigorous testing across functionality, performance, and security. We confirm cross-browser compatibility and cross-device display, including complete transaction testing for e-commerce sites.</p>",
+                  "_id": ""
+                },
+                {
+                  "tab_title": "5. Launch",
+                  "tab_content": "<h3>Deployment and Launch</h3><div class='elementor-image-placeholder' style='background: #f1f5f9; height: 200px; margin: 20px 0; display: flex; align-items: center; justify-content: center; border: 2px dashed #cbd5e1;'>[IMAGE WIDGET PLACEHOLDER]</div><p>Deploying to your hosting environment with SSL, domain configuration, and performance optimization. We monitor the site closely post-launch and perform initial SEO setup.</p>",
+                  "_id": ""
+                },
+                {
+                  "tab_title": "6. Support",
+                  "tab_content": "<h3>Ongoing Support</h3><div class='elementor-image-placeholder' style='background: #f1f5f9; height: 200px; margin: 20px 0; display: flex; align-items: center; justify-content: center; border: 2px dashed #cbd5e1;'>[IMAGE WIDGET PLACEHOLDER]</div><p>Applying security patches, updating plugins, monitoring uptime, and making content updates. Our maintenance packages are flexible to fit your specific technical needs.</p>",
+                  "_id": ""
+                }
+              ],
+              "type": "horizontal",
+              "pa_condition_repeater": [],
+              "premium_tooltip_icon": {
+                "value": "fas fa-star",
+                "library": "fa-solid"
+              },
+              "premium_tooltip_container_bg_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_slideshow_gallery": [],
+              "_background_hover_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_hover_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_hover_slideshow_gallery": [],
+              "_mask_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              }
+            },
+            "elements": [],
+            "widgetType": "tabs"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]

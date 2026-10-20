@@ -1,0 +1,2551 @@
+{
+  "id": "R-c68b641619de5fdc",
+  "path": "/content-framework-template-2026/",
+  "locale": "en",
+  "family": "article",
+  "nodes": [
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "A content framework template is a reusable structure that maps your entire content process, from idea to publish, in one place. It defines the stages, owners, formats, channels, and deadlines so your team stops planning from scratch every cycle. The fastest setup uses a Kanban board for workflow, a calendar for scheduling, and a few custom fields for tracking. Pick a ready-made template from your project tool, adapt three to five columns to match your real stages, then start dropping ideas in. You can be live in under 30 minutes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "What Is a Content Framework Template?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "img",
+          "attributes": {
+            "src": "/wp-content/uploads/2026/03/content-framework-template-what-is-it.png.png",
+            "alt": "What is a Content Framework Template infographic showing content planning workflow from idea to publish",
+            "width": "1254",
+            "height": "1254",
+            "srcset": "/wp-content/uploads/2026/03/content-framework-template-what-is-it.png.png 1254w, /wp-content/uploads/2026/03/content-framework-template-what-is-it.png-300x300.png 300w, /wp-content/uploads/2026/03/content-framework-template-what-is-it.png-1024x1024.png 1024w, /wp-content/uploads/2026/03/content-framework-template-what-is-it.png-150x150.png 150w, /wp-content/uploads/2026/03/content-framework-template-what-is-it.png-768x768.png 768w, /wp-content/uploads/2026/03/content-framework-template-what-is-it.png-12x12.png 12w, /wp-content/uploads/2026/03/content-framework-template-what-is-it.png-260x260.png 260w",
+            "sizes": "(max-width: 1254px) 100vw, 1254px"
+          },
+          "variant": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "A content framework template is the skeleton your content lives on. Instead of treating every blog post, video, or social campaign as a one off, you build a repeatable system that handles all of them the same way."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "Think of it as the difference between cooking without a recipe and cooking with one you have refined over time. The framework holds the steps, the roles, and the timing. Your team just fills in the topic and runs the play. That repetition is what makes content production fast and consistent rather than reactive and chaotic."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "A good framework template usually answers five questions for every piece of content:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "ul",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "What is it (topic, format, angle)?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Who owns it (writer, editor, designer)?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Where does it go (blog, email, YouTube, social)?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "What stage is it in (idea, drafting, review, scheduled, live)?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "When does it ship (publish date)?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "When those answers are baked into a template, planning becomes a matter of filling slots instead of inventing process every week."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Why Your Team Needs One"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "Many marketers say their biggest content headache is managing the sheer volume of material across formats and channels. A framework template solves that in a few concrete ways."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "It creates structure."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " You move from random posting driven by whatever idea showed up that morning to a deliberate schedule. Consistency builds audience trust and makes results easier to measure."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "It saves time."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " Planning a month or two ahead removes the daily scramble to invent ideas under pressure. The mental load of “what do we post today” disappears because the next three weeks are already mapped."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "It improves quality."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " When writers and designers have lead time instead of last minute briefs, the work gets better. A framework also surfaces accidental topic repeats before they happen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "It strengthens collaboration."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " A shared template lets everyone see what is in progress, what is next, and who is responsible. Approvals move faster because nothing hides in someone’s inbox."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "It reduces waste."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " Disorganized workflows quietly cost money through duplicate work, missed deadlines, and rushed approvals. A clear template assigns tasks and timelines up front so those costs never show up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Core Components of a Content Framework"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "img",
+          "attributes": {
+            "src": "/wp-content/uploads/2026/03/content-framework-template-components.png.png",
+            "alt": "What should a content framework template include diagram showing workflow stages owners channels assets and publish dates",
+            "width": "1254",
+            "height": "1254",
+            "srcset": "/wp-content/uploads/2026/03/content-framework-template-components.png.png 1254w, /wp-content/uploads/2026/03/content-framework-template-components.png-300x300.png 300w, /wp-content/uploads/2026/03/content-framework-template-components.png-1024x1024.png 1024w, /wp-content/uploads/2026/03/content-framework-template-components.png-150x150.png 150w, /wp-content/uploads/2026/03/content-framework-template-components.png-768x768.png 768w, /wp-content/uploads/2026/03/content-framework-template-components.png-12x12.png 12w, /wp-content/uploads/2026/03/content-framework-template-components.png-260x260.png 260w",
+            "sizes": "(max-width: 1254px) 100vw, 1254px"
+          },
+          "variant": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "Before you pick a tool, know what the framework itself needs to contain. These are the building blocks that show up in almost every effective setup."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "ol",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "b",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Workflow stages."
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": " The columns or statuses a piece moves through. Keep them honest to how your team actually works, such as Ideas, Drafting, Editing, Design, Scheduled, Published."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "b",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Owners."
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": " A named person for each task and ideally each subtask, so accountability is never vague."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "b",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Content type and channel."
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": " Tags or fields that mark whether something is a blog, a reel, a newsletter, or a short video, and where it will live."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "b",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Briefs and assets."
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": " A consistent spot for the brief link, references, and final files so no one hunts through chat history."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "b",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Publish date."
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": " Every item needs a date. This is what powers the calendar view and keeps the schedule real."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "b",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Priority and performance."
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": " Optional but valuable: a priority label and a place to log results after publishing."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "Get these six right, and the tool you choose almost does not matter. Skip them, and even the best software will not save you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Types of Content Framework Templates"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "Different work calls for different layouts. Most teams end up using a mix of these three."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Kanban Board Framework"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "A Kanban board is the workhorse for production. Each column is a stage, and each card is a content piece that moves left to right as it progresses. This is the most flexible format and it scales from a solo creator to a full editorial team."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "Use a board when you want to see exactly where everything stands at a glance. For a blog, columns might run Ideas, To Do, Writing, Editing, Design, Layout, Published. For social media, you can trim it down to Ideas, In Progress, Ready, Published because one person often handles the whole piece. For YouTube, swap in Script, Filming, Editing, and add a column for cutting longs into shorts if that is part of your routine."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "Break each card into subtasks like “prepare brief” or “contact expert” so big jobs do not feel like one overwhelming block."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Calendar Framework"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "A calendar is the simplest way to see your publishing rhythm. Each day shows the topic going out, and you can scan a full month in seconds. This format is ideal for spotting gaps, balancing timely and evergreen content, and sharing a clean overview with stakeholders who do not need the production detail."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "A calendar works beautifully alongside a board: the board runs production, the calendar shows distribution. Many tools let you toggle between the two from the same data, so a publish date set on a card automatically appears on the calendar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "You can also build an editorial events calendar this way. List your holidays, seasonal moments, and recurring dates once, set them to repeat annually, and you have a planning backbone you reuse for years."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Spreadsheet or List Framework"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "A spreadsheet-style framework shines when you need to prioritise topics with data. You add columns for the angle, target reader, content type, goal, and a scoring system that weighs benefit against effort. The total score tells you which ideas are worth pursuing first, which removes a lot of subjective debate from planning meetings."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "This format is also the fastest way to do a bulk brain dump. List 40 ideas in a few minutes, then sort and promote the best ones into your production board."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Relational Database Framework"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "For teams running many platforms at once, a connected database links related records and supports automation. You can group posts by channel, attach assets, and trigger actions automatically, for example, pushing a post live when its status flips to “Posted.” This is overkill for a small blog but a strong fit for a fast-moving multi-platform social team."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "How to Build a Content Framework Fast"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "img",
+          "attributes": {
+            "src": "/wp-content/uploads/2026/03/how-to-create-content-framework-template.png.png",
+            "alt": "How to create a content framework template step by step process chart with goals workflow owners and performance tracking",
+            "width": "1254",
+            "height": "1254",
+            "srcset": "/wp-content/uploads/2026/03/how-to-create-content-framework-template.png.png 1254w, /wp-content/uploads/2026/03/how-to-create-content-framework-template.png-300x300.png 300w, /wp-content/uploads/2026/03/how-to-create-content-framework-template.png-1024x1024.png 1024w, /wp-content/uploads/2026/03/how-to-create-content-framework-template.png-150x150.png 150w, /wp-content/uploads/2026/03/how-to-create-content-framework-template.png-768x768.png 768w, /wp-content/uploads/2026/03/how-to-create-content-framework-template.png-12x12.png 12w, /wp-content/uploads/2026/03/how-to-create-content-framework-template.png-260x260.png 260w",
+            "sizes": "(max-width: 1254px) 100vw, 1254px"
+          },
+          "variant": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "You do not need a week of setup. Here is a 30 minute path to a working framework."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "ol",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "b",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Define one goal and your main themes."
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": " Write down what your content is for (leads, education, authority) and three to five recurring topics. This keeps the framework focused."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "b",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Pick your formats and channels."
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": " Decide where you are publishing and in what formats. Do not boil the ocean. Start with the two or three channels you can actually sustain."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "b",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Set your workflow stages."
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": " Open a Kanban template and rename the columns to match how work really flows on your team. Three to six stages is the sweet spot."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "b",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Add a handful of fields."
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": " Owner, content type, channel, brief link, and publish date cover most needs. Resist the urge to add fifteen fields you will never fill in."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "b",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Schedule with a calendar view."
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": " Assign publish dates and switch to the calendar to see the month. Adjust until the cadence feels realistic."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "b",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Plan performance tracking."
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": " Add a field or column for your key metric, whether that is traffic, engagement, or conversions, so you close the loop after each piece ships."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "Start dropping real ideas in as you build. A framework with ten live tasks is more useful than a perfect empty one."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "How to Choose the Right Template"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "The best template is the one your team will actually use. Weigh these factors before committing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "ul",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "b",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Workflow fit."
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": " Match the format to how you already think, whether that is a calendar, a list, or a board. A natural fit lowers the learning curve and speeds adoption."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "b",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Tool integration."
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": " Choose something that connects to your existing publishing and project tools so updates stay in sync without manual copying."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "b",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Scalability."
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": " Make sure it can grow with your output and headcount, so you are not rebuilding the system in six months."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "b",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Customization."
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": " You need to adjust fields, statuses, and categories to fit your content types and approval steps. A rigid template fails the moment your process changes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "b",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Collaboration."
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": " Look for comments, file sharing, and real time updates. These keep feedback fast and everyone aligned on priorities."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Common Mistakes to Avoid"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "Even a solid template can fail in practice. Watch for these traps."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "ul",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "b",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Too many stages."
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": " A board with twelve columns looks thorough, but no one updates it. Keep stages tight."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "b",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Vague ownership."
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": " “The team” is not an owner. Name a person for every task."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "b",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "No publish dates."
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": " Without dates, your calendar is empty, and your schedule is fiction."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "b",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Over-engineering on day one."
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": " Build the simple version, run it for two weeks, then add complexity only where you feel real friction."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "b",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Treating it as set and forget."
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": " Review the framework monthly. Drop fields you never use and add the ones you keep wishing for."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Frequently Asked Questions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "What should a content framework template include?"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " At minimum, it should include workflow stages, an owner for each task, content type and channel tags, a brief or asset location, and a publish date. Adding a priority label and a performance field rounds it out so you can both plan and measure."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "What is the fastest way to start?"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " Open a ready-made Kanban or calendar template in your project tool, rename three to five columns to match your real stages, add owner and publish date fields, and begin entering ideas. Most teams can have a usable framework running in under half an hour."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Is a content framework the same as a content calendar?"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " No. A calendar shows when content publishes. A framework is the broader system that also covers stages, owners, formats, and assets. The calendar is one view inside the larger framework."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Should I use a template or build my own from scratch?"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " Start with a template and customise it. Building from scratch gives total control but adds setup time and can slow you down. A ready-made structure gets you moving today, and you can reshape it as your needs become clear."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Which format works best for a small team?"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " A single Kanban board with a calendar view usually covers everything a small team needs. It is simple, visual, and flexible enough to handle blogs, social, and email without separate systems."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Final Word"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "A content framework template turns content production from a weekly improvisation into a repeatable system. Define your stages, name your owners, set your dates, and let a Kanban board plus a calendar do the heavy lifting. Start small, keep it honest to how you really work, and refine it as you go. The payoff is faster planning, smoother collaboration, and content that ships on time without the last minute panic."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    }
+  ],
+  "article": {
+    "excerpt": "A content framework template is a reusable structure that maps your entire content process, from idea to publish, in one place. It defines the stages, owners, formats, channels, and deadlines so your team stops planning from scratch every cycle. The fastest setup uses a Kanban board for workflow, a calendar for scheduling, and a few …",
+    "dateLabel": "March 17, 2026",
+    "category": {
+      "label": "Content Marketing",
+      "href": "/category/digital-marketing-strategy/content-marketing/"
+    },
+    "additionalCategories": [],
+    "featured": {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/03/content-frame-work-blog-image.png",
+      "alt": "",
+      "width": 1717,
+      "height": 916,
+      "variants": [
+        {
+          "src": "/wp-content/uploads/2026/03/content-frame-work-blog-image.png",
+          "width": 1717
+        },
+        {
+          "src": "/wp-content/uploads/2026/03/content-frame-work-blog-image-300x160.png",
+          "width": 300
+        },
+        {
+          "src": "/wp-content/uploads/2026/03/content-frame-work-blog-image-1024x546.png",
+          "width": 1024
+        },
+        {
+          "src": "/wp-content/uploads/2026/03/content-frame-work-blog-image-768x410.png",
+          "width": 768
+        },
+        {
+          "src": "/wp-content/uploads/2026/03/content-frame-work-blog-image-1536x819.png",
+          "width": 1536
+        },
+        {
+          "src": "/wp-content/uploads/2026/03/content-frame-work-blog-image-18x10.png",
+          "width": 18
+        },
+        {
+          "src": "/wp-content/uploads/2026/03/content-frame-work-blog-image-562x300.png",
+          "width": 562
+        }
+      ],
+      "sizes": "(max-width: 1717px) 100vw, 1717px"
+    },
+    "adjacent": [
+      {
+        "label": "Previous Post",
+        "title": "Content Marketing Ideas for Saudi Businesses in 2026",
+        "href": "/content-marketing-ideas-for-saudi-businesses/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/03/content-marketing-blog-image.jpg-2-150x150.jpeg",
+          "alt": "content-marketing-blog-image.",
+          "width": 150,
+          "height": 150,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/03/content-marketing-blog-image.jpg-2-150x150.jpeg",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2026/03/content-marketing-blog-image.jpg-2-260x260.jpeg",
+              "width": 260
+            }
+          ],
+          "sizes": "(max-width: 150px) 100vw, 150px"
+        }
+      },
+      {
+        "label": "Next Post",
+        "title": "EDM Marketing for Saudi Businesses: A Practical KSA Guide",
+        "href": "/edm-marketing-for-saudi-businesses/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/03/EDM-marketing-blog-1.jpg-1-1-150x150.jpeg",
+          "alt": "EDM marketing",
+          "width": 150,
+          "height": 150,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/03/EDM-marketing-blog-1.jpg-1-1-150x150.jpeg",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2026/03/EDM-marketing-blog-1.jpg-1-1-260x260.jpeg",
+              "width": 260
+            }
+          ],
+          "sizes": "(max-width: 150px) 100vw, 150px"
+        }
+      }
+    ],
+    "related": [
+      {
+        "title": "Social Media Marketing Cost in Saudi Arabia (2026 Guide)",
+        "href": "/social-media-marketing-cost-in-saudi-arabia/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2025/10/71-posts-placeholder-300x300.webp",
+          "alt": "",
+          "width": 300,
+          "height": 300,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-300x300.webp",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-100x100.webp",
+              "width": 100
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-600x600.webp",
+              "width": 600
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-150x150.webp",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-260x260.webp",
+              "width": 260
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder.webp",
+              "width": 768
+            }
+          ],
+          "sizes": "(max-width: 300px) 100vw, 300px"
+        },
+        "category": {
+          "label": "Digital Marketing Strategy & Fundamentals",
+          "href": "/category/digital-marketing-strategy/"
+        },
+        "dateLabel": "September 21, 2026",
+        "actionLabel": "Read More"
+      },
+      {
+        "title": "كيف يساعد الذكاء الاصطناعي الشركات في السعودية 2026 | نالك سوليوشنز",
+        "href": "/how-ai-helps-companies-in-saudi-arabia/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-300x200.jpeg",
+          "alt": "كيف يساعد الذكاء الاصطناعي الشركات في السعودية 2026 | نالك سوليوشنز",
+          "width": 300,
+          "height": 200,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-300x200.jpeg",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-1024x683.jpeg",
+              "width": 1024
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-768x512.jpeg",
+              "width": 768
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-18x12.jpeg",
+              "width": 18
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-450x300.jpeg",
+              "width": 450
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg.jpeg",
+              "width": 1536
+            }
+          ],
+          "sizes": "(max-width: 300px) 100vw, 300px"
+        },
+        "category": {
+          "label": "Custom Software & Apps",
+          "href": "/category/custom-software-apps/"
+        },
+        "dateLabel": "September 2, 2026",
+        "actionLabel": "Read More"
+      },
+      {
+        "title": "التسويق عبر سناب شات وتيك توك للشركات السعودية: الدليل الكامل 2026",
+        "href": "/snapchat-tiktok-marketing-saudi-businesses/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/08/blog-two-300x200.png",
+          "alt": "التسويق عبر سناب شات وتيك توك للشركات السعودية: الدليل الكامل 2026",
+          "width": 300,
+          "height": 200,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-300x200.png",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-1024x683.png",
+              "width": 1024
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-768x512.png",
+              "width": 768
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-18x12.png",
+              "width": 18
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-450x300.png",
+              "width": 450
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two.png",
+              "width": 1536
+            }
+          ],
+          "sizes": "(max-width: 300px) 100vw, 300px"
+        },
+        "category": {
+          "label": "Digital Marketing Strategy & Fundamentals",
+          "href": "/category/digital-marketing-strategy/"
+        },
+        "dateLabel": "August 26, 2026",
+        "actionLabel": "Read More"
+      }
+    ],
+    "footer": {
+      "owner": "NALK SOLUTIONS pvt Ltd",
+      "notice": "© 2026 - All Rights Reserved"
+    }
+  }
+}

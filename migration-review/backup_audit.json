@@ -1,0 +1,2253 @@
+{
+  "audited_at": "2026-10-15T12:16:00.368862+00:00",
+  "backup_directory": "nalksolutions.com_wordpress_backup",
+  "files": [
+    {
+      "file": "acf-export-2026-10-15.json",
+      "bytes": 15649,
+      "sha256": "8030de7073213214833bee26b7e9ec2f81cc0ef9bc7b30be3a5b153d0e422128"
+    },
+    {
+      "file": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-db.gz",
+      "bytes": 10442058,
+      "sha256": "8c6d92ea0a190810a14ae565c05f5b6984841e6fd825aaeeb6d3761922005d83"
+    },
+    {
+      "file": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-mu-plugins.zip",
+      "bytes": 11464,
+      "sha256": "c3ac2b19699f0ff1ea9354e380765fd1ed8bd9644e9fb82a000e68adc776e2ed"
+    },
+    {
+      "file": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-others.zip",
+      "bytes": 3563223,
+      "sha256": "24b0a8e73ff5bb2092243c53adaacd1279f1fbcd0e3c15d0921a0289e9aae288"
+    },
+    {
+      "file": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-plugins.zip",
+      "bytes": 131053335,
+      "sha256": "bb2d8832bc08e2b0330b5f34178329f4f92b0664c7fdae4a3ff4511b15f58edd"
+    },
+    {
+      "file": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-themes.zip",
+      "bytes": 16044215,
+      "sha256": "28c5fdf1da3640b415eb22e7959a4d173a4c22654a210cbda5aa22405d6443fb"
+    },
+    {
+      "file": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "bytes": 411118999,
+      "sha256": "30b8d612c09bd605d04e2f5f570ec535eba8161167696a1cec3b06b56af8e4ed"
+    },
+    {
+      "file": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads2.zip",
+      "bytes": 400993615,
+      "sha256": "b8d02d4e2ab2bd23e789eb0f7cbadb811454bbc7757c9f2ccd1f691e506fa34a"
+    },
+    {
+      "file": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads3.zip",
+      "bytes": 412097642,
+      "sha256": "c564aca00f847cc1992cd17fd96ccbe6fb16dc4f06054046f6dbfdd1901e44c8"
+    },
+    {
+      "file": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads4.zip",
+      "bytes": 320517759,
+      "sha256": "bcc62a9a71e0609ccb63a326407be142e5a94e7c9bfbac8064c9c5d70847319d"
+    },
+    {
+      "file": "CPTUI-Export-Post-Types.txt",
+      "bytes": 4242,
+      "sha256": "5603f8f6a9377164284c141b83ba0913690dd89ee7b1efaecb709778fd8f5d83"
+    },
+    {
+      "file": "CPTUI-Export-Taxonomy-Settings.txt",
+      "bytes": 2282,
+      "sha256": "cbd5fb71d07c7b017bb62fbc4a8d976d443b71cf37c1aaa101286e33f1c2abc6"
+    },
+    {
+      "file": "Nalk Solutions Wordpress Website..zip",
+      "bytes": 540060,
+      "sha256": "3b173d942cdee75a89c697ac359e43e234ecf56229c6287a66bd67280cdc0a98"
+    },
+    {
+      "file": "nalksolutions.WordPress.2026-10-15.xml",
+      "bytes": 9026337,
+      "sha256": "6ca2e7cc5451739805b728edcc6d02ed9ff1d41fc4db836f92c8f649246d1f6c"
+    },
+    {
+      "file": "rank-math-settings-2026-10-15T09-11-57-154Z.json",
+      "bytes": 30852,
+      "sha256": "7f9d7d3e2f85db6ff9371dae4b27599efc511676daa41ce1910e69e4fcf6c890"
+    },
+    {
+      "file": "site-kit-nalk-solutions-last-28-days-2026-10-15.pdf",
+      "bytes": 519291,
+      "sha256": "492dad1dd94236d4942fd3baec6a2951295c7b17dc612049749045d1fc9f3403"
+    }
+  ],
+  "archives": [
+    {
+      "file": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-mu-plugins.zip",
+      "file_count": 3,
+      "uncompressed_bytes": 43312,
+      "crc_integrity": "passed",
+      "first_bad_entry": null,
+      "top_directories": {
+        "mu-plugins": 3
+      }
+    },
+    {
+      "file": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-others.zip",
+      "file_count": 466,
+      "uncompressed_bytes": 15696754,
+      "crc_integrity": "passed",
+      "first_bad_entry": null,
+      "top_directories": {
+        "jetpack-waf": 5,
+        "wp-rocket-config": 5,
+        "index.php": 1,
+        "novamira-sandbox": 3,
+        "litespeed": 3,
+        "languages": 448,
+        "advanced-cache.php": 1
+      }
+    },
+    {
+      "file": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-plugins.zip",
+      "file_count": 23337,
+      "uncompressed_bytes": 435012098,
+      "crc_integrity": "passed",
+      "first_bad_entry": null,
+      "top_directories": {
+        "plugins": 23337
+      }
+    },
+    {
+      "file": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-themes.zip",
+      "file_count": 736,
+      "uncompressed_bytes": 27632110,
+      "crc_integrity": "passed",
+      "first_bad_entry": null,
+      "top_directories": {
+        "themes": 736
+      }
+    },
+    {
+      "file": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "file_count": 3106,
+      "uncompressed_bytes": 419145084,
+      "crc_integrity": "passed",
+      "first_bad_entry": null,
+      "top_directories": {
+        "uploads": 3106
+      }
+    },
+    {
+      "file": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads2.zip",
+      "file_count": 441,
+      "uncompressed_bytes": 400900875,
+      "crc_integrity": "passed",
+      "first_bad_entry": null,
+      "top_directories": {
+        "uploads": 441
+      }
+    },
+    {
+      "file": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads3.zip",
+      "file_count": 374,
+      "uncompressed_bytes": 412028776,
+      "crc_integrity": "passed",
+      "first_bad_entry": null,
+      "top_directories": {
+        "uploads": 374
+      }
+    },
+    {
+      "file": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads4.zip",
+      "file_count": 313,
+      "uncompressed_bytes": 320640279,
+      "crc_integrity": "passed",
+      "first_bad_entry": null,
+      "top_directories": {
+        "uploads": 313
+      }
+    },
+    {
+      "file": "Nalk Solutions Wordpress Website..zip",
+      "file_count": 73,
+      "uncompressed_bytes": 2786225,
+      "crc_integrity": "passed",
+      "first_bad_entry": null,
+      "top_directories": {
+        "site-settings.json": 1,
+        "taxonomies": 3,
+        "content": 62,
+        "wp-content": 6,
+        "manifest.json": 1
+      }
+    }
+  ],
+  "limitations": [
+    "Archive CRC and gzip checks do not prove a successful WordPress restore.",
+    "The database is parsed read-only; PHP and SQL are never executed.",
+    "No hosting control-panel, DNS, mailbox, wp-config.php or server-root backup is assumed."
+  ],
+  "database": {
+    "gzip_integrity": "passed",
+    "table_count": 102,
+    "tables": {
+      "wp_options": [
+        "option_id",
+        "option_name",
+        "option_value",
+        "autoload"
+      ],
+      "wp_users": [
+        "ID",
+        "user_login",
+        "user_pass",
+        "user_nicename",
+        "user_email",
+        "user_url",
+        "user_registered",
+        "user_activation_key",
+        "user_status",
+        "display_name"
+      ],
+      "wp_usermeta": [
+        "umeta_id",
+        "user_id",
+        "meta_key",
+        "meta_value"
+      ],
+      "wp_actionscheduler_actions": [
+        "action_id",
+        "hook",
+        "status",
+        "scheduled_date_gmt",
+        "scheduled_date_local",
+        "priority",
+        "args",
+        "schedule",
+        "group_id",
+        "attempts",
+        "last_attempt_gmt",
+        "last_attempt_local",
+        "claim_id",
+        "extended_args"
+      ],
+      "wp_actionscheduler_claims": [
+        "claim_id",
+        "date_created_gmt"
+      ],
+      "wp_actionscheduler_groups": [
+        "group_id",
+        "slug"
+      ],
+      "wp_actionscheduler_logs": [
+        "log_id",
+        "action_id",
+        "message",
+        "log_date_gmt",
+        "log_date_local"
+      ],
+      "wp_commentmeta": [
+        "meta_id",
+        "comment_id",
+        "meta_key",
+        "meta_value"
+      ],
+      "wp_comments": [
+        "comment_ID",
+        "comment_post_ID",
+        "comment_author",
+        "comment_author_email",
+        "comment_author_url",
+        "comment_author_IP",
+        "comment_date",
+        "comment_date_gmt",
+        "comment_content",
+        "comment_karma",
+        "comment_approved",
+        "comment_agent",
+        "comment_type",
+        "comment_parent",
+        "user_id"
+      ],
+      "wp_links": [
+        "link_id",
+        "link_url",
+        "link_name",
+        "link_image",
+        "link_target",
+        "link_description",
+        "link_visible",
+        "link_owner",
+        "link_rating",
+        "link_updated",
+        "link_rel",
+        "link_notes",
+        "link_rss"
+      ],
+      "wp_postmeta": [
+        "meta_id",
+        "post_id",
+        "meta_key",
+        "meta_value"
+      ],
+      "wp_posts": [
+        "ID",
+        "post_author",
+        "post_date",
+        "post_date_gmt",
+        "post_content",
+        "post_title",
+        "post_excerpt",
+        "post_status",
+        "comment_status",
+        "ping_status",
+        "post_password",
+        "post_name",
+        "to_ping",
+        "pinged",
+        "post_modified",
+        "post_modified_gmt",
+        "post_content_filtered",
+        "post_parent",
+        "guid",
+        "menu_order",
+        "post_type",
+        "post_mime_type",
+        "comment_count"
+      ],
+      "wp_term_relationships": [
+        "object_id",
+        "term_taxonomy_id",
+        "term_order"
+      ],
+      "wp_term_taxonomy": [
+        "term_taxonomy_id",
+        "term_id",
+        "taxonomy",
+        "description",
+        "parent",
+        "count"
+      ],
+      "wp_termmeta": [
+        "meta_id",
+        "term_id",
+        "meta_key",
+        "meta_value"
+      ],
+      "wp_terms": [
+        "term_id",
+        "name",
+        "slug",
+        "term_group"
+      ],
+      "wp_wpr_above_the_fold": [
+        "id",
+        "url",
+        "is_mobile",
+        "lcp",
+        "viewport",
+        "error_message",
+        "status",
+        "modified",
+        "last_accessed"
+      ],
+      "wp_wpr_lazy_render_content": [
+        "id",
+        "url",
+        "is_mobile",
+        "below_the_fold",
+        "error_message",
+        "status",
+        "modified",
+        "last_accessed",
+        "created_at"
+      ],
+      "wp_wpr_performance_monitoring": [
+        "id",
+        "url",
+        "title",
+        "is_mobile",
+        "job_id",
+        "queue_name",
+        "retries",
+        "status",
+        "data",
+        "modified",
+        "last_accessed",
+        "submitted_at",
+        "next_retry_time",
+        "score",
+        "report_url",
+        "is_blurred",
+        "error_code",
+        "error_message"
+      ],
+      "wp_wpr_preconnect_external_domains": [
+        "id",
+        "url",
+        "is_mobile",
+        "domains",
+        "error_message",
+        "status",
+        "modified",
+        "last_accessed",
+        "created_at"
+      ],
+      "wp_wpr_preload_fonts": [
+        "id",
+        "url",
+        "is_mobile",
+        "fonts",
+        "error_message",
+        "status",
+        "modified",
+        "last_accessed",
+        "created_at"
+      ],
+      "wp_wpr_rocket_cache": [
+        "id",
+        "url",
+        "status",
+        "modified",
+        "last_accessed",
+        "is_locked"
+      ],
+      "wp_wpr_rucss_used_css": [
+        "id",
+        "url",
+        "css",
+        "hash",
+        "error_code",
+        "error_message",
+        "unprocessedcss",
+        "retries",
+        "is_mobile",
+        "job_id",
+        "queue_name",
+        "status",
+        "modified",
+        "last_accessed",
+        "submitted_at",
+        "next_retry_time"
+      ],
+      "wp_e_events": [
+        "id",
+        "event_data",
+        "created_at"
+      ],
+      "wp_frmt_form_entry": [
+        "entry_id",
+        "entry_type",
+        "draft_id",
+        "form_id",
+        "is_spam",
+        "date_created",
+        "status",
+        "custom_id",
+        "custom_prefix",
+        "date_updated"
+      ],
+      "wp_frmt_form_entry_meta": [
+        "meta_id",
+        "entry_id",
+        "meta_key",
+        "meta_value",
+        "date_created",
+        "date_updated"
+      ],
+      "wp_frmt_form_reports": [
+        "report_id",
+        "report_value",
+        "status",
+        "date_created",
+        "date_updated"
+      ],
+      "wp_frmt_form_views": [
+        "view_id",
+        "form_id",
+        "page_id",
+        "ip",
+        "count",
+        "date_created",
+        "date_updated"
+      ],
+      "wp_hostinger_reach_carts": [
+        "hash",
+        "customer_id",
+        "customer_email",
+        "items",
+        "totals",
+        "currency",
+        "status",
+        "updated_at"
+      ],
+      "wp_hostinger_reach_contact_lists": [
+        "id",
+        "name"
+      ],
+      "wp_hostinger_reach_forms": [
+        "id",
+        "form_id",
+        "post_id",
+        "contact_list_id",
+        "type",
+        "is_active",
+        "submissions",
+        "form_title"
+      ],
+      "wp_jetpack_sync_queue": [
+        "ID",
+        "queue_id",
+        "event_id",
+        "event_payload",
+        "timestamp"
+      ],
+      "wp_novamira_chat_sessions": [
+        "id",
+        "user_id",
+        "created_at",
+        "updated_at",
+        "data"
+      ],
+      "wp_novamira_oauth_access_tokens": [
+        "identifier_hash",
+        "client_id",
+        "user_id",
+        "expires_at",
+        "scopes",
+        "revoked"
+      ],
+      "wp_novamira_oauth_auth_codes": [
+        "identifier_hash",
+        "client_id",
+        "user_id",
+        "expires_at",
+        "scopes",
+        "redirect_uri",
+        "revoked"
+      ],
+      "wp_novamira_oauth_clients": [
+        "id",
+        "client_id",
+        "client_name",
+        "redirect_uris",
+        "is_confidential",
+        "client_secret_hash",
+        "created_at",
+        "last_used_at",
+        "registered_by_ip_hash",
+        "admin_created",
+        "grant_types"
+      ],
+      "wp_novamira_oauth_device_codes": [
+        "device_code_hash",
+        "user_code_hash",
+        "client_id",
+        "user_id",
+        "scopes",
+        "status",
+        "expires_at",
+        "last_polled_at"
+      ],
+      "wp_novamira_oauth_pending_authorizations": [
+        "token_hash",
+        "client_id",
+        "user_id",
+        "redirect_uri",
+        "code_challenge",
+        "code_challenge_method",
+        "scope",
+        "state",
+        "expires_at"
+      ],
+      "wp_novamira_oauth_refresh_tokens": [
+        "identifier_hash",
+        "access_token_hash",
+        "expires_at",
+        "revoked"
+      ],
+      "wp_rank_math_internal_links": [
+        "id",
+        "url",
+        "post_id",
+        "target_post_id",
+        "type"
+      ],
+      "wp_rank_math_internal_meta": [
+        "object_id",
+        "internal_link_count",
+        "external_link_count",
+        "incoming_link_count"
+      ],
+      "wp_rank_math_redirections": [
+        "id",
+        "sources",
+        "url_to",
+        "header_code",
+        "hits",
+        "status",
+        "created",
+        "updated",
+        "last_accessed"
+      ],
+      "wp_rank_math_redirections_cache": [
+        "id",
+        "from_url",
+        "redirection_id",
+        "object_id",
+        "object_type",
+        "is_redirected"
+      ],
+      "wp_redirection_404": [
+        "id",
+        "created",
+        "url",
+        "domain",
+        "agent",
+        "referrer",
+        "http_code",
+        "request_method",
+        "request_data",
+        "ip"
+      ],
+      "wp_redirection_groups": [
+        "id",
+        "name",
+        "tracking",
+        "module_id",
+        "status",
+        "position"
+      ],
+      "wp_redirection_items": [
+        "id",
+        "url",
+        "match_url",
+        "match_data",
+        "regex",
+        "position",
+        "last_count",
+        "last_access",
+        "group_id",
+        "status",
+        "action_type",
+        "action_code",
+        "action_data",
+        "match_type",
+        "title"
+      ],
+      "wp_redirection_logs": [
+        "id",
+        "created",
+        "url",
+        "domain",
+        "sent_to",
+        "agent",
+        "referrer",
+        "http_code",
+        "request_method",
+        "request_data",
+        "redirect_by",
+        "redirection_id",
+        "ip"
+      ],
+      "wp_revslider_css": [
+        "id",
+        "handle",
+        "settings",
+        "hover",
+        "advanced",
+        "params"
+      ],
+      "wp_revslider_layer_animations": [
+        "id",
+        "handle",
+        "params",
+        "settings"
+      ],
+      "wp_revslider_navigations": [
+        "id",
+        "name",
+        "handle",
+        "type",
+        "css",
+        "markup",
+        "settings"
+      ],
+      "wp_revslider_sliders": [
+        "id",
+        "title",
+        "alias",
+        "params",
+        "settings",
+        "type"
+      ],
+      "wp_revslider_sliders7": [
+        "id",
+        "title",
+        "alias",
+        "params",
+        "settings",
+        "type"
+      ],
+      "wp_revslider_slides": [
+        "id",
+        "slider_id",
+        "slide_order",
+        "params",
+        "layers",
+        "settings"
+      ],
+      "wp_revslider_slides7": [
+        "id",
+        "slider_id",
+        "slide_order",
+        "params",
+        "layers",
+        "settings",
+        "static"
+      ],
+      "wp_revslider_static_slides": [
+        "id",
+        "slider_id",
+        "params",
+        "layers",
+        "settings"
+      ],
+      "wp_trp_dictionary_en_us_ar": [
+        "id",
+        "original",
+        "translated",
+        "status",
+        "block_type",
+        "original_id"
+      ],
+      "wp_trp_gettext_ar": [
+        "id",
+        "original",
+        "translated",
+        "domain",
+        "status",
+        "original_id",
+        "plural_form"
+      ],
+      "wp_trp_gettext_en_us": [
+        "id",
+        "original",
+        "translated",
+        "domain",
+        "status",
+        "original_id",
+        "plural_form"
+      ],
+      "wp_trp_gettext_original_meta": [
+        "meta_id",
+        "original_id",
+        "meta_key",
+        "meta_value"
+      ],
+      "wp_trp_gettext_original_strings": [
+        "id",
+        "original",
+        "domain",
+        "context",
+        "original_plural"
+      ],
+      "wp_trp_original_meta": [
+        "meta_id",
+        "original_id",
+        "meta_key",
+        "meta_value"
+      ],
+      "wp_trp_original_strings": [
+        "id",
+        "original"
+      ],
+      "wp_wc_admin_note_actions": [
+        "action_id",
+        "note_id",
+        "name",
+        "label",
+        "query",
+        "status",
+        "actioned_text",
+        "nonce_action",
+        "nonce_name"
+      ],
+      "wp_wc_admin_notes": [
+        "note_id",
+        "name",
+        "type",
+        "locale",
+        "title",
+        "content",
+        "content_data",
+        "status",
+        "source",
+        "date_created",
+        "date_reminder",
+        "is_snoozable",
+        "layout",
+        "image",
+        "is_deleted",
+        "is_read",
+        "icon"
+      ],
+      "wp_wc_category_lookup": [
+        "category_tree_id",
+        "category_id"
+      ],
+      "wp_wc_customer_lookup": [
+        "customer_id",
+        "user_id",
+        "username",
+        "first_name",
+        "last_name",
+        "email",
+        "date_last_active",
+        "date_registered",
+        "country",
+        "postcode",
+        "city",
+        "state"
+      ],
+      "wp_wc_download_log": [
+        "download_log_id",
+        "timestamp",
+        "permission_id",
+        "user_id",
+        "user_ip_address"
+      ],
+      "wp_wc_order_addresses": [
+        "id",
+        "order_id",
+        "address_type",
+        "first_name",
+        "last_name",
+        "company",
+        "address_1",
+        "address_2",
+        "city",
+        "state",
+        "postcode",
+        "country",
+        "email",
+        "phone"
+      ],
+      "wp_wc_order_coupon_lookup": [
+        "order_id",
+        "coupon_id",
+        "date_created",
+        "discount_amount"
+      ],
+      "wp_wc_order_operational_data": [
+        "id",
+        "order_id",
+        "created_via",
+        "woocommerce_version",
+        "prices_include_tax",
+        "coupon_usages_are_counted",
+        "download_permission_granted",
+        "cart_hash",
+        "new_order_email_sent",
+        "order_key",
+        "order_stock_reduced",
+        "date_paid_gmt",
+        "date_completed_gmt",
+        "shipping_tax_amount",
+        "shipping_total_amount",
+        "discount_tax_amount",
+        "discount_total_amount",
+        "recorded_sales"
+      ],
+      "wp_wc_order_product_lookup": [
+        "order_item_id",
+        "order_id",
+        "product_id",
+        "variation_id",
+        "customer_id",
+        "date_created",
+        "product_qty",
+        "product_net_revenue",
+        "product_gross_revenue",
+        "coupon_amount",
+        "tax_amount",
+        "shipping_amount",
+        "shipping_tax_amount"
+      ],
+      "wp_wc_order_stats": [
+        "order_id",
+        "parent_id",
+        "date_created",
+        "date_created_gmt",
+        "date_paid",
+        "date_completed",
+        "num_items_sold",
+        "total_sales",
+        "tax_total",
+        "shipping_total",
+        "net_total",
+        "returning_customer",
+        "status",
+        "customer_id"
+      ],
+      "wp_wc_order_tax_lookup": [
+        "order_id",
+        "tax_rate_id",
+        "date_created",
+        "shipping_tax",
+        "order_tax",
+        "total_tax"
+      ],
+      "wp_wc_orders": [
+        "id",
+        "status",
+        "currency",
+        "type",
+        "tax_amount",
+        "total_amount",
+        "customer_id",
+        "billing_email",
+        "date_created_gmt",
+        "date_updated_gmt",
+        "parent_order_id",
+        "payment_method",
+        "payment_method_title",
+        "transaction_id",
+        "ip_address",
+        "user_agent",
+        "customer_note"
+      ],
+      "wp_wc_orders_meta": [
+        "id",
+        "order_id",
+        "meta_key",
+        "meta_value"
+      ],
+      "wp_wc_product_attributes_lookup": [
+        "product_id",
+        "product_or_parent_id",
+        "taxonomy",
+        "term_id",
+        "is_variation_attribute",
+        "in_stock"
+      ],
+      "wp_wc_product_download_directories": [
+        "url_id",
+        "url",
+        "enabled"
+      ],
+      "wp_wc_product_meta_lookup": [
+        "product_id",
+        "sku",
+        "global_unique_id",
+        "virtual",
+        "downloadable",
+        "min_price",
+        "max_price",
+        "onsale",
+        "stock_quantity",
+        "stock_status",
+        "rating_count",
+        "average_rating",
+        "total_sales",
+        "tax_status",
+        "tax_class"
+      ],
+      "wp_wc_rate_limits": [
+        "rate_limit_id",
+        "rate_limit_key",
+        "rate_limit_expiry",
+        "rate_limit_remaining"
+      ],
+      "wp_wc_reserved_stock": [
+        "order_id",
+        "product_id",
+        "stock_quantity",
+        "timestamp",
+        "expires"
+      ],
+      "wp_wc_tax_rate_classes": [
+        "tax_rate_class_id",
+        "name",
+        "slug"
+      ],
+      "wp_wc_webhooks": [
+        "webhook_id",
+        "status",
+        "name",
+        "user_id",
+        "delivery_url",
+        "secret",
+        "topic",
+        "date_created",
+        "date_created_gmt",
+        "date_modified",
+        "date_modified_gmt",
+        "api_version",
+        "failure_count",
+        "pending_delivery"
+      ],
+      "wp_woocommerce_api_keys": [
+        "key_id",
+        "user_id",
+        "description",
+        "permissions",
+        "consumer_key",
+        "consumer_secret",
+        "nonces",
+        "truncated_key",
+        "last_access"
+      ],
+      "wp_woocommerce_attribute_taxonomies": [
+        "attribute_id",
+        "attribute_name",
+        "attribute_label",
+        "attribute_type",
+        "attribute_orderby",
+        "attribute_public"
+      ],
+      "wp_woocommerce_downloadable_product_permissions": [
+        "permission_id",
+        "download_id",
+        "product_id",
+        "order_id",
+        "order_key",
+        "user_email",
+        "user_id",
+        "downloads_remaining",
+        "access_granted",
+        "access_expires",
+        "download_count"
+      ],
+      "wp_woocommerce_log": [
+        "log_id",
+        "timestamp",
+        "level",
+        "source",
+        "message",
+        "context"
+      ],
+      "wp_woocommerce_order_itemmeta": [
+        "meta_id",
+        "order_item_id",
+        "meta_key",
+        "meta_value"
+      ],
+      "wp_woocommerce_order_items": [
+        "order_item_id",
+        "order_item_name",
+        "order_item_type",
+        "order_id"
+      ],
+      "wp_woocommerce_payment_tokenmeta": [
+        "meta_id",
+        "payment_token_id",
+        "meta_key",
+        "meta_value"
+      ],
+      "wp_woocommerce_payment_tokens": [
+        "token_id",
+        "gateway_id",
+        "token",
+        "user_id",
+        "type",
+        "is_default"
+      ],
+      "wp_woocommerce_sessions": [
+        "session_id",
+        "session_key",
+        "session_value",
+        "session_expiry"
+      ],
+      "wp_woocommerce_shipping_zone_locations": [
+        "location_id",
+        "zone_id",
+        "location_code",
+        "location_type"
+      ],
+      "wp_woocommerce_shipping_zone_methods": [
+        "zone_id",
+        "instance_id",
+        "method_id",
+        "method_order",
+        "is_enabled"
+      ],
+      "wp_woocommerce_shipping_zones": [
+        "zone_id",
+        "zone_name",
+        "zone_order"
+      ],
+      "wp_woocommerce_tax_rate_locations": [
+        "location_id",
+        "location_code",
+        "tax_rate_id",
+        "location_type"
+      ],
+      "wp_woocommerce_tax_rates": [
+        "tax_rate_id",
+        "tax_rate_country",
+        "tax_rate_state",
+        "tax_rate",
+        "tax_rate_name",
+        "tax_rate_priority",
+        "tax_rate_compound",
+        "tax_rate_shipping",
+        "tax_rate_order",
+        "tax_rate_class"
+      ],
+      "wp_yoast_indexable": [
+        "id",
+        "permalink",
+        "permalink_hash",
+        "object_id",
+        "object_type",
+        "object_sub_type",
+        "author_id",
+        "post_parent",
+        "title",
+        "description",
+        "breadcrumb_title",
+        "post_status",
+        "is_public",
+        "is_protected",
+        "has_public_posts",
+        "number_of_pages",
+        "canonical",
+        "primary_focus_keyword",
+        "primary_focus_keyword_score",
+        "readability_score",
+        "is_cornerstone",
+        "is_robots_noindex",
+        "is_robots_nofollow",
+        "is_robots_noarchive",
+        "is_robots_noimageindex",
+        "is_robots_nosnippet",
+        "twitter_title",
+        "twitter_image",
+        "twitter_description",
+        "twitter_image_id",
+        "twitter_image_source",
+        "open_graph_title",
+        "open_graph_description",
+        "open_graph_image",
+        "open_graph_image_id",
+        "open_graph_image_source",
+        "open_graph_image_meta",
+        "link_count",
+        "incoming_link_count",
+        "prominent_words_version",
+        "created_at",
+        "updated_at",
+        "blog_id",
+        "language",
+        "region",
+        "schema_page_type",
+        "schema_article_type",
+        "has_ancestors",
+        "estimated_reading_time_minutes",
+        "version",
+        "object_last_modified",
+        "object_published_at",
+        "inclusive_language_score"
+      ],
+      "wp_yoast_indexable_hierarchy": [
+        "indexable_id",
+        "ancestor_id",
+        "depth",
+        "blog_id"
+      ],
+      "wp_yoast_migrations": [
+        "id",
+        "version"
+      ],
+      "wp_yoast_primary_term": [
+        "id",
+        "post_id",
+        "term_id",
+        "taxonomy",
+        "created_at",
+        "updated_at",
+        "blog_id"
+      ],
+      "wp_yoast_prominent_words": [
+        "id",
+        "stem",
+        "indexable_id",
+        "weight"
+      ],
+      "wp_yoast_seo_links": [
+        "id",
+        "url",
+        "post_id",
+        "target_post_id",
+        "type",
+        "indexable_id",
+        "target_indexable_id",
+        "height",
+        "width",
+        "size",
+        "language",
+        "region"
+      ]
+    },
+    "row_counts": {
+      "wp_options": 1039,
+      "wp_users": 1,
+      "wp_usermeta": 129,
+      "wp_actionscheduler_actions": 279,
+      "wp_actionscheduler_claims": 4,
+      "wp_actionscheduler_groups": 14,
+      "wp_actionscheduler_logs": 830,
+      "wp_comments": 21,
+      "wp_postmeta": 12020,
+      "wp_posts": 1851,
+      "wp_term_relationships": 224,
+      "wp_term_taxonomy": 102,
+      "wp_termmeta": 25,
+      "wp_terms": 102,
+      "wp_wpr_above_the_fold": 26,
+      "wp_wpr_lazy_render_content": 26,
+      "wp_wpr_performance_monitoring": 10,
+      "wp_wpr_preconnect_external_domains": 26,
+      "wp_wpr_rocket_cache": 134,
+      "wp_frmt_form_entry": 55,
+      "wp_frmt_form_entry_meta": 362,
+      "wp_frmt_form_reports": 1,
+      "wp_frmt_form_views": 23800,
+      "wp_hostinger_reach_forms": 3,
+      "wp_novamira_oauth_access_tokens": 41,
+      "wp_novamira_oauth_clients": 1,
+      "wp_novamira_oauth_refresh_tokens": 69,
+      "wp_rank_math_internal_links": 680,
+      "wp_rank_math_internal_meta": 125,
+      "wp_rank_math_redirections": 44,
+      "wp_rank_math_redirections_cache": 39,
+      "wp_redirection_groups": 2,
+      "wp_redirection_items": 23,
+      "wp_revslider_css": 109,
+      "wp_trp_dictionary_en_us_ar": 9325,
+      "wp_trp_gettext_ar": 2438,
+      "wp_trp_gettext_en_us": 3346,
+      "wp_trp_gettext_original_strings": 3318,
+      "wp_trp_original_meta": 9222,
+      "wp_trp_original_strings": 8987,
+      "wp_wc_admin_note_actions": 104,
+      "wp_wc_admin_notes": 77,
+      "wp_wc_category_lookup": 3,
+      "wp_wc_product_download_directories": 2,
+      "wp_wc_product_meta_lookup": 21,
+      "wp_wc_tax_rate_classes": 2,
+      "wp_woocommerce_sessions": 1,
+      "wp_yoast_indexable": 105,
+      "wp_yoast_indexable_hierarchy": 103,
+      "wp_yoast_migrations": 27,
+      "wp_yoast_primary_term": 21,
+      "wp_yoast_prominent_words": 20,
+      "wp_yoast_seo_links": 530
+    },
+    "post_counts": {
+      "page:draft": 8,
+      "wp_navigation:publish": 2,
+      "elementor_library:publish": 46,
+      "attachment:inherit": 424,
+      "acf-field-group:publish": 2,
+      "acf-field:publish": 20,
+      "forminator_forms:publish": 3,
+      "forminator_quizzes:publish": 1,
+      "cmsmasters_icons:publish": 1,
+      "revision:inherit": 1140,
+      "cmsms_profile:publish": 6,
+      "page:publish": 40,
+      "product:publish": 6,
+      "services:publish": 9,
+      "projects:publish": 9,
+      "product_variation:publish": 15,
+      "nav_menu_item:publish": 58,
+      "custom_css:publish": 1,
+      "post:publish": 43,
+      "jp_sitemap:draft": 1,
+      "jp_img_sitemap:draft": 1,
+      "jp_vid_sitemap:draft": 1,
+      "jp_sitemap_master:draft": 1,
+      "elementor_library:draft": 1,
+      "language_switcher:publish": 4,
+      "wpcode:draft": 3,
+      "wpcode:publish": 3,
+      "post:draft": 1,
+      "post:auto-draft": 1
+    },
+    "public_settings": {
+      "siteurl": "https://nalksolutions.com",
+      "home": "https://nalksolutions.com",
+      "permalink_structure": "/%postname%/",
+      "active_plugins": [
+        "advanced-custom-fields-pro/acf.php",
+        "attachment-pages-redirect/attachment-pages-redirect.php",
+        "classic-editor/classic-editor.php",
+        "cmsmasters-elementor-addon/cmsmasters-elementor-addon.php",
+        "cmsmasters-framework/cmsmasters-framework.php",
+        "custom-post-type-ui/custom-post-type-ui.php",
+        "elementor/elementor.php",
+        "forminator/forminator.php",
+        "google-site-kit/google-site-kit.php",
+        "insert-headers-and-footers/ihaf.php",
+        "jetpack/jetpack.php",
+        "novamira/novamira.php",
+        "premium-addons-for-elementor/premium-addons-for-elementor.php",
+        "redirection/redirection.php",
+        "revslider/revslider.php",
+        "seo-by-rank-math/rank-math.php",
+        "two-factor/two-factor.php",
+        "updraftplus/updraftplus.php",
+        "wp-rocket/wp-rocket.php"
+      ],
+      "category_base": "",
+      "gmt_offset": "0",
+      "template": "softy-solutions",
+      "stylesheet": "softy-solutions-child",
+      "blog_public": "1",
+      "show_on_front": "page",
+      "tag_base": "",
+      "timezone_string": "",
+      "page_for_posts": "0",
+      "page_on_front": "55734",
+      "elementor_active_kit": "7",
+      "translatepress_language_codes": [
+        "en_US"
+      ]
+    },
+    "redirect_rule_count": 67,
+    "translation_rows": {
+      "wp_trp_dictionary_en_us_ar": 9325
+    },
+    "template_post_count": 48
+  },
+  "elementor_export": {
+    "elementor_version": "4.2.4",
+    "content_counts": {
+      "post": 0,
+      "page": 38,
+      "e-landing-page": 0,
+      "product": 0,
+      "cmsms_profile": 6,
+      "services": 9,
+      "projects": 9,
+      "e-floating-buttons": 0
+    },
+    "templates_in_zip": [],
+    "plugins": [
+      {
+        "name": "Advanced Custom Fields PRO",
+        "plugin": "advanced-custom-fields-pro/acf",
+        "pluginUri": "https://www.advancedcustomfields.com",
+        "version": "6.6.0"
+      },
+      {
+        "name": "Attachment Pages Redirect",
+        "plugin": "attachment-pages-redirect/attachment-pages-redirect",
+        "pluginUri": "",
+        "version": "1.1.2"
+      },
+      {
+        "name": "Classic Editor",
+        "plugin": "classic-editor/classic-editor",
+        "pluginUri": "https://wordpress.org/plugins/classic-editor/",
+        "version": "1.7.0"
+      },
+      {
+        "name": "CMSMasters Elementor Addon",
+        "plugin": "cmsmasters-elementor-addon/cmsmasters-elementor-addon",
+        "pluginUri": "https://cmsmasters.net/",
+        "version": "1.18.5"
+      },
+      {
+        "name": "CMSMasters Framework",
+        "plugin": "cmsmasters-framework/cmsmasters-framework",
+        "pluginUri": "https://cmsmasters.studio/",
+        "version": "1.0.8"
+      },
+      {
+        "name": "Custom Post Type UI",
+        "plugin": "custom-post-type-ui/custom-post-type-ui",
+        "pluginUri": "https://github.com/WebDevStudios/custom-post-type-ui/",
+        "version": "1.19.3"
+      },
+      {
+        "name": "Elementor",
+        "plugin": "elementor/elementor",
+        "pluginUri": "https://elementor.com/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash",
+        "version": "4.2.4"
+      },
+      {
+        "name": "Forminator",
+        "plugin": "forminator/forminator",
+        "pluginUri": "https://wpmudev.com/project/forminator/",
+        "version": "1.58.1"
+      },
+      {
+        "name": "GTranslate",
+        "plugin": "gtranslate/gtranslate",
+        "pluginUri": "https://gtranslate.io/?xyz=998",
+        "version": "5.0.1"
+      },
+      {
+        "name": "Jetpack",
+        "plugin": "jetpack/jetpack",
+        "pluginUri": "https://jetpack.com",
+        "version": "16.1.3"
+      },
+      {
+        "name": "Novamira",
+        "plugin": "novamira/novamira",
+        "pluginUri": "https://novamira.ai",
+        "version": "1.12.2"
+      },
+      {
+        "name": "Premium Addons for Elementor",
+        "plugin": "premium-addons-for-elementor/premium-addons-for-elementor",
+        "pluginUri": "https://premiumaddons.com",
+        "version": "4.11.111"
+      },
+      {
+        "name": "Rank Math SEO",
+        "plugin": "seo-by-rank-math/rank-math",
+        "pluginUri": "https://rankmath.com/",
+        "version": "1.0.280"
+      },
+      {
+        "name": "Redirection",
+        "plugin": "redirection/redirection",
+        "pluginUri": "https://redirection.me/",
+        "version": "5.10.0"
+      },
+      {
+        "name": "Site Kit by Google",
+        "plugin": "google-site-kit/google-site-kit",
+        "pluginUri": "https://sitekit.withgoogle.com",
+        "version": "1.187.0"
+      },
+      {
+        "name": "Slider Revolution",
+        "plugin": "revslider/revslider",
+        "pluginUri": "https://www.sliderrevolution.com/?utm_source=admin&utm_medium=button&utm_campaign=srusers&utm_content=info",
+        "version": "6.7.38"
+      },
+      {
+        "name": "TranslatePress - Multilingual",
+        "plugin": "translatepress-multilingual/index",
+        "pluginUri": "https://translatepress.com/",
+        "version": "3.3.7"
+      },
+      {
+        "name": "Two Factor",
+        "plugin": "two-factor/two-factor",
+        "pluginUri": "https://wordpress.org/plugins/two-factor/",
+        "version": "0.16.0"
+      },
+      {
+        "name": "UpdraftPlus - Backup/Restore",
+        "plugin": "updraftplus/updraftplus",
+        "pluginUri": "https://updraftplus.com",
+        "version": "1.26.8"
+      },
+      {
+        "name": "WPCode Lite",
+        "plugin": "insert-headers-and-footers/ihaf",
+        "pluginUri": "https://www.wpcode.com/",
+        "version": "2.3.9"
+      },
+      {
+        "name": "WP Rocket",
+        "plugin": "wp-rocket/wp-rocket",
+        "pluginUri": "https://wp-rocket.me",
+        "version": "3.20.3"
+      }
+    ]
+  },
+  "uploads": {
+    "files": 4234,
+    "unique_paths": 4234,
+    "extension_counts": {
+      ".webp": 2077,
+      ".log": 5,
+      "": 8,
+      ".html": 15,
+      ".json": 4,
+      ".png": 1593,
+      ".jpg": 244,
+      ".avif": 16,
+      ".svg": 24,
+      ".dat": 1,
+      ".xml": 4,
+      ".mp4": 2,
+      ".css": 140,
+      ".jpeg": 86,
+      ".woff": 1,
+      ".ttf": 1,
+      ".eot": 1,
+      ".php": 12
+    }
+  },
+  "wordpress_export": {
+    "items": 605,
+    "type_status_counts": {
+      "attachment:inherit": 424,
+      "forminator_forms:publish": 3,
+      "forminator_quizzes:publish": 1,
+      "cmsms_profile:publish": 6,
+      "nav_menu_item:publish": 58,
+      "custom_css:publish": 1,
+      "page:draft": 8,
+      "page:publish": 40,
+      "post:publish": 43,
+      "post:draft": 1,
+      "services:publish": 9,
+      "projects:publish": 9,
+      "wp_navigation:publish": 2
+    },
+    "metadata_key_counts": {
+      "_wp_attached_file": 424,
+      "_wp_attachment_metadata": 418,
+      "_wxr_import_parent": 11,
+      "_wxr_import_user_slug": 213,
+      "rank_math_news_sitemap_robots": 355,
+      "rank_math_robots": 361,
+      "_elementor_inline_svg": 3,
+      "_elementor_source_image_hash": 42,
+      "_wp_attachment_context": 3,
+      "_wp_attachment_backup_sizes": 3,
+      "_wp_attachment_image_alt": 103,
+      "forminator_form_meta": 4,
+      "inline_featured_image": 12,
+      "phone": 6,
+      "_phone": 6,
+      "office_phone": 6,
+      "_office_phone": 6,
+      "email": 6,
+      "_email": 6,
+      "facebook": 1,
+      "_facebook": 1,
+      "twitter": 1,
+      "_twitter": 1,
+      "linkedin": 1,
+      "_linkedin": 1,
+      "social_accounts_facebook": 6,
+      "_social_accounts_facebook": 6,
+      "social_accounts_twitter": 6,
+      "_social_accounts_twitter": 6,
+      "social_accounts_linkedin": 6,
+      "_social_accounts_linkedin": 6,
+      "social_accounts": 6,
+      "_social_accounts": 6,
+      "quote": 6,
+      "_quote": 6,
+      "education_experience_education": 6,
+      "_education_experience_education": 6,
+      "education_experience_board_certification": 6,
+      "_education_experience_board_certification": 6,
+      "education_experience_experience": 6,
+      "_education_experience_experience": 6,
+      "education_experience_years_of_practice": 6,
+      "_education_experience_years_of_practice": 6,
+      "education_experience": 6,
+      "_education_experience": 6,
+      "working_shifts_monday": 6,
+      "_working_shifts_monday": 6,
+      "working_shifts_tuesday": 6,
+      "_working_shifts_tuesday": 6,
+      "working_shifts_wednesday": 6,
+      "_working_shifts_wednesday": 6,
+      "working_shifts_thursday": 6,
+      "_working_shifts_thursday": 6,
+      "working_shifts_friday": 6,
+      "_working_shifts_friday": 6,
+      "working_shifts_saturday": 6,
+      "_working_shifts_saturday": 6,
+      "working_shifts": 6,
+      "_working_shifts": 6,
+      "cmsmasters_pm_view_ips": 109,
+      "cmsmasters_pm_view": 109,
+      "_thumbnail_id": 67,
+      "department": 6,
+      "_department": 6,
+      "_wp_old_slug": 35,
+      "specialization": 4,
+      "_specialization": 4,
+      "_elementor_edit_mode": 69,
+      "_elementor_template_type": 69,
+      "_elementor_version": 69,
+      "_cmsmasters_elementor_version": 63,
+      "footnotes": 6,
+      "_wp_page_template": 115,
+      "_elementor_data": 69,
+      "profiles_service": 6,
+      "_profiles_service": 6,
+      "_elementor_controls_usage": 31,
+      "_pa_widget_elements": 62,
+      "rank_math_internal_links_processed": 115,
+      "_elementor_page_assets": 97,
+      "_elementor_element_cache": 53,
+      "_menu_item_type": 58,
+      "_menu_item_menu_item_parent": 58,
+      "_menu_item_object_id": 58,
+      "_menu_item_object": 58,
+      "_menu_item_target": 58,
+      "_menu_item_classes": 58,
+      "_menu_item_xfn": 58,
+      "_menu_item_url": 58,
+      "_cmsmasters_megamenu": 58,
+      "_wp_old_date": 54,
+      "pa_mega_content_temp": 1,
+      "_rebuild_target_page_id": 6,
+      "_rebuild_target_url": 6,
+      "rank_math_title": 81,
+      "rank_math_description": 80,
+      "rank_math_focus_keyword": 80,
+      "rank_math_canonical_url": 6,
+      "_edit_last": 86,
+      "_yoast_indexnow_last_ping": 22,
+      "_yoast_post_redirect_info": 1,
+      "rs_page_bg_color": 30,
+      "_yoast_wpseo_content_score": 22,
+      "_yoast_wpseo_focuskeywords": 22,
+      "_yoast_wpseo_keywordsynonyms": 22,
+      "_yoast_wpseo_estimated-reading-time-minutes": 22,
+      "cmsmasters_layout": 2,
+      "_cmsmasters_layout": 2,
+      "rank_math_og_content_image": 7,
+      "rank_math_seo_score": 78,
+      "_yoast_wpseo_opengraph-image": 1,
+      "_yoast_wpseo_opengraph-image-id": 1,
+      "_yoast_wpseo_focuskw": 21,
+      "_yoast_wpseo_linkdex": 21,
+      "_yoast_wpseo_opengraph-title": 1,
+      "_yoast_wpseo_opengraph-description": 1,
+      "rank_math_facebook_title": 1,
+      "rank_math_facebook_description": 1,
+      "rank_math_facebook_image": 1,
+      "rank_math_facebook_image_id": 1,
+      "rank_math_rich_snippet": 30,
+      "rank_math_schema_Service": 30,
+      "rank_math_shortcode_schema_s-38465221-7db3-48bc-a493-f55ab25c9fff": 2,
+      "rank_math_shortcode_schema_s-1eca7fb9-3621-4243-acda-3c4abd66b959": 1,
+      "rank_math_shortcode_schema_s-a2b1729a-3403-40f6-b10f-421af7231ca9": 1,
+      "rank_math_shortcode_schema_s-cf71b68d-90a4-45ad-ba74-becf1e4ee123": 1,
+      "rank_math_shortcode_schema_s-4a829b14-f43e-4c7c-8a96-910221f948ce": 1,
+      "rank_math_shortcode_schema_s-0387bb47-34b8-4e27-b20a-5a41235fcaa8": 1,
+      "rank_math_shortcode_schema_s-38b517c0-7895-4a18-93eb-4f0a0e121b82": 1,
+      "rank_math_shortcode_schema_s-6a239b22-9833-4a2e-9c30-da90fe5d51ac": 1,
+      "rank_math_shortcode_schema_s-ac56cfe5-f592-42fb-b384-be8c783fdaec": 1,
+      "rank_math_shortcode_schema_s-123f9218-ae99-4609-a6ad-f5c9b3f0b1c2": 1,
+      "rank_math_shortcode_schema_s-73b64053-20b5-4d3c-9eff-de2feace26f0": 1,
+      "rank_math_shortcode_schema_s-d5be0403-7d66-4401-9048-c61f5491be6a": 1,
+      "rank_math_shortcode_schema_s-8db3de82-a64e-43d2-856c-cc2865be127b": 1,
+      "rank_math_shortcode_schema_s-5e80204b-50a1-451c-8fc5-6d85da7a4945": 1,
+      "rank_math_shortcode_schema_s-206d2ec4-703b-4853-9dce-928a31d5817e": 7,
+      "rank_math_shortcode_schema_s-bd3401af-5b32-4588-b7d1-0f0e5d4d131b": 1,
+      "rank_math_shortcode_schema_s-52a444d3-fac4-4a02-be5e-b448e16be4b7": 1,
+      "rank_math_shortcode_schema_s-27bbe1c3-24ad-44a4-a492-747353c3c199": 1,
+      "rank_math_shortcode_schema_s-b6eb7d45-cfa6-4360-8810-f91d6edd0900": 1,
+      "rank_math_shortcode_schema_s-3423b2a6-9ca0-49fc-b666-fcab1744479f": 1,
+      "rank_math_shortcode_schema_s-2735d912-c376-456c-bb2c-83e1dba28c86": 1,
+      "rank_math_shortcode_schema_s-eba10892-df47-4fc4-af74-759faf079285": 1,
+      "rank_math_shortcode_schema_s-989a23b0-9a8a-439b-a589-acdce9ac70b6": 1,
+      "_yoast_wpseo_primary_category": 20,
+      "_yoast_wpseo_title": 20,
+      "_yoast_wpseo_metadesc": 20,
+      "rank_math_primary_category": 20,
+      "rank_math_lock_modified_date": 1,
+      "service_icon": 2,
+      "_service_icon": 2,
+      "service_icon_copy": 2,
+      "_service_icon_copy": 2,
+      "service_image": 9,
+      "_service_image": 9,
+      "service_price": 6,
+      "_service_price": 6
+    },
+    "public_content_count": 107,
+    "arabic_title_or_slug_count": 14,
+    "published_missing_seo_title": 32,
+    "published_missing_seo_description": 33,
+    "attachments": 424,
+    "attachment_originals_missing_from_uploads": []
+  },
+  "acf": [
+    {
+      "title": "Profile Contact Details",
+      "location": [
+        [
+          {
+            "param": "post_type",
+            "operator": "==",
+            "value": "cmsms_profile"
+          }
+        ]
+      ],
+      "fields": [
+        {
+          "name": "phone",
+          "label": "Phone Number",
+          "type": "text",
+          "required": 0
+        },
+        {
+          "name": "office_phone",
+          "label": "Office Phone Number",
+          "type": "text",
+          "required": 0
+        },
+        {
+          "name": "email",
+          "label": "Email Address",
+          "type": "email",
+          "required": 0
+        },
+        {
+          "name": "social_accounts",
+          "label": "Social Accounts",
+          "type": "group",
+          "required": 0
+        },
+        {
+          "name": "profiles_service",
+          "label": "Profiles Service",
+          "type": "text",
+          "required": 0
+        }
+      ]
+    },
+    {
+      "title": "Profile Info",
+      "location": [
+        [
+          {
+            "param": "post_type",
+            "operator": "==",
+            "value": "cmsms_profile"
+          }
+        ]
+      ],
+      "fields": [
+        {
+          "name": "education_experience",
+          "label": "Education and Experience",
+          "type": "group",
+          "required": 0
+        },
+        {
+          "name": "working_shifts",
+          "label": "Working Shifts",
+          "type": "group",
+          "required": 0
+        }
+      ]
+    }
+  ],
+  "rank_math": {
+    "sections": [
+      "general",
+      "titles",
+      "sitemap",
+      "role-manager",
+      "redirections",
+      "modules"
+    ],
+    "redirections_setting_keys": [
+      {
+        "id": "44",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:71:\"ما-هو-التسويق-الرقمي؟-الدليل-الشامل-لل/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "https://nalksolutions.com/%d9%85%d8%a7-%d9%87%d9%88-%d8%a7%d9%84%d8%aa%d8%b3%d9%88%d9%8a%d9%82-%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%8a/",
+        "header_code": "301",
+        "hits": "104",
+        "status": "active",
+        "created": "2026-07-15 13:59:06",
+        "updated": "2026-07-15 13:59:06",
+        "last_accessed": "2026-10-10 05:04:03"
+      },
+      {
+        "id": "43",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:44:\"how-to-build-a-web-app-from-scratch-in-2026/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "https://nalksolutions.com/how-to-build-a-web-app-from-scratch/",
+        "header_code": "301",
+        "hits": "132",
+        "status": "active",
+        "created": "2026-07-05 15:22:45",
+        "updated": "2026-07-05 15:22:45",
+        "last_accessed": "2026-10-15 06:21:13"
+      },
+      {
+        "id": "42",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:51:\"5-essential-features-for-modern-e-commerce-portals/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "https://nalksolutions.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%88%d9%8a%d8%a8-%d9%84%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9/",
+        "header_code": "301",
+        "hits": "21",
+        "status": "active",
+        "created": "2026-06-27 17:49:28",
+        "updated": "2026-06-27 17:49:28",
+        "last_accessed": "2026-10-15 03:02:33"
+      },
+      {
+        "id": "41",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:55:\"why-your-business-needs-a-professional-website-in-2026/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "https://nalksolutions.com/content-framework-template-2026/",
+        "header_code": "301",
+        "hits": "6",
+        "status": "active",
+        "created": "2026-06-15 19:03:52",
+        "updated": "2026-06-15 19:03:52",
+        "last_accessed": "2026-10-01 21:03:23"
+      },
+      {
+        "id": "40",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:53:\"the-future-of-it-solutions-automating-local-industry/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "https://nalksolutions.com/edm-marketing-for-saudi-businesses/",
+        "header_code": "301",
+        "hits": "10",
+        "status": "active",
+        "created": "2026-06-12 20:48:31",
+        "updated": "2026-06-12 20:48:31",
+        "last_accessed": "2026-09-23 21:42:22"
+      },
+      {
+        "id": "39",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:56:\"how-cloud-portals-are-revolutionizing-office-management/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "https://nalksolutions.com/b2c-marketing-automation-software/",
+        "header_code": "301",
+        "hits": "8",
+        "status": "active",
+        "created": "2026-06-11 17:16:46",
+        "updated": "2026-06-11 17:16:46",
+        "last_accessed": "2026-10-08 20:35:00"
+      },
+      {
+        "id": "38",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:40:\"services-digital-marketing-saudi-arabia/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "https://nalksolutions.com/services-digital-marketing/",
+        "header_code": "301",
+        "hits": "274",
+        "status": "active",
+        "created": "2026-06-11 15:15:50",
+        "updated": "2026-06-11 15:15:50",
+        "last_accessed": "2026-10-14 23:51:13"
+      },
+      {
+        "id": "37",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:56:\"choosing-the-right-tech-stack-for-your-software-project/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "https://nalksolutions.com/email-marketing-goals-and-objectives/",
+        "header_code": "301",
+        "hits": "16",
+        "status": "active",
+        "created": "2026-06-10 17:56:11",
+        "updated": "2026-06-10 17:56:11",
+        "last_accessed": "2026-10-06 22:13:02"
+      },
+      {
+        "id": "36",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:38:\"cmsms_project_category/logistics-tech/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "100",
+        "status": "active",
+        "created": "2026-06-06 13:55:43",
+        "updated": "2026-06-06 13:55:43",
+        "last_accessed": "2026-09-12 02:40:29"
+      },
+      {
+        "id": "35",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:34:\"cmsms_project_category/technology/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "95",
+        "status": "active",
+        "created": "2026-06-06 13:55:27",
+        "updated": "2026-06-06 13:55:27",
+        "last_accessed": "2026-08-25 08:33:01"
+      },
+      {
+        "id": "34",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:38:\"cmsms_project_category/workplace-tech/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "96",
+        "status": "active",
+        "created": "2026-06-06 13:55:14",
+        "updated": "2026-06-06 13:55:14",
+        "last_accessed": "2026-10-04 10:39:22"
+      },
+      {
+        "id": "33",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:34:\"cmsms_project_category/healthcare/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "101",
+        "status": "active",
+        "created": "2026-06-06 13:55:03",
+        "updated": "2026-06-06 13:55:03",
+        "last_accessed": "2026-10-07 13:30:37"
+      },
+      {
+        "id": "32",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:30:\"cmsms_project_category/retail/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "98",
+        "status": "active",
+        "created": "2026-06-06 13:54:51",
+        "updated": "2026-06-06 13:54:51",
+        "last_accessed": "2026-10-05 19:35:08"
+      },
+      {
+        "id": "31",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:33:\"cmsms_project_category/legaltech/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "96",
+        "status": "active",
+        "created": "2026-06-06 13:54:39",
+        "updated": "2026-06-06 13:54:39",
+        "last_accessed": "2026-10-05 20:35:15"
+      },
+      {
+        "id": "30",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:46:\"cmsms_profile_category/ai-solutions-architect/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "178",
+        "status": "active",
+        "created": "2026-06-06 13:54:30",
+        "updated": "2026-06-06 13:54:30",
+        "last_accessed": "2026-10-14 14:48:09"
+      },
+      {
+        "id": "29",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:44:\"cmsms_profile_category/full-stack-developer/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "190",
+        "status": "active",
+        "created": "2026-06-06 13:54:02",
+        "updated": "2026-06-06 13:54:02",
+        "last_accessed": "2026-10-14 15:13:49"
+      },
+      {
+        "id": "28",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:43:\"cmsms_profile_category/front-end-developer/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "185",
+        "status": "active",
+        "created": "2026-06-06 13:53:51",
+        "updated": "2026-06-06 13:53:51",
+        "last_accessed": "2026-10-14 14:48:10"
+      },
+      {
+        "id": "27",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:41:\"cmsms_profile_category/back-end-engineer/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "189",
+        "status": "active",
+        "created": "2026-06-06 13:53:42",
+        "updated": "2026-06-06 13:53:42",
+        "last_accessed": "2026-10-14 17:51:13"
+      },
+      {
+        "id": "26",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:24:\"cmsms_profile/ryan-chen/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "192",
+        "status": "active",
+        "created": "2026-06-06 13:53:30",
+        "updated": "2026-06-06 13:53:30",
+        "last_accessed": "2026-10-14 14:53:15"
+      },
+      {
+        "id": "25",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:28:\"cmsms_profile/sara-thompson/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "198",
+        "status": "active",
+        "created": "2026-06-06 13:52:44",
+        "updated": "2026-06-06 13:52:44",
+        "last_accessed": "2026-10-14 17:51:12"
+      },
+      {
+        "id": "24",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:21:\"product-tag/silicone/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "0",
+        "status": "active",
+        "created": "2026-06-06 13:51:58",
+        "updated": "2026-06-06 13:51:58",
+        "last_accessed": "0000-00-00 00:00:00"
+      },
+      {
+        "id": "23",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:19:\"product-tag/office/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "3",
+        "status": "active",
+        "created": "2026-06-06 13:51:46",
+        "updated": "2026-06-06 13:51:46",
+        "last_accessed": "2026-08-29 05:34:41"
+      },
+      {
+        "id": "22",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:30:\"product/cms-silicone-bracelet/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "3",
+        "status": "active",
+        "created": "2026-06-06 13:45:25",
+        "updated": "2026-06-06 13:45:50",
+        "last_accessed": "2026-08-11 21:32:31"
+      },
+      {
+        "id": "21",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:19:\"product-tag/energy/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "0",
+        "status": "active",
+        "created": "2026-06-06 13:45:14",
+        "updated": "2026-06-06 13:45:14",
+        "last_accessed": "0000-00-00 00:00:00"
+      },
+      {
+        "id": "20",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:35:\"wp-content/themes/softy-solutions/*\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "0",
+        "status": "active",
+        "created": "2026-06-06 13:44:59",
+        "updated": "2026-06-06 13:44:59",
+        "last_accessed": "0000-00-00 00:00:00"
+      },
+      {
+        "id": "19",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:25:\"product/cms-baseball-cap/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "3",
+        "status": "active",
+        "created": "2026-06-06 13:44:37",
+        "updated": "2026-06-06 13:44:37",
+        "last_accessed": "2026-08-13 21:01:02"
+      },
+      {
+        "id": "18",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:25:\"product-category/clothes/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "5",
+        "status": "active",
+        "created": "2026-06-06 13:44:25",
+        "updated": "2026-06-06 13:45:37",
+        "last_accessed": "2026-09-28 20:14:44"
+      },
+      {
+        "id": "17",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:27:\"product/mug-with-cms-print/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "3",
+        "status": "active",
+        "created": "2026-06-06 13:44:12",
+        "updated": "2026-06-06 13:44:12",
+        "last_accessed": "2026-08-25 08:56:18"
+      },
+      {
+        "id": "16",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:25:\"product/training-t-shirt/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "1",
+        "status": "active",
+        "created": "2026-06-06 13:43:54",
+        "updated": "2026-06-06 13:43:54",
+        "last_accessed": "2026-06-07 18:10:31"
+      },
+      {
+        "id": "15",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:21:\"surgical-instruments/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "12",
+        "status": "active",
+        "created": "2026-06-06 13:43:41",
+        "updated": "2026-06-06 13:43:41",
+        "last_accessed": "2026-10-06 08:15:42"
+      },
+      {
+        "id": "14",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:29:\"product-category/accessories/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "1",
+        "status": "active",
+        "created": "2026-06-06 13:43:29",
+        "updated": "2026-06-06 13:43:29",
+        "last_accessed": "2026-09-03 14:28:16"
+      },
+      {
+        "id": "13",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:18:\"product-tag/drink/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "3",
+        "status": "active",
+        "created": "2026-06-06 13:43:10",
+        "updated": "2026-06-06 13:43:10",
+        "last_accessed": "2026-08-13 21:04:42"
+      },
+      {
+        "id": "12",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:18:\"product-tag/print/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "0",
+        "status": "active",
+        "created": "2026-06-06 13:42:43",
+        "updated": "2026-06-06 13:42:43",
+        "last_accessed": "0000-00-00 00:00:00"
+      },
+      {
+        "id": "11",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:21:\"product-tag/bracelet/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "1",
+        "status": "active",
+        "created": "2026-06-06 13:42:23",
+        "updated": "2026-06-06 13:42:23",
+        "last_accessed": "2026-08-21 10:22:46"
+      },
+      {
+        "id": "10",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:17:\"product-tag/sale/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "1",
+        "status": "active",
+        "created": "2026-06-06 13:42:07",
+        "updated": "2026-06-06 13:42:07",
+        "last_accessed": "2026-09-11 00:59:03"
+      },
+      {
+        "id": "9",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:21:\"product-tag/ceramics/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "1",
+        "status": "active",
+        "created": "2026-06-06 13:41:52",
+        "updated": "2026-06-06 13:41:52",
+        "last_accessed": "2026-09-14 01:19:42"
+      },
+      {
+        "id": "8",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:19:\"product-tag/cotton/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "3",
+        "status": "active",
+        "created": "2026-06-06 13:41:31",
+        "updated": "2026-06-06 13:41:31",
+        "last_accessed": "2026-08-27 16:54:30"
+      },
+      {
+        "id": "7",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:21:\"product/cms-notebook/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "1",
+        "status": "active",
+        "created": "2026-06-06 13:41:14",
+        "updated": "2026-06-06 13:41:14",
+        "last_accessed": "2026-07-08 18:42:34"
+      },
+      {
+        "id": "6",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:9:\"blog-page\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "https://nalksolutions.com/blog",
+        "header_code": "301",
+        "hits": "6",
+        "status": "active",
+        "created": "2026-04-22 15:12:55",
+        "updated": "2026-04-22 15:12:55",
+        "last_accessed": "2026-08-28 03:33:46"
+      },
+      {
+        "id": "5",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:18:\"product-tag/sport/\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "325",
+        "status": "active",
+        "created": "2026-04-22 15:12:55",
+        "updated": "2026-06-06 13:40:46",
+        "last_accessed": "2026-05-31 08:56:00"
+      },
+      {
+        "id": "4",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:10:\"my-account\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "8",
+        "status": "active",
+        "created": "2026-04-22 15:12:55",
+        "updated": "2026-04-22 15:12:55",
+        "last_accessed": "2026-09-02 09:30:51"
+      },
+      {
+        "id": "3",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:8:\"checkout\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "7",
+        "status": "active",
+        "created": "2026-04-22 15:12:55",
+        "updated": "2026-04-22 15:12:55",
+        "last_accessed": "2026-10-14 23:42:33"
+      },
+      {
+        "id": "2",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:4:\"cart\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "6",
+        "status": "active",
+        "created": "2026-04-22 15:12:55",
+        "updated": "2026-04-22 15:12:55",
+        "last_accessed": "2026-10-14 23:42:33"
+      },
+      {
+        "id": "1",
+        "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:11:\"author-page\";s:10:\"comparison\";s:5:\"exact\";}}",
+        "url_to": "",
+        "header_code": "410",
+        "hits": "4",
+        "status": "active",
+        "created": "2026-04-22 15:12:55",
+        "updated": "2026-04-22 15:12:55",
+        "last_accessed": "2026-06-10 12:07:34"
+      }
+    ],
+    "note": "Settings export is not a complete per-post SEO or redirect-rule export; use WXR and database too."
+  },
+  "site_kit": {
+    "file": "site-kit-nalk-solutions-last-28-days-2026-10-15.pdf",
+    "pages": 1,
+    "text_extracted": true,
+    "note": "PDF text is supplementary. Original PDF remains the visual source."
+  }
+}

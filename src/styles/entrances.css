@@ -1,0 +1,43 @@
+/* CSS owns first-paint entrances. Hydration must not hide/replay painted hero content. */
+@media (prefers-reduced-motion: no-preference) {
+  .marketing-site [data-entrance-initial] {
+    animation: initial-fade var(--entrance-duration) ease var(--entrance-delay) backwards;
+  }
+  .marketing-site [data-entrance-initial][data-entrance='up'] {
+    animation-name: initial-up;
+  }
+  .marketing-site [data-entrance-initial][data-entrance='pop'] {
+    animation-name: initial-pop;
+  }
+  .marketing-site [data-entrance-initial]:focus-within {
+    animation: none;
+  }
+}
+@keyframes initial-fade {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes initial-up {
+  from {
+    opacity: 0;
+    transform: translateY(60px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+@keyframes initial-pop {
+  from {
+    opacity: 0;
+    transform: scale(0.75);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}

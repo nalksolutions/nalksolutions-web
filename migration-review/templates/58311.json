@@ -1,0 +1,1234 @@
+[
+  {
+    "id": "6b9803e",
+    "elType": "section",
+    "settings": {
+      "structure": "10",
+      "background_background": "classic",
+      "background_color": "#0F172A",
+      "padding": {
+        "unit": "px",
+        "top": "80",
+        "bottom": "80",
+        "isLinked": false
+      },
+      "premium_tooltip_icon": {
+        "value": "fas fa-star",
+        "library": "fa-solid"
+      },
+      "premium_tooltip_container_bg_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_slideshow_gallery": [],
+      "background_hover_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_hover_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_hover_slideshow_gallery": [],
+      "background_overlay_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_slideshow_gallery": [],
+      "background_overlay_hover_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_hover_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_hover_slideshow_gallery": [],
+      "pa_condition_repeater": []
+    },
+    "elements": [
+      {
+        "id": "47a36e60",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_slideshow_gallery": [],
+          "background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_hover_slideshow_gallery": [],
+          "background_overlay_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_overlay_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_overlay_slideshow_gallery": [],
+          "background_overlay_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_overlay_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_overlay_hover_slideshow_gallery": [],
+          "pa_condition_repeater": [],
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [
+          {
+            "id": "37c3a652",
+            "elType": "widget",
+            "settings": {
+              "title": "Technology Stack We Use",
+              "align": "center",
+              "title_color": "#FFFFFF",
+              "pa_condition_repeater": [],
+              "premium_tooltip_icon": {
+                "value": "fas fa-star",
+                "library": "fa-solid"
+              },
+              "premium_tooltip_container_bg_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_slideshow_gallery": [],
+              "_background_hover_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_hover_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_hover_slideshow_gallery": [],
+              "_mask_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "2370f124",
+            "elType": "section",
+            "settings": {
+              "structure": "40",
+              "premium_tooltip_icon": {
+                "value": "fas fa-star",
+                "library": "fa-solid"
+              },
+              "premium_tooltip_container_bg_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_slideshow_gallery": [],
+              "background_hover_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_hover_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_hover_slideshow_gallery": [],
+              "background_overlay_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_overlay_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_overlay_slideshow_gallery": [],
+              "background_overlay_hover_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_overlay_hover_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_overlay_hover_slideshow_gallery": [],
+              "pa_condition_repeater": []
+            },
+            "elements": [
+              {
+                "id": "b59dae3",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "background_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_slideshow_gallery": [],
+                  "background_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_hover_slideshow_gallery": [],
+                  "background_overlay_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_slideshow_gallery": [],
+                  "background_overlay_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_hover_slideshow_gallery": [],
+                  "pa_condition_repeater": [],
+                  "premium_tooltip_icon": {
+                    "value": "fas fa-star",
+                    "library": "fa-solid"
+                  },
+                  "premium_tooltip_container_bg_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "20a3afbe",
+                    "elType": "widget",
+                    "settings": {
+                      "selected_icon": {
+                        "value": "fab fa-react",
+                        "library": "fa-brands"
+                      },
+                      "title_text": "React",
+                      "icon_color": "#61DAFB",
+                      "pa_condition_repeater": [],
+                      "premium_tooltip_icon": {
+                        "value": "fas fa-star",
+                        "library": "fa-solid"
+                      },
+                      "premium_tooltip_container_bg_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_video_fallback": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_slideshow_gallery": [],
+                      "_background_hover_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_hover_video_fallback": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_hover_slideshow_gallery": [],
+                      "_mask_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "icon-box"
+                  }
+                ],
+                "isInner": false
+              },
+              {
+                "id": "10a8c36d",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "background_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_slideshow_gallery": [],
+                  "background_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_hover_slideshow_gallery": [],
+                  "background_overlay_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_slideshow_gallery": [],
+                  "background_overlay_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_hover_slideshow_gallery": [],
+                  "pa_condition_repeater": [],
+                  "premium_tooltip_icon": {
+                    "value": "fas fa-star",
+                    "library": "fa-solid"
+                  },
+                  "premium_tooltip_container_bg_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "f9f0900",
+                    "elType": "widget",
+                    "settings": {
+                      "selected_icon": {
+                        "value": "fab fa-vuejs",
+                        "library": "fa-brands"
+                      },
+                      "title_text": "Vue.js",
+                      "icon_color": "#4FC08D",
+                      "pa_condition_repeater": [],
+                      "premium_tooltip_icon": {
+                        "value": "fas fa-star",
+                        "library": "fa-solid"
+                      },
+                      "premium_tooltip_container_bg_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_video_fallback": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_slideshow_gallery": [],
+                      "_background_hover_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_hover_video_fallback": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_hover_slideshow_gallery": [],
+                      "_mask_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "icon-box"
+                  }
+                ],
+                "isInner": false
+              },
+              {
+                "id": "118ca17",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "background_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_slideshow_gallery": [],
+                  "background_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_hover_slideshow_gallery": [],
+                  "background_overlay_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_slideshow_gallery": [],
+                  "background_overlay_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_hover_slideshow_gallery": [],
+                  "pa_condition_repeater": [],
+                  "premium_tooltip_icon": {
+                    "value": "fas fa-star",
+                    "library": "fa-solid"
+                  },
+                  "premium_tooltip_container_bg_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "65603879",
+                    "elType": "widget",
+                    "settings": {
+                      "selected_icon": {
+                        "value": "fab fa-angular",
+                        "library": "fa-brands"
+                      },
+                      "title_text": "Angular",
+                      "icon_color": "#DD0031",
+                      "pa_condition_repeater": [],
+                      "premium_tooltip_icon": {
+                        "value": "fas fa-star",
+                        "library": "fa-solid"
+                      },
+                      "premium_tooltip_container_bg_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_video_fallback": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_slideshow_gallery": [],
+                      "_background_hover_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_hover_video_fallback": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_hover_slideshow_gallery": [],
+                      "_mask_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "icon-box"
+                  }
+                ],
+                "isInner": false
+              },
+              {
+                "id": "7979b86f",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "background_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_slideshow_gallery": [],
+                  "background_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_hover_slideshow_gallery": [],
+                  "background_overlay_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_slideshow_gallery": [],
+                  "background_overlay_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_hover_slideshow_gallery": [],
+                  "pa_condition_repeater": [],
+                  "premium_tooltip_icon": {
+                    "value": "fas fa-star",
+                    "library": "fa-solid"
+                  },
+                  "premium_tooltip_container_bg_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "33d0fab1",
+                    "elType": "widget",
+                    "settings": {
+                      "selected_icon": {
+                        "value": "fab fa-laravel",
+                        "library": "fa-brands"
+                      },
+                      "title_text": "Laravel",
+                      "icon_color": "#FF2D20",
+                      "pa_condition_repeater": [],
+                      "premium_tooltip_icon": {
+                        "value": "fas fa-star",
+                        "library": "fa-solid"
+                      },
+                      "premium_tooltip_container_bg_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_video_fallback": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_slideshow_gallery": [],
+                      "_background_hover_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_hover_video_fallback": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_hover_slideshow_gallery": [],
+                      "_mask_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "icon-box"
+                  }
+                ],
+                "isInner": false
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "df28616",
+            "elType": "section",
+            "settings": {
+              "structure": "40",
+              "premium_tooltip_icon": {
+                "value": "fas fa-star",
+                "library": "fa-solid"
+              },
+              "premium_tooltip_container_bg_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_slideshow_gallery": [],
+              "background_hover_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_hover_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_hover_slideshow_gallery": [],
+              "background_overlay_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_overlay_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_overlay_slideshow_gallery": [],
+              "background_overlay_hover_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_overlay_hover_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_overlay_hover_slideshow_gallery": [],
+              "pa_condition_repeater": []
+            },
+            "elements": [
+              {
+                "id": "10913ef9",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "background_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_slideshow_gallery": [],
+                  "background_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_hover_slideshow_gallery": [],
+                  "background_overlay_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_slideshow_gallery": [],
+                  "background_overlay_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_hover_slideshow_gallery": [],
+                  "pa_condition_repeater": [],
+                  "premium_tooltip_icon": {
+                    "value": "fas fa-star",
+                    "library": "fa-solid"
+                  },
+                  "premium_tooltip_container_bg_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "329cbc98",
+                    "elType": "widget",
+                    "settings": {
+                      "selected_icon": {
+                        "value": "fab fa-node-js",
+                        "library": "fa-brands"
+                      },
+                      "title_text": "Node.js",
+                      "icon_color": "#339933",
+                      "pa_condition_repeater": [],
+                      "premium_tooltip_icon": {
+                        "value": "fas fa-star",
+                        "library": "fa-solid"
+                      },
+                      "premium_tooltip_container_bg_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_video_fallback": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_slideshow_gallery": [],
+                      "_background_hover_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_hover_video_fallback": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_hover_slideshow_gallery": [],
+                      "_mask_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "icon-box"
+                  }
+                ],
+                "isInner": false
+              },
+              {
+                "id": "65620ca",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "background_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_slideshow_gallery": [],
+                  "background_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_hover_slideshow_gallery": [],
+                  "background_overlay_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_slideshow_gallery": [],
+                  "background_overlay_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_hover_slideshow_gallery": [],
+                  "pa_condition_repeater": [],
+                  "premium_tooltip_icon": {
+                    "value": "fas fa-star",
+                    "library": "fa-solid"
+                  },
+                  "premium_tooltip_container_bg_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "75c691bd",
+                    "elType": "widget",
+                    "settings": {
+                      "selected_icon": {
+                        "value": "fab fa-wordpress",
+                        "library": "fa-brands"
+                      },
+                      "title_text": "WordPress",
+                      "icon_color": "#21759B",
+                      "pa_condition_repeater": [],
+                      "premium_tooltip_icon": {
+                        "value": "fas fa-star",
+                        "library": "fa-solid"
+                      },
+                      "premium_tooltip_container_bg_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_video_fallback": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_slideshow_gallery": [],
+                      "_background_hover_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_hover_video_fallback": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_hover_slideshow_gallery": [],
+                      "_mask_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "icon-box"
+                  }
+                ],
+                "isInner": false
+              },
+              {
+                "id": "28831a1a",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "background_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_slideshow_gallery": [],
+                  "background_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_hover_slideshow_gallery": [],
+                  "background_overlay_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_slideshow_gallery": [],
+                  "background_overlay_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_hover_slideshow_gallery": [],
+                  "pa_condition_repeater": [],
+                  "premium_tooltip_icon": {
+                    "value": "fas fa-star",
+                    "library": "fa-solid"
+                  },
+                  "premium_tooltip_container_bg_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "1408f290",
+                    "elType": "widget",
+                    "settings": {
+                      "selected_icon": {
+                        "value": "fab fa-shopify",
+                        "library": "fa-brands"
+                      },
+                      "title_text": "Shopify",
+                      "icon_color": "#96BF48",
+                      "pa_condition_repeater": [],
+                      "premium_tooltip_icon": {
+                        "value": "fas fa-star",
+                        "library": "fa-solid"
+                      },
+                      "premium_tooltip_container_bg_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_video_fallback": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_slideshow_gallery": [],
+                      "_background_hover_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_hover_video_fallback": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_hover_slideshow_gallery": [],
+                      "_mask_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "icon-box"
+                  }
+                ],
+                "isInner": false
+              },
+              {
+                "id": "70f4778c",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 25,
+                  "background_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_slideshow_gallery": [],
+                  "background_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_hover_slideshow_gallery": [],
+                  "background_overlay_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_slideshow_gallery": [],
+                  "background_overlay_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_hover_slideshow_gallery": [],
+                  "pa_condition_repeater": [],
+                  "premium_tooltip_icon": {
+                    "value": "fas fa-star",
+                    "library": "fa-solid"
+                  },
+                  "premium_tooltip_container_bg_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "5027a598",
+                    "elType": "widget",
+                    "settings": {
+                      "selected_icon": {
+                        "value": "fab fa-aws",
+                        "library": "fa-brands"
+                      },
+                      "title_text": "AWS",
+                      "icon_color": "#FF9900",
+                      "pa_condition_repeater": [],
+                      "premium_tooltip_icon": {
+                        "value": "fas fa-star",
+                        "library": "fa-solid"
+                      },
+                      "premium_tooltip_container_bg_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_video_fallback": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_slideshow_gallery": [],
+                      "_background_hover_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_hover_video_fallback": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_hover_slideshow_gallery": [],
+                      "_mask_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "icon-box"
+                  }
+                ],
+                "isInner": false
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]

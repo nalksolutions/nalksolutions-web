@@ -1,0 +1,2720 @@
+{
+  "entityId": "R-dbe0adc51c0b8222",
+  "path": "/ar/تطوير-تطبيقات-الجوال/",
+  "publication": {
+    "ready": true,
+    "acceptance": "ownerManaged"
+  },
+  "review": {
+    "status": "inReview",
+    "reviewer": null,
+    "approvedAt": null,
+    "translationRevision": "arabic-migration-1",
+    "sourceInputs": [
+      {
+        "path": "src/content/site/pages.generated.json",
+        "sha256": "7cd8249a8f5b73200fb4c39193dc5469fa0cc595cc493904a611272606512429"
+      },
+      {
+        "path": "src/content/site/documents/R-dbe0adc51c0b8222.json",
+        "sha256": "c83f3d1a5e9be9bc673cd9d4128396646084a98cbb38ae560f15d3bd004f7984"
+      }
+    ]
+  },
+  "seo": {
+    "title": "شركة تطوير تطبيقات الجوال في السعودية | نالك سولوشنز",
+    "description": "وصف الميتا: نطور تطبيقات جوال مخصصة للأعمال في السعودية. تصميم وبرمجة تطبيقات iOS و Android بجودة عالية للشركات في الرياض وجدة. احصل على استشارة مجانية"
+  },
+  "heading": "شركة تطوير تطبيقات الجوال في السعودية",
+  "blocks": {},
+  "imageAlts": {},
+  "issues": [
+    "Existing Arabic body preserved; internal linguistic acceptance is owner-managed.",
+    "Localized four inherited English statistic/coverage labels; numerical values and body meaning unchanged."
+  ],
+  "document": {
+    "nodes": [
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-hero",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-100",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h1",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "شركة تطوير تطبيقات الجوال في السعودية\n\n\n\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تطبيق الجوال لم يعد رفاهية. عملاؤك يقضون ساعات يومياً على هواتفهم، والشركات التي تصل إليهم عبر تطبيق مصمم جيداً تكسب ولاءً وتكراراً في الشراء يصعب تحقيقه بأي وسيلة أخرى"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "في نالك سولوشنز نطور تطبيقات iOS و Android مبنية حسب احتياج عملك بالضبط، بتجربة استخدام سلسة للمستخدم السعودي وبالعربية والإنجليزية معاً. من الفكرة إلى النشر على المتجر، نتولى كل خطوة"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/contacts/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "text",
+                            "text": "احصل على استشارة مجانية"
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-statistics",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-25",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-counter",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-title",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "سنوات الخبرة"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-number",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": []
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "15"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "+"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-25",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-counter",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-title",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "مشاريع تم تسليمها"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-number",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": []
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "200"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "+"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-25",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-counter",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-title",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "رضا العملاء"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-number",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": []
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "98"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "%"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-25",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h5",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "نخدم الرياض وجدة والدمام"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-100",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "خدمات تطوير تطبيقات الجوال\n\n\n\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "كل تطبيق يبدأ بمشكلة يحلها أو فرصة يغتنمها. نبدأ بفهم ما تريد أن يفعله التطبيق ولمن، ثم نبني الحل المناسب لا القالب الجاهز"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تطبيقات iOS و Android\n\n\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "نطور تطبيقات أصلية عالية الأداء لنظامي iOS و Android، أو تطبيقات متعددة المنصات تعمل على الاثنين بكود واحد حسب ما يناسب ميزانيتك وأهدافك. نشرح لك الفرق والتكلفة بوضوح قبل أن نبدأ."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d9%88%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d9%82%d8%b9/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "text",
+                            "text": "خدمات تطوير المواقع الإلكترونية في السعودية"
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تطبيقات للشركات والخدمات\n\n\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "سواء كان تطبيقاً لحجز المواعيد، أو متجراً إلكترونياً، أو أداة داخلية لفريقك، أو منصة خدمة عملاء، نبنيه ليكون سريعاً وموثوقاً وقابلاً للتوسع مع نمو عملك."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/%d8%b4%d8%b1%d9%83%d8%a9-%d8%aa%d9%82%d9%86%d9%8a%d8%a9/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "text",
+                            "text": "شركة تقنية في السعودية"
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تجربة استخدام مصممة للمستخدم السعودي\n\n\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "التصميم عندنا ليس مجرد شكل جميل. واجهة عربية تعمل من اليمين إلى اليسار بشكل صحيح، أداء سريع على شبكات الجوال السعودية، وتصميم يراعي كيف يستخدم عميلك هاتفه فعلاً"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/%d8%aa%d8%b3%d9%88%d9%8a%d9%82-%d8%b1%d9%82%d9%85%d9%8a/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "text",
+                            "text": "خدمات التسويق الرقمي في السعودية"
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "لماذا تحتاج شركتك تطبيق جوال\n\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "التطبيق يمنحك مكاناً دائماً على شاشة عميلك، وقناة تواصل مباشرة عبر الإشعارات، وتجربة أسرع وأكثر سلاسة من الموقع. للشركات التي تعتمد على تكرار العملاء، التطبيق ليس تكلفة بل استثمار يعود على المدى الطويل."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%b3%d9%8a%d9%88/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "text",
+                            "text": "أفضل شركة سيو في السعودية"
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "عملية التطوير خطوة بخطوة\n\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "نبدأ بجلسة اكتشاف نفهم فيها هدفك ومستخدميك، ثم نصمم الواجهات ونطلب موافقتك، ثم نبرمج ونختبر، وأخيراً ننشر التطبيق على App Store و Google Play وندعمك بعد الإطلاق. تبقى على اطلاع في كل مرحلة."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/%d8%ad%d9%84%d9%88%d9%84-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "text",
+                            "text": "حلول الذكاء الاصطناعي والأتمتة للشركات"
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-100",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "نخدم الشركات في جميع أنحاء المملكة\n\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-100",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "أسئلة شائعة\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "disclosure",
+                    "summary": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": "service-faq-icon",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-faq-closed-icon",
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "svg",
+                                "attributes": {
+                                  "viewbox": "0 0 448 512"
+                                },
+                                "variant": null,
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "path",
+                                    "attributes": {
+                                      "d": "M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                                    },
+                                    "variant": null,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-faq-open-icon",
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "svg",
+                                "attributes": {
+                                  "viewbox": "0 0 448 512"
+                                },
+                                "variant": null,
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "path",
+                                    "attributes": {
+                                      "d": "M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                                    },
+                                    "variant": null,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "كم تكلفة تطوير تطبيق جوال في السعودية؟"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تعتمد التكلفة على تعقيد التطبيق وعدد الميزات والمنصات المطلوبة. التطبيقات البسيطة تبدأ من نطاق سعري معين، والتطبيقات المتقدمة بميزات كثيرة تكلف أكثر. حدد لنا فكرتك ونعطيك عرضاً واضحاً. (أدخل نطاقات أسعارك)"
+                          }
+                        ]
+                      }
+                    ],
+                    "open": true
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "disclosure",
+                    "summary": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": "service-faq-icon",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-faq-closed-icon",
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "svg",
+                                "attributes": {
+                                  "viewbox": "0 0 448 512"
+                                },
+                                "variant": null,
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "path",
+                                    "attributes": {
+                                      "d": "M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                                    },
+                                    "variant": null,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-faq-open-icon",
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "svg",
+                                "attributes": {
+                                  "viewbox": "0 0 448 512"
+                                },
+                                "variant": null,
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "path",
+                                    "attributes": {
+                                      "d": "M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                                    },
+                                    "variant": null,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "هل تطورون لنظام iOS و Android معاً؟"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "نعم، نطور للنظامين، إما بتطبيق أصلي لكل منصة أو بتطبيق متعدد المنصات بكود واحد، حسب احتياجك وميزانيتك."
+                          }
+                        ]
+                      }
+                    ],
+                    "open": false
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "disclosure",
+                    "summary": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": "service-faq-icon",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-faq-closed-icon",
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "svg",
+                                "attributes": {
+                                  "viewbox": "0 0 448 512"
+                                },
+                                "variant": null,
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "path",
+                                    "attributes": {
+                                      "d": "M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                                    },
+                                    "variant": null,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-faq-open-icon",
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "svg",
+                                "attributes": {
+                                  "viewbox": "0 0 448 512"
+                                },
+                                "variant": null,
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "path",
+                                    "attributes": {
+                                      "d": "M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                                    },
+                                    "variant": null,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "هل تدعمون التطبيق بعد الإطلاق؟"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "نعم، نقدم الصيانة والتحديثات والدعم الفني بعد الإطلاق، لأن التطبيق يحتاج متابعة مستمرة ليبقى يعمل بكفاءة."
+                          }
+                        ]
+                      }
+                    ],
+                    "open": false
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-100",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "الدعوة للتواصل\n\n\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "احجز استشارة مجانية وأخبرنا بفكرتك، وسنوضح لك كيف نبنيها وكم تستغرق وكم تكلف. دون ضغط ودون التزام"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/contacts/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "text",
+                            "text": "تواصل معنا الآن"
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ]
+  },
+  "sourceSnapshot": {
+    "id": "R-dbe0adc51c0b8222",
+    "sourceRouteId": "R-dbe0adc51c0b8222",
+    "path": "/تطوير-تطبيقات-الجوال/",
+    "kind": "marketing",
+    "locale": "ar",
+    "status": "published",
+    "seo": {
+      "title": "شركة تطوير تطبيقات الجوال في السعودية | نالك سولوشنز",
+      "description": "وصف الميتا: نطور تطبيقات جوال مخصصة للأعمال في السعودية. تصميم وبرمجة تطبيقات iOS و Android بجودة عالية للشركات في الرياض وجدة. احصل على استشارة مجانية",
+      "canonical": "https://nalksolutions.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d9%84/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "googlebot": null,
+      "social": [
+        {
+          "property": "og:locale",
+          "content": "en_US"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "شركة تطوير تطبيقات الجوال في السعودية | نالك سولوشنز"
+        },
+        {
+          "property": "og:description",
+          "content": "وصف الميتا: نطور تطبيقات جوال مخصصة للأعمال في السعودية. تصميم وبرمجة تطبيقات iOS و Android بجودة عالية للشركات في الرياض وجدة. احصل على استشارة مجانية"
+        },
+        {
+          "property": "og:url",
+          "content": "https://nalksolutions.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d9%84/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Nalk Solutions"
+        },
+        {
+          "property": "og:updated_time",
+          "content": "2026-07-13T14:17:46+00:00"
+        },
+        {
+          "property": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "property": "twitter:title",
+          "content": "شركة تطوير تطبيقات الجوال في السعودية | نالك سولوشنز"
+        },
+        {
+          "property": "twitter:description",
+          "content": "وصف الميتا: نطور تطبيقات جوال مخصصة للأعمال في السعودية. تصميم وبرمجة تطبيقات iOS و Android بجودة عالية للشركات في الرياض وجدة. احصل على استشارة مجانية"
+        },
+        {
+          "property": "twitter:label1",
+          "content": "Time to read"
+        },
+        {
+          "property": "twitter:data1",
+          "content": "2 minutes"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Place",
+              "@id": "https://nalksolutions.com/#place",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              }
+            },
+            {
+              "@type": ["ProfessionalService", "Organization"],
+              "@id": "https://nalksolutions.com/#organization",
+              "name": "Nalk Solutions",
+              "url": "https://nalksolutions.com",
+              "email": "info@nalksolutions.com",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              },
+              "logo": {
+                "@type": "ImageObject",
+                "@id": "https://nalksolutions.com/#logo",
+                "url": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "contentUrl": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "caption": "Nalk Solutions",
+                "inLanguage": "en-US",
+                "width": "1563",
+                "height": "1563"
+              },
+              "openingHours": ["Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"],
+              "description": "Nalk provides Nalk Solutions is a technology company in Saudi Arabia; delivering digital marketing, web development, app development &amp; IT solutions across Riyadh, Jeddah and all major cities across the kingdom.",
+              "legalName": "uhj1984@yahoo.com",
+              "location": {
+                "@id": "https://nalksolutions.com/#place"
+              },
+              "image": {
+                "@id": "https://nalksolutions.com/#logo"
+              },
+              "telephone": "+966506000843"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://nalksolutions.com/#website",
+              "url": "https://nalksolutions.com",
+              "name": "Nalk Solutions",
+              "publisher": {
+                "@id": "https://nalksolutions.com/#organization"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://nalksolutions.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d9%84/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": "1",
+                  "item": {
+                    "@id": "https://nalksolutions.com",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "position": "2",
+                  "item": {
+                    "@id": "https://nalksolutions.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d9%84/",
+                    "name": "شركة تطوير تطبيقات الجوال"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://nalksolutions.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d9%84/#webpage",
+              "url": "https://nalksolutions.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d9%84/",
+              "name": "شركة تطوير تطبيقات الجوال في السعودية | نالك سولوشنز",
+              "datePublished": "2026-07-11T17:03:21+00:00",
+              "dateModified": "2026-07-13T14:17:46+00:00",
+              "isPartOf": {
+                "@id": "https://nalksolutions.com/#website"
+              },
+              "inLanguage": "en-US",
+              "breadcrumb": {
+                "@id": "https://nalksolutions.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d9%84/#breadcrumb"
+              }
+            },
+            {
+              "@type": "Service",
+              "name": "شركة تطوير تطبيقات الجوال في السعودية | نالك سولوشنز",
+              "description": "وصف الميتا: نطور تطبيقات جوال مخصصة للأعمال في السعودية. تصميم وبرمجة تطبيقات iOS و Android بجودة عالية للشركات في الرياض وجدة. احصل على استشارة مجانية",
+              "offers": {
+                "@type": "Offer",
+                "availability": "InStock"
+              },
+              "@id": "https://nalksolutions.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d9%84/#schema-29549",
+              "mainEntityOfPage": {
+                "@id": "https://nalksolutions.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d9%84/#webpage"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "content": {
+      "heading": "شركة تطوير تطبيقات الجوال في السعودية\n\n\n\n",
+      "paragraphs": ["شركة تطوير تطبيقات الجوال في السعودية\n\n\n\n"],
+      "documentId": "R-dbe0adc51c0b8222"
+    },
+    "provenance": {
+      "sourceHtml": "nalk-public-archive/html/source/home-dbe0adc51c0b8222.html",
+      "sourceSha256": "17c248396c3f313d8c9138531a199664a0ab6d9ea023d17e65b5f9c1b5dea968",
+      "pageRecord": "nalk-public-archive/pages/home-dbe0adc51c0b8222.json",
+      "pageRecordSha256": "616b4580d2b7ab9d56d0f3be354ed4384aba8f4b51b6c8956b450b798b275d17",
+      "excerpt": false,
+      "headingFallback": false
+    }
+  }
+}

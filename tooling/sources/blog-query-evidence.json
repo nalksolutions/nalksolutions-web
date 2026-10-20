@@ -1,0 +1,56 @@
+{
+  "capturedAt": "2026-10-18T05:40:13.261560+00:00",
+  "purpose": "Supplementary linked Blog query views; original October 15 archive remains unchanged",
+  "pages": [
+    {
+      "page": 2,
+      "requestedUrl": "https://nalksolutions.com/blog/?cmsmasters-page-c1619d2=2",
+      "status": 200,
+      "sha256": "7014b432e383d985a62b19164fbae3a010c0cc47991877024c5b2c2904f2c2e6",
+      "bytes": 240740,
+      "title": "Blog - Nalk Solutions",
+      "canonical": "https://nalksolutions.com/blog/",
+      "sourceHtml": "migration-review/blog-query-pages/page-2.html"
+    },
+    {
+      "page": 3,
+      "requestedUrl": "https://nalksolutions.com/blog/?cmsmasters-page-c1619d2=3",
+      "status": 200,
+      "sha256": "26ae0f474460f77675e52d23a65293b61494f01c786f9879247c808f30ebb771",
+      "bytes": 240051,
+      "title": "Blog - Nalk Solutions",
+      "canonical": "https://nalksolutions.com/blog/",
+      "sourceHtml": "migration-review/blog-query-pages/page-3.html"
+    },
+    {
+      "page": 4,
+      "requestedUrl": "https://nalksolutions.com/blog/?cmsmasters-page-c1619d2=4",
+      "status": 200,
+      "sha256": "b8dfa5e61f940315a894e92b6800d4bf259b98190208f0fbed6d69f46ded79ae",
+      "bytes": 239028,
+      "title": "Blog - Nalk Solutions",
+      "canonical": "https://nalksolutions.com/blog/",
+      "sourceHtml": "migration-review/blog-query-pages/page-4.html"
+    },
+    {
+      "page": 5,
+      "requestedUrl": "https://nalksolutions.com/blog/?cmsmasters-page-c1619d2=5",
+      "status": 200,
+      "sha256": "6dc3886af5cd6856d1d0ef15996b7e431ee1942c991d15817ac4d14247941c1f",
+      "bytes": 222098,
+      "title": "Blog - Nalk Solutions",
+      "canonical": "https://nalksolutions.com/blog/",
+      "sourceHtml": "migration-review/blog-query-pages/page-5.html"
+    },
+    {
+      "page": 6,
+      "requestedUrl": "https://nalksolutions.com/blog/?cmsmasters-page-c1619d2=6",
+      "status": 200,
+      "sourceHtml": "migration-review/blog-query-pages/probe-6.html",
+      "sha256": "6975c9d243b54e18f0e2e54d1ad197282186ae007b16be79543b2610b03b155e",
+      "bytes": 161664,
+      "title": "Blog - Nalk Solutions",
+      "canonical": "https://nalksolutions.com/blog/"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "blog": "Blog",
+    "contact": "Contact Us",
+    "primary": "Primary",
+    "mobile": "Mobile primary",
+    "homeLabel": "Nalk Solutions home",
+    "enquiry": "Discuss Your Project"
+  },
+  "menu": {
+    "open": "Open menu",
+    "close": "Close menu",
+    "title": "Menu"
+  },
+  "search": {
+    "title": "Search",
+    "close": "Close search",
+    "pages": "Search pages",
+    "prompt": "Enter a page title.",
+    "count": "{count, plural, =0 {0 results} one {# result} other {# results}}",
+    "more": "Show More",
+    "label": "Search for:",
+    "region": "Site search"
+  },
+  "footer": {
+    "summary": "Technology and creative solutions for businesses across Saudi Arabia.",
+    "company": "Company",
+    "services": "Our Services",
+    "contact": "Get in touch",
+    "ksa": "Saudi Arabia",
+    "pakistan": "Pakistan",
+    "jeddah": "Jeddah",
+    "rawalpindi": "Rawalpindi",
+    "ksaAddress": "Jeddah, Saudi Arabia",
+    "pakistanAddress": "Bahria Town, Rawalpindi Pakistan",
+    "ksaHours": "Monday – Sunday, 9am – 6pm",
+    "pakistanHours": "Monday – Sunday, 11am – 8pm",
+    "sitemap": "Sitemap",
+    "rights": "© 2026 - All Rights Reserved"
+  },
+  "common": {
+    "skip": "Skip to content",
+    "allServices": "All Services",
+    "included": "What’s Included",
+    "unavailable": "Arabic version in preparation",
+    "scrollableTable": "Scrollable table",
+    "authorArticles": "Author articles",
+    "languageUnavailable": "This page has no English equivalent.",
+    "englishHome": "English homepage",
+    "englishBlog": "English blog",
+    "englishServices": "English services",
+    "close": "Close",
+    "version": "Language options",
+    "starRating": "5 out of 5"
+  },
+  "form": {
+    "region": "Enquiry",
+    "sendFallback": "To send your enquiry, email",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "send": "Send Message"
+  },
+  "article": {
+    "share": "Share this article",
+    "shareVia": "Share via {network}",
+    "related": "Related Posts",
+    "adjacent": "Adjacent articles",
+    "read": "Read More",
+    "previous": "Previous Post",
+    "next": "Next Post"
+  },
+  "topics": {
+    "region": "Blog topics",
+    "featured": "Featured blog topics",
+    "all": "All Topics",
+    "browse": "Browse all topics",
+    "close": "Close topics",
+    "introduction": "Choose a subject to explore its articles.",
+    "websites": "Website Development",
+    "software": "Custom Software & Apps",
+    "automation": "AI Automation",
+    "marketing": "Digital Marketing"
+  },
+  "offers": {
+    "websites": "Websites & E-commerce",
+    "software": "Custom Software & Apps",
+    "automation": "AI & Automation",
+    "marketing": "Digital Marketing"
+  }
+}

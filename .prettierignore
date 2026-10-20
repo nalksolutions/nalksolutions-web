@@ -1,0 +1,23 @@
+# Keep frozen evidence, existing migration utilities and unrelated docs untouched.
+/*
+!/src/
+!/tests/
+!/tooling/
+!/docs/
+!/package.json
+!/tsconfig.json
+!/*.config.ts
+!/*.config.mjs
+!/eslint.config.mjs
+!/README.md
+/docs/*
+!/docs/chunks/
+/src/lib/routing/legacy-rules.generated.json
+/src/content/fixtures/pages.json
+/src/content/home/*.generated.json
+/src/content/articles/*.generated.json
+/src/content/site/**/*.json
+/tooling/sources/*.json
+node_modules/
+.next/
+tmp/

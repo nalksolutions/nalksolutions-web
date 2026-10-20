@@ -1,0 +1,62 @@
+{
+  "name": "nalk-solutions",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24 <25",
+    "npm": ">=10 <11"
+  },
+  "packageManager": "npm@10.8.2",
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build --webpack",
+    "start": "next start --hostname 127.0.0.1",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "lint": "eslint src tests tooling *.ts *.mjs --max-warnings=0",
+    "typecheck": "next typegen && tsc --noEmit",
+    "test:unit": "vitest run",
+    "test:integration": "node tooling/run-browser-tests.mjs http",
+    "test:e2e": "node tooling/run-browser-tests.mjs browser",
+    "generate:routing": "node tooling/generate-routing.mjs",
+    "verify:routing-data": "node tooling/generate-routing.mjs --check",
+    "verify:build": "node tooling/check-build.mjs",
+    "verify:chunk1": "node tooling/verify-engineering.mjs chunk1",
+    "verify:home-engineering": "node tooling/verify-engineering.mjs home",
+    "verify:article-content": "node tooling/verify-engineering.mjs article",
+    "verify:article-rendering": "node tooling/verify-engineering.mjs article-rendering",
+    "verify:article-presentation": "node tooling/verify-engineering.mjs article-presentation",
+    "verify:article-fidelity": "node tooling/verify-engineering.mjs article-fidelity",
+    "verify:article-regions": "node tooling/verify-engineering.mjs article-regions",
+    "verify:article-reference": "node tooling/verify-engineering.mjs article-reference",
+    "verify:site-coverage": "node tooling/verify-engineering.mjs site-coverage",
+    "verify:article-family": "node tooling/verify-engineering.mjs article-family",
+    "verify:service-family": "node tooling/verify-engineering.mjs service-family",
+    "verify:company-pages": "node tooling/verify-engineering.mjs company-pages",
+    "verify:listing-pages": "node tooling/verify-engineering.mjs listing-pages",
+    "verify:visual-engineering": "node tooling/verify-engineering.mjs visual-engineering"
+  },
+  "dependencies": {
+    "next": "16.4.1",
+    "next-intl": "4.14.9",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "server-only": "0.0.1",
+    "zod": "4.6.7"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.64.1",
+    "@tailwindcss/postcss": "4.3.3",
+    "@types/node": "24.19.2",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "eslint": "9.39.5",
+    "eslint-config-next": "16.4.1",
+    "parse5": "8.0.1",
+    "prettier": "3.9.10",
+    "tailwindcss": "4.3.3",
+    "typescript": "5.9.3",
+    "vitest": "5.0.5"
+  }
+}

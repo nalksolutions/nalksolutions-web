@@ -1,0 +1,85 @@
+{
+  "headings": {
+    "desktop": {
+      "h1": 82,
+      "h2": 62,
+      "h3": 48,
+      "h4": 32,
+      "h5": 24,
+      "h6": 17
+    },
+    "tablet": {
+      "h1": 60,
+      "h2": 48,
+      "h3": 36,
+      "h4": 28,
+      "h5": 22,
+      "h6": 16
+    },
+    "mobile": {
+      "h1": 42,
+      "h2": 36,
+      "h3": 28,
+      "h4": 24,
+      "h5": 18,
+      "h6": 15
+    }
+  },
+  "taxonomySize": {
+    "desktop": 13,
+    "tablet": 12,
+    "mobile": 12
+  },
+  "blogColumns": {
+    "desktop": 3,
+    "tablet": 1,
+    "mobile": 1
+  },
+  "heroPaddingTop": {
+    "desktop": 245,
+    "tablet": 200,
+    "mobile": 160
+  },
+  "blogImageHeight": {
+    "tablet": 280,
+    "mobile": 172
+  },
+  "rowImageHeight": 300,
+  "sourceStylesheets": [
+    {
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/elementor/css/post-7.css",
+      "sha256": "0cf05ed20365526d8c233a5536e1a14dcfeaa9a3691913144b8a03dd1b6128cf"
+    },
+    {
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/elementor/css/post-133.css",
+      "sha256": "fd4997fda9bb7ec62ff15f6c68e1c13fa314d963585253558fb3cc340af71a83"
+    },
+    {
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/elementor/css/post-136.css",
+      "sha256": "1517b4a55402d15eeae4baba20f18ca6ecc8d265b7fa95c9f9a917b4001801aa"
+    },
+    {
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/elementor/css/post-26492.css",
+      "sha256": "a08d7d60fedd5ef04527f71c0c9d5a9d1ee70af61f78803e0b608beb1fbf0684"
+    },
+    {
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/elementor/css/post-110.css",
+      "sha256": "98bb856ea48e4819f9915d2c7f367ac583c06131100fba0288bb701d5e6568b2"
+    },
+    {
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/elementor/css/post-152.css",
+      "sha256": "0770b1c295706b7d11d64b3575cf68bcc83a0189119d8f5b650bc1175bef48d0"
+    },
+    {
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/elementor/css/post-149.css",
+      "sha256": "5ec2ab6823d68aff50c7eca20629935266f8e4e7eb953ec64efeab65db5e6f33"
+    }
+  ]
+}

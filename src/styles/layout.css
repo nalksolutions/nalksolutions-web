@@ -1,0 +1,77 @@
+/* D-22: shared section edges. Reading measures and full-bleed artwork remain intentional. */
+.home-inner-section,
+.home-introduction,
+.home-features {
+  padding-inline: var(--content-inset);
+}
+.home-feature-grid,
+.home-features > .home-section-heading {
+  max-width: var(--content-max);
+}
+.journey-section:is(.journey-contact, .journey-about-summary, .journey-article-offer) {
+  width: calc(100% - 2 * var(--page-gutter));
+  max-width: var(--content-max);
+  margin-inline: auto;
+}
+.journey-parent {
+  padding-inline: var(--page-gutter);
+}
+.content-service-section > .content-service-columns {
+  max-width: none;
+}
+.content-company-message .content-company-row {
+  max-width: var(--content-max);
+}
+.article-related {
+  padding-inline: var(--page-gutter);
+}
+.article-adjacent {
+  width: calc(100% - 2 * var(--page-gutter));
+  max-width: var(--content-max);
+  margin-inline: auto;
+}
+/* Rows stretch naturally; actions take remaining space instead of following copy length. */
+.home-feature:not(:first-child) .home-feature-copy {
+  flex: 1;
+}
+.home-feature-copy > .site-button {
+  margin-top: auto;
+}
+.journey-offer-card {
+  justify-content: flex-start;
+}
+.content-service-columns[data-columns='3']:not([data-service-card-grid])
+  > [class*='content-service-column-']:has(
+    > :is(.content-service-action, .content-service-action-center)
+  ),
+.content-service-columns[data-columns='2']:not([data-service-card-grid])
+  > [class*='content-service-column-']:has(
+    > :is(.content-service-action, .content-service-action-center)
+  ) {
+  display: flex;
+  flex-direction: column;
+}
+.content-service-columns[data-columns]:not([data-columns='1']):not([data-service-card-grid])
+  > [class*='content-service-column-']
+  > :is(.content-service-action, .content-service-action-center):last-child {
+  margin-top: auto;
+  padding-top: 24px;
+}
+.article-related-track {
+  align-items: stretch;
+}
+.article-card-image picture {
+  display: block;
+  height: 100%;
+}
+.article-card-content > .site-button {
+  margin-top: auto;
+}
+.article-card-content > h3 {
+  margin-bottom: 16px;
+}
+@media (max-width: 767px) {
+  .journey-section:is(.journey-contact, .journey-about-summary, .journey-article-offer) {
+    margin-inline: auto;
+  }
+}

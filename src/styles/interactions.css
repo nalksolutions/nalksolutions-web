@@ -1,0 +1,78 @@
+/* Source controls use 300ms ease and a 5px hover shift; gradients crossfade. */
+.marketing-site :where(a, button, summary) {
+  transition:
+    color 300ms ease,
+    background-color 300ms ease,
+    border-color 300ms ease,
+    box-shadow 300ms ease;
+}
+.marketing-site .site-button {
+  position: relative;
+  isolation: isolate;
+  color: #fff;
+  --button-hover-background: linear-gradient(70deg, #fff, #fffbbd 70%);
+  --button-hover-shift: 5px;
+  --button-easing: ease;
+  transition:
+    transform 400ms ease,
+    color 300ms var(--button-easing),
+    box-shadow 300ms ease;
+}
+.marketing-site .site-button-blue {
+  background: linear-gradient(70deg, #008cff 0%, #6d2785 70%);
+  box-shadow: none;
+  --button-hover-shift: 0px;
+  --button-easing: ease-in-out;
+}
+.marketing-site .site-button-outline {
+  --button-hover-background: #fffbbd;
+}
+.marketing-site .site-button-coral {
+  background: linear-gradient(70deg, #e0444f, #6d2785 70%);
+}
+.marketing-site .site-button-orange {
+  background: linear-gradient(70deg, #f94c2d, #6d2785 70%);
+}
+.marketing-site .site-button-reverse {
+  background: linear-gradient(70deg, #6d2785, #f94c2d 89%);
+}
+.site-header .site-button {
+  background: linear-gradient(70deg, #e0444f, #6d2883 70%);
+  --button-hover-background: linear-gradient(70deg, #fff, #e597ff 70%);
+}
+.marketing-site .site-button:not(:disabled):is(:hover, :focus-visible),
+.marketing-site .site-button-card:is(:hover, :focus-visible) .site-button {
+  transform: translateX(var(--button-hover-shift));
+  color: #020202;
+}
+.marketing-site .site-button::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background: var(--button-hover-background);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 300ms var(--button-easing);
+}
+.marketing-site .site-button:not(:disabled):is(:hover, :focus-visible)::before,
+.marketing-site .site-button-card:is(:hover, :focus-visible) .site-button::before {
+  opacity: 1;
+}
+.marketing-site .site-button:disabled {
+  cursor: not-allowed;
+  opacity: 0.65;
+  box-shadow: none;
+}
+@media (prefers-reduced-motion: reduce) {
+  .marketing-site :where(a, button, summary),
+  .marketing-site .site-button,
+  .marketing-site .site-button::before {
+    transition: none;
+  }
+  .marketing-site .site-button:not(:disabled):is(:hover, :focus-visible),
+  .marketing-site .site-button-card:is(:hover, :focus-visible) .site-button {
+    transform: none;
+  }
+}

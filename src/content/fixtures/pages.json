@@ -1,0 +1,701 @@
+{
+  "schemaVersion": 1,
+  "baselineId": "nalk-wordpress-2026-10-15",
+  "pages": [
+    {
+      "id": "R-91d9b62648d713d4",
+      "sourceRouteId": "R-91d9b62648d713d4",
+      "path": "/",
+      "kind": "marketing",
+      "locale": "en",
+      "status": "published",
+      "seo": {
+        "title": "Nalk Solutions | Technology, Design & Marketing in Saudi Arabia",
+        "description": "Nalk Solutions is a Saudi technology and creative company offering web and app development, digital marketing, SEO, and AI solutions across Riyadh, Jeddah and Dammam.",
+        "canonical": "https://nalksolutions.com/",
+        "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+        "googlebot": null,
+        "social": [
+          {
+            "property": "og:locale",
+            "content": "en_US"
+          },
+          {
+            "property": "og:type",
+            "content": "website"
+          },
+          {
+            "property": "og:title",
+            "content": "Nalk Solutions: Homepage"
+          },
+          {
+            "property": "og:description",
+            "content": "We're Nalk Solution — a next-gen IT and creative company that blends technology, design, and strategy to build smarter digital experiences and stronger brands."
+          },
+          {
+            "property": "og:url",
+            "content": "https://nalksolutions.com/"
+          },
+          {
+            "property": "og:site_name",
+            "content": "Nalk Solutions"
+          },
+          {
+            "property": "og:updated_time",
+            "content": "2026-10-11T09:10:15+00:00"
+          },
+          {
+            "property": "og:image",
+            "content": "https://nalksolutions.com/wp-content/uploads/2026/02/cropped-Nalk-logo.png"
+          },
+          {
+            "property": "og:image:secure_url",
+            "content": "https://nalksolutions.com/wp-content/uploads/2026/02/cropped-Nalk-logo.png"
+          },
+          {
+            "property": "og:image:width",
+            "content": "512"
+          },
+          {
+            "property": "og:image:height",
+            "content": "512"
+          },
+          {
+            "property": "og:image:alt",
+            "content": "nalk solutions"
+          },
+          {
+            "property": "og:image:type",
+            "content": "image/png"
+          },
+          {
+            "property": "twitter:card",
+            "content": "summary_large_image"
+          },
+          {
+            "property": "twitter:title",
+            "content": "Nalk Solutions: Homepage"
+          },
+          {
+            "property": "twitter:description",
+            "content": "We're Nalk Solution — a next-gen IT and creative company that blends technology, design, and strategy to build smarter digital experiences and stronger brands."
+          },
+          {
+            "property": "twitter:image",
+            "content": "https://nalksolutions.com/wp-content/uploads/2026/02/cropped-Nalk-logo.png"
+          },
+          {
+            "property": "twitter:label1",
+            "content": "Written by"
+          },
+          {
+            "property": "twitter:data1",
+            "content": "uhj1984@yahoo.com"
+          },
+          {
+            "property": "twitter:label2",
+            "content": "Time to read"
+          },
+          {
+            "property": "twitter:data2",
+            "content": "5 minutes"
+          }
+        ],
+        "jsonLd": []
+      },
+      "content": {
+        "heading": "Technology, Design, and Marketing for Saudi Business",
+        "paragraphs": [
+          "We are Nalk Solutions, a technology and creative company that builds, grows, and scales businesses across the Kingdom. We bring together digital marketing, custom web and app development, and AI and automation so the whole of your digital presence is handled in one place rather than stitched together from five different vendors. We work with companies in Riyadh, Jeddah, and Dammam and the Eastern Province, building work that fits the local market and supports the wider push of Vision 2030.",
+          "Serving businesses in Riyadh, Jeddah, Dammam & across KSA — aligned with Vision 2030.",
+          "We are Nalk Solutions, a technology and creative company that builds, grows, and scales businesses across the Kingdom. We bring together digital marketing, custom web and app development, and AI and automation so your whole digital presence is handled in one place."
+        ]
+      },
+      "provenance": {
+        "sourceHtml": "nalk-public-archive/html/source/home-91d9b62648d713d4.html",
+        "sourceSha256": "8789da8393a2581c3d895bab3f51a765d627450dd9ce402867b9718fcd8cc3c3",
+        "pageRecord": "nalk-public-archive/pages/home-91d9b62648d713d4.json",
+        "pageRecordSha256": "7916beb1fee19cf40a5bdc0e0c68fb8cb8f64fdbdbd577fb7e801edce80d5019",
+        "excerpt": true,
+        "headingFallback": false
+      }
+    },
+    {
+      "id": "R-56afdad51c5c96c4",
+      "sourceRouteId": "R-56afdad51c5c96c4",
+      "path": "/شركة-تقنية/",
+      "kind": "marketing",
+      "locale": "ar",
+      "status": "published",
+      "seo": {
+        "title": "نالك سولوشنز -شركة تقنية في السعودية",
+        "description": "نالك سولوشنز شركة تقنية في السعودية تقدم تطوير المواقع والتطبيقات والتسويق الرقمي وحلول الذكاء الاصطناعي للشركات في الرياض وجدة والدمام",
+        "canonical": "https://nalksolutions.com/%d8%b4%d8%b1%d9%83%d8%a9-%d8%aa%d9%82%d9%86%d9%8a%d8%a9/",
+        "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+        "googlebot": null,
+        "social": [
+          {
+            "property": "og:locale",
+            "content": "en_US"
+          },
+          {
+            "property": "og:type",
+            "content": "article"
+          },
+          {
+            "property": "og:title",
+            "content": "نالك سولوشنز -شركة تقنية في السعودية"
+          },
+          {
+            "property": "og:description",
+            "content": "نالك سولوشنز شركة تقنية في السعودية تقدم تطوير المواقع والتطبيقات والتسويق الرقمي وحلول الذكاء الاصطناعي للشركات في الرياض وجدة والدمام"
+          },
+          {
+            "property": "og:url",
+            "content": "https://nalksolutions.com/%d8%b4%d8%b1%d9%83%d8%a9-%d8%aa%d9%82%d9%86%d9%8a%d8%a9/"
+          },
+          {
+            "property": "og:site_name",
+            "content": "Nalk Solutions"
+          },
+          {
+            "property": "og:updated_time",
+            "content": "2026-09-09T12:33:58+00:00"
+          },
+          {
+            "property": "twitter:card",
+            "content": "summary_large_image"
+          },
+          {
+            "property": "twitter:title",
+            "content": "نالك سولوشنز -شركة تقنية في السعودية"
+          },
+          {
+            "property": "twitter:description",
+            "content": "نالك سولوشنز شركة تقنية في السعودية تقدم تطوير المواقع والتطبيقات والتسويق الرقمي وحلول الذكاء الاصطناعي للشركات في الرياض وجدة والدمام"
+          },
+          {
+            "property": "twitter:label1",
+            "content": "Time to read"
+          },
+          {
+            "property": "twitter:data1",
+            "content": "Less than a minute"
+          }
+        ],
+        "jsonLd": []
+      },
+      "content": {
+        "heading": "خدماتنا التقنية والتسويقية في السعودية",
+        "paragraphs": [
+          "Tell us a bit about your idea, and we’ll get back to you with a clear path forward.",
+          "نالك سولوشنز شركة تقنية في السعودية تقدّم حلولاً متكاملة في تطوير المواقع والتطبيقات والتسويق الرقمي والذكاء الاصطناعي. اختر الخدمة التي تناسبك للاطّلاع على التفاصيل."
+        ]
+      },
+      "provenance": {
+        "sourceHtml": "nalk-public-archive/html/source/home-56afdad51c5c96c4.html",
+        "sourceSha256": "90f738da3f1344e3e57129f2181a7960a6a62426bc80d5db6d279375b0c27806",
+        "pageRecord": "nalk-public-archive/pages/home-56afdad51c5c96c4.json",
+        "pageRecordSha256": "98978eab142ed4366f86fb9839713c9deb3a0a06f92a608c804d0e417a4b2cf5",
+        "excerpt": true,
+        "headingFallback": false
+      }
+    },
+    {
+      "id": "R-4cd90575d3ca57e7",
+      "sourceRouteId": "R-4cd90575d3ca57e7",
+      "path": "/category/digital-marketing-strategy/",
+      "kind": "archive",
+      "locale": "en",
+      "status": "published",
+      "seo": {
+        "title": "Digital Marketing Strategy & Fundamentals Blogs- Nalk Solutions",
+        "description": null,
+        "canonical": "https://nalksolutions.com/category/digital-marketing-strategy/",
+        "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+        "googlebot": null,
+        "social": [
+          {
+            "property": "og:locale",
+            "content": "en_US"
+          },
+          {
+            "property": "og:type",
+            "content": "article"
+          },
+          {
+            "property": "og:title",
+            "content": "Digital Marketing Strategy & Fundamentals Blogs- Nalk Solutions"
+          },
+          {
+            "property": "og:url",
+            "content": "https://nalksolutions.com/category/digital-marketing-strategy/"
+          },
+          {
+            "property": "og:site_name",
+            "content": "Nalk Solutions"
+          },
+          {
+            "property": "twitter:card",
+            "content": "summary_large_image"
+          },
+          {
+            "property": "twitter:title",
+            "content": "Digital Marketing Strategy & Fundamentals Blogs- Nalk Solutions"
+          },
+          {
+            "property": "twitter:label1",
+            "content": "Posts"
+          },
+          {
+            "property": "twitter:data1",
+            "content": "7"
+          }
+        ],
+        "jsonLd": []
+      },
+      "content": {
+        "heading": "Category: Digital Marketing Strategy & Fundamentals",
+        "paragraphs": [
+          "Tell us a bit about your idea, and we’ll get back to you with a clear path forward.",
+          "Quick Answer Social media marketing in Saudi Arabia typically costs between SAR 2,000 and SAR 40,000 per month, …",
+          "الشراء لدى المستهلك السعودي. أي شركة تستهدف جمهوراً سعودياً، سواء كانت متجراً إلكترونياً أو شركة خدمات أو علامة …"
+        ]
+      },
+      "provenance": {
+        "sourceHtml": "nalk-public-archive/html/source/category-digital-marketing-strategy-4cd90575d3ca57e7.html",
+        "sourceSha256": "b63a0e44e06705e1e2a3b28054f0ca28c12d30006795d988c75a32026cc6651f",
+        "pageRecord": "nalk-public-archive/pages/category-digital-marketing-strategy-4cd90575d3ca57e7.json",
+        "pageRecordSha256": "ffd6ba715dbd811d4f19d68d135da0185d4250c95cd35476fa1e363e9687a2f5",
+        "excerpt": true,
+        "headingFallback": false
+      }
+    },
+    {
+      "id": "R-5d7c48759714228a",
+      "sourceRouteId": "R-5d7c48759714228a",
+      "path": "/category/digital-marketing-strategy/page/2/",
+      "kind": "archive",
+      "locale": "en",
+      "status": "published",
+      "seo": {
+        "title": "Digital Marketing Strategy & Fundamentals Blogs- Nalk Solutions",
+        "description": null,
+        "canonical": "https://nalksolutions.com/category/digital-marketing-strategy/page/2/",
+        "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+        "googlebot": null,
+        "social": [
+          {
+            "property": "og:locale",
+            "content": "en_US"
+          },
+          {
+            "property": "og:type",
+            "content": "article"
+          },
+          {
+            "property": "og:title",
+            "content": "Digital Marketing Strategy & Fundamentals Blogs- Nalk Solutions"
+          },
+          {
+            "property": "og:url",
+            "content": "https://nalksolutions.com/category/digital-marketing-strategy/page/2/"
+          },
+          {
+            "property": "og:site_name",
+            "content": "Nalk Solutions"
+          },
+          {
+            "property": "twitter:card",
+            "content": "summary_large_image"
+          },
+          {
+            "property": "twitter:title",
+            "content": "Digital Marketing Strategy & Fundamentals Blogs- Nalk Solutions"
+          },
+          {
+            "property": "twitter:label1",
+            "content": "Posts"
+          },
+          {
+            "property": "twitter:data1",
+            "content": "7"
+          }
+        ],
+        "jsonLd": []
+      },
+      "content": {
+        "heading": "Category: Digital Marketing Strategy & Fundamentals",
+        "paragraphs": [
+          "Tell us a bit about your idea, and we’ll get back to you with a clear path forward.",
+          "How much do Google Ads and SEO cost in Saudi Arabia? For most businesses in 2026, expect SAR …",
+          "What is a winning digital channel strategy in 2026? A winning digital channel strategy in 2026 follows ten …"
+        ]
+      },
+      "provenance": {
+        "sourceHtml": "nalk-public-archive/html/source/category-digital-marketing-strategy-page-2-5d7c48759714228a.html",
+        "sourceSha256": "36380ecc780cac89f882a8a3941d39649983c1dd5ca195f9767077624bfcc173",
+        "pageRecord": "nalk-public-archive/pages/category-digital-marketing-strategy-page-2-5d7c48759714228a.json",
+        "pageRecordSha256": "8a25aff751a5191a1467685be494b6db9a12bc9a8cbd9d280e449ce1b35d73b3",
+        "excerpt": true,
+        "headingFallback": false
+      }
+    },
+    {
+      "id": "R-d5fcda349535d138",
+      "sourceRouteId": "R-d5fcda349535d138",
+      "path": "/cmsms_profile/daniel-foster/",
+      "kind": "profile",
+      "locale": "en",
+      "status": "published",
+      "seo": {
+        "title": "Daniel Foster - Nalk Solutions",
+        "description": "With a passion for innovation and problem-solving, this professional has dedicated years to advancing expertise in technology and strategy. Their journey",
+        "canonical": null,
+        "robots": "follow, noindex",
+        "googlebot": null,
+        "social": [
+          {
+            "property": "og:locale",
+            "content": "en_US"
+          },
+          {
+            "property": "og:type",
+            "content": "article"
+          },
+          {
+            "property": "og:title",
+            "content": "Daniel Foster - Nalk Solutions"
+          },
+          {
+            "property": "og:description",
+            "content": "With a passion for innovation and problem-solving, this professional has dedicated years to advancing expertise in technology and strategy. Their journey"
+          },
+          {
+            "property": "og:url",
+            "content": "https://nalksolutions.com/cmsms_profile/daniel-foster/"
+          },
+          {
+            "property": "og:site_name",
+            "content": "Nalk Solutions"
+          },
+          {
+            "property": "og:image",
+            "content": "https://nalksolutions.com/wp-content/uploads/2025/08/71-profile-5.webp"
+          },
+          {
+            "property": "og:image:secure_url",
+            "content": "https://nalksolutions.com/wp-content/uploads/2025/08/71-profile-5.webp"
+          },
+          {
+            "property": "og:image:width",
+            "content": "1180"
+          },
+          {
+            "property": "og:image:height",
+            "content": "1435"
+          },
+          {
+            "property": "og:image:alt",
+            "content": "Daniel Foster"
+          },
+          {
+            "property": "og:image:type",
+            "content": "image/webp"
+          },
+          {
+            "property": "twitter:card",
+            "content": "summary_large_image"
+          },
+          {
+            "property": "twitter:title",
+            "content": "Daniel Foster - Nalk Solutions"
+          },
+          {
+            "property": "twitter:description",
+            "content": "With a passion for innovation and problem-solving, this professional has dedicated years to advancing expertise in technology and strategy. Their journey"
+          },
+          {
+            "property": "twitter:image",
+            "content": "https://nalksolutions.com/wp-content/uploads/2025/08/71-profile-5.webp"
+          }
+        ],
+        "jsonLd": []
+      },
+      "content": {
+        "heading": "Daniel Foster",
+        "paragraphs": [
+          "Tell us a bit about your idea, and we’ll get back to you with a clear path forward.",
+          "With a passion for innovation and problem-solving, this professional has dedicated years to advancing expertise in technology and strategy. Their journey began with a strong educational foundation and has grown into a career marked by creativity, precision, and impact. Skilled in bridging ideas with execution, they thrive in environments that demand both technical excellence and visionary thinking. Over the years, they have honed their ability to collaborate across disciplines, ensuring projects are both effective and user-centered. A commitment to continuous learning drives them to stay at the forefront of industry trends and best practices.",
+          "Whether building solutions, designing experiences, or shaping growth strategies, they approach every task with dedication and purpose. They believe in teamwork as a cornerstone of success and value the diversity of ideas that collaboration brings. Resilient and adaptable, they see challenges as opportunities to innovate and grow. Their work is not only a profession but also a calling to create meaningful change. Every project is guided by the principle of making technology and strategy serve people in powerful, lasting ways."
+        ]
+      },
+      "provenance": {
+        "sourceHtml": "nalk-public-archive/html/source/cmsms-profile-daniel-foster-d5fcda349535d138.html",
+        "sourceSha256": "9f6c698f35aa2dcdf21f9466174417261d2ca08dddcb7786626bcd8c2708ba64",
+        "pageRecord": "nalk-public-archive/pages/cmsms-profile-daniel-foster-d5fcda349535d138.json",
+        "pageRecordSha256": "1945dcba328996164e2ad4ee90959635c5e5117db8f8bfd94db09cf4f4456476",
+        "excerpt": true,
+        "headingFallback": false
+      }
+    },
+    {
+      "id": "R-a0ac0f2631af30d8",
+      "sourceRouteId": "R-a0ac0f2631af30d8",
+      "path": "/contacts/",
+      "kind": "marketing",
+      "locale": "en",
+      "status": "published",
+      "seo": {
+        "title": "Contacts - Nalk Solutions",
+        "description": "Have a project in mind or a question to ask?We’re here to listen, plan, and bring your ideas to life.",
+        "canonical": "https://nalksolutions.com/contacts/",
+        "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+        "googlebot": null,
+        "social": [
+          {
+            "property": "og:locale",
+            "content": "en_US"
+          },
+          {
+            "property": "og:type",
+            "content": "article"
+          },
+          {
+            "property": "og:title",
+            "content": "Contacts - Nalk Solutions"
+          },
+          {
+            "property": "og:description",
+            "content": "Have a project in mind or a question to ask?We’re here to listen, plan, and bring your ideas to life."
+          },
+          {
+            "property": "og:url",
+            "content": "https://nalksolutions.com/contacts/"
+          },
+          {
+            "property": "og:site_name",
+            "content": "Nalk Solutions"
+          },
+          {
+            "property": "og:updated_time",
+            "content": "2026-05-16T21:36:26+00:00"
+          },
+          {
+            "property": "og:image",
+            "content": "https://nalksolutions.com/wp-content/uploads/2025/10/Contact-us.png"
+          },
+          {
+            "property": "og:image:secure_url",
+            "content": "https://nalksolutions.com/wp-content/uploads/2025/10/Contact-us.png"
+          },
+          {
+            "property": "og:image:width",
+            "content": "1280"
+          },
+          {
+            "property": "og:image:height",
+            "content": "800"
+          },
+          {
+            "property": "og:image:alt",
+            "content": "Contacts"
+          },
+          {
+            "property": "og:image:type",
+            "content": "image/png"
+          },
+          {
+            "property": "twitter:card",
+            "content": "summary_large_image"
+          },
+          {
+            "property": "twitter:title",
+            "content": "Contacts - Nalk Solutions"
+          },
+          {
+            "property": "twitter:description",
+            "content": "Have a project in mind or a question to ask?We’re here to listen, plan, and bring your ideas to life."
+          },
+          {
+            "property": "twitter:image",
+            "content": "https://nalksolutions.com/wp-content/uploads/2025/10/Contact-us.png"
+          },
+          {
+            "property": "twitter:label1",
+            "content": "Time to read"
+          },
+          {
+            "property": "twitter:data1",
+            "content": "Less than a minute"
+          }
+        ],
+        "jsonLd": []
+      },
+      "content": {
+        "heading": "Contacts - Nalk Solutions",
+        "paragraphs": [
+          "Tell us a bit about your idea, and we’ll get back to you with a clear path forward.",
+          "Have a project in mind or a question to ask?We’re here to listen, plan, and bring your ideas to life.",
+          "We’re here to walk alongside you on your wellness journey. Whether you have questions about our services, want to book an appointment, or simply need guidance, our team is ready to help."
+        ]
+      },
+      "provenance": {
+        "sourceHtml": "nalk-public-archive/html/source/contacts-a0ac0f2631af30d8.html",
+        "sourceSha256": "9d1eeae61dae3a1e1aba850e8f18312e537f291cd12814a5fb5957e3c818794b",
+        "pageRecord": "nalk-public-archive/pages/contacts-a0ac0f2631af30d8.json",
+        "pageRecordSha256": "3d49bb77d54463cc0f446d29862d2dac8b74e9a532ecf8b6bf0c140d5123c5f4",
+        "excerpt": true,
+        "headingFallback": true
+      }
+    },
+    {
+      "id": "R-fbbead80b209e23c",
+      "sourceRouteId": "R-fbbead80b209e23c",
+      "path": "/how-to-build-an-api-from-scratch-a-step-by-step-guide/",
+      "kind": "article",
+      "locale": "en",
+      "status": "published",
+      "seo": {
+        "title": "How to Build an API from Scratch: Step-by-Step Guide",
+        "description": "How to Build an API with Python, JavaScript, Java, or C#. A step-by-step guide covering planning, coding, testing, security, and deployment",
+        "canonical": "https://nalksolutions.com/how-to-build-an-api-from-scratch-a-step-by-step-guide/",
+        "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+        "googlebot": null,
+        "social": [
+          {
+            "property": "og:locale",
+            "content": "en_US"
+          },
+          {
+            "property": "og:type",
+            "content": "article"
+          },
+          {
+            "property": "og:title",
+            "content": "How to Build an API from Scratch: Step-by-Step Guide"
+          },
+          {
+            "property": "og:description",
+            "content": "How to Build an API with Python, JavaScript, Java, or C#. A step-by-step guide covering planning, coding, testing, security, and deployment"
+          },
+          {
+            "property": "og:url",
+            "content": "https://nalksolutions.com/how-to-build-an-api-from-scratch-a-step-by-step-guide/"
+          },
+          {
+            "property": "og:site_name",
+            "content": "Nalk Solutions"
+          },
+          {
+            "property": "og:updated_time",
+            "content": "2026-08-11T22:18:24+00:00"
+          },
+          {
+            "property": "og:image",
+            "content": "https://nalksolutions.com/wp-content/uploads/2026/07/blog-image-API-6-1024x683.png"
+          },
+          {
+            "property": "og:image:secure_url",
+            "content": "https://nalksolutions.com/wp-content/uploads/2026/07/blog-image-API-6-1024x683.png"
+          },
+          {
+            "property": "og:image:width",
+            "content": "1024"
+          },
+          {
+            "property": "og:image:height",
+            "content": "683"
+          },
+          {
+            "property": "og:image:alt",
+            "content": "How to Build an API"
+          },
+          {
+            "property": "og:image:type",
+            "content": "image/png"
+          },
+          {
+            "property": "twitter:card",
+            "content": "summary_large_image"
+          },
+          {
+            "property": "twitter:title",
+            "content": "How to Build an API from Scratch: Step-by-Step Guide"
+          },
+          {
+            "property": "twitter:description",
+            "content": "How to Build an API with Python, JavaScript, Java, or C#. A step-by-step guide covering planning, coding, testing, security, and deployment"
+          },
+          {
+            "property": "twitter:image",
+            "content": "https://nalksolutions.com/wp-content/uploads/2026/07/blog-image-API-6-1024x683.png"
+          },
+          {
+            "property": "twitter:label1",
+            "content": "Written by"
+          },
+          {
+            "property": "twitter:data1",
+            "content": "uhj1984@yahoo.com"
+          },
+          {
+            "property": "twitter:label2",
+            "content": "Time to read"
+          },
+          {
+            "property": "twitter:data2",
+            "content": "17 minutes"
+          }
+        ],
+        "jsonLd": [
+          {
+            "@context": "https://schema.org",
+            "@type": "BlogPosting",
+            "headline": "How to Build an API from Scratch: Step-by-Step Guide",
+            "keywords": "How to Build an API",
+            "datePublished": "2026-07-07T14:22:20+00:00",
+            "dateModified": "2026-08-11T22:18:24+00:00",
+            "author": {
+              "@id": "https://nalksolutions.com/how-to-build-an-api-from-scratch-a-step-by-step-guide/#author",
+              "name": "uhj1984@yahoo.com"
+            },
+            "publisher": {
+              "@id": "https://nalksolutions.com/#organization"
+            },
+            "description": "How to Build an API with Python, JavaScript, Java, or C#. A step-by-step guide covering planning, coding, testing, security, and deployment",
+            "name": "How to Build an API from Scratch: Step-by-Step Guide",
+            "@id": "https://nalksolutions.com/how-to-build-an-api-from-scratch-a-step-by-step-guide/#richSnippet",
+            "isPartOf": {
+              "@id": "https://nalksolutions.com/how-to-build-an-api-from-scratch-a-step-by-step-guide/#webpage"
+            },
+            "image": {
+              "@id": "https://nalksolutions.com/wp-content/uploads/2026/07/blog-image-API-6-scaled.png"
+            },
+            "inLanguage": "en-US",
+            "mainEntityOfPage": {
+              "@id": "https://nalksolutions.com/how-to-build-an-api-from-scratch-a-step-by-step-guide/#webpage"
+            }
+          }
+        ]
+      },
+      "content": {
+        "heading": "How to Build an API from Scratch: A Step-by-Step Guide",
+        "articleId": "wordpress-post-59034",
+        "paragraphs": [
+          "Tell us a bit about your idea, and we’ll get back to you with a clear path forward.",
+          "An API (Application Programming Interface) is a set of rules that lets two software applications communicate. To build an API from scratch, follow six steps: (1) Define its purpose and endpoints (2) Choose a language such as Python, JavaScript, Java, or C# (3) Set up your development environment (4) Write your routes and business logic …",
+          "An API (Application Programming Interface) is a set of rules that lets two software applications communicate. To build an API from scratch, follow six steps:"
+        ]
+      },
+      "provenance": {
+        "sourceHtml": "nalk-public-archive/html/source/how-to-build-an-api-from-scratch-a-step-by-step-guide-fbbead80b209e23c.html",
+        "sourceSha256": "02fa806a6e69274b0abce59ef4a62c3a3c945f18dd65a22a154e2fbd2e41ef40",
+        "pageRecord": "nalk-public-archive/pages/how-to-build-an-api-from-scratch-a-step-by-step-guide-fbbead80b209e23c.json",
+        "pageRecordSha256": "a4426d84d09b540c105c15e11827780ff822a5cf7f5cded8e290d52c39d4a8fe",
+        "excerpt": true,
+        "headingFallback": false
+      }
+    }
+  ]
+}

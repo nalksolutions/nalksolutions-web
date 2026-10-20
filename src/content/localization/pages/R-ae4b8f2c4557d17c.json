@@ -1,0 +1,2161 @@
+{
+  "entityId": "R-ae4b8f2c4557d17c",
+  "path": "/ar/locations-website-development-dammam-eastern-province/",
+  "publication": {
+    "ready": true,
+    "acceptance": "ownerManaged"
+  },
+  "review": {
+    "status": "inReview",
+    "reviewer": null,
+    "approvedAt": null,
+    "translationRevision": "arabic-content-1",
+    "sourceInputs": [
+      {
+        "path": "src/content/site/pages.generated.json",
+        "sha256": "7cd8249a8f5b73200fb4c39193dc5469fa0cc595cc493904a611272606512429"
+      },
+      {
+        "path": "src/content/site/documents/R-ae4b8f2c4557d17c.json",
+        "sha256": "d24c30c756667d94aaa20e920dcd99da86e57872eecf7cc972ac9bb83babc0f2"
+      }
+    ]
+  },
+  "seo": {
+    "title": "أفضل تطوير موقع إلكتروني الدمام | خبراء الويب بالمنطقة الشرقية",
+    "description": "تطوير مواقع إنترنت احترافية في الدمام والمنطقة الشرقية. نقوم ببناء مواقع إلكترونية آمنة وثنائية اللغة ومتوافقة مع الأجهزة المحمولة وبوابات B2B مصممة خصيصًا للشركات السعودية."
+  },
+  "heading": "تطوير المواقع الإلكترونية في الدمام والمنطقة الشرقية، المملكة العربية السعودية",
+  "blocks": {},
+  "imageAlts": {},
+  "issues": [
+    "Machine-assisted offline authoring; linguistic acceptance managed internally by the owner."
+  ],
+  "document": {
+    "nodes": [
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-hero",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-100",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h1",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تطوير المواقع الإلكترونية في الدمام والمنطقة الشرقية، المملكة العربية السعودية"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "تلبّي خدمات نالك سوليوشنز لتطوير المواقع في الدمام والمنطقة الشرقية المتطلبات التقنية والتجارية للشركات في هذا المركز الصناعي. نفهم طبيعة التعامل بين الشركات، واحتياجات ربط الأنظمة في المنشآت الصناعية، ومبادرات التحول الرقمي التي تغيّر أسلوب العمل في المنطقة."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "تقود المنطقة الشرقية معظم الناتج الاقتصادي للمملكة العربية السعودية من خلال إنتاج الطاقة والبتروكيماويات والتصنيع والصناعات الداعمة. تستضيف الدمام والخبر والظهران والمنطقة الأوسع الشركات الكبرى والمرافق الصناعية ومقدمي الخدمات الذين يحتاجون إلى منصات رقمية متطورة تدعم العمليات المعقدة."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/contacts/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n\nجدولة استشارة المنطقة الشرقية \n\n"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-statistics",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-25",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-counter",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-title",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "سنوات الخبرة"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-number",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": []
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "15"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "+"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-25",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-counter",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-title",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "المشاريع التي تم تسليمها"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-number",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": []
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "200"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "+"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-25",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-counter",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-title",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "رضا العميل"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-number",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": []
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "98"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "%"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-25",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h5",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "نخدم الرياض وجدة والدمام"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-100",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "توفير نالك سوليوشنز للمنطقة الشرقية"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تصميم للجماهير الصناعية وB2B"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "تتطلب مواقع الويب التي تخدم الجماهير الصناعية في المنطقة الشرقية أساليب تصميم مختلفة عن المواقع التي تواجه المستهلك. نقوم بإنشاء تصميمات احترافية وذات مصداقية تنقل الكفاءة، وتنظم المعلومات المعقدة بشكل واضح ومنطقي، وتوفر تنقلًا فعالاً للمحتوى الرئيسي، وتعمل بشكل جيد على الأجهزة المستخدمة في البيئات الصناعية."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "مع الحفاظ على العرض التقديمي الاحترافي، فإننا نضمن أن تظل المواقع حديثة ومتوافقة مع معايير الويب الحالية بدلاً من أن تبدو قديمة."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/services-custom-website-development-saudi-arabia/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n\nتعرف على المزيد حول خدمات تطوير الويب المخصصة لدينا\n\n"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "العربية والإنجليزية للمحتوى الفني"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "عادةً ما تحتاج مواقع B2B بالمنطقة الشرقية إلى نسختين باللغتين العربية والإنجليزية، ولكن المحتوى الفني يمثل تحديات في الترجمة. نحن نعمل مع مترجمين يفهمون المصطلحات الصناعية والتقنية، مما يضمن أن المحتوى العربي يستخدم المفردات التقنية المناسبة مع الحفاظ على الوضوح وسهولة الوصول إليه."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "يتضمن التنفيذ السليم للمواقع التقنية ثنائية اللغة مصطلحات متسقة عبر اللغات، وتنسيقًا مناسبًا للمواصفات الفنية، وإصدارات مناسبة للغة من المستندات والموارد الفنية."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/services-api-integration-saudi-arabia/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n\nاستكشف خدمات تكامل واجهة برمجة التطبيقات (API) الخاصة بنا\n\n"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "اعتبارات البنية التحتية التقنية"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "تدعم البنية التحتية الرقمية للمنطقة الشرقية تطبيقات الويب المتطورة، لكن البيئات الصناعية تمثل أحيانًا تحديات فريدة. نحن نصمم حلولاً تعمل بشكل موثوق داخل شبكات الشركة، وتتعامل مع سيناريوهات الاتصال المختلفة، وتتكامل مع البنية التحتية الحالية، وتلبي متطلبات الأداء للتطبيقات المهمة للأعمال."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "غالبًا ما تتضمن استراتيجيات نشر السحابة في المنطقة أساليب مختلطة تستخدم كلاً من الخدمات السحابية والبنية التحتية المحلية اعتمادًا على متطلبات الأمان واحتياجات التكامل."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/services-ui-ux-design-saudi-arabia/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n\nاكتشف خدماتنا في تصميم واجهة المستخدم/تجربة المستخدم\n\n"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "التكامل مع أنظمة المؤسسات"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "عادةً ما تستخدم شركات المنطقة الشرقية برامج المؤسسات لإدارة العمليات. يجب أن تتكامل منصات الويب مع هذه الأنظمة لتوفير القيمة. تتضمن عمليات التكامل الشائعة SAP لتخطيط موارد المؤسسات والمشتريات، وأنظمة Oracle لمختلف وظائف الأعمال، والأنظمة القديمة المخصصة، وSharePoint لإدارة المستندات، وActive Directory للمصادقة."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "لدينا خبرة واسعة في التعامل مع المتطلبات الفنية وعمليات الموافقة لدمج منصات الويب مع أنظمة المؤسسات في البيئات الصناعية."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/services-pwa-development-in-saudi-arabia/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n\nتعرف على تطوير PWA\n\n"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "متطلبات الأمان والامتثال"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "تواجه الشركات الصناعية متطلبات أمنية صارمة لمنصات الويب، خاصة عند التكامل مع الأنظمة الداخلية أو التعامل مع المعلومات الحساسة. نحن ننفذ تدابير أمنية بما في ذلك فصل الشبكة وجدران الحماية، ونقل البيانات المشفرة، وآليات المصادقة الآمنة، وكشف التسلل ومنعه، والتدقيق والتحديثات الأمنية المنتظمة."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "بالنسبة للشركات في الصناعات الخاضعة للتنظيم، قد تتضمن متطلبات الامتثال أطر عمل الأمن السيبراني، ولوائح حماية البيانات، والمعايير الخاصة بالصناعة. نقوم بتصميم وبناء منصات الويب التي تلبي هذه المتطلبات من الألف إلى الياء."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/services-cloud-portal-development-saudi-arabia/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n\nاكتشف حلول البوابة السحابية\n\n"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-100",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "ابدأ مشروعك بالمنطقة الشرقية"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "تبدأ المشاريع بالتشاور حيث نتعرف على عمليات عملك، ونفهم أهدافك الرقمية، ونحدد متطلبات التكامل، ونناقش الاعتبارات التنظيمية أو الأمنية."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "نقوم بعد ذلك بتطوير مقترح شامل يوضح النهج الموصى به والبنية الفنية واستراتيجية التكامل والجدول الزمني والاستثمار المطلوب. يبدأ التطوير عادةً خلال أسبوعين إلى ثلاثة أسابيع من الموافقة، مع اختلاف الجداول الزمنية بناءً على نطاق المشروع."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "b",
+                            "attributes": {},
+                            "variant": null,
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "حدد موعدًا لاستشارتك في المنطقة الشرقية"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/contacts/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n\nاتصل بنا الآن\n\n"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ]
+  },
+  "sourceSnapshot": {
+    "id": "R-ae4b8f2c4557d17c",
+    "sourceRouteId": "R-ae4b8f2c4557d17c",
+    "path": "/locations-website-development-dammam-eastern-province/",
+    "kind": "marketing",
+    "locale": "en",
+    "status": "published",
+    "seo": {
+      "title": "Best Website Development Dammam | Eastern Province Web Experts",
+      "description": "Professional web development in Dammam and Eastern Province. We build secure, bilingual, mobile-friendly websites and B2B portals tailored for Saudi businesses.",
+      "canonical": "https://nalksolutions.com/locations-website-development-dammam-eastern-province/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "googlebot": null,
+      "social": [
+        {
+          "property": "og:locale",
+          "content": "en_US"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Best Website Development Dammam | Eastern Province Web Experts"
+        },
+        {
+          "property": "og:description",
+          "content": "Professional web development in Dammam and Eastern Province. We build secure, bilingual, mobile-friendly websites and B2B portals tailored for Saudi businesses."
+        },
+        {
+          "property": "og:url",
+          "content": "https://nalksolutions.com/locations-website-development-dammam-eastern-province/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Nalk Solutions"
+        },
+        {
+          "property": "og:updated_time",
+          "content": "2026-07-19T16:10:52+00:00"
+        },
+        {
+          "property": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "property": "twitter:title",
+          "content": "Best Website Development Dammam | Eastern Province Web Experts"
+        },
+        {
+          "property": "twitter:description",
+          "content": "Professional web development in Dammam and Eastern Province. We build secure, bilingual, mobile-friendly websites and B2B portals tailored for Saudi businesses."
+        },
+        {
+          "property": "twitter:label1",
+          "content": "Time to read"
+        },
+        {
+          "property": "twitter:data1",
+          "content": "2 minutes"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Place",
+              "@id": "https://nalksolutions.com/#place",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              }
+            },
+            {
+              "@type": ["ProfessionalService", "Organization"],
+              "@id": "https://nalksolutions.com/#organization",
+              "name": "Nalk Solutions",
+              "url": "https://nalksolutions.com",
+              "email": "info@nalksolutions.com",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              },
+              "logo": {
+                "@type": "ImageObject",
+                "@id": "https://nalksolutions.com/#logo",
+                "url": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "contentUrl": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "caption": "Nalk Solutions",
+                "inLanguage": "en-US",
+                "width": "1563",
+                "height": "1563"
+              },
+              "openingHours": ["Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"],
+              "description": "Nalk provides Nalk Solutions is a technology company in Saudi Arabia; delivering digital marketing, web development, app development &amp; IT solutions across Riyadh, Jeddah and all major cities across the kingdom.",
+              "legalName": "uhj1984@yahoo.com",
+              "location": {
+                "@id": "https://nalksolutions.com/#place"
+              },
+              "image": {
+                "@id": "https://nalksolutions.com/#logo"
+              },
+              "telephone": "+966506000843"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://nalksolutions.com/#website",
+              "url": "https://nalksolutions.com",
+              "name": "Nalk Solutions",
+              "publisher": {
+                "@id": "https://nalksolutions.com/#organization"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://nalksolutions.com/locations-website-development-dammam-eastern-province/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": "1",
+                  "item": {
+                    "@id": "https://nalksolutions.com",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "position": "2",
+                  "item": {
+                    "@id": "https://nalksolutions.com/locations-website-development-dammam-eastern-province/",
+                    "name": "Web Development in Dammam and Eastern Province"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://nalksolutions.com/locations-website-development-dammam-eastern-province/#webpage",
+              "url": "https://nalksolutions.com/locations-website-development-dammam-eastern-province/",
+              "name": "Best Website Development Dammam | Eastern Province Web Experts",
+              "datePublished": "2026-05-09T15:06:21+00:00",
+              "dateModified": "2026-07-19T16:10:52+00:00",
+              "isPartOf": {
+                "@id": "https://nalksolutions.com/#website"
+              },
+              "inLanguage": "en-US",
+              "breadcrumb": {
+                "@id": "https://nalksolutions.com/locations-website-development-dammam-eastern-province/#breadcrumb"
+              }
+            },
+            {
+              "@type": "Service",
+              "name": "Best Website Development Dammam | Eastern Province Web Experts",
+              "description": "Professional web development in Dammam and Eastern Province. We build secure, bilingual, mobile-friendly websites and B2B portals tailored for Saudi businesses.",
+              "offers": {
+                "@type": "Offer",
+                "availability": "InStock"
+              },
+              "@id": "https://nalksolutions.com/locations-website-development-dammam-eastern-province/#schema-23979",
+              "mainEntityOfPage": {
+                "@id": "https://nalksolutions.com/locations-website-development-dammam-eastern-province/#webpage"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "content": {
+      "heading": "Web Development in Dammam and Eastern Province, Saudi Arabia\n",
+      "paragraphs": ["Web Development in Dammam and Eastern Province, Saudi Arabia\n"],
+      "documentId": "R-ae4b8f2c4557d17c"
+    },
+    "provenance": {
+      "sourceHtml": "nalk-public-archive/html/source/locations-website-development-dammam-eastern-province-ae4b8f2c4557d17c.html",
+      "sourceSha256": "6e1aa301592dc45280dc665bf0ff8511029dd230464485b6f35a35c59ae3e46e",
+      "pageRecord": "nalk-public-archive/pages/locations-website-development-dammam-eastern-province-ae4b8f2c4557d17c.json",
+      "pageRecordSha256": "6beca0306d3a66e0cc0280e3e8b22ade0d45baa6dae67924ada0b63a2a3a2abc",
+      "excerpt": false,
+      "headingFallback": false
+    }
+  }
+}

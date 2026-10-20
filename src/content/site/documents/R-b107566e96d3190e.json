@@ -1,0 +1,429 @@
+{
+  "id": "R-b107566e96d3190e",
+  "path": "/cmsms_profile_category/lead-ux-ui-designer/",
+  "locale": "en",
+  "family": "profile-taxonomy",
+  "nodes": [
+    {
+      "type": "text",
+      "text": " "
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {},
+      "variant": "secondary-hero",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "secondary-heading",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "h1",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Profile Category: "
+                },
+                {
+                  "type": "text",
+                  "text": "Lead UX/UI Designer"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "secondary-breadcrumbs",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "a",
+              "attributes": {
+                "href": "/"
+              },
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Home"
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "secondary-breadcrumb-separator",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "Lead UX/UI Designer"
+            },
+            {
+              "type": "text",
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {},
+      "variant": "secondary-team-grid-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "secondary-inner",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "secondary-team-grid",
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "article",
+                  "attributes": {
+                    "id": "post-2975"
+                  },
+                  "variant": "secondary-team-card",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/cmsms_profile/maya-brooks/"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "secondary-inner",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "secondary-team-image",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "img",
+                                  "attributes": {
+                                    "src": "/wp-content/uploads/2025/08/71-profile-2-768x934.webp",
+                                    "alt": "",
+                                    "width": "768",
+                                    "height": "934",
+                                    "srcset": "/wp-content/uploads/2025/08/71-profile-2-768x934.webp 768w, /wp-content/uploads/2025/08/71-profile-2-247x300.webp 247w, /wp-content/uploads/2025/08/71-profile-2-842x1024.webp 842w, /wp-content/uploads/2025/08/71-profile-2-600x730.webp 600w, /wp-content/uploads/2025/08/71-profile-2.webp 1180w",
+                                    "sizes": "(max-width: 768px) 100vw, 768px"
+                                  },
+                                  "variant": null,
+                                  "children": []
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "secondary-team-arrow",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "listing-arrow",
+                                  "children": []
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "secondary-team-name",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "h5",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "a",
+                              "attributes": {
+                                "href": "/cmsms_profile/maya-brooks/"
+                              },
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "Maya Brooks"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "secondary-team-taxonomy",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "a",
+                          "attributes": {
+                            "href": "/cmsms_profile_category/lead-ux-ui-designer/",
+                            "rel": "category tag"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Lead UX/UI Designer"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ],
+              "entrance": {
+                "kind": "fade",
+                "delay": 600
+              }
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    }
+  ],
+  "secondaryLayout": "profile-archive"
+}

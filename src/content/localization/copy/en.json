@@ -1,0 +1,333 @@
+{
+  "home": {
+    "intro": [
+      "We are Nalk Solutions, a technology and creative company working with businesses across Saudi Arabia.",
+      "From Riyadh and Jeddah to Dammam and the Eastern Province, we bring local understanding and connected delivery to your digital presence, supporting the wider goals of Vision 2030."
+    ],
+    "features": [
+      {
+        "label": "TECHNOLOGY",
+        "title": "AI Automation Solutions",
+        "description": "We integrate smart automation and data-driven insights into every solution. Our approach helps businesses work faster, make better decisions, and scale effortlessly.",
+        "link": {
+          "label": "Discover more",
+          "href": "/services-ai-automation-saudi-arabia/"
+        },
+        "image": "/wp-content/uploads/2025/08/71-service-5-1024x781.webp"
+      },
+      {
+        "label": "PORTALS",
+        "title": "Cloud Based Portals",
+        "description": "Designed for speed, security, and accessibility our cloud portals keep your data connected and your teams aligned anytime, anywhere.",
+        "link": {
+          "label": "Discover more",
+          "href": "/services-cloud-portal-development-saudi-arabia/"
+        },
+        "image": "/wp-content/uploads/2025/10/SL-101820-36860-11-1024x683.jpg"
+      },
+      {
+        "label": "DEVELOPMENT",
+        "title": "Custom Software & App Development",
+        "description": "We create tailored software and mobile apps for Android and iOS that fit your workflow, enhance performance, and grow with your business.",
+        "link": {
+          "label": "Discover more",
+          "href": "/services-custom-software-app-development-saudi-arabia/"
+        },
+        "image": "/wp-content/uploads/2025/08/71-service-2-1024x781.webp"
+      }
+    ],
+    "benefits": [
+      {
+        "sourceId": "03265fb",
+        "title": "Vision 2030 Aligned",
+        "description": "Everything we build supports Saudi Arabia's national digital transformation agenda. Whether you are a government entity, an SME, or a large enterprise, we help you position your business as a digital-first organisation ready for the knowledge economy.",
+        "href": "/services/ai-accelerated-digital-solutions/"
+      },
+      {
+        "sourceId": "7d9c842",
+        "title": "ZATCA & Local Compliance Built In",
+        "description": "We build websites and platforms with ZATCA e-invoicing integration, Fatoora compliance, and local payment gateways — Mada, STC Pay, Tabby, and Tamara — from day one. No retrofitting. No compliance headaches.",
+        "href": "/services/custom-software-app-development/"
+      },
+      {
+        "sourceId": "adcbc57",
+        "title": "One Partner for Everything",
+        "description": "Most businesses juggle four or five agencies to cover marketing, web, apps, IT, and analytics. With Nalk Solutions, one team handles the full picture — which means faster decisions, consistent strategy, and no finger-pointing between vendors.",
+        "href": "/services/prototyping-ui-ux-design/"
+      },
+      {
+        "sourceId": "28d1c70",
+        "title": "Results, Not Promises",
+        "description": "We do not lock clients into long contracts and hope they do not notice. We earn continued business by delivering measurable outcomes — leads generated, rankings improved, traffic grown, revenue attributed. Our reporting makes performance clear every month.",
+        "href": "/services/web-development/"
+      }
+    ],
+    "reviews": [
+      {
+        "sourceId": "e925188",
+        "quote": "“The support from Nalk Solutions has greatly boosted our brand visibility and revenue. Their professionalism and knowledge are exceptional. We're delighted with the incredible results achieved!”",
+        "author": "— Amen Hossam, Brands Influencer"
+      },
+      {
+        "sourceId": "187bcc8",
+        "quote": "Their team helped us with eCommerce website optimization and digital marketing. The performance, speed, and overall customer experience improved significantly. Great team to work with!",
+        "author": "Engr. Syed Ahmed Farooq Shah Managing Partner, Alpha Engineering Works"
+      },
+      {
+        "sourceId": "089b3bd",
+        "quote": "BioMed Solutions\r\nWe took both website development and digital marketing services, and the results were amazing! Our website looks modern, loads fast, and we’ve seen a noticeable boost in client engagement.",
+        "author": "Dr. Samina Khalid – Head of Research & Development, BioMed Solutions"
+      },
+      {
+        "sourceId": "1c6e845",
+        "quote": "Nalk Solutions developed a custom ERP software for our business, and the experience was outstanding. The team was highly professional and delivered everything on time. Highly recommended",
+        "author": "Mr. Muhammad Zubair Qureshi – CEO"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What services does Nalk Solution offer?",
+        "answer": "We provide complete digital solutions including IT consulting, web and app development, portals, social media management, graphic designing, and Google My Business optimization all tailored to your business needs."
+      },
+      {
+        "question": "How long does it take to develop a website or app?",
+        "answer": "The timeline depends on the project’s complexity and features. A standard website may take 2–4 weeks, while mobile or web apps with advanced functions can take 6–10 weeks. We always share a detailed timeline before starting any project."
+      },
+      {
+        "question": "Do you provide ongoing support after project delivery?",
+        "answer": "Yes, we offer full post-launch support, including maintenance, updates, and performance monitoring to ensure your website or app continues to run smoothly."
+      },
+      {
+        "question": "Can you customize solutions according to my business needs?",
+        "answer": "Absolutely. Every project at Nalk Solution is customized to match your business goals, workflow, and brand identity we don’t use pre-built templates unless requested."
+      },
+      {
+        "question": "How do I get started with Nalk Solution?",
+        "answer": "Simply reach out through our contact form or email us your requirements. Our team will schedule a quick consultation to understand your goals, discuss timelines, and suggest the best digital solution for your business."
+      }
+    ]
+  },
+  "offers": [
+    {
+      "id": "websites",
+      "pageId": "R-d37935eb53a2a5dd",
+      "label": "Websites & E-commerce",
+      "action": "Explore Website Services",
+      "audience": "For businesses building or improving their online presence.",
+      "outcome": "Turn your website into a useful part of your business.",
+      "description": "Business websites and online stores designed for performance, mobile users and Arabic-English audiences, with ongoing website support.",
+      "aliases": [
+        "website",
+        "web design",
+        "e-commerce",
+        "ecommerce",
+        "wordpress",
+        "ui/ux",
+        "pwa",
+        "maintenance"
+      ],
+      "problems": [
+        "Your website needs to explain your business clearly.",
+        "Customers need a reliable experience on mobile.",
+        "Your store, payments and business systems need to work together."
+      ],
+      "specialists": [
+        {
+          "pageId": "R-37f67fcbe0f89e8e",
+          "label": "Custom Website Development"
+        },
+        {
+          "pageId": "R-074b5e2a410a5e14",
+          "label": "E-commerce Development"
+        },
+        {
+          "pageId": "R-badd60679617635f",
+          "label": "UI/UX Design"
+        },
+        {
+          "pageId": "R-df847250b2307366",
+          "label": "Progressive Web Apps"
+        },
+        {
+          "pageId": "R-1939954a2017db77",
+          "label": "WordPress Development"
+        },
+        {
+          "pageId": "R-a40cf1b87a23cd67",
+          "label": "Website Maintenance & Support"
+        },
+        {
+          "pageId": "R-8341c7f01f86e270",
+          "label": "Website Development in Riyadh",
+          "area": true
+        },
+        {
+          "pageId": "R-008fb5215e727c01",
+          "label": "Website Development in Jeddah",
+          "area": true
+        },
+        {
+          "pageId": "R-ae4b8f2c4557d17c",
+          "label": "Website Development in Dammam & Eastern Province",
+          "area": true
+        }
+      ],
+      "featured": ["R-074b5e2a410a5e14", "R-badd60679617635f", "R-a40cf1b87a23cd67"]
+    },
+    {
+      "id": "software",
+      "pageId": "R-54ef9c93732551a9",
+      "label": "Custom Software & Apps",
+      "action": "Explore Software & Apps",
+      "audience": "For businesses whose workflows need more than an off-the-shelf tool.",
+      "outcome": "Build software around the way your business works.",
+      "description": "Custom business applications, Android and iOS apps, SaaS products and portals that connect your people, processes and existing systems.",
+      "aliases": ["software", "app", "mobile", "portal", "saas", "erp", "crm", "b2b"],
+      "problems": [
+        "Separate tools make daily work harder than it needs to be.",
+        "Your customers or team need a dedicated application.",
+        "Your business needs a portal that fits its processes and access requirements."
+      ],
+      "specialists": [
+        {
+          "pageId": "R-6e7e1d49e2793d9b",
+          "label": "Cloud-Based Portals"
+        },
+        {
+          "pageId": "R-1987ffb9e2fcb882",
+          "label": "B2B Portals"
+        }
+      ],
+      "featured": ["R-6e7e1d49e2793d9b", "R-1987ffb9e2fcb882"]
+    },
+    {
+      "id": "automation",
+      "pageId": "R-2ea04bcf8b41b11f",
+      "label": "AI & Automation",
+      "action": "Explore AI & Automation",
+      "audience": "For businesses reducing repetitive work and connecting operations.",
+      "outcome": "Give your team more time for work that needs people.",
+      "description": "Business-process automation, connected systems and practical AI applications built around your operations and existing workflows.",
+      "aliases": [
+        "ai",
+        "artificial intelligence",
+        "automation",
+        "workflow",
+        "integration",
+        "api",
+        "process"
+      ],
+      "problems": [
+        "Repetitive tasks take time away from your team.",
+        "Information needs to move between disconnected systems.",
+        "You need a practical use for AI within an existing business process."
+      ],
+      "specialists": [
+        {
+          "pageId": "R-3c0c402f82a25de6",
+          "label": "API Integration"
+        }
+      ],
+      "featured": ["R-3c0c402f82a25de6"]
+    },
+    {
+      "id": "marketing",
+      "pageId": "R-661faf9de8b4a219",
+      "label": "Digital Marketing",
+      "action": "Explore Digital Marketing",
+      "audience": "For businesses improving visibility, enquiries and customer follow-up.",
+      "outcome": "Help the right customers find and choose your business.",
+      "description": "SEO, paid advertising, social media, email, video and marketing automation shaped around how customers search and buy in Saudi Arabia.",
+      "aliases": [
+        "marketing",
+        "seo",
+        "google ads",
+        "advertising",
+        "social",
+        "email",
+        "video",
+        "lead",
+        "marketing automation"
+      ],
+      "problems": [
+        "The right customers are not finding your business.",
+        "Campaign activity needs a clearer connection to business results.",
+        "Enquiries need consistent, relevant follow-up."
+      ],
+      "specialists": [
+        {
+          "pageId": "R-5246187dfd3b778b",
+          "label": "SEO Services"
+        },
+        {
+          "pageId": "R-a11a158e4617d012",
+          "label": "Google Ads Management"
+        },
+        {
+          "pageId": "R-4173d39911060952",
+          "label": "Social Media Marketing"
+        },
+        {
+          "pageId": "R-a009409174c4c09c",
+          "label": "Email Marketing"
+        },
+        {
+          "pageId": "R-2d3c16544074ee82",
+          "label": "Video Marketing"
+        },
+        {
+          "pageId": "R-97b60a187fbcf1c5",
+          "label": "Marketing Automation"
+        },
+        {
+          "pageId": "R-bf89166f744b9fc3",
+          "label": "Digital Marketing in Riyadh",
+          "area": true
+        },
+        {
+          "pageId": "R-05879588546b2d6e",
+          "label": "Digital Marketing in Jeddah",
+          "area": true
+        },
+        {
+          "pageId": "R-77d930cacfbddce2",
+          "label": "Digital Marketing in Dammam & Eastern Province",
+          "area": true
+        }
+      ],
+      "featured": ["R-5246187dfd3b778b", "R-a11a158e4617d012", "R-4173d39911060952"]
+    }
+  ],
+  "contact": {
+    "offices": [
+      {
+        "country": "Saudi Arabia",
+        "city": "Jeddah",
+        "address": "Jeddah, Saudi Arabia",
+        "hours": "Monday – Sunday, 9am – 6pm",
+        "imageIndex": 1
+      },
+      {
+        "country": "Pakistan",
+        "city": "Rawalpindi",
+        "address": "Bahria Town, Rawalpindi Pakistan",
+        "hours": "Monday – Sunday, 11am – 8pm",
+        "imageIndex": 0
+      }
+    ],
+    "brief": [
+      {
+        "title": "Your goal",
+        "description": "What would you like to build, improve or solve?"
+      },
+      {
+        "title": "Your starting point",
+        "description": "Share your existing website, systems or ideas, if you have them."
+      },
+      {
+        "title": "Your priorities",
+        "description": "Include any timing, scope or budget considerations you already know."
+      }
+    ]
+  }
+}

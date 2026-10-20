@@ -1,0 +1,5578 @@
+{
+  "baselineId": "nalk-wordpress-2026-10-15",
+  "pages": [
+    {
+      "id": "R-91d9b62648d713d4",
+      "sourceSha256": "8789da8393a2581c3d895bab3f51a765d627450dd9ce402867b9718fcd8cc3c3",
+      "elements": {
+        "122c5717": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "435c7a3a": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "58066ba6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "54f74c0": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "76e3ecc0": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "dd15aa4": {
+          "kind": "up",
+          "delay": 0
+        },
+        "016a266": {
+          "kind": "up",
+          "delay": 150
+        },
+        "60dfcd6": {
+          "kind": "pop",
+          "delay": 300
+        },
+        "e77ee67": {
+          "kind": "pop",
+          "delay": 500
+        },
+        "405b0e3": {
+          "kind": "right",
+          "delay": 300
+        },
+        "49d2916": {
+          "kind": "right",
+          "delay": 300
+        },
+        "79a519a": {
+          "kind": "pop",
+          "delay": 0
+        },
+        "2c46be4": {
+          "kind": "pop",
+          "delay": 100
+        },
+        "9e00565": {
+          "kind": "pop",
+          "delay": 200
+        },
+        "c0b20ff": {
+          "kind": "pop",
+          "delay": 300
+        },
+        "5d8f655": {
+          "kind": "pop",
+          "delay": 300
+        },
+        "804ddbd": {
+          "kind": "pop",
+          "delay": 400
+        },
+        "4c7d588": {
+          "kind": "pop",
+          "delay": 500
+        },
+        "acf2067": {
+          "kind": "pop",
+          "delay": 600
+        },
+        "6da7140": {
+          "kind": "up",
+          "delay": 150
+        },
+        "3b5eccd": {
+          "kind": "up",
+          "delay": 0
+        },
+        "60141e1": {
+          "kind": "up",
+          "delay": 0
+        },
+        "cd8075f": {
+          "kind": "pop",
+          "delay": 0
+        },
+        "2f14a6f": {
+          "kind": "pop",
+          "delay": 300
+        },
+        "b96b6e3": {
+          "kind": "pop",
+          "delay": 0
+        },
+        "36da31a": {
+          "kind": "up",
+          "delay": 150
+        },
+        "b6d3887": {
+          "kind": "up",
+          "delay": 300
+        },
+        "62d3a11": {
+          "kind": "left",
+          "delay": 0,
+          "mobile": "up"
+        },
+        "3a1cb45": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "c587433": {
+          "kind": "left",
+          "delay": 150,
+          "mobile": "up"
+        },
+        "d43e0c5": {
+          "kind": "fade",
+          "delay": 150
+        },
+        "f17c59c": {
+          "kind": "left",
+          "delay": 300,
+          "mobile": "up"
+        },
+        "089f545": {
+          "kind": "fade",
+          "delay": 300
+        },
+        "b79d0c9": {
+          "kind": "left",
+          "delay": 450,
+          "mobile": "up"
+        },
+        "e5f392b": {
+          "kind": "fade",
+          "delay": 450
+        },
+        "f1ee32e": {
+          "kind": "left",
+          "delay": 300,
+          "mobile": "up"
+        },
+        "47bd8b3": {
+          "kind": "right",
+          "delay": 500,
+          "mobile": "pop"
+        },
+        "d30a197": {
+          "kind": "pop",
+          "delay": 0
+        },
+        "3f0df25": {
+          "kind": "up",
+          "delay": 150
+        },
+        "9a70885": {
+          "kind": "pop",
+          "delay": 0
+        },
+        "4a6c2b1": {
+          "kind": "up",
+          "delay": 150
+        },
+        "29cc8b3": {
+          "kind": "right",
+          "delay": 300
+        },
+        "774cf6d": {
+          "kind": "pop",
+          "delay": 500
+        },
+        "ec1ff6b": {
+          "kind": "pop",
+          "delay": 0
+        },
+        "a33cceb": {
+          "kind": "up",
+          "delay": 150
+        },
+        "a40251d": {
+          "kind": "right",
+          "delay": 300
+        },
+        "9bffff3": {
+          "kind": "pop",
+          "delay": 500
+        },
+        "e13c424": {
+          "kind": "pop",
+          "delay": 0
+        },
+        "0c04181": {
+          "kind": "up",
+          "delay": 150
+        },
+        "c224fe5": {
+          "kind": "right",
+          "delay": 300
+        },
+        "ebbefc4": {
+          "kind": "pop",
+          "delay": 500
+        },
+        "160a5ce": {
+          "kind": "pop",
+          "delay": 0
+        },
+        "170162d": {
+          "kind": "up",
+          "delay": 150
+        },
+        "4b58cc0": {
+          "kind": "up",
+          "delay": 0
+        },
+        "98137d3": {
+          "kind": "up",
+          "delay": 150
+        },
+        "03265fb": {
+          "kind": "up",
+          "delay": 150
+        },
+        "6e275fe": {
+          "kind": "up",
+          "delay": 300
+        },
+        "7d9c842": {
+          "kind": "up",
+          "delay": 300
+        },
+        "68dd82f": {
+          "kind": "up",
+          "delay": 450
+        },
+        "adcbc57": {
+          "kind": "up",
+          "delay": 450
+        },
+        "07768d8": {
+          "kind": "up",
+          "delay": 600
+        },
+        "28d1c70": {
+          "kind": "up",
+          "delay": 600
+        },
+        "a94b869": {
+          "kind": "pop",
+          "delay": 0
+        },
+        "ddd6a5d": {
+          "kind": "up",
+          "delay": 150
+        },
+        "f4cf0dd": {
+          "kind": "up",
+          "delay": 0
+        },
+        "e925188": {
+          "kind": "left",
+          "delay": 300,
+          "mobile": "up"
+        },
+        "732b350": {
+          "kind": "up",
+          "delay": 0
+        },
+        "187bcc8": {
+          "kind": "up",
+          "delay": 0
+        },
+        "bb8093f": {
+          "kind": "up",
+          "delay": 0
+        },
+        "089b3bd": {
+          "kind": "up",
+          "delay": 0
+        },
+        "75bb01d": {
+          "kind": "up",
+          "delay": 0
+        },
+        "1c6e845": {
+          "kind": "up",
+          "delay": 0
+        },
+        "ff458bf": {
+          "kind": "up",
+          "delay": 0
+        },
+        "68e13b4": {
+          "kind": "up",
+          "delay": 0
+        },
+        "0c86c2c": {
+          "kind": "up",
+          "delay": 150
+        },
+        "9f47491": {
+          "kind": "up",
+          "delay": 150
+        },
+        "a0a4a3a": {
+          "kind": "up",
+          "delay": 300
+        },
+        "f0cf1c6": {
+          "kind": "up",
+          "delay": 300
+        },
+        "d94f8f4": {
+          "kind": "pop",
+          "delay": 0
+        },
+        "b563071": {
+          "kind": "up",
+          "delay": 150
+        },
+        "1bf2dee": {
+          "kind": "up",
+          "delay": 0
+        },
+        "8eddcf7": {
+          "kind": "pop",
+          "delay": 0
+        },
+        "1b93c2d": {
+          "kind": "left",
+          "delay": 0
+        },
+        "bbb5e98": {
+          "kind": "left",
+          "delay": 150
+        },
+        "2553b87": {
+          "kind": "left",
+          "delay": 300
+        },
+        "760cb6e": {
+          "kind": "left",
+          "delay": 450
+        },
+        "6d481ef": {
+          "kind": "pop",
+          "delay": 0
+        },
+        "7830bbd": {
+          "kind": "up",
+          "delay": 150
+        },
+        "9253472": {
+          "kind": "up",
+          "delay": 200
+        },
+        "08924fa": {
+          "kind": "up",
+          "delay": 0
+        },
+        "fe10e95": {
+          "kind": "pop",
+          "delay": 0
+        },
+        "594a195": {
+          "kind": "up",
+          "delay": 150
+        },
+        "61d35b8": {
+          "kind": "up",
+          "delay": 300
+        },
+        "693c4df": {
+          "kind": "pop",
+          "delay": 500
+        },
+        "318d579": {
+          "kind": "pop",
+          "delay": 800
+        },
+        "638481a4": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "6615c7ca": {
+          "kind": "left",
+          "delay": 100
+        },
+        "12aefbf7": {
+          "kind": "left",
+          "delay": 200
+        },
+        "6df94005": {
+          "kind": "left",
+          "delay": 300
+        },
+        "1b4c12f1": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-ca7dc49dbe42712a",
+      "sourceSha256": "300ac48d87ca47fd3d61d58396b42d37a8a524f0b29f6a94c6893bf5ef233b2f",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-6bb40d0b6be521cf",
+      "sourceSha256": "1aeb01dc84f93cb4c90a53b688e5d7d282989a602af0d8c4997e6dc6251f06ca",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-38a23850594a47d4",
+      "sourceSha256": "b8b5f704e8340c0b7ccaad1bd9eae4e142e74a8b1f1ddfb621eaae096294b8ea",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-5e053fd003b0e1cd",
+      "sourceSha256": "952c865b5b23ee3d5ce1fc4c4dde05b5ef24098b4958dbd7e8493e3fbde3f02e",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-dbe0adc51c0b8222",
+      "sourceSha256": "17c248396c3f313d8c9138531a199664a0ab6d9ea023d17e65b5f9c1b5dea968",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-c8d9e9811ccf1b44",
+      "sourceSha256": "a271e43f63f4f7088b10ec9c4e416e3b012149dab1aa8e4ccd62dd1da1631e70",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-6192607faaa0163f",
+      "sourceSha256": "0ddabc35d23e01900043a6bf39462825c7bf82b8a7522ae2cff57999ae9f71ef",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-0228afc3da0b3fbc",
+      "sourceSha256": "29892d1e7387e0c984f1a3832e00842944f4fa9b358d3ce3e45155b91684c1b1",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-56afdad51c5c96c4",
+      "sourceSha256": "90f738da3f1344e3e57129f2181a7960a6a62426bc80d5db6d279375b0c27806",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-a7d871258750bc2a",
+      "sourceSha256": "749f59c6fb51e4665b74e1fc4abdfc4dd0369473e439b92eff9b09a372227806",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-28383f03a97f634a",
+      "sourceSha256": "e036d0e8d3d5c58a43b1a839727092c020d107ff45b2e1be9d915042824f4d5b",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-15de724c087e16e9",
+      "sourceSha256": "84e96d3107ffbbde67aaa422194a4ac2314317d211721c338b9d429dfbfcfac9",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-71192976f0e75fcc",
+      "sourceSha256": "5e94b28a6974ed49e96d8f143503b04197843949aa0cc79f9c399cee4d423c34",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "c2e5399": {
+          "kind": "pop",
+          "delay": 0
+        },
+        "dcf0a80": {
+          "kind": "up",
+          "delay": 150
+        },
+        "d373e83": {
+          "kind": "up",
+          "delay": 300
+        },
+        "b6606fc": {
+          "kind": "up",
+          "delay": 150
+        },
+        "780436b": {
+          "kind": "up",
+          "delay": 300
+        },
+        "0046639": {
+          "kind": "pop",
+          "delay": 500
+        },
+        "5f3a9a8": {
+          "kind": "up",
+          "delay": 150
+        },
+        "01b5a53": {
+          "kind": "up",
+          "delay": 150
+        },
+        "fe9a75c": {
+          "kind": "pop",
+          "delay": 0
+        },
+        "2e6e863": {
+          "kind": "up",
+          "delay": 200
+        },
+        "efa6a8e": {
+          "kind": "up",
+          "delay": 400
+        },
+        "42d4b6f": {
+          "kind": "pop",
+          "delay": 600
+        },
+        "75e7deb": {
+          "kind": "left",
+          "delay": 200
+        },
+        "5829798": {
+          "kind": "left",
+          "delay": 400,
+          "duration": 750
+        },
+        "416a8c5": {
+          "kind": "right",
+          "delay": 600
+        },
+        "38ec7db": {
+          "kind": "up",
+          "delay": 200,
+          "duration": 750
+        },
+        "2e81ad1": {
+          "kind": "up",
+          "delay": 0
+        },
+        "ac9f973": {
+          "kind": "up",
+          "delay": 0
+        },
+        "6f5143b": {
+          "kind": "up",
+          "delay": 150
+        },
+        "f07efd5": {
+          "kind": "up",
+          "delay": 150
+        },
+        "6cdc94a": {
+          "kind": "up",
+          "delay": 300
+        },
+        "896d973": {
+          "kind": "up",
+          "delay": 300
+        },
+        "12a56762": {
+          "kind": "pop",
+          "delay": 0
+        },
+        "3e03819": {
+          "kind": "up",
+          "delay": 150
+        },
+        "738bbf11": {
+          "kind": "up",
+          "delay": 300
+        },
+        "568b361f": {
+          "kind": "pop",
+          "delay": 500
+        },
+        "422cf699": {
+          "kind": "pop",
+          "delay": 700
+        },
+        "6b4162be": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "1b5cee": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "61172d16": {
+          "kind": "pop",
+          "delay": 0
+        },
+        "643b08f": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "188951d": {
+          "kind": "left",
+          "delay": 100
+        },
+        "5094ec6": {
+          "kind": "left",
+          "delay": 200
+        },
+        "5bbeb7b": {
+          "kind": "left",
+          "delay": 300
+        },
+        "2ef5de5": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-2c613d2a5c1ee55a",
+      "sourceSha256": "074a8df1fad46d9bd0d6e37ef4fea9c62acd37afada60f91dc5adcc42fb2e97d",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-19289ea1a50ad37e",
+      "sourceSha256": "7b09a9b607c95b73bc0c78f17d7506e15bc602397279479424f0bf45841b4ceb",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-4d78069f8d8b6ecf",
+      "sourceSha256": "7d1d4f1bb3c6646d5442409bbc1f5d286971abb7c200bd6fb5319c99d894ae54",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-3b2c13b643010af3",
+      "sourceSha256": "8cfbe039851a081ddffc76479a07dd818c5dafd7cc6cef7318593793111a2591",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-26f86701b69092b6",
+      "sourceSha256": "5f1468bfdb5b66f993748e64ab294a36c6065cdcecfad87460008e9af81e2eb6",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-e694596eeb7dbf6a",
+      "sourceSha256": "47e2f827f23cfefd150894386f1743f73a7a247598f49f7df709729fe6002a88",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-a1c9afeaf46c1fa5",
+      "sourceSha256": "6588e0a7622a76b647a77580367f83040374d880057b5123446e1b2c5a415be7",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-1987ffb9e2fcb882",
+      "sourceSha256": "3aa5c16ce29b3458f74b18321cdb7e8beec8b3b3b0859aac8da7b389b402c090",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-beb9a0ed5a4db3ce",
+      "sourceSha256": "8369132890353cbe7bd6e5de7c477619d66a964628861c35bc7b1c4b40d79ec4",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-5a4fb03e0d7b4c3b",
+      "sourceSha256": "52f1e1176d5a59f76d2b802291b993f8616e9480e60dc580aea7bbe6881a8776",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-dfd53bfc0f0ad146",
+      "sourceSha256": "ed2ef668ec22ee3e3c5bf8f79e62c9690e4f9c7740372018fae9ddffba32a252",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-8523d897404fbce9",
+      "sourceSha256": "2585eccf53ba3100493bff0f5cac535b92f54f62b491e7c867c440456452906a",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "de9d49b": {
+          "kind": "up",
+          "delay": 200,
+          "duration": 750
+        },
+        "4e01934": {
+          "kind": "up",
+          "delay": 400
+        },
+        "c1619d2": {
+          "kind": "fade",
+          "delay": 600
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-84be103eebe17b09",
+      "sourceSha256": "c24ec7d6c2838ec450f6abe46e9173b61eead0c287435af53533b2a7e226e841",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-d2577f7bd6af225b",
+      "sourceSha256": "73d49102d2be749cb6d03c3e3ba571ff37320e3c42e49616ffa35380d7b2f565",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-4cd90575d3ca57e7",
+      "sourceSha256": "b63a0e44e06705e1e2a3b28054f0ca28c12d30006795d988c75a32026cc6651f",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-20fc6ab9d04e9a67",
+      "sourceSha256": "36faf0a16158dde17528411121115c5c9538f438752781b5f8f6f97d4282fee6",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-8cd22e986d3713b9",
+      "sourceSha256": "741deb626922af9b09c385bc3e6ea66feceeb3d132465e95fead8ddb9010b657",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-731e42a2ed09ea10",
+      "sourceSha256": "d9468d9c028a0d00458934220f45f11a0932789f29f7d57859352f3e7ecc8fce",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-5d7c48759714228a",
+      "sourceSha256": "36380ecc780cac89f882a8a3941d39649983c1dd5ca195f9767077624bfcc173",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-d3d46126ceae4812",
+      "sourceSha256": "c78447d466de0bd182c29b6ff2646694fa8c3c1967e0181f6cafa2bf6c196de7",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-c8936b0a4081d196",
+      "sourceSha256": "79704cf980271a9844643d1fb6e3f9f4fb813e46f09252aa1175a387ec4c5a80",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-11bda722f67cf07c",
+      "sourceSha256": "cbc0acdf912df9ce0d2d63700e84be18544134686db68f66ed3eb6c6a186890f",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-b16ef47077981333",
+      "sourceSha256": "170e8dcbb0a1275b94f0e0f50b6f49f735b4a282f937c31572d1b5295ada2305",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-6bd0be0ae2b84166",
+      "sourceSha256": "63d466ff8b43ee634efa32b18f437c7f2ed71289fe8773e493f76b964baec6e5",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-ccff881f6fef50e4",
+      "sourceSha256": "0c66ba2a880c80504540067aee049352576bbbf6ffbafb3c15e3de000dc1a122",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-1f0c28d75ae49e1f",
+      "sourceSha256": "a8b5facdbe588056ec0984ff88ea86fef21f8ecdf27cb39d04244a52b7255e05",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-d5fcda349535d138",
+      "sourceSha256": "9f6c698f35aa2dcdf21f9466174417261d2ca08dddcb7786626bcd8c2708ba64",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-8b1cabf904936a64",
+      "sourceSha256": "1a6e378344e0418bbd7b7a2b4f21e0379a5f13b73a00724d798741a9004b9106",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-5b73d2c286b38347",
+      "sourceSha256": "706a070ae6e0249084cb150c9434dddcee2a2061669d7fad76ce31644f8d0610",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-e075d151655dd535",
+      "sourceSha256": "ba82f5fb6b1577efadc8212f330227c387a5b44db53111e9d5ae08b6eb94f60f",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-b107566e96d3190e",
+      "sourceSha256": "e2b197fa6dea06ae25cd621c404ba12c779d3174d2787c8745cb2b921fb21815",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "69fb3e9": {
+          "kind": "fade",
+          "delay": 600
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-5fd6127e85ea3748",
+      "sourceSha256": "bbb33df87b2321859ce3b9279cf29cc6f19d14bce25db826df4ac8889e424915",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "69fb3e9": {
+          "kind": "fade",
+          "delay": 600
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-a0ac0f2631af30d8",
+      "sourceSha256": "9d1eeae61dae3a1e1aba850e8f18312e537f291cd12814a5fb5957e3c818794b",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "39c84c1": {
+          "kind": "up",
+          "delay": 0
+        },
+        "bef41db": {
+          "kind": "up",
+          "delay": 400
+        },
+        "f6ea2cf": {
+          "kind": "left",
+          "delay": 800
+        },
+        "1ea9183": {
+          "kind": "left",
+          "delay": 600
+        },
+        "2a0e5ac": {
+          "kind": "up",
+          "delay": 0
+        },
+        "c6dddfa": {
+          "kind": "up",
+          "delay": 200
+        },
+        "a9ba3d7": {
+          "kind": "fade",
+          "delay": 400
+        },
+        "56298d0": {
+          "kind": "fade",
+          "delay": 500
+        },
+        "8a50e2a": {
+          "kind": "fade",
+          "delay": 600
+        },
+        "26d00e4": {
+          "kind": "fade",
+          "delay": 700
+        },
+        "e4b8a3f": {
+          "kind": "up",
+          "delay": 0
+        },
+        "cda6000": {
+          "kind": "pop",
+          "delay": 0
+        },
+        "8b27043": {
+          "kind": "fade",
+          "delay": 200
+        },
+        "e43095c": {
+          "kind": "fade",
+          "delay": 300
+        },
+        "378b472": {
+          "kind": "fade",
+          "delay": 400
+        },
+        "4baed1f": {
+          "kind": "fade",
+          "delay": 500
+        },
+        "aa63d51": {
+          "kind": "pop",
+          "delay": 0
+        },
+        "c28a437": {
+          "kind": "fade",
+          "delay": 200
+        },
+        "05b80f6": {
+          "kind": "fade",
+          "delay": 300
+        },
+        "6621254": {
+          "kind": "fade",
+          "delay": 400
+        },
+        "a510f3b": {
+          "kind": "fade",
+          "delay": 500
+        },
+        "420e386": {
+          "kind": "pop",
+          "delay": 0
+        },
+        "06e0e5a": {
+          "kind": "up",
+          "delay": 0
+        },
+        "08825f3": {
+          "kind": "up",
+          "delay": 200
+        },
+        "67121ad": {
+          "kind": "up",
+          "delay": 400
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-c68b641619de5fdc",
+      "sourceSha256": "c09d253eeffd67e8c7357461e742bdf4e84c5803a33378cb3a5fd64e3fa08de0",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-4ffd91d75c597e33",
+      "sourceSha256": "4961f25ae21bf046c8c5a5e2228510292889972890f3fbc6b4c9b38127483b10",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-abdabc0cf23404d4",
+      "sourceSha256": "511c162d2e6e8330189b5822019096f29e7d3576d8c53f70160e984cdafd3e50",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-2712c37e972510b2",
+      "sourceSha256": "0bb975b69ad7044fff7af48f9935039279cdd732bf1c8966ff11b336e4ec04c3",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-1479975e57602920",
+      "sourceSha256": "569ad65ac9f7b85851ce9624f000ff942238a7ff6bfc26e975072f3179adb37d",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-29f69ff6b1371493",
+      "sourceSha256": "36127bfa8ad1248072030aaf91b58bc6a9f2e1d256b6854a8c121bcf7e747d42",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-9f96e046fe483053",
+      "sourceSha256": "6aabb0624f139f4391bcc185e61b966c1d20fb74779c5fb035cd987da7e985a8",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-93442368c6954c93",
+      "sourceSha256": "0fb30d33f5329c02d65b505d5fda591267719f0bffba059113dac58517d0f294",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-973785951f782140",
+      "sourceSha256": "79df3a4dab7a687f3bc148afe3fab36d9eaeadb31eb6ddedd0ab30081a570aee",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-50eccd34cb224821",
+      "sourceSha256": "cfec122872c3d810c67648ac7688afe07c52a08baa14a2881ad331b5b596cd6a",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-1763d6af248b2200",
+      "sourceSha256": "a445c2c6dcf658401d09b90bccdab710a6d746b7daf8a312b33310b72b161b49",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-b862c0c7f35eda96",
+      "sourceSha256": "5f45dfabd28e323f02317270d2d1ab7d6436b1cdaa5fa35c1e1755b5a76715c0",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-e8871af3f8742876",
+      "sourceSha256": "cf994d280bed69bd04bab4f68e486b4493b81193947418040de4bda6ca1ee5f9",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-fbbead80b209e23c",
+      "sourceSha256": "02fa806a6e69274b0abce59ef4a62c3a3c945f18dd65a22a154e2fbd2e41ef40",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-d1807ec5e0e664a2",
+      "sourceSha256": "b1cdc1036409b3debadf3524d02d40a78e97c8afd4cb14ffa31cf4d49afa6de0",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-ce0d0de6c0b5a3c9",
+      "sourceSha256": "493c665c1433ae823e05517e49da730c1a545ca9dbb80c9498401f6af067e62a",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-7b1c2739e262abe5",
+      "sourceSha256": "058cf46ec55f15d198bf18ad139c7dea6d4a719ebceed4627f796a4482cdb710",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-0e1cd105cb263493",
+      "sourceSha256": "377a960f60df6a683ae6cbacc8f16d3006de7e48a428d49f45c46da91f300165",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-d2da8ebda8ecd96b",
+      "sourceSha256": "81c5a0e543d5e130357e0f6e0bb6d9c9cf506c9e4cd5fcd4ae7c19ab4662624a",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-1ca4c50f71a6a456",
+      "sourceSha256": "b29c7eb4d9c2b541e28abef628b51c44d795ccb94b935f281f6d8136f27ebf07",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-25fee40374e2e31c",
+      "sourceSha256": "9051956c891c182a74afb073b422eb488496b7f7305e504b85e22386fa498740",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-518ad560a778e4f8",
+      "sourceSha256": "1cefdbadabbe878f26771ef0d689ffde06a2dfc5f3226bd51bc4af7d02cb5e13",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-77d930cacfbddce2",
+      "sourceSha256": "e766feef95209fc215f3e4a9da4d05d94c1fa484fa52f45a82f6479b2472729c",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-05879588546b2d6e",
+      "sourceSha256": "2fb3439c3cb5d675879cea85393c04da4bee1dc3779e2f5d2df1cc1db4cbd232",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-bf89166f744b9fc3",
+      "sourceSha256": "33c69d05a49b5c108322c06fb0495f5f8ea5b9c6feb46ee2ef472895483aa2e8",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-ae4b8f2c4557d17c",
+      "sourceSha256": "6e1aa301592dc45280dc665bf0ff8511029dd230464485b6f35a35c59ae3e46e",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-008fb5215e727c01",
+      "sourceSha256": "0bd184c8a7375f58be4027c4177df6ac001d1d882fb8486bc5486b035f577a31",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-8341c7f01f86e270",
+      "sourceSha256": "789ce3d64e6249e883baa3b5f4693c727376d6c2b130abb42efdb614ef9dd560",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-cc6ebeaad95c9e5e",
+      "sourceSha256": "4c29a08d0d89d25b480285120080809e9ded948de33e324d3beff2d72ab350e4",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-26b412fd98c13a52",
+      "sourceSha256": "b8dd194bbe09c3dfcbcc2141f06287c57d8e49a5d8a481be30a5da9d433f39f9",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-4b3d1ae1a71cffa7",
+      "sourceSha256": "12144aee785d11628c781eff26084b9a810674bc31c729ac9ecd9d23a227e97b",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-6547eb8369d41431",
+      "sourceSha256": "219e951be11ee252c5ea92117b6d779132d4bcf7ed03c50b882a247be7b57b00",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-393cf74e2e96e1c4",
+      "sourceSha256": "c884273e1c489c133bb8fd00659cad925abf9b20e488369bdd26b8ba245e8119",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-e83c0ad06ef3deb6",
+      "sourceSha256": "19485708c3db518cfdd26a881dcbb6de8eb607c76c3fc9bc257c8a2a6dabbe70",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-ae01622fce47a3ac",
+      "sourceSha256": "f49a01842052cadd8fec8403e38be7c4142dc067ce0df2d4f45493b12765ba62",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "41e2398": {
+          "kind": "up",
+          "delay": 0
+        },
+        "650c9da": {
+          "kind": "up",
+          "delay": 300
+        },
+        "4e0ce9b": {
+          "kind": "fade",
+          "delay": 600
+        },
+        "5e89c8a": {
+          "kind": "pop",
+          "delay": 0
+        },
+        "03fb682": {
+          "kind": "up",
+          "delay": 0
+        },
+        "9fe0be5": {
+          "kind": "up",
+          "delay": 200
+        },
+        "7dad19c": {
+          "kind": "fade",
+          "delay": 400
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-d37935eb53a2a5dd",
+      "sourceSha256": "893219830737e1954535aa860427d20a1e19adebcb9cb6cda813b56043380fdd",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-c417ce86b30e2d17",
+      "sourceSha256": "c5b8f2e0367a85ed7a96066a3e2be81788556776c7c5992e2cbcea5e428017d6",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-5bd4587bca0b3022",
+      "sourceSha256": "7180a03722cda10143883a7e5019af54b8a02f74c3bb9795dd5c6309a14a3720",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-2ea04bcf8b41b11f",
+      "sourceSha256": "4f8f5e5efd65f876107ee4600cc84c0be2e5f8dee0368720bb1dd0385a4d3373",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-3c0c402f82a25de6",
+      "sourceSha256": "9e069b59a23e113a7297c86c58bb7a0c4135aae798cce2bf6dbe445732bf12a8",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-6e7e1d49e2793d9b",
+      "sourceSha256": "f7e0f107c435687d9463e8153fb02256bc9bce14f0c05b013d374743367f6552",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-54ef9c93732551a9",
+      "sourceSha256": "4e1372b2bafa25c408f08944d3321e3283d685a987e40ac1a975143287e222e6",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-37f67fcbe0f89e8e",
+      "sourceSha256": "cf373e69183a3f8784af0c5b5e9abc2aba7fd7556aac8ea351ed763bcaee7bbc",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-661faf9de8b4a219",
+      "sourceSha256": "e81debfc41246509267a6ca33319528169a27c16fb4e0832424abe7712ec082b",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-074b5e2a410a5e14",
+      "sourceSha256": "f0cfb337e394e5a4d4a955796dfbc16336e77105219f2be32e33e57745f6596a",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-a009409174c4c09c",
+      "sourceSha256": "2c76029763a179cd1696ea5d279b4bad40dfabfa1f4cfd61d5cdb791775ceef0",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-a11a158e4617d012",
+      "sourceSha256": "b09c33b1ba134664bc188783fe82f7f82e20e0ee1f761ab51d36ac8befa50de8",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-97b60a187fbcf1c5",
+      "sourceSha256": "b73b78c6d54b0b8a04616cbf285b94441b25c5c23872d44800912a902e835998",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-df847250b2307366",
+      "sourceSha256": "64315c7e0144925c4b9128380446ed155cda7814513abcd0e2fc7fda90ef6bd9",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-5246187dfd3b778b",
+      "sourceSha256": "78fff16906a8e8bc6489315eee235909b10703fe412dd707280ed01fe76313b8",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-badd60679617635f",
+      "sourceSha256": "79991ed5722082b9f55a58648a0751024598a128d1bf3565db4b57081032c50c",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-2d3c16544074ee82",
+      "sourceSha256": "dd14008aecf34072d0124911dddd26e659b966f177098c2343138104cb92574a",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-a40cf1b87a23cd67",
+      "sourceSha256": "86aacc75aa0657232986b6e9192c46593a05c6e360b3282108aec36ba47eb010",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-1939954a2017db77",
+      "sourceSha256": "321a3a02e9ebea778c68c3f59a2f8e1c46a900920c244e42586d7fe5e23c3f44",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-36fc73d73032160c",
+      "sourceSha256": "65a0590bda4bb1f0a984d56a80eb9a621022f3f5534e29726976c53e81780c34",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-4ed78f24068296e3",
+      "sourceSha256": "c2b9e55c83f310077550d9c6140c5105d408bc4aa31daa1e8835aca7fa3628fb",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-4173d39911060952",
+      "sourceSha256": "c71fb7dda5ab5d61a6e0819bfca3a705aa81e09584a457b824c8f81d5e8ccb56",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-cf30b9f0253b83a0",
+      "sourceSha256": "4807f0aeb215e02fa4a54f63cd5775c7133db6e561992c614b66d6536727487d",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-027395e0b1f88c25",
+      "sourceSha256": "0852eb443d2caed1714e851275022d7ebe0268dbdd1c492c6cfed86309630cd0",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    },
+    {
+      "id": "R-7d3b2394efb96d27",
+      "sourceSha256": "96cb4eafd388acf2f236d9074e62d47eaede1210b5061d70d8d50ccfa5f1c280",
+      "elements": {
+        "166ec628": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "560e60cc": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "7315e73b": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "2771dcb1": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "8588ac6": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "4ec0e67": {
+          "kind": "fade",
+          "delay": 0
+        },
+        "f1de1cf": {
+          "kind": "left",
+          "delay": 100
+        },
+        "dc2034a": {
+          "kind": "left",
+          "delay": 200
+        },
+        "436ccb8": {
+          "kind": "left",
+          "delay": 300
+        },
+        "09fd358": {
+          "kind": "left",
+          "delay": 400
+        }
+      }
+    }
+  ],
+  "definition": {
+    "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-plugins.zip",
+    "sourceMember": "plugins/cmsmasters-elementor-addon/assets/css/frontend.css",
+    "sha256": "d769b64342dd09a94852e48873c622d18a3ab4bad6d7b6d010ee7c77213f5add",
+    "duration": 1000,
+    "easing": "ease",
+    "elementorDurationSource": "plugins/elementor/assets/css/frontend.min.css",
+    "elementorDurationSha256": "0a5d398672e25dc7f020f69df92a985481b248a60e301fee232d0c8afd648dc5"
+  }
+}

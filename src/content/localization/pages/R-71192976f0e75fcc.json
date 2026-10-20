@@ -1,0 +1,2458 @@
+{
+  "entityId": "R-71192976f0e75fcc",
+  "path": "/ar/about-us/",
+  "publication": {
+    "ready": true,
+    "acceptance": "ownerManaged"
+  },
+  "review": {
+    "status": "inReview",
+    "reviewer": null,
+    "approvedAt": null,
+    "translationRevision": "arabic-content-1",
+    "sourceInputs": [
+      {
+        "path": "src/content/site/pages.generated.json",
+        "sha256": "7cd8249a8f5b73200fb4c39193dc5469fa0cc595cc493904a611272606512429"
+      },
+      {
+        "path": "src/content/site/documents/R-71192976f0e75fcc.json",
+        "sha256": "abeb99cbf9777a522efa30f52247fc6e5b22e05c7ae847f53047301d9f543f58"
+      }
+    ]
+  },
+  "seo": {
+    "title": "من نحن | نالك سوليوشنز",
+    "description": "نالك سوليوشنز شريك تقني وإبداعي للشركات في السعودية. نجمع فهم السوق المحلي مع التنفيذ العملي الذي يخدم أهداف عملك."
+  },
+  "heading": "من نحن",
+  "blocks": {},
+  "imageAlts": {},
+  "issues": [
+    "Machine-assisted offline authoring; linguistic acceptance managed internally by the owner."
+  ],
+  "document": {
+    "nodes": [
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "div",
+        "attributes": {},
+        "variant": "company-about-hero",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "company-inner",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "company-column",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "company-badge",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h6",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "معلومات عنا"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ],
+                    "entrance": {
+                      "kind": "pop",
+                      "delay": 0
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "company-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h1",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "شركة تكنولوجيا في المملكة العربية السعودية."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ],
+                    "entrance": {
+                      "kind": "up",
+                      "delay": 150
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "company-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "نالك سوليوشنز شريك تقني وإبداعي للشركات في السعودية. نجمع فهم السوق المحلي مع التنفيذ العملي الذي يخدم أهداف عملك."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "نعمل مع الشركات الناشئة الطموحة والمنشآت القائمة في الرياض وجدة والدمام والمنطقة الشرقية، ونركّز على النتائج المفيدة والشراكات طويلة الأمد."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "br",
+                            "attributes": {},
+                            "variant": null,
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ],
+                    "entrance": {
+                      "kind": "up",
+                      "delay": 300
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "div",
+        "attributes": {},
+        "variant": "company-values",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "company-inner",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "company-column",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "company-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "قيمنا"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ],
+                    "entrance": {
+                      "kind": "up",
+                      "delay": 150
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "company-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "b",
+                            "attributes": {},
+                            "variant": null,
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "المساءلة"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "company-regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": " — نحن نملك نتائجنا. عندما لا يعمل شيء ما، نقول ذلك، ونعدله ونصلحه. نحن لا نختبئ وراء المصطلحات أو المقاييس الغرورية."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "b",
+                            "attributes": {},
+                            "variant": null,
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "الخبرة المحلية"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "company-regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": " — نحن نعيش ونعمل في المملكة العربية السعودية. نحن نفهم رؤية 2030، والامتثال لـ ZATCA، وسلوك البحث العربي، وأنظمة الدفع المحلية، والاعتبارات الثقافية التي تجعل العمل الرقمي هنا مختلفًا عن أي مكان آخر."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "b",
+                            "attributes": {},
+                            "variant": null,
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "التميز الفني"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "company-regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": " — الجيد بما فيه الكفاية ليس جيدًا بما فيه الكفاية أبدًا. يخضع كل موقع ويب، وكل حملة، وكل تطبيق نقوم بإنشائه إلى نفس المعايير التي نلتزم بها في منتجاتنا."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "b",
+                            "attributes": {},
+                            "variant": null,
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "التفكير طويل المدى"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "company-regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": " — نحن نبني العلاقات، وليس المعاملات. الشركات التي تنمو معنا تفعل ذلك لأننا نفكر في نجاحها على المدى الطويل، وليس فقط في الإنجاز الفوري."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ],
+                    "entrance": {
+                      "kind": "up",
+                      "delay": 300
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "company-values-image",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ],
+                "entrance": {
+                  "kind": "pop",
+                  "delay": 500
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "div",
+        "attributes": {},
+        "variant": "company-statements",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "company-inner",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "company-column",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "company-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "بيان الرؤية"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ],
+                    "entrance": {
+                      "kind": "up",
+                      "delay": 150
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "company-small-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "company-inline-18",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "أن نكون الشريك التكنولوجي الذي تثق به الشركات السعودية أولاً عندما تفكر في التحول إلى التكنولوجيا الرقمية - لأننا نقدم النتائج باستمرار، ونتواصل بأمانة، ونفهم المملكة بشكل أفضل من أي شخص آخر."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "company-column",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "company-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "بيان المهمة"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ],
+                    "entrance": {
+                      "kind": "up",
+                      "delay": 150
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "company-small-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "لمساعدة الشركات السعودية على المنافسة والفوز في الاقتصاد الرقمي - من خلال التكنولوجيا المصممة لتحقيق الأداء، والتسويق المصمم للتحويل، والشراكات التي تستمر بعد المشروع الأول."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "div",
+        "attributes": {},
+        "variant": "company-message",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "company-inner",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "company-row",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "company-image",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "img",
+                        "attributes": {
+                          "src": "/wp-content/uploads/2025/10/CEO-MSG-1-658x1024.png",
+                          "alt": "",
+                          "width": "658",
+                          "height": "1024",
+                          "srcset": "/wp-content/uploads/2025/10/CEO-MSG-1-658x1024.png 658w, /wp-content/uploads/2025/10/CEO-MSG-1-193x300.png 193w, /wp-content/uploads/2025/10/CEO-MSG-1-600x933.png 600w, /wp-content/uploads/2025/10/CEO-MSG-1.png 717w",
+                          "sizes": "(max-width: 658px) 100vw, 658px"
+                        },
+                        "variant": null,
+                        "children": []
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "company-column",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "company-quote",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "svg",
+                            "attributes": {
+                              "viewbox": "0 0 512 512"
+                            },
+                            "variant": null,
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "path",
+                                "attributes": {
+                                  "d": "M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"
+                                },
+                                "variant": null,
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": " "
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "company-heading",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "h2",
+                            "attributes": {},
+                            "variant": null,
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "span",
+                                "attributes": {},
+                                "variant": "company-highlight",
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "text": "رسالة"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": " للرئيس التنفيذي"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "company-small-copy",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "p",
+                            "attributes": {},
+                            "variant": null,
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "\"في NALK Solutions، نعتقد أن التكنولوجيا يجب أن تخلق القيمة - وليس التعقيد.\nمهمتنا هي إنشاء أنظمة بيئية رقمية ذكية وفعالة ومصممة للمستقبل.\nويعكس كل مشروع نقدمه التزامنا بالابتكار والدقة والشراكات الدائمة.\""
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "company-message-divider",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "company-signature",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "p",
+                            "attributes": {},
+                            "variant": null,
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "شكرا لكونك جزءا من رحلتنا."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "company-signature",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "p",
+                            "attributes": {},
+                            "variant": null,
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "- "
+                              },
+                              {
+                                "type": "element",
+                                "tag": "span",
+                                "attributes": {},
+                                "variant": "company-highlight",
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "text": "\nعمير شهيد "
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "company-signature",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "p",
+                            "attributes": {},
+                            "variant": null,
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "المؤسس والرئيس التنفيذي لشركة Nalk Solutions Pvt Ltd"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "div",
+        "attributes": {},
+        "variant": "company-hidden",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "company-inner",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "company-heading",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "h6",
+                    "attributes": {},
+                    "variant": null,
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "تعرَّف على خبرائنا"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ],
+                "entrance": {
+                  "kind": "pop",
+                  "delay": 0
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "company-heading",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "h2",
+                    "attributes": {},
+                    "variant": null,
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "تعرف على الفريق المحترف"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ],
+                "entrance": {
+                  "kind": "up",
+                  "delay": 200
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "a",
+                "attributes": {
+                  "href": "/our-team/"
+                },
+                "variant": "company-button",
+                "children": [
+                  {
+                    "type": "element",
+                    "tag": "svg",
+                    "attributes": {
+                      "viewbox": "0 0 448 512"
+                    },
+                    "variant": null,
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "path",
+                        "attributes": {
+                          "d": "M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"
+                        },
+                        "variant": null,
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "تعرف على الفريق"
+                  }
+                ],
+                "entrance": {
+                  "kind": "pop",
+                  "delay": 600
+                }
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "div",
+        "attributes": {},
+        "variant": "company-offerings",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "company-inner",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "company-column",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "company-badge",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h6",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "ما نقدمه"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ],
+                    "entrance": {
+                      "kind": "left",
+                      "delay": 200
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "company-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "استكشف خدماتنا"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ],
+                    "entrance": {
+                      "kind": "left",
+                      "delay": 400,
+                      "duration": 750
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "a",
+                "attributes": {
+                  "href": "/our-services/"
+                },
+                "variant": "company-button",
+                "children": [
+                  {
+                    "type": "element",
+                    "tag": "svg",
+                    "attributes": {
+                      "viewbox": "0 0 448 512"
+                    },
+                    "variant": null,
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "path",
+                        "attributes": {
+                          "d": "M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"
+                        },
+                        "variant": null,
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "عرض جميع الخدمات"
+                  }
+                ],
+                "entrance": {
+                  "kind": "right",
+                  "delay": 600
+                }
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "div",
+        "attributes": {},
+        "variant": "company-showcase",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "company-inner",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "company-row",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "company-column",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "company-image",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "img",
+                            "attributes": {
+                              "src": "/wp-content/uploads/2025/10/person-working-html-computer-1024x768.jpg",
+                              "alt": "",
+                              "width": "1024",
+                              "height": "768",
+                              "srcset": "/wp-content/uploads/2025/10/person-working-html-computer-1024x768.jpg 1024w, /wp-content/uploads/2025/10/person-working-html-computer-300x225.jpg 300w, /wp-content/uploads/2025/10/person-working-html-computer-768x576.jpg 768w, /wp-content/uploads/2025/10/person-working-html-computer-1536x1152.jpg 1536w, /wp-content/uploads/2025/10/person-working-html-computer-2048x1536.jpg 2048w, /wp-content/uploads/2025/10/person-working-html-computer-400x300.jpg 400w, /wp-content/uploads/2025/10/person-working-html-computer-600x450.jpg 600w",
+                              "sizes": "(max-width: 1024px) 100vw, 1024px"
+                            },
+                            "variant": null,
+                            "children": []
+                          },
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "company-heading",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "h2",
+                            "attributes": {},
+                            "variant": null,
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "تطوير الموقع"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "company-small-copy",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "h2",
+                            "attributes": {},
+                            "variant": null,
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "نقوم بإنشاء مواقع ويب عالية الأداء وجذابة بصريًا تعكس علامتك التجارية وتقدم تجارب مستخدم سلسة."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "company-column",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "company-image",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "img",
+                            "attributes": {
+                              "src": "/wp-content/uploads/2025/10/representations-user-experience-interface-design-1024x683.jpg",
+                              "alt": "",
+                              "width": "1024",
+                              "height": "683",
+                              "srcset": "/wp-content/uploads/2025/10/representations-user-experience-interface-design-1024x683.jpg 1024w, /wp-content/uploads/2025/10/representations-user-experience-interface-design-300x200.jpg 300w, /wp-content/uploads/2025/10/representations-user-experience-interface-design-768x512.jpg 768w, /wp-content/uploads/2025/10/representations-user-experience-interface-design-1536x1024.jpg 1536w, /wp-content/uploads/2025/10/representations-user-experience-interface-design-2048x1365.jpg 2048w, /wp-content/uploads/2025/10/representations-user-experience-interface-design-450x300.jpg 450w, /wp-content/uploads/2025/10/representations-user-experience-interface-design-600x400.jpg 600w",
+                              "sizes": "(max-width: 1024px) 100vw, 1024px"
+                            },
+                            "variant": null,
+                            "children": []
+                          },
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "company-heading",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "h2",
+                            "attributes": {},
+                            "variant": null,
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "النماذج الأولية وتصميم واجهة المستخدم/تجربة المستخدم"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "company-small-copy",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "h2",
+                            "attributes": {},
+                            "variant": null,
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "تركز عملية التصميم لدينا على سهولة الاستخدام والإبداع، وتحويل الأفكار إلى واجهات تفاعلية وبديهية يحبها المستخدمون."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "company-column",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "company-image",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "img",
+                            "attributes": {
+                              "src": "/wp-content/uploads/2025/10/gmb-1024x681.jpg",
+                              "alt": "",
+                              "width": "1024",
+                              "height": "681",
+                              "srcset": "/wp-content/uploads/2025/10/gmb-1024x681.jpg 1024w, /wp-content/uploads/2025/10/gmb-300x199.jpg 300w, /wp-content/uploads/2025/10/gmb-768x511.jpg 768w, /wp-content/uploads/2025/10/gmb-451x300.jpg 451w, /wp-content/uploads/2025/10/gmb-600x399.jpg 600w, /wp-content/uploads/2025/10/gmb.jpg 1280w",
+                              "sizes": "(max-width: 1024px) 100vw, 1024px"
+                            },
+                            "variant": null,
+                            "children": []
+                          },
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "company-heading",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "h2",
+                            "attributes": {},
+                            "variant": null,
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "التسويق الرقمي"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "company-small-copy",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "h2",
+                            "attributes": {},
+                            "variant": null,
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "نحن نصمم حملات رقمية تعتمد على النتائج وتغطي تحسين محركات البحث والإعلانات المدفوعة وتحسين نشاطي التجاري على Google لتعزيز وصولك ورؤيتك عبر الإنترنت."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "div",
+        "attributes": {},
+        "variant": "company-reviews-heading",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "company-inner",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "company-column",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "company-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تقييمات عملائنا"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ],
+                    "entrance": {
+                      "kind": "up",
+                      "delay": 200,
+                      "duration": 750
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "div",
+        "attributes": {},
+        "variant": "company-testimonials",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "company-column",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "company-testimonial",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "company-sr-only",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "company-rating",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": "company-sr-only",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "5/5"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "tag": "p",
+                    "attributes": {},
+                    "variant": null,
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\"بمساعدة Nalk Solutions، ارتفع عدد زوار موقعنا وعدد التحويلات. ونحن سعداء للغاية بالنتائج المتميزة التي تم تحقيقها\""
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "company-testimonial-author",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "— محمد أحمد، متجر التجارة الإلكترونية"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ],
+                "entrance": {
+                  "kind": "up",
+                  "delay": 0
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ],
+            "entrance": {
+              "kind": "up",
+              "delay": 0
+            }
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "company-column",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "company-testimonial",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "company-sr-only",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "company-rating",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": "company-sr-only",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "5/5"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "tag": "p",
+                    "attributes": {},
+                    "variant": null,
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\"ساعدت Nalk Solutions في زيادة عدد الزيارات والتحويلات على موقعنا على الويب. لا يمكننا أن نكون أكثر سعادة بالنتائج الرائعة التي حققناها!\""
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "company-testimonial-author",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "— عبد الله، الرئيس التنفيذي لشركة DesignX"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ],
+                "entrance": {
+                  "kind": "up",
+                  "delay": 150
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ],
+            "entrance": {
+              "kind": "up",
+              "delay": 150
+            }
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "company-tablet-hidden-column",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "company-testimonial",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "company-sr-only",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "company-rating",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": "company-sr-only",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "5/5"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "tag": "p",
+                    "attributes": {},
+                    "variant": null,
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\"لقد كان العمل مع Nalk Solutions بمثابة تغيير جذري لأعمالنا. وكان لاستراتيجياتهم وخدماتهم تأثير عميق!\""
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "company-testimonial-author",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "— ليلى نور الرئيس التنفيذي لشركة Stellar Enterprises"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ],
+                "entrance": {
+                  "kind": "up",
+                  "delay": 300
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ],
+            "entrance": {
+              "kind": "up",
+              "delay": 300
+            }
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ]
+  },
+  "sourceSnapshot": {
+    "id": "R-71192976f0e75fcc",
+    "sourceRouteId": "R-71192976f0e75fcc",
+    "path": "/about-us/",
+    "kind": "marketing",
+    "locale": "en",
+    "status": "published",
+    "seo": {
+      "title": "About Us - Nalk Solutions",
+      "description": "Nalk Solutions was founded on a straightforward belief: Saudi businesses deserve a technology partner that truly understands the Kingdom — not an overseas",
+      "canonical": "https://nalksolutions.com/about-us/",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "googlebot": null,
+      "social": [
+        {
+          "property": "og:locale",
+          "content": "en_US"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "About Us - Nalk Solutions"
+        },
+        {
+          "property": "og:description",
+          "content": "Nalk Solutions was founded on a straightforward belief: Saudi businesses deserve a technology partner that truly understands the Kingdom — not an overseas"
+        },
+        {
+          "property": "og:url",
+          "content": "https://nalksolutions.com/about-us/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Nalk Solutions"
+        },
+        {
+          "property": "og:updated_time",
+          "content": "2026-05-06T14:07:20+00:00"
+        },
+        {
+          "property": "og:image",
+          "content": "https://nalksolutions.com/wp-content/uploads/2025/10/CEO-MSG-1.png"
+        },
+        {
+          "property": "og:image:secure_url",
+          "content": "https://nalksolutions.com/wp-content/uploads/2025/10/CEO-MSG-1.png"
+        },
+        {
+          "property": "og:image:width",
+          "content": "717"
+        },
+        {
+          "property": "og:image:height",
+          "content": "1115"
+        },
+        {
+          "property": "og:image:alt",
+          "content": "About Us"
+        },
+        {
+          "property": "og:image:type",
+          "content": "image/png"
+        },
+        {
+          "property": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "property": "twitter:title",
+          "content": "About Us - Nalk Solutions"
+        },
+        {
+          "property": "twitter:description",
+          "content": "Nalk Solutions was founded on a straightforward belief: Saudi businesses deserve a technology partner that truly understands the Kingdom — not an overseas"
+        },
+        {
+          "property": "twitter:image",
+          "content": "https://nalksolutions.com/wp-content/uploads/2025/10/CEO-MSG-1.png"
+        },
+        {
+          "property": "twitter:label1",
+          "content": "Time to read"
+        },
+        {
+          "property": "twitter:data1",
+          "content": "2 minutes"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Place",
+              "@id": "https://nalksolutions.com/#place",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              }
+            },
+            {
+              "@type": ["ProfessionalService", "Organization"],
+              "@id": "https://nalksolutions.com/#organization",
+              "name": "Nalk Solutions",
+              "url": "https://nalksolutions.com",
+              "email": "info@nalksolutions.com",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              },
+              "logo": {
+                "@type": "ImageObject",
+                "@id": "https://nalksolutions.com/#logo",
+                "url": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "contentUrl": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "caption": "Nalk Solutions",
+                "inLanguage": "en-US",
+                "width": "1563",
+                "height": "1563"
+              },
+              "openingHours": ["Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"],
+              "description": "Nalk provides Nalk Solutions is a technology company in Saudi Arabia; delivering digital marketing, web development, app development &amp; IT solutions across Riyadh, Jeddah and all major cities across the kingdom.",
+              "legalName": "uhj1984@yahoo.com",
+              "location": {
+                "@id": "https://nalksolutions.com/#place"
+              },
+              "image": {
+                "@id": "https://nalksolutions.com/#logo"
+              },
+              "telephone": "+966506000843"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://nalksolutions.com/#website",
+              "url": "https://nalksolutions.com",
+              "name": "Nalk Solutions",
+              "publisher": {
+                "@id": "https://nalksolutions.com/#organization"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "ImageObject",
+              "@id": "https://nalksolutions.com/wp-content/uploads/2025/10/CEO-MSG-1-658x1024.png",
+              "url": "https://nalksolutions.com/wp-content/uploads/2025/10/CEO-MSG-1-658x1024.png",
+              "width": "200",
+              "height": "200",
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://nalksolutions.com/about-us/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": "1",
+                  "item": {
+                    "@id": "https://nalksolutions.com",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "position": "2",
+                  "item": {
+                    "@id": "https://nalksolutions.com/about-us/",
+                    "name": "About Us"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "AboutPage",
+              "@id": "https://nalksolutions.com/about-us/#webpage",
+              "url": "https://nalksolutions.com/about-us/",
+              "name": "About Us - Nalk Solutions",
+              "datePublished": "2023-09-14T18:51:44+00:00",
+              "dateModified": "2026-05-06T14:07:20+00:00",
+              "isPartOf": {
+                "@id": "https://nalksolutions.com/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://nalksolutions.com/wp-content/uploads/2025/10/CEO-MSG-1-658x1024.png"
+              },
+              "inLanguage": "en-US",
+              "breadcrumb": {
+                "@id": "https://nalksolutions.com/about-us/#breadcrumb"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "content": {
+      "heading": "About Us - Nalk Solutions",
+      "paragraphs": ["About Us - Nalk Solutions"],
+      "documentId": "R-71192976f0e75fcc"
+    },
+    "provenance": {
+      "sourceHtml": "nalk-public-archive/html/source/about-us-71192976f0e75fcc.html",
+      "sourceSha256": "5e94b28a6974ed49e96d8f143503b04197843949aa0cc79f9c399cee4d423c34",
+      "pageRecord": "nalk-public-archive/pages/about-us-71192976f0e75fcc.json",
+      "pageRecordSha256": "151e25564fac347e1db1a9e6a5e2e7b00c10d23f9073e81d9de99661d78ba05b",
+      "excerpt": false,
+      "headingFallback": true
+    }
+  }
+}

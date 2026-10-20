@@ -1,0 +1,68 @@
+.journey-topic-trigger {
+  display: inline-flex;
+  align-items: center;
+  gap: 16px;
+  margin-top: 20px;
+  border: 1px solid #ffffff35;
+  border-radius: 24px;
+  padding: 10px 18px;
+  background: #17151c;
+  color: #fffbbd;
+}
+.journey-topic-trigger:disabled {
+  cursor: wait;
+}
+.topics-dialog {
+  width: 720px;
+}
+.topics-dialog[open] {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  overflow: hidden;
+}
+.topics-dialog .dialog-heading {
+  margin: 0;
+  padding: 20px 24px;
+  background: #17151c;
+}
+.topics-dialog .dialog-heading h2 {
+  font-size: 26px;
+}
+.topics-dialog .dialog-heading button {
+  min-width: 44px;
+  min-height: 44px;
+}
+.topics-dialog-content {
+  overflow: auto;
+  overscroll-behavior: contain;
+  padding: 24px;
+  min-height: 0;
+}
+.topics-dialog-content > p {
+  margin-bottom: 24px;
+}
+.topics-dialog nav {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+.topics-dialog nav a {
+  display: flex;
+  align-items: center;
+  padding: 16px;
+  border-radius: 12px;
+  background: #27232d;
+  color: white;
+}
+.topics-dialog nav a:is(:hover, :focus-visible) {
+  background: #393040;
+}
+.topics-fallback {
+  margin-top: 24px;
+}
+@media (max-width: 767px) {
+  .topics-dialog nav {
+    grid-template-columns: 1fr;
+  }
+}

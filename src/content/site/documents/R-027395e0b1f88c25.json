@@ -1,0 +1,5187 @@
+{
+  "id": "R-027395e0b1f88c25",
+  "path": "/website-cost-in-saudi-arabia/",
+  "locale": "en",
+  "family": "article",
+  "nodes": [
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "A website in Saudi Arabia typically costs "
+        },
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "SAR 3,000 to SAR 250,000+"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", depending on the type of site and who builds it. A simple business site runs SAR 5,000–15,000, a bilingual corporate site SAR 15,000–40,000, an online store SAR 15,000–60,000, and a custom web application SAR 60,000–250,000 or more. The two biggest price drivers are the amount of custom work the design and features require and whether you hire a freelancer, an agency, or a custom software company."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "What Determines the Cost of a Website in Saudi Arabia?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Website pricing in Saudi Arabia isn’t random. A handful of factors decide whether a project lands at SAR 5,000 or SAR 100,000."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "The first is "
+        },
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "build type"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ": a template-based site assembled from an existing theme costs far less than a custom design built from scratch. A content management system, or CMS, is the software that lets you edit pages, add products, and publish blog posts without touching code. Off-the-shelf CMS platforms like WordPress, Salla, or Zid are cheaper to launch than a custom-coded backend, but they trade some flexibility for speed."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "The second is "
+        },
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "feature complexity"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". A brochure site with a contact form is simple. A site with user accounts, a booking calendar, Mada or Apple Pay payment integration, or ZATCA-compliant e-invoicing takes real engineering time, and that time is what you’re paying for."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "The third is "
+        },
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "bilingual requirements"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Building a site in Arabic and English isn’t just translation. Arabic reads right-to-left, so layouts, navigation, and forms often need separate design treatment, not just a language switcher bolted onto an English template."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "The fourth is "
+        },
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "who builds it"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". A freelancer, a design agency, and a custom software company all carry different overhead, different quality assurance processes, and different levels of accountability if something breaks after launch."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "The fifth is "
+        },
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "ongoing technical needs"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", such as hosting performance, SSL security, and integration with local payment gateways, which shape both the build cost and what you’ll pay every month afterwards."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Why It Matters"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Getting the budget wrong in either direction creates real problems."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Overpay for a project that didn’t need custom development, and you’ve tied up capital that could have gone into marketing or inventory. This happens often when a small business hires a full software company for what was really a five-page brochure site."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Underpay, and the risks are worse. A rock-bottom quote usually means a recycled template, no real testing, and no plan for what happens when the site needs to grow. Many business owners in Saudi Arabia end up rebuilding a cheap site within a year because it couldn’t handle Arabic-English bilingual content properly, broke on mobile, or simply looked unconvincing next to competitors. A website is often the first impression a customer forms of a business, and a broken or amateur-looking one costs more in lost trust than the money it saved."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "The Core Price Range"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "table",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "thead",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "th",
+                      "attributes": {
+                        "scope": "col"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Website Type"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "th",
+                      "attributes": {
+                        "scope": "col"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Typical 2026 Cost (SAR)"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tbody",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "One-page landing site"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "1,500 – 5,000"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Small business site (5–10 pages)"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "5,000 – 15,000"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Bilingual corporate site"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "15,000 – 40,000"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "E-commerce store"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "15,000 – 60,000"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Custom web application"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "60,000 – 250,000+"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Enterprise platform"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "150,000 – 400,000+"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "These are realistic ranges for professionally built, mobile-first websites in 2026, not the absolute floor or ceiling. A site in a regional city usually sits toward the lower end of its band, while a Riyadh-based enterprise project sits higher."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Types of Websites & Their Costs"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Landing page."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " A single scrolling page used for a campaign, event, or product launch. Fast to build, minimal content, usually no CMS needed."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Brochure or business site."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " The standard small-business website: 5 to 10 pages covering services, about, and contact, usually built on a CMS so the owner can update content later."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "E-commerce store."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " A store with a product catalog, cart, checkout, and payment gateway integration. Complexity, and cost, scales with the number of products and the payment methods required."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Custom web application."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Software built around a specific business process, such as a booking platform, a member portal, or an internal dashboard. This is closer to custom software development than website design."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "SaaS platform."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " A subscription-based product with multiple user accounts, billing, and a multi-tenant architecture, meaning many customers share the same underlying system securely. This is one of the most expensive and complex website categories."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Large enterprise site."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " A multilingual site with dozens or hundreds of pages, investor relations sections, and integrations with internal systems like ERP or CRM software."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Cost Breakdown by Website Type (Examples)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "table",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "thead",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "th",
+                      "attributes": {
+                        "scope": "col"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Example Project"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "th",
+                      "attributes": {
+                        "scope": "col"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Realistic 2026 Cost (SAR)"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tbody",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "One-page site for a personal trainer’s booking link"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "1,800 – 3,000"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Landing page for a single product launch campaign"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "2,500 – 5,000"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "6-page brochure site for a local clinic"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "6,000 – 10,000"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Bilingual 10-page corporate site for a consultancy"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "18,000 – 30,000"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Bilingual real estate site with property search"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "30,000 – 55,000"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Small e-commerce store, under 100 products"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "15,000 – 30,000"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Mid-size e-commerce store with Mada, Tabby, and ZATCA invoicing"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "35,000 – 60,000"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Custom booking or membership web application"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "60,000 – 120,000"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Multi-vendor marketplace platform"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "120,000 – 250,000"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Every scenario above assumes a professionally built, mobile-responsive site. Prices can fall below these ranges with heavy template reuse, and they can rise well above them with custom animation, advanced integrations, or tight deadlines."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Cheap vs Expensive: What You Actually Get"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "table",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "thead",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "th",
+                      "attributes": {
+                        "scope": "col"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "What You’re Comparing"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "th",
+                      "attributes": {
+                        "scope": "col"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "The Real Difference"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tbody",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "❌ SAR 1,500 template site"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "br",
+                          "attributes": {},
+                          "variant": null,
+                          "children": []
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n✅ What’s missing: real UI/UX design"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Off-the-shelf themes aren’t designed around your brand or your customer’s decision-making path, which quietly hurts conversion."
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "❌ Freelancer with no contract"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "br",
+                          "attributes": {},
+                          "variant": null,
+                          "children": []
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n✅ What’s missing: accountability"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Without a written scope and timeline, projects drift, and there’s often no one to call when something breaks post-launch."
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "❌ Site with no SSL certificate"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "br",
+                          "attributes": {},
+                          "variant": null,
+                          "children": []
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n✅ What’s missing: basic security"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Browsers flag unsecured sites as “not secure,” which damages trust instantly, especially for anyone entering payment details."
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "❌ Non-bilingual “Arabic-ready” theme"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "br",
+                          "attributes": {},
+                          "variant": null,
+                          "children": []
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n✅ What’s missing: true RTL layout"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "A language switcher isn’t the same as a right-to-left design; broken Arabic layouts look unprofessional to local customers."
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "❌ Cheapest possible hosting"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "br",
+                          "attributes": {},
+                          "variant": null,
+                          "children": []
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n✅ What’s missing: local server speed"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Hosting outside the region adds load time, which hurts both user experience and Google rankings in Saudi search results."
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "❌ No post-launch support included"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "br",
+                          "attributes": {},
+                          "variant": null,
+                          "children": []
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n✅ What’s missing: maintenance plan"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Websites need security patches and updates; skipping this leads to vulnerabilities and outdated software within months."
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "❌ Generic stock photography"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "br",
+                          "attributes": {},
+                          "variant": null,
+                          "children": []
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n✅ What’s missing: brand-specific visuals"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Stock imagery is instantly recognizable to visitors and undercuts the credibility a custom design is supposed to build."
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "❌ Fixed low price, unlimited “revisions”"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "br",
+                          "attributes": {},
+                          "variant": null,
+                          "children": []
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n✅ What’s missing: defined scope"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Vague scope is how cheap projects balloon in time and end up costing the client in delays, even if the invoice stays the same."
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Why Prices Vary So Much"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Three quotes for what sounds like “the same website” can differ by tens of thousands of riyals, and the gap is rarely arbitrary."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Freelancer vs agency vs software company."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " A freelancer has low overhead and can work cheaply, but usually works alone, with limited capacity for testing, project management, or long-term support. An agency adds design specialists, project managers, and quality assurance, which costs more but reduces risk. A custom software company adds engineering discipline: structured architecture, security review, and the ability to build features that don’t exist in any template. "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/how-to-choose-a-web-design-company-in-2026/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Choosing the right web design company"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " for your project size matters more than chasing the lowest number."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Template vs custom build."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " A templated site reuses existing design and code, which is faster and cheaper. A custom build is designed and coded specifically for the business, which costs more but scales better and looks distinct from competitors."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Feature complexity."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Every added feature, whether it’s a booking system, a multi-currency store, or a customer login area, adds development and testing hours, and those hours are what drive the invoice up."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Local factors."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Bilingual Arabic-English builds, local hosting for faster load times inside the Kingdom, and integration with payment gateways like Mada, STC Pay, or Apple Pay all add real, necessary cost that a generic international template usually can’t account for."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Common Budgeting Mistakes Checklist"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "ol",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Comparing quotes without comparing scope."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " A SAR 5,000 quote and a SAR 25,000 quote for “a website” often aren’t pricing the same deliverable at all. Always ask exactly what’s included."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Ignoring ongoing costs."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Business owners budget for the build and forget hosting, domain renewal, and maintenance, then get surprised by year-two invoices."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Choosing the cheapest option under time pressure."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Rushed decisions favor the lowest bid, which is usually the one with the least testing and support behind it."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Skipping a written scope of work."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Without a documented list of pages, features, and revision rounds, small requests pile up into scope creep that neither side budgeted for."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Underestimating bilingual complexity."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Treating Arabic as an afterthought instead of a core design requirement leads to layouts that need to be rebuilt later."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Not asking about post-launch support."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " A site with zero included support after launch can become unmaintained within months if no one budgets time to keep it updated."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "What Businesses in Saudi Arabia Actually Pay"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Solo founders and startups."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Early-stage businesses typically spend SAR 5,000–20,000 on a first website, usually a brochure site or a simple online store built on a CMS like WordPress or a hosted platform like Salla. The priority at this stage is a credible, mobile-friendly presence that can go live quickly, not a fully custom build."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Small and medium enterprises (SMEs)."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Established SMEs generally spend SAR 20,000–70,000, often on a bilingual corporate site or a mid-size e-commerce store with local payment integrations. At this tier, businesses are usually paying for a proper agency process: real UI/UX design, structured content, and ongoing SEO support rather than a one-off build."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Enterprises and large platforms."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Enterprise projects, custom web applications, and SaaS platforms typically run SAR 100,000–400,000 or more, reflecting custom software development, integrations with internal systems, and enterprise-grade security and compliance work such as PDPL data handling."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Freelancer vs Agency vs Software Company"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "table",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "thead",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "th",
+                      "attributes": {
+                        "scope": "col"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "What Changes"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "th",
+                      "attributes": {
+                        "scope": "col"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Freelancer"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "th",
+                      "attributes": {
+                        "scope": "col"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Agency / Software Company"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tbody",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Typical cost"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Lowest"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Mid to high"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Best for"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Simple, small-scope sites"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Bilingual, e-commerce, or custom-feature sites"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Support after launch"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Often limited or informal"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Usually structured, contracted support"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Risk level"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Higher, depends on one person"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Lower, backed by a team and process"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "A freelancer can be the right call for a one-page site with a tight budget. Anything involving custom functionality, integrations, or a business that depends on the site for revenue usually justifies the higher cost of an established team. "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/professional-website-development-company-in-saudi-arabia/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "A dedicated web development company"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " becomes worth the premium once the project has real technical complexity."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "One-Time Costs vs Ongoing Costs"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "table",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "thead",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "th",
+                      "attributes": {
+                        "scope": "col"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Cost Type"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "th",
+                      "attributes": {
+                        "scope": "col"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Examples"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tbody",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "One-time"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Design, development, initial content setup, launch"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Ongoing"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Hosting, domain renewal, SSL, maintenance, SEO, security updates"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "This is one of the most commonly missed distinctions in budgeting. The build price is a single line item, but hosting typically runs SAR 500–3,000 per year, a .sa domain renews for roughly SAR 200–500 per year, and a maintenance plan covering updates and security patches often costs SAR 1,000–2,000 per year at minimum. Ongoing SEO, if the business wants to actually rank in Google, is usually a separate monthly investment on top of the build."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Comparison Table"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "table",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "thead",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "th",
+                      "attributes": {
+                        "scope": "col"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Feature"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "th",
+                      "attributes": {
+                        "scope": "col"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Freelancer"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "th",
+                      "attributes": {
+                        "scope": "col"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Agency"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "th",
+                      "attributes": {
+                        "scope": "col"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Custom Software Company"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tbody",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Typical project cost"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "SAR 1,500–10,000"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "SAR 10,000–60,000"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "SAR 60,000–400,000+"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Ideal project type"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Simple, small sites"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Corporate and e-commerce sites"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Custom applications, SaaS, enterprise"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Budgeting Trick"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Before requesting a single quote, write down three numbers: the number of pages or screens you actually need, whether the site needs to process payments, and whether it must work fully in both Arabic and English. Multiply your rough page or screen count by SAR 1,000–2,000 for a simple CMS-based build, or SAR 5,000–15,000 per screen for custom application work. That back-of-envelope figure won’t be exact, but it will be close enough to spot a wildly underpriced or overpriced quote the moment it lands in your inbox."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Real-Life Scenarios"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "A Riyadh startup founder"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " launching a consulting business needs a credible bilingual site fast, with a contact form and a services page. Realistic budget: SAR 12,000–20,000 for a professionally designed brochure site, ready in three to four weeks."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "A Jeddah retail SME going online"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " wants to sell 150 products with Mada and Tabby checkout. Realistic budget: SAR 25,000–45,000 for a mid-size e-commerce build, plus an ongoing hosting and maintenance plan."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "A growing business needing a custom platform"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", such as a logistics company wanting a client portal with live order tracking, is really commissioning software, not a website. Realistic budget: SAR 80,000–180,000, closer in scope to a "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/custom-web-app-development-guide/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "custom web application project"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " than a standard site build."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Website Budget Estimator (Mini Quiz)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "table",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "thead",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "th",
+                      "attributes": {
+                        "scope": "col"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Question"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "th",
+                      "attributes": {
+                        "scope": "col"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Answer / Estimate & Explanation"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tbody",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "1. How many pages does your site need?"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "1–5 pages → SAR 5,000–15,000. Fewer pages means less design and content work."
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "2. Does it need to be bilingual (Arabic/English)?"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Yes → add roughly 30–50% to your base estimate for RTL layout and dual-language content."
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "3. Will you sell products online?"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Yes → move into the e-commerce range, SAR 15,000–60,000, depending on catalog size."
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "4. Do you need custom features (bookings, logins, dashboards)?"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Yes → you’re likely in custom web application territory, SAR 60,000 and up."
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "5. Who is building it: freelancer, agency, or software company?"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Freelancer trims cost but raises risk; a software company raises cost but lowers risk on complex builds."
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "6. Do you need payment gateway integration (Mada, STC Pay, Apple Pay)?"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Yes → budget extra for setup and testing, typically SAR 2,000–8,000 depending on the number of gateways."
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "7. Is speed to launch more important than customization?"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Yes → a template-based build will be faster and cheaper than a fully custom design."
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "8. Do you have a content and branding package ready?"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "No → budget extra time and cost for copywriting, photography, or brand design before development starts."
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "9. Will the business need ongoing SEO to attract customers?"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Yes → plan a separate monthly SEO budget on top of the one-time build cost."
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "10. How soon do you need the site live?"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Under 3 weeks → expect a rush premium of roughly 15–25% over a standard timeline."
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Expert Tips"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Ask every quote to itemize design, development, content, testing, and post-launch support separately, not as one lump sum. A vendor who can’t break down a quote usually can’t manage scope creep either."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Request to see a similar bilingual project before hiring anyone for an Arabic-English build. RTL layout quality varies enormously between vendors, and screenshots reveal more than a sales pitch does."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Treat the first year’s hosting, domain, and maintenance as part of the real project cost, not an afterthought, so the true first-year budget is accurate from the start."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "If your project involves genuine software functionality rather than content pages, price it against custom software development benchmarks, not website design benchmarks. The two markets price very differently for a reason."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Nalk Solutions builds custom websites and provides digital marketing services for businesses across Saudi Arabia, from bilingual corporate sites to custom web applications; you can see examples of that work on the "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Nalk Solutions homepage"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "FAQ"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "How much does a 1 page website cost?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "A one-page website in Saudi Arabia typically costs SAR 1,500–5,000, depending on design quality and whether it’s bilingual. It’s the fastest and cheapest professional option available."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "How much does a website cost?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Most websites in Saudi Arabia cost between SAR 5,000 and SAR 60,000, depending on type. Simple business sites sit at the lower end, e-commerce stores and custom applications sit higher, and enterprise platforms can exceed SAR 150,000."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "How much does the internet cost in Saudi Arabia?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Home broadband in Saudi Arabia generally runs SAR 100–300 per month depending on speed and provider, while mobile data plans vary by usage tier. This is separate from website hosting costs, though both fall under a business’s overall digital budget: hosting is what makes your site accessible, while an internet plan is what lets you and your customers reach it."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "How much can I charge per website?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Freelancers in Saudi Arabia typically charge SAR 1,500–10,000 per website depending on scope and experience, while agencies charge SAR 10,000–60,000 for the same range of project types, reflecting the added design, testing, and support behind the higher price."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Can ChatGPT build a website?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "AI tools can generate basic page layouts, sample copy, or starter code, but they can’t independently design a brand-appropriate, bilingual, tested, and properly hosted business website. Most businesses use AI tools to speed up parts of the process, not to replace a developer entirely."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "How much should I charge for a 5-page website?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "A 5-page website is typically priced at SAR 5,000–12,000 by freelancers and small studios in Saudi Arabia, or SAR 12,000–20,000 through an agency that includes proper UI/UX design and bilingual support."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Is web design still in demand in 2026?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Yes. As more Saudi businesses move services online under the Kingdom’s digital transformation push, demand for professional, mobile-first, bilingual websites has continued to grow rather than shrink, especially for e-commerce and custom platforms."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "What are the five golden rules of a website?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Clear purpose, fast load times, mobile-first design, easy navigation, and a strong call to action are generally treated as the core rules of effective website design, regardless of industry or region."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Can I host my own website for free?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Free hosting is technically possible but rarely suitable for a real business, since it usually comes with slow speeds, limited support, no custom domain, and weak security. Paid local hosting, typically SAR 500–3,000 per year, is the realistic baseline for a professional site in Saudi Arabia."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Quick Summary"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "A website in Saudi Arabia costs anywhere from SAR 1,500 for a simple landing page to SAR 250,000 or more for a custom web application, with most small and medium businesses landing between SAR 5,000 and SAR 60,000. The price depends on page count, feature complexity, bilingual requirements, and whether you hire a freelancer, an agency, or a custom software company. Beyond the build itself, budget for ongoing hosting, domain renewal, maintenance, and SEO, since these recurring costs are what keep a site secure and visible long after launch. The safest approach is to define scope clearly before requesting quotes, so every proposal is pricing the same project."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    }
+  ],
+  "article": {
+    "excerpt": "A website in Saudi Arabia typically costs SAR 3,000 to SAR 250,000+, depending on the type of site and who builds it. A simple business site runs SAR 5,000–15,000, a bilingual corporate site SAR 15,000–40,000, an online store SAR 15,000–60,000, and a custom web application SAR 60,000–250,000 or more. The two biggest price drivers are …",
+    "dateLabel": "August 19, 2026",
+    "category": {
+      "label": "Website Development",
+      "href": "/category/website-development/"
+    },
+    "additionalCategories": [],
+    "featured": {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/08/blog-image-12-scaled.png",
+      "alt": "website cost in saudi arabia",
+      "width": 2560,
+      "height": 1706,
+      "variants": [
+        {
+          "src": "/wp-content/uploads/2026/08/blog-image-12-scaled.png",
+          "width": 2560
+        },
+        {
+          "src": "/wp-content/uploads/2026/08/blog-image-12-300x200.png",
+          "width": 300
+        },
+        {
+          "src": "/wp-content/uploads/2026/08/blog-image-12-1024x683.png",
+          "width": 1024
+        },
+        {
+          "src": "/wp-content/uploads/2026/08/blog-image-12-768x512.png",
+          "width": 768
+        },
+        {
+          "src": "/wp-content/uploads/2026/08/blog-image-12-1536x1024.png",
+          "width": 1536
+        },
+        {
+          "src": "/wp-content/uploads/2026/08/blog-image-12-2048x1365.png",
+          "width": 2048
+        },
+        {
+          "src": "/wp-content/uploads/2026/08/blog-image-12-18x12.png",
+          "width": 18
+        },
+        {
+          "src": "/wp-content/uploads/2026/08/blog-image-12-450x300.png",
+          "width": 450
+        }
+      ],
+      "sizes": "(max-width: 2560px) 100vw, 2560px"
+    },
+    "adjacent": [
+      {
+        "label": "Previous Post",
+        "title": "Ahrefs vs Semrush vs Screaming Frog: Which SEO Tool Should Your Business Buy?",
+        "href": "/ahrefs-vs-semrush-vs-screaming-frog/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/08/BLOG-IMAGE-11-150x150.png",
+          "alt": "Ahref vs Semrush vs screaming frog",
+          "width": 150,
+          "height": 150,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/08/BLOG-IMAGE-11-150x150.png",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/BLOG-IMAGE-11-260x260.png",
+              "width": 260
+            }
+          ],
+          "sizes": "(max-width: 150px) 100vw, 150px"
+        }
+      },
+      {
+        "label": "Next Post",
+        "title": "AI Automation Cost in Saudi Arabia: A Realistic Pricing Guide for 2026",
+        "href": "/ai-automation-cost-in-saudi-arabia/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/08/ai-automation-150x150.png",
+          "alt": "ai automation price in ksa",
+          "width": 150,
+          "height": 150,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/08/ai-automation-150x150.png",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/ai-automation-260x260.png",
+              "width": 260
+            }
+          ],
+          "sizes": "(max-width: 150px) 100vw, 150px"
+        }
+      }
+    ],
+    "related": [
+      {
+        "title": "Social Media Marketing Cost in Saudi Arabia (2026 Guide)",
+        "href": "/social-media-marketing-cost-in-saudi-arabia/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2025/10/71-posts-placeholder-300x300.webp",
+          "alt": "",
+          "width": 300,
+          "height": 300,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-300x300.webp",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-100x100.webp",
+              "width": 100
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-600x600.webp",
+              "width": 600
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-150x150.webp",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-260x260.webp",
+              "width": 260
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder.webp",
+              "width": 768
+            }
+          ],
+          "sizes": "(max-width: 300px) 100vw, 300px"
+        },
+        "category": {
+          "label": "Digital Marketing Strategy & Fundamentals",
+          "href": "/category/digital-marketing-strategy/"
+        },
+        "dateLabel": "September 21, 2026",
+        "actionLabel": "Read More"
+      },
+      {
+        "title": "كيف يساعد الذكاء الاصطناعي الشركات في السعودية 2026 | نالك سوليوشنز",
+        "href": "/how-ai-helps-companies-in-saudi-arabia/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-300x200.jpeg",
+          "alt": "كيف يساعد الذكاء الاصطناعي الشركات في السعودية 2026 | نالك سوليوشنز",
+          "width": 300,
+          "height": 200,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-300x200.jpeg",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-1024x683.jpeg",
+              "width": 1024
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-768x512.jpeg",
+              "width": 768
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-18x12.jpeg",
+              "width": 18
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-450x300.jpeg",
+              "width": 450
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg.jpeg",
+              "width": 1536
+            }
+          ],
+          "sizes": "(max-width: 300px) 100vw, 300px"
+        },
+        "category": {
+          "label": "Custom Software & Apps",
+          "href": "/category/custom-software-apps/"
+        },
+        "dateLabel": "September 2, 2026",
+        "actionLabel": "Read More"
+      },
+      {
+        "title": "التسويق عبر سناب شات وتيك توك للشركات السعودية: الدليل الكامل 2026",
+        "href": "/snapchat-tiktok-marketing-saudi-businesses/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/08/blog-two-300x200.png",
+          "alt": "التسويق عبر سناب شات وتيك توك للشركات السعودية: الدليل الكامل 2026",
+          "width": 300,
+          "height": 200,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-300x200.png",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-1024x683.png",
+              "width": 1024
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-768x512.png",
+              "width": 768
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-18x12.png",
+              "width": 18
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-450x300.png",
+              "width": 450
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two.png",
+              "width": 1536
+            }
+          ],
+          "sizes": "(max-width: 300px) 100vw, 300px"
+        },
+        "category": {
+          "label": "Digital Marketing Strategy & Fundamentals",
+          "href": "/category/digital-marketing-strategy/"
+        },
+        "dateLabel": "August 26, 2026",
+        "actionLabel": "Read More"
+      }
+    ],
+    "footer": {
+      "owner": "NALK SOLUTIONS pvt Ltd",
+      "notice": "© 2026 - All Rights Reserved"
+    }
+  }
+}

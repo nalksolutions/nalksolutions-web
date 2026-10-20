@@ -1,0 +1,210 @@
+{
+  "entityId": "R-1f0c28d75ae49e1f",
+  "path": "/ar/category/website-development/",
+  "publication": {
+    "ready": true,
+    "acceptance": "ownerManaged"
+  },
+  "listing": {
+    "family": "category",
+    "basePath": "/category/website-development/",
+    "number": 1
+  },
+  "review": {
+    "status": "inReview",
+    "reviewer": null,
+    "approvedAt": null,
+    "translationRevision": "generated-listings-1",
+    "sourceInputs": [
+      {
+        "path": "src/content/site/pages.generated.json",
+        "sha256": "7cd8249a8f5b73200fb4c39193dc5469fa0cc595cc493904a611272606512429"
+      },
+      {
+        "path": "src/content/site/documents/R-1f0c28d75ae49e1f.json",
+        "sha256": "a784c4bc5cca46423a7c4f279be07ff13a09ef90bc614f00f1c2870a39b2c5b7"
+      },
+      {
+        "path": "src/content/localization/listing-index.json",
+        "sha256": "9566dd2c16042f2dca2ed29001b2330e0a0aa8322ec23f272d18ea91ab4e8c05"
+      }
+    ]
+  },
+  "seo": {
+    "title": "تطوير المواقع | نالك سوليوشنز",
+    "description": "تصفّح مقالات نالك سوليوشنز بالعربية في التقنية وتطوير الأعمال والتسويق الرقمي."
+  },
+  "heading": "تطوير المواقع",
+  "blocks": {},
+  "imageAlts": {},
+  "issues": [],
+  "document": {
+    "nodes": [
+      {
+        "type": "text",
+        "text": ""
+      }
+    ]
+  },
+  "sourceSnapshot": {
+    "id": "R-1f0c28d75ae49e1f",
+    "sourceRouteId": "R-1f0c28d75ae49e1f",
+    "path": "/category/website-development/",
+    "kind": "archive",
+    "locale": "en",
+    "status": "published",
+    "seo": {
+      "title": "Website Development Archives - Nalk Solutions",
+      "description": null,
+      "canonical": null,
+      "robots": "follow, noindex",
+      "googlebot": null,
+      "social": [
+        {
+          "property": "og:locale",
+          "content": "en_US"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Website Development Archives - Nalk Solutions"
+        },
+        {
+          "property": "og:url",
+          "content": "https://nalksolutions.com/category/website-development/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Nalk Solutions"
+        },
+        {
+          "property": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "property": "twitter:title",
+          "content": "Website Development Archives - Nalk Solutions"
+        },
+        {
+          "property": "twitter:label1",
+          "content": "Posts"
+        },
+        {
+          "property": "twitter:data1",
+          "content": "6"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Place",
+              "@id": "https://nalksolutions.com/#place",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              }
+            },
+            {
+              "@type": "ProfessionalService",
+              "@id": "https://nalksolutions.com/#organization",
+              "name": "Nalk Solutions",
+              "url": "https://nalksolutions.com",
+              "email": "info@nalksolutions.com",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              },
+              "logo": {
+                "@type": "ImageObject",
+                "@id": "https://nalksolutions.com/#logo",
+                "url": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "contentUrl": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "caption": "Nalk Solutions",
+                "inLanguage": "en-US",
+                "width": "1563",
+                "height": "1563"
+              },
+              "openingHours": ["Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"],
+              "description": "Nalk provides Nalk Solutions is a technology company in Saudi Arabia; delivering digital marketing, web development, app development &amp; IT solutions across Riyadh, Jeddah and all major cities across the kingdom.",
+              "legalName": "uhj1984@yahoo.com",
+              "location": {
+                "@id": "https://nalksolutions.com/#place"
+              },
+              "image": {
+                "@id": "https://nalksolutions.com/#logo"
+              },
+              "telephone": "+966506000843"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://nalksolutions.com/#website",
+              "url": "https://nalksolutions.com",
+              "name": "Nalk Solutions",
+              "publisher": {
+                "@id": "https://nalksolutions.com/#organization"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://nalksolutions.com/category/website-development/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": "1",
+                  "item": {
+                    "@id": "https://nalksolutions.com",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "position": "2",
+                  "item": {
+                    "@id": "https://nalksolutions.com/category/website-development/",
+                    "name": "Website Development"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "CollectionPage",
+              "@id": "https://nalksolutions.com/category/website-development/#webpage",
+              "url": "https://nalksolutions.com/category/website-development/",
+              "name": "Website Development Archives - Nalk Solutions",
+              "isPartOf": {
+                "@id": "https://nalksolutions.com/#website"
+              },
+              "inLanguage": "en-US",
+              "breadcrumb": {
+                "@id": "https://nalksolutions.com/category/website-development/#breadcrumb"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "content": {
+      "heading": "Category: Website Development",
+      "paragraphs": ["Category: Website Development"],
+      "documentId": "R-1f0c28d75ae49e1f"
+    },
+    "provenance": {
+      "sourceHtml": "nalk-public-archive/html/source/category-website-development-1f0c28d75ae49e1f.html",
+      "sourceSha256": "a8b5facdbe588056ec0984ff88ea86fef21f8ecdf27cb39d04244a52b7255e05",
+      "pageRecord": "nalk-public-archive/pages/category-website-development-1f0c28d75ae49e1f.json",
+      "pageRecordSha256": "312a75f67ec58efda9ba2781dc06477c3f35519439f88ddd3170c2e44838e4b4",
+      "excerpt": false,
+      "headingFallback": false
+    }
+  }
+}

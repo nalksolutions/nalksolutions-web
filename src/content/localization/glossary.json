@@ -1,0 +1,45 @@
+{
+  "revision": "sa-business-1",
+  "status": "inReview",
+  "acceptance": "ownerManaged",
+  "reviewer": null,
+  "approvedAt": null,
+  "style": "Accessible Modern Standard Arabic with natural Saudi business terminology; no heavy colloquial dialect or literal English sentence structure.",
+  "brand": "نالك سوليوشنز",
+  "terms": [
+    { "en": "Websites & E-commerce", "ar": "المواقع والمتاجر الإلكترونية" },
+    { "en": "Custom Software & Apps", "ar": "البرمجيات وتطبيقات الجوال" },
+    { "en": "AI & Automation", "ar": "الذكاء الاصطناعي والأتمتة" },
+    { "en": "Digital Marketing", "ar": "التسويق الرقمي" },
+    { "en": "Discuss Your Project", "ar": "تحدّث معنا عن مشروعك" },
+    { "en": "Cloud portals", "ar": "البوابات السحابية" },
+    { "en": "API integration", "ar": "ربط الأنظمة عبر واجهات برمجة التطبيقات" },
+    { "en": "User experience", "ar": "تجربة المستخدم" },
+    { "en": "Search engine optimization", "ar": "تحسين محركات البحث" },
+    { "en": "Customer relationship management", "ar": "إدارة علاقات العملاء" },
+    { "en": "Enterprise resource planning", "ar": "تخطيط موارد المنشأة" },
+    { "en": "Software as a service", "ar": "البرمجيات كخدمة" },
+    { "en": "Workflow", "ar": "سير العمل" },
+    { "en": "ZATCA", "ar": "هيئة الزكاة والضريبة والجمارك (ZATCA)" },
+    { "en": "GOSI", "ar": "المؤسسة العامة للتأمينات الاجتماعية (GOSI)" },
+    { "en": "Riyadh", "ar": "الرياض" },
+    { "en": "Jeddah", "ar": "جدة" },
+    { "en": "Dammam", "ar": "الدمام" },
+    { "en": "Eastern Province", "ar": "المنطقة الشرقية" }
+  ],
+  "protected": [
+    "Phone/email destinations",
+    "URLs and anchors",
+    "Code and identifiers",
+    "People and organization identities",
+    "Numbers and factual claims",
+    "Original publication dates and geographical context"
+  ],
+  "formatting": {
+    "locale": "ar-SA",
+    "calendar": "gregory",
+    "numberingSystem": "latn",
+    "language": "ar",
+    "direction": "rtl"
+  }
+}

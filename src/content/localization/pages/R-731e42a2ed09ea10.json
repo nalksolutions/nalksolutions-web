@@ -1,0 +1,210 @@
+{
+  "entityId": "R-731e42a2ed09ea10",
+  "path": "/ar/category/digital-marketing-strategy/google-ads-paid-advertising/",
+  "publication": {
+    "ready": true,
+    "acceptance": "ownerManaged"
+  },
+  "listing": {
+    "family": "category",
+    "basePath": "/category/digital-marketing-strategy/google-ads-paid-advertising/",
+    "number": 1
+  },
+  "review": {
+    "status": "inReview",
+    "reviewer": null,
+    "approvedAt": null,
+    "translationRevision": "generated-listings-1",
+    "sourceInputs": [
+      {
+        "path": "src/content/site/pages.generated.json",
+        "sha256": "7cd8249a8f5b73200fb4c39193dc5469fa0cc595cc493904a611272606512429"
+      },
+      {
+        "path": "src/content/site/documents/R-731e42a2ed09ea10.json",
+        "sha256": "2f9f37541f6bd13ede3c09dfeab8c6199f25c9f202a4b5a394a72e2807863a14"
+      },
+      {
+        "path": "src/content/localization/listing-index.json",
+        "sha256": "9566dd2c16042f2dca2ed29001b2330e0a0aa8322ec23f272d18ea91ab4e8c05"
+      }
+    ]
+  },
+  "seo": {
+    "title": "إعلانات Google والإعلانات المدفوعة | نالك سوليوشنز",
+    "description": "تصفّح مقالات نالك سوليوشنز بالعربية في التقنية وتطوير الأعمال والتسويق الرقمي."
+  },
+  "heading": "إعلانات Google والإعلانات المدفوعة",
+  "blocks": {},
+  "imageAlts": {},
+  "issues": [],
+  "document": {
+    "nodes": [
+      {
+        "type": "text",
+        "text": ""
+      }
+    ]
+  },
+  "sourceSnapshot": {
+    "id": "R-731e42a2ed09ea10",
+    "sourceRouteId": "R-731e42a2ed09ea10",
+    "path": "/category/digital-marketing-strategy/google-ads-paid-advertising/",
+    "kind": "archive",
+    "locale": "en",
+    "status": "published",
+    "seo": {
+      "title": "Google Ads & Paid Advertising Blogs- Nalk Solutions",
+      "description": null,
+      "canonical": "https://nalksolutions.com/category/digital-marketing-strategy/google-ads-paid-advertising/",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "googlebot": null,
+      "social": [
+        {
+          "property": "og:locale",
+          "content": "en_US"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Google Ads & Paid Advertising Blogs- Nalk Solutions"
+        },
+        {
+          "property": "og:url",
+          "content": "https://nalksolutions.com/category/digital-marketing-strategy/google-ads-paid-advertising/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Nalk Solutions"
+        },
+        {
+          "property": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "property": "twitter:title",
+          "content": "Google Ads & Paid Advertising Blogs- Nalk Solutions"
+        },
+        {
+          "property": "twitter:label1",
+          "content": "Posts"
+        },
+        {
+          "property": "twitter:data1",
+          "content": "3"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Place",
+              "@id": "https://nalksolutions.com/#place",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              }
+            },
+            {
+              "@type": "ProfessionalService",
+              "@id": "https://nalksolutions.com/#organization",
+              "name": "Nalk Solutions",
+              "url": "https://nalksolutions.com",
+              "email": "info@nalksolutions.com",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              },
+              "logo": {
+                "@type": "ImageObject",
+                "@id": "https://nalksolutions.com/#logo",
+                "url": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "contentUrl": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "caption": "Nalk Solutions",
+                "inLanguage": "en-US",
+                "width": "1563",
+                "height": "1563"
+              },
+              "openingHours": ["Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"],
+              "description": "Nalk provides Nalk Solutions is a technology company in Saudi Arabia; delivering digital marketing, web development, app development &amp; IT solutions across Riyadh, Jeddah and all major cities across the kingdom.",
+              "legalName": "uhj1984@yahoo.com",
+              "location": {
+                "@id": "https://nalksolutions.com/#place"
+              },
+              "image": {
+                "@id": "https://nalksolutions.com/#logo"
+              },
+              "telephone": "+966506000843"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://nalksolutions.com/#website",
+              "url": "https://nalksolutions.com",
+              "name": "Nalk Solutions",
+              "publisher": {
+                "@id": "https://nalksolutions.com/#organization"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://nalksolutions.com/category/digital-marketing-strategy/google-ads-paid-advertising/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": "1",
+                  "item": {
+                    "@id": "https://nalksolutions.com",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "position": "2",
+                  "item": {
+                    "@id": "https://nalksolutions.com/category/digital-marketing-strategy/google-ads-paid-advertising/",
+                    "name": "Google Ads &amp; Paid Advertising"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "CollectionPage",
+              "@id": "https://nalksolutions.com/category/digital-marketing-strategy/google-ads-paid-advertising/#webpage",
+              "url": "https://nalksolutions.com/category/digital-marketing-strategy/google-ads-paid-advertising/",
+              "name": "Google Ads &amp; Paid Advertising Blogs- Nalk Solutions",
+              "isPartOf": {
+                "@id": "https://nalksolutions.com/#website"
+              },
+              "inLanguage": "en-US",
+              "breadcrumb": {
+                "@id": "https://nalksolutions.com/category/digital-marketing-strategy/google-ads-paid-advertising/#breadcrumb"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "content": {
+      "heading": "Category: Google Ads & Paid Advertising",
+      "paragraphs": ["Category: Google Ads & Paid Advertising"],
+      "documentId": "R-731e42a2ed09ea10"
+    },
+    "provenance": {
+      "sourceHtml": "nalk-public-archive/html/source/category-digital-marketing-strategy-google-ads-paid-advertising-731e42a2ed09ea10.html",
+      "sourceSha256": "d9468d9c028a0d00458934220f45f11a0932789f29f7d57859352f3e7ecc8fce",
+      "pageRecord": "nalk-public-archive/pages/category-digital-marketing-strategy-google-ads-paid-advertising-731e42a2ed09ea10.json",
+      "pageRecordSha256": "a46a0a010d3aa54172f202ef396ead375a355114e1e133f540b5de385f56a692",
+      "excerpt": false,
+      "headingFallback": false
+    }
+  }
+}

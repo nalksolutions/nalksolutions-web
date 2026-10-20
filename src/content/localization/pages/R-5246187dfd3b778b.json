@@ -1,0 +1,3011 @@
+{
+  "entityId": "R-5246187dfd3b778b",
+  "path": "/ar/خدمات-سيو/",
+  "publication": {
+    "ready": true,
+    "acceptance": "ownerManaged"
+  },
+  "review": {
+    "status": "inReview",
+    "reviewer": null,
+    "approvedAt": null,
+    "translationRevision": "arabic-content-1",
+    "sourceInputs": [
+      {
+        "path": "src/content/site/pages.generated.json",
+        "sha256": "7cd8249a8f5b73200fb4c39193dc5469fa0cc595cc493904a611272606512429"
+      },
+      {
+        "path": "src/content/site/documents/R-5246187dfd3b778b.json",
+        "sha256": "26fff67ea220b40bfc3b339a12ce68115d34eb531d742a3dd992d3626d915e29"
+      },
+      {
+        "path": "src/content/site/documents/R-6192607faaa0163f.json",
+        "sha256": "1cae5f0f7919b2f0d3258d3cb958de851ac070d16dc3cb79721cbfb281eb26dd"
+      }
+    ]
+  },
+  "seo": {
+    "title": "خدمات تحسين محركات البحث في السعودية | نالك سوليوشنز",
+    "description": "نمِّ الزيارات العضوية لموقعك من خلال خدمات تحسين محركات البحث في السعودية، بما يشمل السيو التقني وتحسين المحتوى وبناء الروابط للشركات في مختلف مناطق المملكة."
+  },
+  "heading": "خدمات تحسين محركات البحث في السعودية",
+  "blocks": {},
+  "imageAlts": {},
+  "issues": [
+    "Retained distinct Arabic-search capability and three FAQs from the legacy Arabic SEO page.",
+    "Removed the inherited pricing placeholder instruction and repeated self-link; no price range invented.",
+    "Authored Arabic copy; owner-managed internal acceptance."
+  ],
+  "document": {
+    "nodes": [
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-hero",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-100",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h1",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "خدمات تحسين محركات البحث في السعودية"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "نساعد في "
+                              },
+                              {
+                                "type": "element",
+                                "tag": "a",
+                                "attributes": {
+                                  "href": "/"
+                                },
+                                "variant": null,
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "text": "نالك سوليوشنز"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": " الشركات السعودية على بناء زيارات عضوية مستدامة، بدلًا من الاعتماد على الإعلانات المدفوعة مقابل كل زيارة، لتصبح نتائج البحث مصدرًا مستمرًا لفرص العملاء والمبيعات."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/contacts/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "اطلب تحليل موقعك لمحركات البحث"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-statistics",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-25",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-counter",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-title",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "سنوات الخبرة"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-number",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": []
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "15"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "+"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-25",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-counter",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-title",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "المشاريع التي تم تسليمها"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-number",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": []
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "200"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "+"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-25",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-counter",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-title",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "رضا العميل"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-number",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": []
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "98"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "%"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-25",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h5",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "نخدم الرياض وجدة والدمام"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-100",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "خدماتنا في تحسين محركات البحث"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "الأساس التقني للموقع"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "قبل التركيز على المحتوى والروابط، يجب أن يعمل موقعك بصورة صحيحة تقنيًا. لا تستطيع محركات البحث ترتيب صفحة لا تصل إليها أو لا تفهمها أو لا تتمكن من فهرستها. وقد تمنع مشكلات تقنية غير ظاهرة حتى المحتوى الممتاز من الظهور."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "نفحص الحالة التقنية للموقع، بما يشمل سرعة تحميل الصفحات، والأداء على الجوال، وقابلية الزحف، وبنية الموقع، والمحتوى المكرر، والبيانات المنظمة. فالبطء قد يضعف الترتيب، وتهيئة الجوال ضرورية لأن Google يعتمد نسخ الجوال في الفهرسة والترتيب، بينما قد تمنع أخطاء الزحف الصفحات من الوصول إلى النتائج أصلًا."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "نتولى العمل التقني مباشرة أو ننسق مع فريق التطوير لديك. وعندما يستقر الأساس التقني، تصبح جهود المحتوى وبناء الروابط أكثر فاعلية."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/services-google-ads-saudi-arabia-2/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "إعلانات Google للوصول السريع عبر البحث"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "بحث الكلمات المفتاحية والاستراتيجية"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "يحدد اختيار عمليات البحث المستهدفة بقية استراتيجية تحسين محركات البحث. تستهدف بعض الشركات كلمات شديدة المنافسة مقارنة بقوة موقعها الحالية، أو كلمات قليلة المنافسة لا يبحث عنها أحد فعليًا."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "نوازن بين حجم البحث والمنافسة وصلة الكلمة بنشاطك. ونحدد كلمات رئيسية لخدماتك الأساسية، وكلمات مساندة للموضوعات المرتبطة، وعبارات بحث طويلة وأكثر تحديدًا، بمنافسة أقل ونية شراء أعلى."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "لشركة أثاث في الرياض، قد تشمل الكلمات الرئيسية «محلات أثاث الرياض» و«شراء أثاث الرياض». وتتناول الكلمات المساندة فئات مثل «أثاث غرف معيشة الرياض» و«أثاث مكتبي الرياض». أما العبارات الأكثر تحديدًا فقد تكون «كنبة زاوية رمادية مودرن الرياض» أو «مكتب مدير تنفيذي مع توصيل في الرياض». وغالبًا ما تتحول هذه الزيارات إلى شراء بنسبة أفضل لأن الباحث أقرب إلى اتخاذ القرار."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/services-wordpress-development-saudi-arabia/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n\nاستكشف وكالة تطوير موقع WordPress الخاصة بنا\n\n"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تحسين الصفحات من الداخل"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "بعد تحديد الكلمات المناسبة، نحسّن الصفحات الحالية ونعدّ محتوى جديدًا يخدم تلك البحوث. ويشمل ذلك تحسين عناوين الصفحات وأوصافها لزيادة النقر من النتائج، وتنظيم العناوين، وإدراج الكلمات بصورة طبيعية، وربط الصفحات ذات الصلة، وكتابة أوصاف بديلة واضحة للصور، وتقديم دعوات مفهومة لاتخاذ الخطوة التالية."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "الهدف من تحسين الصفحة هو أن يكون محتواها واضحًا ومفيدًا للزائر ولمحرك البحث الذي يحاول فهمها. ويتفوق المحتوى المنظم الذي يساعد القارئ فعليًا على المحتوى المكتوب لمحركات البحث وحدها."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "خدمات نالك سوليوشنز للتسويق الرقمي"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تطوير المحتوى"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "المحتوى هو ما ترتّبه محركات البحث، وهو أيضًا ما يقنع الزائر بالتعامل معك. لذلك يخدم المحتوى الفعّال هدفين: جذب الزيارات من البحث وتحويلها إلى فرص عملاء أو مبيعات."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "نعدّ استراتيجية محتوى تستند إلى الكلمات المحددة، وتشمل صفحات الخدمات الأساسية، وصفحات المناطق المستهدفة، ومقالات تجيب عن الأسئلة الشائعة، وأدلة شراء تساعد العميل على اتخاذ قرار واعٍ."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "الجودة أهم بكثير من العدد. فمقال شامل عن اختيار أثاث المكتب يمكن أن يتفوق على عشرة مقالات سطحية عن الموضوع نفسه. ونفضّل نشر محتوى شهري يحقق ظهورًا وتحويلات على نشر أسبوعي لا يحقق أيًا منهما."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/professional-website-development-company-in-saudi-arabia/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تطوير مواقع مهيأة لمحركات البحث"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تحسين البحث المحلي للشركات السعودية"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "تحتاج معظم الأنشطة التي تخدم عملاء محليين إلى تحسين البحث المحلي إلى جانب العمل العام على الموقع. ويشمل ذلك الظهور على خرائط Google وفي بحوث مثل «مطاعم قريبة مني» أو «سباك في الرياض»."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "نحسّن ملف النشاط التجاري على Google بمعلومات دقيقة ومكتملة ومنشورات وتحديثات منتظمة، وندعم جمع تقييمات العملاء ومتابعة مؤشرات الأداء. كما نبني إشارات محلية متسقة لاسم النشاط وعنوانه ورقم هاتفه في الأدلة والمواقع، بما يعزز موثوقية بياناته لدى Google."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "للشركات التي تعمل في مدن سعودية متعددة، نعدّ صفحات مناطق تراعي متطلبات كل سوق وتضم محتوى خاصًا بكل منطقة."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/services-google-ads-saudi-arabia/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "خدمات التسويق عبر التواصل الاجتماعي"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "بناء الروابط وتعزيز موثوقية الموقع"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "تعدّ الروابط الواردة من مواقع أخرى إشارات ثقة لمحركات البحث. وتتفوق المواقع ذات الروابط القوية من مصادر موثوقة ومرتبطة بالموضوع على المواقع ذات الروابط القليلة أو الضعيفة."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "نعتمد على إنتاج محتوى يستحق الإشارة إليه، والتواصل مع المواقع والمنشورات ذات الصلة، وبناء علاقات مع جهات النشر في القطاع، والاستفادة من الشراكات التجارية القائمة. لا نشتري الروابط ولا نستخدم أساليب تخالف إرشادات محركات البحث؛ فقد تحقق مكاسب قصيرة يتبعها ضرر طويل في الترتيب. نبني موثوقية الموقع بطريقة تدعم استمرار النتائج."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/locations-digital-marketing-riyadh/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "خدمات التسويق الرقمي في الرياض"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "السيو للمحتوى العربي\n\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "البحث بالعربية له أنماطه الخاصة. نحدد الكلمات العربية الصحيحة ونبني محتوى يظهر حين يبحث جمهورك السعودي بلغته."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": ""
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-100",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "أسئلة شائعة\n\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "disclosure",
+                    "summary": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": "service-faq-icon",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-faq-closed-icon",
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "svg",
+                                "attributes": {
+                                  "viewbox": "0 0 448 512"
+                                },
+                                "variant": null,
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "path",
+                                    "attributes": {
+                                      "d": "M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                                    },
+                                    "variant": null,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-faq-open-icon",
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "svg",
+                                "attributes": {
+                                  "viewbox": "0 0 448 512"
+                                },
+                                "variant": null,
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "path",
+                                    "attributes": {
+                                      "d": "M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                                    },
+                                    "variant": null,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "كم يستغرق السيو ليعطي نتائج؟"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "السيو لعبة طويلة، عادة من ثلاثة إلى ستة أشهر قبل أن يتحرك الترتيب بشكل ملموس، لكن أثره يستمر ويتراكم بعد ذلك."
+                          }
+                        ]
+                      }
+                    ],
+                    "open": true
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "disclosure",
+                    "summary": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": "service-faq-icon",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-faq-closed-icon",
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "svg",
+                                "attributes": {
+                                  "viewbox": "0 0 448 512"
+                                },
+                                "variant": null,
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "path",
+                                    "attributes": {
+                                      "d": "M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                                    },
+                                    "variant": null,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-faq-open-icon",
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "svg",
+                                "attributes": {
+                                  "viewbox": "0 0 448 512"
+                                },
+                                "variant": null,
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "path",
+                                    "attributes": {
+                                      "d": "M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                                    },
+                                    "variant": null,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "كم تكلفة خدمات السيو في السعودية؟"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تعتمد على حالة موقعك ومستوى المنافسة وأهدافك. نبدأ بتحليل موقعك ثم نضع خطة وميزانية واضحة. "
+                          }
+                        ]
+                      }
+                    ],
+                    "open": false
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "disclosure",
+                    "summary": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": "service-faq-icon",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-faq-closed-icon",
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "svg",
+                                "attributes": {
+                                  "viewbox": "0 0 448 512"
+                                },
+                                "variant": null,
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "path",
+                                    "attributes": {
+                                      "d": "M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                                    },
+                                    "variant": null,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-faq-open-icon",
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "svg",
+                                "attributes": {
+                                  "viewbox": "0 0 448 512"
+                                },
+                                "variant": null,
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "path",
+                                    "attributes": {
+                                      "d": "M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                                    },
+                                    "variant": null,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "هل تعملون على المواقع العربية والإنجليزية؟"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "نعم، لدينا خبرة في السيو للمحتوى العربي والإنجليزي معاً، وهو أمر يحتاج فهماً مختلفاً لكل لغة."
+                          },
+                          {
+                            "type": "element",
+                            "tag": "br",
+                            "attributes": {},
+                            "variant": null,
+                            "children": []
+                          },
+                          {
+                            "type": "element",
+                            "tag": "br",
+                            "attributes": {},
+                            "variant": null,
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "open": false
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-100",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "ابدأ بتحسين ظهور موقعك"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "نبدأ بفهم وضع موقعك الحالي وأهدافك. اطلب تحليلًا مجانيًا لمعرفة مستوى الموقع وفرص تحسين ظهوره في نتائج البحث."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/contacts/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n\nاتصل بنا الآن\n\n"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ]
+  },
+  "sourceSnapshot": {
+    "id": "R-5246187dfd3b778b",
+    "sourceRouteId": "R-5246187dfd3b778b",
+    "path": "/services-seo-saudi-arabia/",
+    "kind": "marketing",
+    "locale": "en",
+    "status": "published",
+    "seo": {
+      "title": "Best SEO Services in Saudi Arabia | Local & Technical SEO Agency",
+      "description": "Grow organic traffic with SEO services in Saudi Arabia. We provides technical SEO, content optimisation, and link building for businesses across the Kingdom.",
+      "canonical": "https://nalksolutions.com/services-seo-saudi-arabia/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "googlebot": null,
+      "social": [
+        {
+          "property": "og:locale",
+          "content": "en_US"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Best SEO Services in Saudi Arabia | Local & Technical SEO Agency"
+        },
+        {
+          "property": "og:description",
+          "content": "Grow organic traffic with SEO services in Saudi Arabia. We provides technical SEO, content optimisation, and link building for businesses across the Kingdom."
+        },
+        {
+          "property": "og:url",
+          "content": "https://nalksolutions.com/services-seo-saudi-arabia/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Nalk Solutions"
+        },
+        {
+          "property": "og:updated_time",
+          "content": "2026-07-19T16:10:20+00:00"
+        },
+        {
+          "property": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "property": "twitter:title",
+          "content": "Best SEO Services in Saudi Arabia | Local & Technical SEO Agency"
+        },
+        {
+          "property": "twitter:description",
+          "content": "Grow organic traffic with SEO services in Saudi Arabia. We provides technical SEO, content optimisation, and link building for businesses across the Kingdom."
+        },
+        {
+          "property": "twitter:label1",
+          "content": "Time to read"
+        },
+        {
+          "property": "twitter:data1",
+          "content": "4 minutes"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Place",
+              "@id": "https://nalksolutions.com/#place",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              }
+            },
+            {
+              "@type": ["ProfessionalService", "Organization"],
+              "@id": "https://nalksolutions.com/#organization",
+              "name": "Nalk Solutions",
+              "url": "https://nalksolutions.com",
+              "email": "info@nalksolutions.com",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              },
+              "logo": {
+                "@type": "ImageObject",
+                "@id": "https://nalksolutions.com/#logo",
+                "url": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "contentUrl": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "caption": "Nalk Solutions",
+                "inLanguage": "en-US",
+                "width": "1563",
+                "height": "1563"
+              },
+              "openingHours": ["Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"],
+              "description": "Nalk provides Nalk Solutions is a technology company in Saudi Arabia; delivering digital marketing, web development, app development &amp; IT solutions across Riyadh, Jeddah and all major cities across the kingdom.",
+              "legalName": "uhj1984@yahoo.com",
+              "location": {
+                "@id": "https://nalksolutions.com/#place"
+              },
+              "image": {
+                "@id": "https://nalksolutions.com/#logo"
+              },
+              "telephone": "+966506000843"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://nalksolutions.com/#website",
+              "url": "https://nalksolutions.com",
+              "name": "Nalk Solutions",
+              "publisher": {
+                "@id": "https://nalksolutions.com/#organization"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://nalksolutions.com/services-seo-saudi-arabia/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": "1",
+                  "item": {
+                    "@id": "https://nalksolutions.com",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "position": "2",
+                  "item": {
+                    "@id": "https://nalksolutions.com/services-seo-saudi-arabia/",
+                    "name": "SEO Services in Saudi Arabia"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://nalksolutions.com/services-seo-saudi-arabia/#webpage",
+              "url": "https://nalksolutions.com/services-seo-saudi-arabia/",
+              "name": "Best SEO Services in Saudi Arabia | Local &amp; Technical SEO Agency",
+              "datePublished": "2026-05-14T18:33:02+00:00",
+              "dateModified": "2026-07-19T16:10:20+00:00",
+              "isPartOf": {
+                "@id": "https://nalksolutions.com/#website"
+              },
+              "inLanguage": "en-US",
+              "breadcrumb": {
+                "@id": "https://nalksolutions.com/services-seo-saudi-arabia/#breadcrumb"
+              }
+            },
+            {
+              "@type": "Service",
+              "name": "Best SEO Services in Saudi Arabia | Local &amp; Technical SEO Agency",
+              "description": "Grow organic traffic with SEO services in Saudi Arabia. We provides technical SEO, content optimisation, and link building for businesses across the Kingdom.",
+              "offers": {
+                "@type": "Offer",
+                "availability": "InStock"
+              },
+              "@id": "https://nalksolutions.com/services-seo-saudi-arabia/#schema-23943",
+              "mainEntityOfPage": {
+                "@id": "https://nalksolutions.com/services-seo-saudi-arabia/#webpage"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "content": {
+      "heading": "SEO Services in Saudi Arabia",
+      "paragraphs": ["SEO Services in Saudi Arabia"],
+      "documentId": "R-5246187dfd3b778b"
+    },
+    "provenance": {
+      "sourceHtml": "nalk-public-archive/html/source/services-seo-saudi-arabia-5246187dfd3b778b.html",
+      "sourceSha256": "78fff16906a8e8bc6489315eee235909b10703fe412dd707280ed01fe76313b8",
+      "pageRecord": "nalk-public-archive/pages/services-seo-saudi-arabia-5246187dfd3b778b.json",
+      "pageRecordSha256": "7ea05bc96576cb54beda18c399108fcc09b06382bf061da7438925ab7e963f79",
+      "excerpt": false,
+      "headingFallback": false
+    }
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "entityId": "R-ccff881f6fef50e4",
+  "path": "/ar/category/uncategorized/page/2/",
+  "publication": {
+    "ready": true,
+    "acceptance": "ownerManaged"
+  },
+  "listing": {
+    "family": "category",
+    "basePath": "/category/uncategorized/",
+    "number": 2
+  },
+  "review": {
+    "status": "inReview",
+    "reviewer": null,
+    "approvedAt": null,
+    "translationRevision": "generated-listings-1",
+    "sourceInputs": [
+      {
+        "path": "src/content/site/pages.generated.json",
+        "sha256": "7cd8249a8f5b73200fb4c39193dc5469fa0cc595cc493904a611272606512429"
+      },
+      {
+        "path": "src/content/site/documents/R-ccff881f6fef50e4.json",
+        "sha256": "2c734eb1c98e412f6758160fb1ef3ec6dfc2110cbe3b850c0054da2a82f5f2cb"
+      },
+      {
+        "path": "src/content/localization/listing-index.json",
+        "sha256": "9566dd2c16042f2dca2ed29001b2330e0a0aa8322ec23f272d18ea91ab4e8c05"
+      }
+    ]
+  },
+  "seo": {
+    "title": "غير مصنّف | نالك سوليوشنز",
+    "description": "تصفّح مقالات نالك سوليوشنز بالعربية في التقنية وتطوير الأعمال والتسويق الرقمي."
+  },
+  "heading": "غير مصنّف",
+  "blocks": {},
+  "imageAlts": {},
+  "issues": [],
+  "document": {
+    "nodes": [
+      {
+        "type": "text",
+        "text": ""
+      }
+    ]
+  },
+  "sourceSnapshot": {
+    "id": "R-ccff881f6fef50e4",
+    "sourceRouteId": "R-ccff881f6fef50e4",
+    "path": "/category/uncategorized/page/2/",
+    "kind": "archive",
+    "locale": "en",
+    "status": "published",
+    "seo": {
+      "title": "Uncategorized Archives - Page 2 of 2 - Nalk Solutions",
+      "description": null,
+      "canonical": null,
+      "robots": "follow, noindex",
+      "googlebot": null,
+      "social": [
+        {
+          "property": "og:locale",
+          "content": "en_US"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Uncategorized Archives - Page 2 of 2 - Nalk Solutions"
+        },
+        {
+          "property": "og:url",
+          "content": "https://nalksolutions.com/category/uncategorized/page/2/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Nalk Solutions"
+        },
+        {
+          "property": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "property": "twitter:title",
+          "content": "Uncategorized Archives - Page 2 of 2 - Nalk Solutions"
+        },
+        {
+          "property": "twitter:label1",
+          "content": "Posts"
+        },
+        {
+          "property": "twitter:data1",
+          "content": "11"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Place",
+              "@id": "https://nalksolutions.com/#place",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              }
+            },
+            {
+              "@type": "ProfessionalService",
+              "@id": "https://nalksolutions.com/#organization",
+              "name": "Nalk Solutions",
+              "url": "https://nalksolutions.com",
+              "email": "info@nalksolutions.com",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              },
+              "logo": {
+                "@type": "ImageObject",
+                "@id": "https://nalksolutions.com/#logo",
+                "url": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "contentUrl": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "caption": "Nalk Solutions",
+                "inLanguage": "en-US",
+                "width": "1563",
+                "height": "1563"
+              },
+              "openingHours": ["Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"],
+              "description": "Nalk provides Nalk Solutions is a technology company in Saudi Arabia; delivering digital marketing, web development, app development &amp; IT solutions across Riyadh, Jeddah and all major cities across the kingdom.",
+              "legalName": "uhj1984@yahoo.com",
+              "location": {
+                "@id": "https://nalksolutions.com/#place"
+              },
+              "image": {
+                "@id": "https://nalksolutions.com/#logo"
+              },
+              "telephone": "+966506000843"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://nalksolutions.com/#website",
+              "url": "https://nalksolutions.com",
+              "name": "Nalk Solutions",
+              "publisher": {
+                "@id": "https://nalksolutions.com/#organization"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://nalksolutions.com/category/uncategorized/page/2/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": "1",
+                  "item": {
+                    "@id": "https://nalksolutions.com",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "position": "2",
+                  "item": {
+                    "@id": "https://nalksolutions.com/category/uncategorized/",
+                    "name": "Uncategorized"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "CollectionPage",
+              "@id": "https://nalksolutions.com/category/uncategorized/page/2/#webpage",
+              "url": "https://nalksolutions.com/category/uncategorized/page/2/",
+              "name": "Uncategorized Archives - Page 2 of 2 - Nalk Solutions",
+              "isPartOf": {
+                "@id": "https://nalksolutions.com/#website"
+              },
+              "inLanguage": "en-US",
+              "breadcrumb": {
+                "@id": "https://nalksolutions.com/category/uncategorized/page/2/#breadcrumb"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "content": {
+      "heading": "Category: Uncategorized",
+      "paragraphs": ["Category: Uncategorized"],
+      "documentId": "R-ccff881f6fef50e4"
+    },
+    "provenance": {
+      "sourceHtml": "nalk-public-archive/html/source/category-uncategorized-page-2-ccff881f6fef50e4.html",
+      "sourceSha256": "0c66ba2a880c80504540067aee049352576bbbf6ffbafb3c15e3de000dc1a122",
+      "pageRecord": "nalk-public-archive/pages/category-uncategorized-page-2-ccff881f6fef50e4.json",
+      "pageRecordSha256": "40161f135ac8a65d729a50689eead7ae72d8e0f5af7e6e2564693a8488297a3f",
+      "excerpt": false,
+      "headingFallback": false
+    }
+  }
+}

@@ -1,0 +1,3506 @@
+{
+  "id": "R-3c0c402f82a25de6",
+  "path": "/services-api-integration-saudi-arabia/",
+  "locale": "en",
+  "family": "service-or-location",
+  "nodes": [
+    {
+      "type": "text",
+      "text": " "
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-hero",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-100",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h1",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "API Integration Services in Saudi Arabia"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "At "
+                            },
+                            {
+                              "type": "element",
+                              "tag": "a",
+                              "attributes": {
+                                "href": "/"
+                              },
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "Nalk Solutions"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": ", our API integration services help Saudi businesses connect their websites and web applications with the tools they already use, eliminating manual data entry, improving data accuracy, and enabling automation that saves time and reduces costs."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Modern businesses use numerous software applications for operations, marketing, sales, and customer service. These systems often operate independently, creating data silos and requiring manual work to keep information synchronised. API integration connects disparate systems, enabling automated data flow and creating unified digital ecosystems that work efficiently."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/contacts/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Request Integration Consultation "
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-statistics",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-25",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-counter",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-counter-title",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Years Experience"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-counter-number",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": []
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "15"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "+"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-25",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-counter",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-counter-title",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Projects Delivered"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-counter-number",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": []
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "200"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "+"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-25",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-counter",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-counter-title",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Client Satisfaction"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-counter-number",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": []
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "98"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "%"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-25",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h5",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Serving Riyadh, Jeddah & Dammam"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-100",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Common Integration Scenarios Nalk Offers\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "E-commerce Platform Integrations\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Online stores need to connect with various systems to operate efficiently. We integrate e-commerce websites with inventory management for real-time stock levels, shipping and logistics for rate calculation and tracking, accounting software for financial reconciliation, email marketing for customer communications, and payment gateways for transaction processing."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/professional-website-development-company-in-saudi-arabia/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Explore Nalk Solutions — web and integration experts"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "CRM System Integration\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Customer relationship management systems store valuable customer data that should flow between your website and CRM automatically. We build integrations that create CRM records for new website leads, sync customer profile information bidirectionally, trigger marketing automation based on website behaviour, and provide sales teams with visibility into customer interactions."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/services-ecommerce-development-saudi-arabia/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Explore online store development with payment integration"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "ERP System Integration\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Enterprise resource planning systems manage core business operations. Website integration with ERP systems enables real-time product and pricing information on websites, automated order flow from e-commerce to fulfilment, customer account synchronisation, and inventory visibility across channels."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "We have particular experience integrating with SAP and Oracle systems common in Saudi enterprises."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/services-custom-website-development-saudi-arabia/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Discover our custom web development capabilities"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Payment Gateway Integration\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Processing payments requires integration between your website and payment service providers. We connect websites with Saudi payment gateways including Mada, STC Pay, Tabby, and Tamara, and international processors like Stripe, PayPal, and traditional merchant services."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Integration includes secure token exchange, transaction status updates, refund and void processing, and reconciliation data for accounting."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/services-website-maintenance-saudi-arabia/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Learn website and integration upkeep Saudi Arabia"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Marketing Automation Integration\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Marketing platforms benefit from website data about user behaviour and conversions. We integrate websites with email marketing platforms for subscriber management, marketing automation systems for behavioural triggers, analytics platforms for comprehensive tracking, and advertising platforms for conversion tracking."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/services-cloud-portal-development-saudi-arabia/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Explore cloud portal solutions"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "ZATCA E-Invoicing Integration\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": " "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Saudi businesses must comply with ZATCA e-invoicing regulations. We integrate business systems with approved e-invoicing solutions, ensuring invoice data flows from your website or business application to ZATCA systems automatically in compliant formats."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "This integration handles invoice generation and XML formatting, cryptographic signing of documents, submission to ZATCA clearance systems, and archival of invoices per regulatory requirements."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/services-pwa-development-in-saudi-arabia/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Explore our web portal and PWA integration solutions"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-100",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Integration Architecture Approaches"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-tabs",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-tabs-list",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-title-7361"
+                          },
+                          "variant": "service-tab",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "1.Direct API Connections"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-title-7362"
+                          },
+                          "variant": "service-tab",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "2. Integration Middleware"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-title-7363"
+                          },
+                          "variant": "service-tab",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "3. Webhook Implementations"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-title-7364"
+                          },
+                          "variant": "service-tab",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "4. Security and Data Protection"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-title-7365"
+                          },
+                          "variant": "service-tab",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "5. Error Handling and Reliability"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-title-7366"
+                          },
+                          "variant": "service-tab",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "6. Integration Testing"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-title-7367"
+                          },
+                          "variant": "service-tab",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "7. Monitoring and Maintenance"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-tabs-body",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-tab-mobile",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "1.Direct API Connections"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-content-7361"
+                          },
+                          "variant": "service-tab-panel",
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Simple integrations often use direct connections between two systems. Your website calls the API of another service directly, passing data and receiving responses. This approach works well when connecting a small number of systems with straightforward data flows."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-tab-mobile",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "2. Integration Middleware"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-content-7362"
+                          },
+                          "variant": "service-tab-panel",
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Complex environments with many systems benefit from integration middleware that acts as a central hub, routing data between applications. We implement middleware solutions using platforms like Zapier for simple workflows, Make (formerly Integr) for visual automation, or custom middleware for sophisticated requirements."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Middleware approaches centralise integration logic, making systems easier to maintain and modify."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-tab-mobile",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "3. Webhook Implementations"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-content-7363"
+                          },
+                          "variant": "service-tab-panel",
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Webhooks enable event-driven integrations where systems notify each other when relevant events occur rather than constantly polling for updates. We implement webhook receivers in your applications and configure webhook notifications from connected services."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Webhooks reduce unnecessary API calls and enable real-time data synchronisation."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-tab-mobile",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "4. Security and Data Protection"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-content-7364"
+                          },
+                          "variant": "service-tab-panel",
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Integration security protects sensitive data moving between systems. We implement security measures, including encrypted data transmission using TLS/SSL, OAuth authentication for API access, API key rotation and management, request signing for authenticity verification, and IP whitelisting where appropriate."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "For integrations handling customer data, we ensure compliance with data protection requirements and implement appropriate access controls."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-tab-mobile",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "5. Error Handling and Reliability"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-content-7365"
+                          },
+                          "variant": "service-tab-panel",
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Integrations must handle errors gracefully since network issues, API changes, or system outages can interrupt data flow. We build reliable integrations with retry logic for failed requests, error logging and monitoring, fallback mechanisms for critical operations, and alerting when intervention is needed."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Queue-based architectures ensure data is not lost during temporary outages, processing queued requests when systems return to normal operation."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-tab-mobile",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "6. Integration Testing"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-content-7366"
+                          },
+                          "variant": "service-tab-panel",
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Thorough testing ensures integrations work correctly before going live. Our testing process includes unit tests for integration code, integration tests with sandbox environments, end-to-end testing of complete workflows, error scenario testing, and load testing for high-volume integrations."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "We maintain separate development, staging, and production integration environments, allowing safe testing without affecting live operations."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-tab-mobile",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "7. Monitoring and Maintenance"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-content-7367"
+                          },
+                          "variant": "service-tab-panel",
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Active integrations require ongoing monitoring to ensure they continue functioning correctly as connected systems evolve. Our integration maintenance services include monitoring integration health and performance, updating integrations when APIs change, troubleshooting issues that arise, and optimizing integrations as usage patterns change."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-100",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Serving Major Cities Across Saudi Arabia"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Our website development services extend throughout the Kingdom, with particular focus on the major business centers where most Saudi companies operate."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "section",
+                  "attributes": {},
+                  "variant": "service-inner",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-columns",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-column-33",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "service-heading",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "h4",
+                                  "attributes": {},
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Website Development Company in Riyadh"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "service-action-center",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/locations-website-development-riyadh/"
+                                  },
+                                  "variant": "service-button",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "Learn more about web development in Riyadh"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-column-33",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "service-heading",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "h4",
+                                  "attributes": {},
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Website Development Services in Jeddah"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "service-action-center",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/locations-website-development-jeddah/"
+                                  },
+                                  "variant": "service-button",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "Discover Jeddah web solutions"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-column-33",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "service-heading",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "h4",
+                                  "attributes": {},
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Web Development in Dammam"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "service-action-center",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/locations-website-development-dammam-eastern-province/"
+                                  },
+                                  "variant": "service-button",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "Explore Eastern Province web development"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-100",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Starting Your Integration Project\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Integration projects begin with a discovery process where we inventory the systems you use, identify integration points and data flows needed, understand the integration capabilities of each system, and define success criteria for the integration."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "We then provide a proposal outlining the technical approach, integration architecture, development timeline, and investment required."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "b",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Schedule an integration consultation to discuss connecting your business systems."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": " "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/contacts/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Contact Us Now"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    }
+  ],
+  "serviceLayout": "service-v1"
+}

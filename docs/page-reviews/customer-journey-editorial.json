@@ -1,0 +1,318 @@
+{
+  "decision": "D-20",
+  "status": "Implemented copy draft; owner design/content acceptance pending",
+  "pages": [
+    {
+      "id": "R-71192976f0e75fcc",
+      "path": "/about-us/",
+      "rewritten": [
+        {
+          "tag": "p",
+          "section": "company-about-hero",
+          "text": "Nalk Solutions was founded on a straightforward belief: Saudi businesses deserve a technology partner that truly understands the Kingdom — not an overseas agency adapting foreign playbooks to a market it barely knows.",
+          "reason": "Condense the Saudi-business introduction or repeated service catalogue into the authored introduction and single service summary; preserve founder, values, statements and testimonials."
+        },
+        {
+          "tag": "p",
+          "section": "company-about-hero",
+          "text": "Our clients range from ambitious startups in Riyadh’s emerging tech scene to established enterprises across Jeddah, Dammam, and the Eastern Province. What they all have in common is a need for a partner that delivers real outcomes — not just activity reports and vague promises.",
+          "reason": "Condense the Saudi-business introduction or repeated service catalogue into the authored introduction and single service summary; preserve founder, values, statements and testimonials."
+        },
+        {
+          "tag": "h2",
+          "section": "company-showcase",
+          "text": "Website Development",
+          "reason": "Condense the Saudi-business introduction or repeated service catalogue into the authored introduction and single service summary; preserve founder, values, statements and testimonials."
+        },
+        {
+          "tag": "h2",
+          "section": "company-showcase",
+          "text": "We create high-performing, visually engaging websites that reflect your brand and deliver smooth user experiences.",
+          "reason": "Condense the Saudi-business introduction or repeated service catalogue into the authored introduction and single service summary; preserve founder, values, statements and testimonials."
+        },
+        {
+          "tag": "h2",
+          "section": "company-showcase",
+          "text": "Prototyping & UI/UX Design",
+          "reason": "Condense the Saudi-business introduction or repeated service catalogue into the authored introduction and single service summary; preserve founder, values, statements and testimonials."
+        },
+        {
+          "tag": "h2",
+          "section": "company-showcase",
+          "text": "Our design process focuses on usability and creativity, turning ideas into interactive, intuitive interfaces that users love.",
+          "reason": "Condense the Saudi-business introduction or repeated service catalogue into the authored introduction and single service summary; preserve founder, values, statements and testimonials."
+        },
+        {
+          "tag": "h2",
+          "section": "company-showcase",
+          "text": "Digital Marketing",
+          "reason": "Condense the Saudi-business introduction or repeated service catalogue into the authored introduction and single service summary; preserve founder, values, statements and testimonials."
+        },
+        {
+          "tag": "h2",
+          "section": "company-showcase",
+          "text": "We craft result-driven digital campaigns covering SEO, paid ads, and Google My Business optimization to boost your online reach and visibility.",
+          "reason": "Condense the Saudi-business introduction or repeated service catalogue into the authored introduction and single service summary; preserve founder, values, statements and testimonials."
+        }
+      ],
+      "required": [
+        "A technology company in Saudi Arabia.",
+        "Nalk Solutions is a technology and creative partner for Saudi businesses, combining local understanding with practical delivery.",
+        "Google Business Profile optimization.",
+        "Explore Our Services",
+        "Discuss Your Project"
+      ]
+    },
+    {
+      "id": "R-a0ac0f2631af30d8",
+      "path": "/contacts/",
+      "rewritten": [
+        {
+          "tag": "p",
+          "section": "company-contacts-hero",
+          "text": "Have a project in mind or a question to ask?We’re here to listen, plan, and bring your ideas to life.",
+          "reason": "Replace generic hero/appointment/wellness/form-prompt copy with business enquiry guidance and working contacts; retain the unavailable form."
+        },
+        {
+          "tag": "h6",
+          "section": "company-contacts-hero",
+          "text": "Get In Touch",
+          "reason": "Replace generic hero/appointment/wellness/form-prompt copy with business enquiry guidance and working contacts; retain the unavailable form."
+        },
+        {
+          "tag": "p",
+          "section": "company-contact-information",
+          "text": "We’re here to walk alongside you on your wellness journey. Whether you have questions about our services, want to book an appointment, or simply need guidance, our team is ready to help.",
+          "reason": "Replace generic hero/appointment/wellness/form-prompt copy with business enquiry guidance and working contacts; retain the unavailable form."
+        },
+        {
+          "tag": "p",
+          "section": "company-enquiry",
+          "text": "If you have any questions, you can contact us. Please, fill out the form below.",
+          "reason": "Replace generic hero/appointment/wellness/form-prompt copy with business enquiry guidance and working contacts; retain the unavailable form."
+        },
+        {
+          "tag": "h3",
+          "section": "company-contact-information",
+          "text": "Contact Information",
+          "reason": "D-22 Contact overhaul: reorganize labels into clear contact methods and office cards; retain addresses, opening hours, source media, map and unavailable form. Normalize spacing without changing hours."
+        },
+        {
+          "tag": "h3",
+          "section": "company-locations-heading",
+          "text": "All Locations",
+          "reason": "D-22 Contact overhaul: reorganize labels into clear contact methods and office cards; retain addresses, opening hours, source media, map and unavailable form. Normalize spacing without changing hours."
+        },
+        {
+          "tag": "h3",
+          "section": "company-enquiry",
+          "text": "Ask a Question",
+          "reason": "D-22 Contact overhaul: reorganize labels into clear contact methods and office cards; retain addresses, opening hours, source media, map and unavailable form. Normalize spacing without changing hours."
+        },
+        {
+          "tag": "h6",
+          "section": "company-locations",
+          "text": "Address:",
+          "reason": "D-22 Contact overhaul: reorganize labels into clear contact methods and office cards; retain addresses, opening hours, source media, map and unavailable form. Normalize spacing without changing hours."
+        },
+        {
+          "tag": "h6",
+          "section": "company-locations",
+          "text": "Open:",
+          "reason": "D-22 Contact overhaul: reorganize labels into clear contact methods and office cards; retain addresses, opening hours, source media, map and unavailable form. Normalize spacing without changing hours."
+        },
+        {
+          "tag": "p",
+          "section": "company-locations",
+          "text": "Monday – Sunday,11am – 8pm",
+          "reason": "D-22 Contact overhaul: reorganize labels into clear contact methods and office cards; retain addresses, opening hours, source media, map and unavailable form. Normalize spacing without changing hours."
+        },
+        {
+          "tag": "p",
+          "section": "company-locations",
+          "text": "Monday – Sunday,9am – 6pm",
+          "reason": "D-22 Contact overhaul: reorganize labels into clear contact methods and office cards; retain addresses, opening hours, source media, map and unavailable form. Normalize spacing without changing hours."
+        }
+      ],
+      "required": [
+        "Contact Us Online",
+        "Tell us about your project or the business problem you want to solve.",
+        "Email a brief description",
+        "Online submission is not available yet.",
+        "info@nalksolutions.com",
+        "Talk to the team directly.",
+        "Bahria Town, Rawalpindi Pakistan",
+        "Jeddah, Saudi Arabia",
+        "Monday – Sunday, 11am – 8pm",
+        "Monday – Sunday, 9am – 6pm",
+        "+966 50 6000 843",
+        "+92 305 551 8777",
+        "Opening hours",
+        "Send an enquiry"
+      ]
+    },
+    {
+      "id": "R-e83c0ad06ef3deb6",
+      "path": "/our-services/",
+      "rewritten": [
+        {
+          "tag": "h3",
+          "section": "company-service-group",
+          "text": "Digital Marketing Sub-Services",
+          "reason": "Replace repeated catalogue headings with the four authored offers and optional specialist directory; keep their direct page destinations."
+        },
+        {
+          "tag": "h4",
+          "section": "company-service-group",
+          "text": "Digital Marketing By Location",
+          "reason": "Replace repeated catalogue headings with the four authored offers and optional specialist directory; keep their direct page destinations."
+        },
+        {
+          "tag": "h2",
+          "section": "company-service-group",
+          "text": "Website Design & Development",
+          "reason": "Replace repeated catalogue headings with the four authored offers and optional specialist directory; keep their direct page destinations."
+        },
+        {
+          "tag": "h3",
+          "section": "company-service-group",
+          "text": "Website Development Sub-Services",
+          "reason": "Replace repeated catalogue headings with the four authored offers and optional specialist directory; keep their direct page destinations."
+        },
+        {
+          "tag": "h3",
+          "section": "company-service-group",
+          "text": "Custom Web Development",
+          "reason": "Replace repeated catalogue headings with the four authored offers and optional specialist directory; keep their direct page destinations."
+        },
+        {
+          "tag": "h3",
+          "section": "company-service-group",
+          "text": "B2B Web & Portal Development",
+          "reason": "Replace repeated catalogue headings with the four authored offers and optional specialist directory; keep their direct page destinations."
+        },
+        {
+          "tag": "h4",
+          "section": "company-service-group",
+          "text": "Website Development By Location",
+          "reason": "Replace repeated catalogue headings with the four authored offers and optional specialist directory; keep their direct page destinations."
+        },
+        {
+          "tag": "h2",
+          "section": "company-service-group",
+          "text": "Mobile & Custom Software",
+          "reason": "Replace repeated catalogue headings with the four authored offers and optional specialist directory; keep their direct page destinations."
+        },
+        {
+          "tag": "h6",
+          "section": "company-services-cta",
+          "text": "Contact Us",
+          "reason": "Replace repeated catalogue headings with the four authored offers and optional specialist directory; keep their direct page destinations."
+        },
+        {
+          "tag": "h2",
+          "section": "company-services-cta",
+          "text": "Future-Ready Technologies for Modern Businesses",
+          "reason": "Replace repeated catalogue headings with the four authored offers and optional specialist directory; keep their direct page destinations."
+        }
+      ],
+      "required": [
+        "Our Services",
+        "Websites & E-commerce",
+        "Custom Software & Apps",
+        "AI & Automation",
+        "Digital Marketing",
+        "Not sure where to start?",
+        "Explore specialist services",
+        "Discuss Your Project"
+      ]
+    },
+    {
+      "id": "R-d37935eb53a2a5dd",
+      "path": "/professional-website-development-company-in-saudi-arabia/",
+      "rewritten": [
+        {
+          "tag": "p",
+          "section": "service-hero",
+          "text": "At Nalk Solutions, we transform your digital vision into powerful web experiences that drive business growth across the Kingdom. As a trusted website development company in Saudi Arabia, we combine technical expertise with a deep understanding of the local market to deliver high-performing websites. Nalk Solutions builds websites and web applications for businesses across every major Saudi sector, including retail and ecommerce, healthcare, real estate and construction, logistics and transport, education, hospitality, and professional services. From Riyadh and Jeddah to Dammam and Makkah, we deliver fast, secure websites that are easy to manage and built to turn visitors into customers.",
+          "reason": "Shorten the hero; retain distinct industries, regional, application and Saudi marketing details in supporting context and source capability sections."
+        },
+        {
+          "tag": "p",
+          "section": "service-hero",
+          "text": "Our team has worked with businesses in Riyadh, Jeddah, and Dammam, helping them establish strong online presences that align with Saudi Arabia’s Vision 2030 digital transformation goals. Whether you need a corporate website, an e-commerce platform, or a custom web application, we build solutions that work.",
+          "reason": "Shorten the hero; retain distinct industries, regional, application and Saudi marketing details in supporting context and source capability sections."
+        },
+        {
+          "tag": "p",
+          "section": "service-section",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+          "reason": "Remove inherited placeholder copy; retain the technology label, icon and substantive surrounding sections."
+        }
+      ],
+      "required": [
+        "Website Development Company in Saudi Arabia",
+        "retail and ecommerce, healthcare, real estate and construction, logistics and transport, education, hospitality, and professional services.",
+        "Makkah",
+        "Vision 2030",
+        "What’s Included",
+        "Discuss Your Project"
+      ]
+    },
+    {
+      "id": "R-2ea04bcf8b41b11f",
+      "path": "/services-ai-automation-saudi-arabia/",
+      "rewritten": [
+        {
+          "tag": "p",
+          "section": "service-hero",
+          "text": "At Nalk Solutions, we implement AI automation systems for Saudi businesses that want to eliminate repetitive work, reduce operational costs, and let their teams focus on high-value activities that machines cannot handle.",
+          "reason": "Shorten the hero; retain distinct industries, regional, application and Saudi marketing details in supporting context and source capability sections."
+        }
+      ],
+      "required": [
+        "AI Automation Services in Saudi Arabia",
+        "Give your team more time for work that needs people.",
+        "What’s Included",
+        "Discuss Your Project"
+      ]
+    },
+    {
+      "id": "R-54ef9c93732551a9",
+      "path": "/services-custom-software-app-development-saudi-arabia/",
+      "rewritten": [
+        {
+          "tag": "p",
+          "section": "service-hero",
+          "text": "At Nalk Solutions, our custom software and app development services in Saudi Arabia create digital tools built specifically for how your business works, not how a generic platform assumes it should work.",
+          "reason": "Shorten the hero; retain distinct industries, regional, application and Saudi marketing details in supporting context and source capability sections."
+        }
+      ],
+      "required": [
+        "Custom Software and App Development Services in Saudi Arabia",
+        "Whether you need a mobile application your customers carry in their pockets",
+        "What’s Included",
+        "Discuss Your Project"
+      ]
+    },
+    {
+      "id": "R-661faf9de8b4a219",
+      "path": "/services-digital-marketing/",
+      "rewritten": [
+        {
+          "tag": "p",
+          "section": "service-hero",
+          "text": "Most agencies sell Saudi businesses a recycled Western playbook and hope it sticks. It rarely does. The way people in the Kingdom search, scroll, and decide to buy is its own thing, and a campaign that ignores that ends up paying for clicks instead of customers.",
+          "reason": "Shorten the hero; retain distinct industries, regional, application and Saudi marketing details in supporting context and source capability sections."
+        }
+      ],
+      "required": [
+        "Digital Marketing Services in Saudi Arabia",
+        "prayer schedules and the rhythm of the Saudi week",
+        "Arabic and English working together",
+        "What’s Included",
+        "Discuss Your Project"
+      ]
+    }
+  ]
+}

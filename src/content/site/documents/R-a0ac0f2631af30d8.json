@@ -1,0 +1,1690 @@
+{
+  "id": "R-a0ac0f2631af30d8",
+  "path": "/contacts/",
+  "locale": "en",
+  "family": "corporate-or-special",
+  "nodes": [
+    {
+      "type": "text",
+      "text": " "
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {},
+      "variant": "company-contacts-hero",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "company-inner",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "company-column",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "company-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Contact Us Online"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ],
+                  "entrance": {
+                    "kind": "up",
+                    "delay": 0
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "company-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Have a project in mind or a question to ask?"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "br",
+                          "attributes": {},
+                          "variant": null,
+                          "children": []
+                        },
+                        {
+                          "type": "text",
+                          "text": "We’re here to listen, plan, and bring your ideas to life."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ],
+                  "entrance": {
+                    "kind": "up",
+                    "delay": 400
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "company-row",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/about-us/"
+                      },
+                      "variant": "company-button",
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 448 512"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "More About Us"
+                        }
+                      ],
+                      "entrance": {
+                        "kind": "left",
+                        "delay": 800
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "company-contact-details",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "h6",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "Get In Touch"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "company-feature-description",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\nKSA: "
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "a",
+                                  "variant": null,
+                                  "attributes": {
+                                    "href": "tel:+966506000843"
+                                  },
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "+966 50 6000 843"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ""
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "br",
+                                  "attributes": {},
+                                  "variant": null,
+                                  "children": []
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\nPAK: "
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "a",
+                                  "variant": null,
+                                  "attributes": {
+                                    "href": "tel:+923055518777"
+                                  },
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "+92 305 551 8777"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "br",
+                                  "attributes": {},
+                                  "variant": null,
+                                  "children": []
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "a",
+                                  "variant": null,
+                                  "attributes": {
+                                    "href": "mailto:info@nalksolutions.com"
+                                  },
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "info@nalksolutions.com"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ""
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        }
+                      ],
+                      "entrance": {
+                        "kind": "left",
+                        "delay": 600
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "company-column",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "company-column",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "company-image",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "img",
+                          "attributes": {
+                            "src": "/wp-content/uploads/2025/10/Contact-us-1024x640.png",
+                            "alt": "",
+                            "width": "1024",
+                            "height": "640",
+                            "srcset": "/wp-content/uploads/2025/10/Contact-us-1024x640.png 1024w, /wp-content/uploads/2025/10/Contact-us-300x188.png 300w, /wp-content/uploads/2025/10/Contact-us-768x480.png 768w, /wp-content/uploads/2025/10/Contact-us-480x300.png 480w, /wp-content/uploads/2025/10/Contact-us-600x375.png 600w, /wp-content/uploads/2025/10/Contact-us.png 1280w",
+                            "sizes": "(max-width: 1024px) 100vw, 1024px"
+                          },
+                          "variant": null,
+                          "children": []
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {},
+      "variant": "company-contact-information",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "company-inner",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "company-column",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "company-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h3",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Contact Information"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ],
+                  "entrance": {
+                    "kind": "up",
+                    "delay": 0
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "company-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "We’re here to walk alongside you on your wellness journey. Whether you have questions about our services, want to book an appointment, or simply need guidance, our team is ready to help. "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ],
+                  "entrance": {
+                    "kind": "up",
+                    "delay": 200
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "company-row",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "company-inner",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "company-column",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "company-heading",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "h6",
+                                  "attributes": {},
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Address:"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ],
+                              "entrance": {
+                                "kind": "fade",
+                                "delay": 400
+                              }
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "company-copy",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "p",
+                                  "attributes": {},
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Bahria Town, Rawalpindi"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ],
+                              "entrance": {
+                                "kind": "fade",
+                                "delay": 500
+                              }
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "company-column",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "company-heading",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "h6",
+                                  "attributes": {},
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Open:"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ],
+                              "entrance": {
+                                "kind": "fade",
+                                "delay": 600
+                              }
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "company-copy",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "p",
+                                  "attributes": {},
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Monday – Sunday, "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "tag": "br",
+                                      "attributes": {},
+                                      "variant": null,
+                                      "children": []
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "11am – 8pm "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ],
+                              "entrance": {
+                                "kind": "fade",
+                                "delay": 700
+                              }
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "company-column",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "map",
+                  "href": "https://maps.google.com/maps?q=Bahria%20Town%2C%20Rawalpindi&t=m&z=14&output=embed&iwloc=near",
+                  "title": "Bahria Town, Rawalpindi"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {},
+      "variant": "company-locations-heading",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "company-inner",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "company-heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "h3",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "All Locations"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ],
+              "entrance": {
+                "kind": "up",
+                "delay": 0
+              }
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {},
+      "variant": "company-locations",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "company-inner",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "company-column",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "company-image",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "img",
+                      "attributes": {
+                        "src": "/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-00.45.53_d16cb6a1.jpg",
+                        "alt": "",
+                        "width": "1280",
+                        "height": "805",
+                        "srcset": "/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-00.45.53_d16cb6a1.jpg 1280w, /wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-00.45.53_d16cb6a1-300x189.jpg 300w, /wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-00.45.53_d16cb6a1-1024x644.jpg 1024w, /wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-00.45.53_d16cb6a1-768x483.jpg 768w, /wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-00.45.53_d16cb6a1-477x300.jpg 477w, /wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-00.45.53_d16cb6a1-600x377.jpg 600w",
+                        "sizes": "(max-width: 1280px) 100vw, 1280px"
+                      },
+                      "variant": null,
+                      "children": []
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ],
+                  "entrance": {
+                    "kind": "pop",
+                    "delay": 0
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "company-row",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "company-inner",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "company-column",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "company-heading",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "h6",
+                                  "attributes": {},
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Address:"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ],
+                              "entrance": {
+                                "kind": "fade",
+                                "delay": 200
+                              }
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "company-copy",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "p",
+                                  "attributes": {},
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Bahria Town, Rawalpindi Pakistan"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ],
+                              "entrance": {
+                                "kind": "fade",
+                                "delay": 300
+                              }
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "company-column",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "company-heading",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "h6",
+                                  "attributes": {},
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Open:"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ],
+                              "entrance": {
+                                "kind": "fade",
+                                "delay": 400
+                              }
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "company-copy",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "p",
+                                  "attributes": {},
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Monday – Sunday,"
+                                    },
+                                    {
+                                      "type": "element",
+                                      "tag": "br",
+                                      "attributes": {},
+                                      "variant": null,
+                                      "children": []
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "11am – 8pm"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ],
+                              "entrance": {
+                                "kind": "fade",
+                                "delay": 500
+                              }
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "company-column",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "company-image",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "img",
+                      "attributes": {
+                        "src": "/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-01.09.23_5caa5997.jpg",
+                        "alt": "",
+                        "width": "1000",
+                        "height": "800",
+                        "srcset": "/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-01.09.23_5caa5997.jpg 1000w, /wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-01.09.23_5caa5997-300x240.jpg 300w, /wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-01.09.23_5caa5997-768x614.jpg 768w, /wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-01.09.23_5caa5997-375x300.jpg 375w, /wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-01.09.23_5caa5997-600x480.jpg 600w",
+                        "sizes": "(max-width: 1000px) 100vw, 1000px"
+                      },
+                      "variant": null,
+                      "children": []
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ],
+                  "entrance": {
+                    "kind": "pop",
+                    "delay": 0
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "company-row",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "company-column",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "company-heading",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "h6",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "Address:"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " "
+                            }
+                          ],
+                          "entrance": {
+                            "kind": "fade",
+                            "delay": 200
+                          }
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "company-copy",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "Jeddah, Saudi Arabia"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " "
+                            }
+                          ],
+                          "entrance": {
+                            "kind": "fade",
+                            "delay": 300
+                          }
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "company-column",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "company-heading",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "h6",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "Open:"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " "
+                            }
+                          ],
+                          "entrance": {
+                            "kind": "fade",
+                            "delay": 400
+                          }
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "company-copy",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "Monday – Sunday,"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "br",
+                                  "attributes": {},
+                                  "variant": null,
+                                  "children": []
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "9am – 6pm"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " "
+                            }
+                          ],
+                          "entrance": {
+                            "kind": "fade",
+                            "delay": 500
+                          }
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {},
+      "variant": "company-enquiry",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "company-inner",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "company-column",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "company-image",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "img",
+                      "attributes": {
+                        "src": "/wp-content/uploads/2025/08/71-contacts-3.webp",
+                        "alt": "",
+                        "width": "1180",
+                        "height": "1425",
+                        "srcset": "/wp-content/uploads/2025/08/71-contacts-3.webp 1180w, /wp-content/uploads/2025/08/71-contacts-3-248x300.webp 248w, /wp-content/uploads/2025/08/71-contacts-3-848x1024.webp 848w, /wp-content/uploads/2025/08/71-contacts-3-768x927.webp 768w, /wp-content/uploads/2025/08/71-contacts-3-600x725.webp 600w",
+                        "sizes": "(max-width: 1180px) 100vw, 1180px"
+                      },
+                      "variant": null,
+                      "children": []
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ],
+                  "entrance": {
+                    "kind": "pop",
+                    "delay": 0
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "company-column",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "company-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h3",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Ask a Question"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ],
+                  "entrance": {
+                    "kind": "up",
+                    "delay": 0
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "company-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "If you have any questions, you can contact us. Please, fill out the form below."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ],
+                  "entrance": {
+                    "kind": "up",
+                    "delay": 200
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {
+                    "id": "cmsmasters-widget-form-67121ad"
+                  },
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "br",
+                      "attributes": {},
+                      "variant": null,
+                      "children": []
+                    },
+                    {
+                      "type": "enquiry",
+                      "fields": [
+                        {
+                          "label": "Name",
+                          "name": "name-1",
+                          "kind": "text",
+                          "required": false,
+                          "options": []
+                        },
+                        {
+                          "label": "E-Mail",
+                          "name": "email-1",
+                          "kind": "email",
+                          "required": false,
+                          "options": []
+                        },
+                        {
+                          "label": "Enter Phone Number",
+                          "name": "phone-1",
+                          "kind": "text",
+                          "required": false,
+                          "options": []
+                        },
+                        {
+                          "label": "Your Message",
+                          "name": "textarea-1",
+                          "kind": "textarea",
+                          "required": false,
+                          "options": []
+                        }
+                      ],
+                      "buttonLabel": "Send Message"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ],
+                  "entrance": {
+                    "kind": "up",
+                    "delay": 400
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    }
+  ],
+  "companyLayout": "contacts"
+}

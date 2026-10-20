@@ -1,0 +1,3322 @@
+{
+  "id": "R-badd60679617635f",
+  "path": "/services-ui-ux-design-saudi-arabia/",
+  "locale": "en",
+  "family": "service-or-location",
+  "nodes": [
+    {
+      "type": "text",
+      "text": " "
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-hero",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-100",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h1",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "UI/UX Design Services in Saudi Arabia "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "At"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "a",
+                              "attributes": {
+                                "href": "/"
+                              },
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": " Nalk Solutions"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": ", we design user interfaces and experiences that Saudi users actually understand and enjoy using. Not designs that win awards while confusing customers, but interfaces optimised for how Saudi consumers and businesses actually interact with digital products."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/contacts/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Learn about our mobile-first web development"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-statistics",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-25",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-counter",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-counter-title",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Years Experience"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-counter-number",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": []
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "15"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "+"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-25",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-counter",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-counter-title",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Projects Delivered"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-counter-number",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": []
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "200"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "+"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-25",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-counter",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-counter-title",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Client Satisfaction"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-counter-number",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": []
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "98"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "%"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-25",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h5",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Serving Riyadh, Jeddah & Dammam"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-100",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Our UI/UX Design Services\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "User Research and Analysis\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Effective design requires understanding your actual users, not making assumptions. User research reveals what users actually do, what frustrates them, what they expect, and where current experiences fail."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Our research includes competitive analysis, user interviews, understanding goals and pain points, usability testing, identifying problems, analytics analysis revealing behavior patterns, and persona development defining target user types."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/professional-website-development-company-in-saudi-arabia/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Learn more about web development company in Saudi Arabia"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Information Architecture\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Information architecture organizes content and functionality logically so users can find what they need without conscious effort. We develop content organization, navigation structure, user flow mapping, search architecture, and taxonomy for complex products."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Good information architecture is invisible. Users simply accomplish their goals without noticing the organizational structure because it matches how they naturally think."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Explore Nalk Solutions tech company in KSA"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Wireframing and Prototyping\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Wireframes and prototypes test design concepts before investing in full visual design and development. This approach identifies problems early when they are cheap to fix."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "We create low-fidelity wireframes showing layout, interactive prototypes demonstrating user flows, high-fidelity mockups incorporating visual design, and clickable prototypes for user testing."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/services-ecommerce-development-saudi-arabia/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Discover our e-commerce development services"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Visual Design and Branding\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Visual design creates the aesthetic users experience while maintaining usability. Beautiful design that confuses users fails. Clear design that looks unprofessional damages credibility."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Our visual design includes color palette development, typography selection for readability, iconography development, image selection or direction, and motion design and micro-interactions."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/services-pwa-development-in-saudi-arabia/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Learn about PWA development"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Design Systems and Component Libraries\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Design systems create consistency across large websites or applications by defining reusable components and design patterns. We develop component libraries for buttons, forms, navigation, design tokens defining colors and spacing, pattern libraries for common interfaces, and accessibility guidelines."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/services-cloud-portal-development-saudi-arabia/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Explore cloud portal solutions"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Responsive and Adaptive Design\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Responsive design ensures websites and applications work across device sizes from smartphones to desktop monitors. Our responsive design includes mobile-first approach, breakpoint optimization for key device sizes, touch-friendly interface elements, and performance optimization for mobile networks."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/services-custom-website-development-saudi-arabia/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Learn about custom website design and development"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-100",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "The UI/UX Design Process\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-tabs",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-tabs-list",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-title-7361"
+                          },
+                          "variant": "service-tab",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "1. Discovery and Research"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-title-7362"
+                          },
+                          "variant": "service-tab",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "2. Strategy and Planning"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-title-7363"
+                          },
+                          "variant": "service-tab",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "3. Design and Prototyping"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-title-7364"
+                          },
+                          "variant": "service-tab",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "4. User Testing and Validation"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-title-7365"
+                          },
+                          "variant": "service-tab",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "5. Development Handoff and Support"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-title-7366"
+                          },
+                          "variant": "service-tab",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "6. Post-Launch Iteration"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-tabs-body",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-tab-mobile",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "1. Discovery and Research"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-content-7361"
+                          },
+                          "variant": "service-tab-panel",
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Projects begin with understanding your business, users, and objectives. We research your industry, competitors, current product, target users, and success criteria."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-tab-mobile",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "2. Strategy and Planning"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-content-7362"
+                          },
+                          "variant": "service-tab-panel",
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "We develop design strategy covering key user journeys to optimize, information architecture approach, visual design direction, technical considerations, and project timeline."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-tab-mobile",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "3. Design and Prototyping"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-content-7363"
+                          },
+                          "variant": "service-tab-panel",
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Design phase creates the actual interface users will experience. We work iteratively, starting with rough concepts then refining based on feedback."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Design deliverables include wireframes, visual design, interactive prototypes, and design specifications for developers."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-tab-mobile",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "4. User Testing and Validation"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-content-7364"
+                          },
+                          "variant": "service-tab-panel",
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Testing with real users validates design decisions before development investment. Even simple testing with five users reveals the majority of usability issues."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-tab-mobile",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "5. Development Handoff and Support"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-content-7365"
+                          },
+                          "variant": "service-tab-panel",
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "We prepare comprehensive design specifications enabling accurate implementation. Development handoff includes design specifications and assets, component documentation, responsive behavior documentation, and accessibility requirements."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-tab-mobile",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "6. Post-Launch Iteration"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-content-7366"
+                          },
+                          "variant": "service-tab-panel",
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Launch is beginning, not end, of design work. We monitor user behavior after launch, gather analytics and feedback, identify improvement opportunities, and iterate designs based on real-world usage."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-100",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Serving Major Cities Across Saudi Arabia"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Our website development services extend throughout the Kingdom, with particular focus on the major business centers where most Saudi companies operate."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "section",
+                  "attributes": {},
+                  "variant": "service-inner",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-columns",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-column-33",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "service-heading",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "h4",
+                                  "attributes": {},
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Website Development Company in Riyadh"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "service-action-center",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/locations-website-development-riyadh/"
+                                  },
+                                  "variant": "service-button",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "Learn more about web development in Riyadh"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-column-33",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "service-heading",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "h4",
+                                  "attributes": {},
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Website Development Services in Jeddah"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "service-action-center",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/locations-website-development-jeddah/"
+                                  },
+                                  "variant": "service-button",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "Discover Jeddah web solutions"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-column-33",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "service-heading",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "h4",
+                                  "attributes": {},
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Web Development in Dammam"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "service-action-center",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/locations-website-development-dammam-eastern-province/"
+                                  },
+                                  "variant": "service-button",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "Explore Eastern Province web development"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-100",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Getting Started\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Design projects begin with understanding your product, users, and goals."
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        },
+                        {
+                          "type": "element",
+                          "tag": "b",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Request free UX consultation"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": " to discuss your project and how user experience design can improve business outcomes."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Most design projects begin within two weeks, with the discovery phase launching immediately after agreement."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/contacts/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Contact Us Now"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    }
+  ],
+  "serviceLayout": "service-v1"
+}

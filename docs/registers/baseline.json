@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "baseline_id": "nalk-wordpress-2026-10-15",
+  "captured_date": "2026-10-15",
+  "client_timezone": "Asia/Karachi",
+  "counts": {
+    "routes": 149,
+    "initial_statuses": {
+      "200": 118,
+      "301": 18,
+      "410": 13
+    },
+    "noindex_200_routes": 27,
+    "page_screenshots": 447,
+    "interaction_states": 7,
+    "legacy_rules": 67,
+    "legacy_statuses": {
+      "301": 32,
+      "410": 35
+    },
+    "sitemap_entries": 76,
+    "public_content_seeds": 107,
+    "exported_attachment_originals": 424
+  },
+  "source_files": [
+    {
+      "path": "migration-review/backup_audit.json",
+      "sha256": "c95d7569980f1a6cdfc2fd56452bb380a3a4073be4801f725fd8730b0bc975d0"
+    },
+    {
+      "path": "migration-review/content_inventory.csv",
+      "sha256": "838f06a335fd015bbfdf9b87de49f3e2e6f46f7c34b1f7d122b69c97d16fadac"
+    },
+    {
+      "path": "migration-review/route_manifest.csv",
+      "sha256": "e77a520f33f343767a191b8ef5a3e1adad0a34adef6019733aa03f4ad1ff800c"
+    },
+    {
+      "path": "migration-review/legacy_status_baseline.json",
+      "sha256": "c6cef5e35ae1ff6b2e35beb84cb15809933cd6b1da042881be19275efff9c75c"
+    },
+    {
+      "path": "nalk-public-archive/summary.json",
+      "sha256": "38a11421b0f15df03a3fc5633a2df88bbbb7253bc84560a221a43f63ffc4c151"
+    },
+    {
+      "path": "nalk-public-archive/archive_verification.json",
+      "sha256": "09763117d520c5cddc2675d6adca6529427350b48c288c7e3749ac5943c21502"
+    }
+  ],
+  "scope_note": "These are frozen observed baseline counts, not accepted replacement-site results."
+}

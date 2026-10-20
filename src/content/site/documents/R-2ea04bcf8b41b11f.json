@@ -1,0 +1,2790 @@
+{
+  "id": "R-2ea04bcf8b41b11f",
+  "path": "/services-ai-automation-saudi-arabia/",
+  "locale": "en",
+  "family": "service-or-location",
+  "nodes": [
+    {
+      "type": "text",
+      "text": " "
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-hero",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-100",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h1",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "AI Automation Services in Saudi Arabia\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "At "
+                            },
+                            {
+                              "type": "element",
+                              "tag": "a",
+                              "attributes": {
+                                "href": "/"
+                              },
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "Nalk Solutions"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": ", we implement AI automation systems for Saudi businesses that want to eliminate repetitive work, reduce operational costs, and let their teams focus on high-value activities that machines cannot handle."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/contacts/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Get Your Free Consultation Today"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-statistics",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-25",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-counter",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-counter-title",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Years Experience"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-counter-number",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": []
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "15"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "+"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-25",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-counter",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-counter-title",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Projects Delivered"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-counter-number",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": []
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "200"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "+"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-25",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-counter",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-counter-title",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Client Satisfaction"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-counter-number",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": []
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "98"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "%"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-25",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h5",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Serving Riyadh, Jeddah & Dammam"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-100",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Automation Services Nalks Provides"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Customer Service and Support"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Customer service consumes substantial staff time answering repetitive questions. Automation handles common inquiries instantly while freeing agents for complex issues requiring human judgment."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Customer service automation includes chatbots answering frequent questions, ticket routing to appropriate departments, automated responses to common requests, and follow-up satisfaction surveys."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/professional-website-development-company-in-saudi-arabia/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Learn more about web development company in Saudi Arabia"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Sales and Lead Management"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Sales teams spend an enormous amount of time on administrative tasks rather than actual selling. Automation handles lead capture, qualification, routing, and follow-up automatically."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Sales automation includes lead capture from website and ads, lead scoring and qualification, automated follow-up sequences, meeting scheduling, proposal generation, and CRM data entry."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Explore Nalk Solutions digital agency"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Marketing Automation"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Marketing automation handles campaign execution, lead nurturing, and customer communication at scale without proportionally scaling team size."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Marketing automation includes email campaign sequencing, social media posting scheduling, ad campaign management, lead nurturing workflows, and customer segmentation."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Financial Process Automation\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Financial operations involve repetitive data entry, reconciliation, and reporting perfect for automation. Financial automation improves accuracy while reducing time and cost."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Financial automation includes invoice processing and approval routing, expense report management, payment processing and reconciliation, and financial reporting updates."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/services-pwa-development-in-saudi-arabia/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Learn about PWA development"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/services-ui-ux-design-saudi-arabia/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Discover our UI/UX design services"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "HR and Employee Operations\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Human resources handles repetitive processes from recruitment through onboarding, payroll, and leave management. Automation improves employee experience while reducing HR workload."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "HR automation includes job posting and applicant tracking, interview scheduling and coordination, onboarding workflow and documentation, and leave request management."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Saudi businesses must ensure HR automation complies with Saudi labor law and GOSI requirements."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/services-cloud-portal-development-saudi-arabia/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Explore cloud portal solutions"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-100",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Implementation Process\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-tabs",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-tabs-list",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-title-7361"
+                          },
+                          "variant": "service-tab",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "1. Process Analysis and Opportunity Identification"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-title-7362"
+                          },
+                          "variant": "service-tab",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "2.Solution Design and Planning"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-title-7363"
+                          },
+                          "variant": "service-tab",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "3.Development and Configuration"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-title-7364"
+                          },
+                          "variant": "service-tab",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "4. Testing and Validation"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-title-7365"
+                          },
+                          "variant": "service-tab",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "5. Deployment and Training"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-title-7366"
+                          },
+                          "variant": "service-tab",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "6. Monitoring and Optimisation"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-tabs-body",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-tab-mobile",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "1. Process Analysis and Opportunity Identification"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-content-7361"
+                          },
+                          "variant": "service-tab-panel",
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Implementation begins with understanding current processes, identifying automation opportunities, and prioritising based on impact and feasibility."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "We analyse your current workflows and pain points, identify repetitive manual tasks, evaluate automation potential and ROI, and prioritise opportunities based on impact."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-tab-mobile",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "2.Solution Design and Planning"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-content-7362"
+                          },
+                          "variant": "service-tab-panel",
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "With opportunities identified, we design automation solutions appropriate for your needs and constraints."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Solution design includes selecting appropriate automation tools and platforms, designing workflow logic and decision rules, planning system integrations, and identifying training and change management needs."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-tab-mobile",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "3.Development and Configuration"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-content-7363"
+                          },
+                          "variant": "service-tab-panel",
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "The implementation phase builds or configures automation solutions according to design specifications."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Development includes configuring automation platforms and tools, building custom integrations when needed, developing and training AI models, and implementing security and compliance requirements."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-tab-mobile",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "4. Testing and Validation"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-content-7364"
+                          },
+                          "variant": "service-tab-panel",
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Thorough testing before full deployment prevents automation errors from impacting operations. Testing validates that automation works correctly and improves rather than disrupts processes."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Testing includes unit testing individual automation components, integration testing across connected systems, user acceptance testing, and error handling validation."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-tab-mobile",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "5. Deployment and Training"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-content-7365"
+                          },
+                          "variant": "service-tab-panel",
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Deployment rolls out automation to users with appropriate training and support ensuring successful adoption."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Deployment includes phased rollout starting with pilots, user training on new processes and tools, documentation and support resources, and monitoring during initial period."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-tab-mobile",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "6. Monitoring and Optimisation"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-content-7366"
+                          },
+                          "variant": "service-tab-panel",
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Post-deployment monitoring ensures that automation performs as intended and identifies opportunities for improvement."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Ongoing work includes performance monitoring and reporting, error monitoring and resolution, user feedback collection, continuous improvement and optimisation, and scaling successful automation to additional processes."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-100",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Getting Started with AI Automation"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Automation projects begin with understanding your current operations and identifying opportunities."
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        },
+                        {
+                          "type": "element",
+                          "tag": "b",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Request a free automation assessment"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": " analyzing your operations and identifying the highest-impact automation opportunities with estimated ROI."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Most automation implementations begin within two weeks with initial solutions deployed in four to eight weeks, depending on complexity."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/contacts/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Contact Us Now"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    }
+  ],
+  "serviceLayout": "service-v1"
+}

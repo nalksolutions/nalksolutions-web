@@ -1,0 +1,62 @@
+{
+  "glyphs": {
+    "shape1": "",
+    "shape2": "",
+    "shape3": "",
+    "shape4": "",
+    "shape5": "",
+    "solution1": "",
+    "solution2": "",
+    "solution3": "",
+    "solution4": ""
+  },
+  "graphicFill": "rgb(255, 251, 189)",
+  "headings": {
+    "desktop": {
+      "h1": 82,
+      "h2": 62,
+      "h3": 48,
+      "h4": 32,
+      "h5": 24,
+      "h6": 17
+    },
+    "tablet": {
+      "h1": 60,
+      "h2": 48,
+      "h3": 36,
+      "h4": 28,
+      "h5": 22,
+      "h6": 16
+    },
+    "mobile": {
+      "h1": 42,
+      "h2": 36,
+      "h3": 28,
+      "h4": 24,
+      "h5": 18,
+      "h6": 15
+    }
+  },
+  "serviceColumns": {
+    "desktop": 3,
+    "tablet": 2,
+    "mobile": 1
+  },
+  "sourceStylesheets": [
+    {
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/elementor/css/post-7.css",
+      "sha256": "0cf05ed20365526d8c233a5536e1a14dcfeaa9a3691913144b8a03dd1b6128cf"
+    },
+    {
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/elementor/css/post-55355.css",
+      "sha256": "a0855639b211a98ca78e6c15789735ecbe80768c20e922a415d80bd04414440d"
+    },
+    {
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/elementor/cmsmasters-local-icons/cmsmasters-demo-icons/style.css",
+      "sha256": "1b0e481b9b24925be1fe9e731c09436f37f4c0f7831d0cc2f2cbf6f6c90e8e46"
+    }
+  ]
+}

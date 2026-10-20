@@ -1,0 +1,49 @@
+{
+  "portraitHeights": {
+    "desktop": 730,
+    "tablet": 600,
+    "mobile": 400
+  },
+  "teamColumns": {
+    "desktop": 3,
+    "tablet": 2,
+    "mobile": 1
+  },
+  "sourceStylesheets": [
+    {
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/elementor/css/post-7.css",
+      "sha256": "0cf05ed20365526d8c233a5536e1a14dcfeaa9a3691913144b8a03dd1b6128cf"
+    },
+    {
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/elementor/css/post-156.css",
+      "sha256": "d612e832b09c1c55c75e2359a51a0d3639bc9d2ad5d412dcbc129c9ec3871710"
+    },
+    {
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/elementor/css/post-63.css",
+      "sha256": "bec13b6fa98b966cc1e0fd787929452d5e409b5ff830d75361260af817a662ec"
+    },
+    {
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/elementor/css/post-55736.css",
+      "sha256": "cdae75a5c5ac9d48cf3f3c89897037a389bfe3079c6769bb677813b29085cae9"
+    },
+    {
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/elementor/css/post-55267.css",
+      "sha256": "a29185ec573d899d7239a6f409fd00658d3893b9ac34a4631c8ac6af5c88aa58"
+    },
+    {
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/elementor/css/post-56.css",
+      "sha256": "0b3aa88184534bff34a83dec9733adff79ec805fc9331ef29263d1fcab0fac99"
+    },
+    {
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/elementor/css/post-110.css",
+      "sha256": "98bb856ea48e4819f9915d2c7f367ac583c06131100fba0288bb701d5e6568b2"
+    }
+  ]
+}

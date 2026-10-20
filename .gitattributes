@@ -1,0 +1,8 @@
+# Preserve byte-for-byte recovery evidence and revision/checksum inputs on checkout.
+* -text
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.woff2 binary
+*.mp4 binary

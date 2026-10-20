@@ -1,0 +1,3474 @@
+{
+  "id": "R-a40cf1b87a23cd67",
+  "path": "/services-website-maintenance-saudi-arabia/",
+  "locale": "en",
+  "family": "service-or-location",
+  "nodes": [
+    {
+      "type": "text",
+      "text": " "
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-hero",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-100",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h1",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Website Maintenance and Support Services in Saudi Arabia"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "At "
+                            },
+                            {
+                              "type": "element",
+                              "tag": "a",
+                              "attributes": {
+                                "href": "/"
+                              },
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "Nalk Solutions"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": ", our website maintenance services keep your digital presence running smoothly so you can focus on your business."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "We provide comprehensive maintenance and support for websites we build as well as sites developed by others, offering flexible service levels that match your business requirements and budget."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/contacts/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Request Support Quote"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-statistics",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-25",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-counter",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-counter-title",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Years Experience"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-counter-number",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": []
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "15"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "+"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-25",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-counter",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-counter-title",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Projects Delivered"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-counter-number",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": []
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "200"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "+"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-25",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-counter",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-counter-title",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Client Satisfaction"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-counter-number",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": []
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "98"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "service-counter-part",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "%"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-25",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h5",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Serving Riyadh, Jeddah & Dammam"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-100",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Our Maintenance Services\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Security Updates and Patches"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Software running your website requires regular updates to address security vulnerabilities. We monitor for and apply security patches to WordPress core and plugins, theme frameworks and components, server software and operating systems, SSL certificates and encryption, and security plugins and firewalls."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "For WordPress sites, security updates often release weekly or more frequently for various plugins and themes. We apply these updates promptly while testing to ensure they do not break functionality."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/services-custom-website-development-saudi-arabia/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Learn more about our custom web development services"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Content Updates and Changes\n\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Your website content needs to stay current as your business evolves. Our maintenance includes adding and updating pages and posts, modifying text, images, and media, updating product information and pricing, adding new team member bios, and publishing blog articles and news."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "For businesses with frequent content updates, we can train your team to handle routine updates while we manage technical maintenance. For those preferring full-service support, we handle all content changes."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/services-api-integration-saudi-arabia/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Explore our API Integration Services"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Performance Monitoring and Optimization\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Website performance affects user experience and search rankings. We monitor your site’s loading speed and continuously optimize through image compression and optimization, database cleanup and optimization, caching configuration and tuning, code minification and file compression, and CDN configuration when beneficial."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Regular performance testing identifies issues before they impact users, and ongoing optimization ensures your site maintains fast loading times as content grows."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/services-ecommerce-development-saudi-arabia/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Discover our e-commerce development services"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Membership and Subscription Sites\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Website performance affects user experience and search rankings. We monitor your site’s loading speed and continuously optimize through image compression and optimization, database cleanup and optimization, caching configuration and tuning, code minification and file compression, and CDN configuration when beneficial."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Regular performance testing identifies issues before they impact users, and ongoing optimization ensures your site maintains fast loading times as content grows."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/services-pwa-development-in-saudi-arabia/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Learn about PWA development"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "SEO Maintenance"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Search rankings require ongoing attention to maintain and improve. Our SEO maintenance includes monitoring search engine rankings, addressing technical SEO issues, updating meta descriptions and title tags, fixing broken links, submitting updated sitemaps, and analyzing traffic and performance."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "For businesses wanting to improve search visibility actively, we offer enhanced SEO services beyond basic maintenance."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Hosting Management\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "We can manage your website hosting including server selection and configuration, security hardening and monitoring, performance optimization, backup management, and technical support. This is particularly valuable when you want a single provider handling all technical aspects of your web presence."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": " "
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Vision 2030 digital solutions "
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-50",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/services-cloud-portal-development-saudi-arabia/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Explore cloud portal solutions"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-100",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Additional Services NalK Solution Provides\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-tabs",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-tabs-list",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-title-7361"
+                          },
+                          "variant": "service-tab",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "1.Performance Monitoring and Optimization"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-title-7362"
+                          },
+                          "variant": "service-tab",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "2. Backup Management"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-title-7363"
+                          },
+                          "variant": "service-tab",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "3. Domain Management"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-title-7364"
+                          },
+                          "variant": "service-tab",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "4. Backup Management"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-title-7365"
+                          },
+                          "variant": "service-tab",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "5. Browser and Device Compatibility"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-title-7366"
+                          },
+                          "variant": "service-tab",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "6. Technical Support"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-tabs-body",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-tab-mobile",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "1.Performance Monitoring and Optimization"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-content-7361"
+                          },
+                          "variant": "service-tab-panel",
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Website performance affects user experience and search rankings. We monitor your site’s loading speed and continuously optimize through image compression and optimization, database cleanup and optimization, caching configuration and tuning, code minification and file compression, and CDN configuration when beneficial."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Regular performance testing identifies issues before they impact users, and ongoing optimization ensures your site maintains fast loading times as content grows."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-tab-mobile",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "2. Backup Management"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-content-7362"
+                          },
+                          "variant": "service-tab-panel",
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Regular backups protect against data loss from security breaches, technical failures, human error, or other incidents. Our backup service includes automated daily backups, secure off-site backup storage, regular backup testing and verification, and quick restoration when needed."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "For ecommerce and high-change sites, we implement more frequent backups to minimize potential data loss."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-tab-mobile",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "3. Domain Management"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-content-7363"
+                          },
+                          "variant": "service-tab-panel",
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Domain names require periodic renewal and sometimes updates to DNS records for various purposes. We can manage domain registration renewal, DNS configuration and changes, domain security settings, and transfer to new registrars when beneficial."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-tab-mobile",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "4. Backup Management"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-content-7364"
+                          },
+                          "variant": "service-tab-panel",
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Regular backups protect against data loss from security breaches, technical failures, human error, or other incidents. Our backup service includes automated daily backups, secure off-site backup storage, regular backup testing and verification, and quick restoration when needed."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "For ecommerce and high-change sites, we implement more frequent backups to minimize potential data loss."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-tab-mobile",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "5. Browser and Device Compatibility"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-content-7365"
+                          },
+                          "variant": "service-tab-panel",
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Web browsers and devices receive frequent updates that sometimes affect website display and functionality. We test your site regularly across Chrome, Safari, Firefox, Edge, iOS and Android mobile devices, and various screen sizes."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "When browser updates cause compatibility issues, we make necessary adjustments to ensure your site continues working correctly for all visitors."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-tab-mobile",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "6. Technical Support"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "elementor-tab-content-7366"
+                          },
+                          "variant": "service-tab-panel",
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Issues and questions arise during normal website operation. Our support services provide assistance through email, phone, and video calls when needed. We troubleshoot technical problems, answer questions about website functionality, provide guidance on using admin interfaces, and coordinate with hosting providers when needed."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "regular",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Support response times vary by service level, from business-day responses for basic plans to rapid response for priority support packages."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-100",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Serving Major Cities Across Saudi Arabia"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Our website development services extend throughout the Kingdom, with particular focus on the major business centers where most Saudi companies operate."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "section",
+                  "attributes": {},
+                  "variant": "service-inner",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "service-columns",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-column-33",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "service-heading",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "h4",
+                                  "attributes": {},
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Website Development Company in Riyadh"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "service-action-center",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/locations-website-development-riyadh/"
+                                  },
+                                  "variant": "service-button",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "Learn more about web development in Riyadh"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-column-33",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "service-heading",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "h4",
+                                  "attributes": {},
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Website Development Services in Jeddah"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "service-action-center",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/locations-website-development-jeddah/"
+                                  },
+                                  "variant": "service-button",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "Discover Jeddah web solutions"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "service-column-33",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "service-heading",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "h4",
+                                  "attributes": {},
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Web Development in Dammam"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "service-action-center",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/locations-website-development-dammam-eastern-province/"
+                                  },
+                                  "variant": "service-button",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "Explore Eastern Province web development"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "section",
+      "attributes": {},
+      "variant": "service-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "service-columns",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "service-column-100",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-heading-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Getting Started with Maintenance Services in Saudi Arbia\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-copy-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Website maintenance can begin immediately for sites already operational or scheduled to coincide with new website launches. The process starts with a website audit if we did not build your site, discussing your maintenance needs and priorities, recommending the appropriate service level, and establishing access credentials and communication channels."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "regular",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "For websites we developed, transitioning to maintenance happens automatically at launch, with no additional setup required."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "p",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "b",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Request a maintenance proposal or discuss your website support needs."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "service-action-center",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/contacts/"
+                      },
+                      "variant": "service-button",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Contact Us Now"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    }
+  ],
+  "serviceLayout": "service-v1"
+}

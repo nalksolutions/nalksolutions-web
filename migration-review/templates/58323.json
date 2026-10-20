@@ -1,0 +1,897 @@
+[
+  {
+    "id": "53dd049c",
+    "elType": "section",
+    "settings": {
+      "structure": "10",
+      "padding": {
+        "unit": "px",
+        "top": "80",
+        "bottom": "80",
+        "isLinked": false
+      },
+      "background_background": "classic",
+      "background_color": "#F8FAFC",
+      "premium_tooltip_icon": {
+        "value": "fas fa-star",
+        "library": "fa-solid"
+      },
+      "premium_tooltip_container_bg_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_slideshow_gallery": [],
+      "background_hover_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_hover_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_hover_slideshow_gallery": [],
+      "background_overlay_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_slideshow_gallery": [],
+      "background_overlay_hover_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_hover_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_hover_slideshow_gallery": [],
+      "pa_condition_repeater": []
+    },
+    "elements": [
+      {
+        "id": "33f4a76b",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_slideshow_gallery": [],
+          "background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_hover_slideshow_gallery": [],
+          "background_overlay_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_overlay_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_overlay_slideshow_gallery": [],
+          "background_overlay_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_overlay_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_overlay_hover_slideshow_gallery": [],
+          "pa_condition_repeater": [],
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [
+          {
+            "id": "17730ac6",
+            "elType": "widget",
+            "settings": {
+              "title": "Why Saudi Businesses Choose Nalk Solutions",
+              "align": "center",
+              "header_size": "h2",
+              "pa_condition_repeater": [],
+              "premium_tooltip_icon": {
+                "value": "fas fa-star",
+                "library": "fa-solid"
+              },
+              "premium_tooltip_container_bg_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_slideshow_gallery": [],
+              "_background_hover_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_hover_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_hover_slideshow_gallery": [],
+              "_mask_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "6f0db545",
+            "elType": "section",
+            "settings": {
+              "structure": "30",
+              "premium_tooltip_icon": {
+                "value": "fas fa-star",
+                "library": "fa-solid"
+              },
+              "premium_tooltip_container_bg_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_slideshow_gallery": [],
+              "background_hover_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_hover_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_hover_slideshow_gallery": [],
+              "background_overlay_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_overlay_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_overlay_slideshow_gallery": [],
+              "background_overlay_hover_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_overlay_hover_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_overlay_hover_slideshow_gallery": [],
+              "pa_condition_repeater": []
+            },
+            "elements": [
+              {
+                "id": "2f95b1cb",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 33,
+                  "background_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_slideshow_gallery": [],
+                  "background_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_hover_slideshow_gallery": [],
+                  "background_overlay_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_slideshow_gallery": [],
+                  "background_overlay_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_hover_slideshow_gallery": [],
+                  "pa_condition_repeater": [],
+                  "premium_tooltip_icon": {
+                    "value": "fas fa-star",
+                    "library": "fa-solid"
+                  },
+                  "premium_tooltip_container_bg_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "7058e1cd",
+                    "elType": "widget",
+                    "settings": {
+                      "selected_icon": {
+                        "value": "fas fa-flag",
+                        "library": "fa-solid"
+                      },
+                      "title_text": "Vision 2030 Alignment",
+                      "description_text": "We help companies align their web presence with Saudi Arabia's digital transformation goals and the knowledge-based economy envisioned in Vision 2030.",
+                      "icon_color": "#059669",
+                      "pa_condition_repeater": [],
+                      "premium_tooltip_icon": {
+                        "value": "fas fa-star",
+                        "library": "fa-solid"
+                      },
+                      "premium_tooltip_container_bg_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_video_fallback": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_slideshow_gallery": [],
+                      "_background_hover_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_hover_video_fallback": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_hover_slideshow_gallery": [],
+                      "_mask_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "icon-box"
+                  }
+                ],
+                "isInner": false
+              },
+              {
+                "id": "31d8b99f",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 33,
+                  "background_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_slideshow_gallery": [],
+                  "background_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_hover_slideshow_gallery": [],
+                  "background_overlay_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_slideshow_gallery": [],
+                  "background_overlay_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_hover_slideshow_gallery": [],
+                  "pa_condition_repeater": [],
+                  "premium_tooltip_icon": {
+                    "value": "fas fa-star",
+                    "library": "fa-solid"
+                  },
+                  "premium_tooltip_container_bg_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "2cb1b0aa",
+                    "elType": "widget",
+                    "settings": {
+                      "selected_icon": {
+                        "value": "fas fa-language",
+                        "library": "fa-solid"
+                      },
+                      "title_text": "Bilingual Expertise",
+                      "description_text": "Proper RTL support for Arabic and English. Our team includes Arabic specialists who ensure your copy sounds natural to Saudi readers.",
+                      "icon_color": "#2563EB",
+                      "pa_condition_repeater": [],
+                      "premium_tooltip_icon": {
+                        "value": "fas fa-star",
+                        "library": "fa-solid"
+                      },
+                      "premium_tooltip_container_bg_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_video_fallback": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_slideshow_gallery": [],
+                      "_background_hover_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_hover_video_fallback": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_hover_slideshow_gallery": [],
+                      "_mask_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "icon-box"
+                  }
+                ],
+                "isInner": false
+              },
+              {
+                "id": "4f1a0a77",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 33,
+                  "background_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_slideshow_gallery": [],
+                  "background_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_hover_slideshow_gallery": [],
+                  "background_overlay_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_slideshow_gallery": [],
+                  "background_overlay_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_hover_slideshow_gallery": [],
+                  "pa_condition_repeater": [],
+                  "premium_tooltip_icon": {
+                    "value": "fas fa-star",
+                    "library": "fa-solid"
+                  },
+                  "premium_tooltip_container_bg_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "29f7c14a",
+                    "elType": "widget",
+                    "settings": {
+                      "selected_icon": {
+                        "value": "fas fa-file-invoice-dollar",
+                        "library": "fa-solid"
+                      },
+                      "title_text": "ZATCA & Fatoora Compliance",
+                      "description_text": "Built-in e-invoicing integration from the start. We ensure your platform generates compliant invoices and maintains proper records.",
+                      "icon_color": "#D97706",
+                      "pa_condition_repeater": [],
+                      "premium_tooltip_icon": {
+                        "value": "fas fa-star",
+                        "library": "fa-solid"
+                      },
+                      "premium_tooltip_container_bg_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_video_fallback": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_slideshow_gallery": [],
+                      "_background_hover_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_hover_video_fallback": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_hover_slideshow_gallery": [],
+                      "_mask_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "icon-box"
+                  }
+                ],
+                "isInner": false
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "7b39217b",
+            "elType": "section",
+            "settings": {
+              "structure": "20",
+              "margin": {
+                "top": "40"
+              },
+              "premium_tooltip_icon": {
+                "value": "fas fa-star",
+                "library": "fa-solid"
+              },
+              "premium_tooltip_container_bg_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_slideshow_gallery": [],
+              "background_hover_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_hover_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_hover_slideshow_gallery": [],
+              "background_overlay_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_overlay_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_overlay_slideshow_gallery": [],
+              "background_overlay_hover_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_overlay_hover_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "background_overlay_hover_slideshow_gallery": [],
+              "pa_condition_repeater": []
+            },
+            "elements": [
+              {
+                "id": "4f764e50",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 50,
+                  "background_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_slideshow_gallery": [],
+                  "background_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_hover_slideshow_gallery": [],
+                  "background_overlay_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_slideshow_gallery": [],
+                  "background_overlay_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_hover_slideshow_gallery": [],
+                  "pa_condition_repeater": [],
+                  "premium_tooltip_icon": {
+                    "value": "fas fa-star",
+                    "library": "fa-solid"
+                  },
+                  "premium_tooltip_container_bg_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "23fe645a",
+                    "elType": "widget",
+                    "settings": {
+                      "selected_icon": {
+                        "value": "fas fa-credit-card",
+                        "library": "fa-solid"
+                      },
+                      "title_text": "Local Payment Integration",
+                      "description_text": "Integration with Mada, STC Pay, Tabby, and Tamara. We handle the technical complexity of local payment gateways for Saudi consumers.",
+                      "icon_color": "#7C3AED",
+                      "pa_condition_repeater": [],
+                      "premium_tooltip_icon": {
+                        "value": "fas fa-star",
+                        "library": "fa-solid"
+                      },
+                      "premium_tooltip_container_bg_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_video_fallback": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_slideshow_gallery": [],
+                      "_background_hover_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_hover_video_fallback": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_hover_slideshow_gallery": [],
+                      "_mask_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "icon-box"
+                  }
+                ],
+                "isInner": false
+              },
+              {
+                "id": "62fcefda",
+                "elType": "column",
+                "settings": {
+                  "_column_size": 50,
+                  "background_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_slideshow_gallery": [],
+                  "background_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_hover_slideshow_gallery": [],
+                  "background_overlay_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_slideshow_gallery": [],
+                  "background_overlay_hover_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_hover_video_fallback": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  },
+                  "background_overlay_hover_slideshow_gallery": [],
+                  "pa_condition_repeater": [],
+                  "premium_tooltip_icon": {
+                    "value": "fas fa-star",
+                    "library": "fa-solid"
+                  },
+                  "premium_tooltip_container_bg_image": {
+                    "url": "",
+                    "id": "",
+                    "size": ""
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "132ca406",
+                    "elType": "widget",
+                    "settings": {
+                      "selected_icon": {
+                        "value": "fas fa-mobile-alt",
+                        "library": "fa-solid"
+                      },
+                      "title_text": "Mobile-First Development",
+                      "description_text": "Designing for the 90%+ smartphone penetration in Saudi Arabia. We ensure the best experience for mobile users and better search rankings.",
+                      "icon_color": "#DC2626",
+                      "pa_condition_repeater": [],
+                      "premium_tooltip_icon": {
+                        "value": "fas fa-star",
+                        "library": "fa-solid"
+                      },
+                      "premium_tooltip_container_bg_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_video_fallback": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_slideshow_gallery": [],
+                      "_background_hover_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_hover_video_fallback": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      },
+                      "_background_hover_slideshow_gallery": [],
+                      "_mask_image": {
+                        "url": "",
+                        "id": "",
+                        "size": ""
+                      }
+                    },
+                    "elements": [],
+                    "widgetType": "icon-box"
+                  }
+                ],
+                "isInner": false
+              }
+            ],
+            "isInner": true
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]

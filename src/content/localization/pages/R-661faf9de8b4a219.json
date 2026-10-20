@@ -1,0 +1,3374 @@
+{
+  "entityId": "R-661faf9de8b4a219",
+  "path": "/ar/تسويق-رقمي/",
+  "publication": {
+    "ready": true,
+    "acceptance": "ownerManaged"
+  },
+  "review": {
+    "status": "inReview",
+    "reviewer": null,
+    "approvedAt": null,
+    "translationRevision": "arabic-content-1",
+    "sourceInputs": [
+      {
+        "path": "src/content/site/pages.generated.json",
+        "sha256": "7cd8249a8f5b73200fb4c39193dc5469fa0cc595cc493904a611272606512429"
+      },
+      {
+        "path": "src/content/site/documents/R-661faf9de8b4a219.json",
+        "sha256": "87e7378604194af1e7fe52ebf1faeb7f08294a981fa7ae2a28ab0a91698a581b"
+      }
+    ]
+  },
+  "seo": {
+    "title": "خدمات التسويق الرقمي في السعودية | نالك سوليوشنز",
+    "description": "تسويق رقمي يناسب السوق السعودي: تحسين محركات البحث، وإعلانات Google، والتواصل الاجتماعي، والبريد الإلكتروني والأتمتة في الرياض وجدة والدمام. احجز استشارة مجانية."
+  },
+  "heading": "خدمات التسويق الرقمي في السعودية",
+  "blocks": {},
+  "imageAlts": {},
+  "issues": [
+    "Authored Arabic copy; owner-managed internal acceptance.",
+    "Consolidated the duplicate legacy Arabic bilingual-marketing FAQs into the existing localized bilingual-market context; no distinct service meaning removed."
+  ],
+  "document": {
+    "nodes": [
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-hero",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-100",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h1",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "خدمات التسويق الرقمي في السعودية"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تعتمد كثير من الوكالات على خطط تسويقية غربية جاهزة عند العمل مع الشركات السعودية، على أمل أن تحقق النتائج نفسها. لكن طريقة البحث والتصفح واتخاذ قرار الشراء في المملكة لها خصوصيتها؛ والحملة التي تتجاهلها قد تدفع مقابل نقرات لا تتحول إلى عملاء."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "نبني التسويق بما يلائم السوق الذي يعمل فيه. وهذا يعني تكامل العربية والإنجليزية منذ البداية، وتوقيت الإعلانات بما يراعي مواقيت الصلاة وإيقاع الأسبوع في السعودية، واختيار القنوات التي يستخدمها عملاؤك فعلًا، لا القنوات التي تبدو جذابة في العرض التقديمي."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "نعمل مع الشركات في "
+                          },
+                          {
+                            "type": "element",
+                            "tag": "a",
+                            "attributes": {
+                              "href": "/locations-digital-marketing-riyadh/"
+                            },
+                            "variant": null,
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "الرياض"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": " و"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "a",
+                            "attributes": {
+                              "href": "/locations-digital-marketing-jeddah/"
+                            },
+                            "variant": null,
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "جدة"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": " و"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "a",
+                            "attributes": {
+                              "href": "/locations-digital-marketing-dammam-eastern-province/"
+                            },
+                            "variant": null,
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "المنطقة الشرقية"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "، وهدفنا واضح: أن يصبح موقعك وإنفاقك الإعلاني مصدرًا مستمرًا لفرص عملاء مؤهلين يمكن الاعتماد عليها شهرًا بعد شهر."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/contacts/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "احجز استشارة تسويقية مجانية"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-statistics",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-25",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-counter",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-title",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "سنوات الخبرة"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-number",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": []
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "15"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "+"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-25",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-counter",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-title",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "المشاريع التي تم تسليمها"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-number",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": []
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "200"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "+"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-25",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-counter",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-title",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "رضا العميل"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-number",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": []
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "98"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "%"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-25",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h5",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "نخدم الرياض وجدة والدمام"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-100",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "خدماتنا في التسويق الرقمي"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "أسهمت رؤية 2030 في زيادة الاستثمارات ودخول منافسين جدد في قطاعات عديدة، من التجزئة والعقارات إلى التقنية المالية والخدمات اللوجستية. ومع اشتداد المنافسة على الظهور الرقمي، تتقدم العلامات التي تفهم سلوك الجمهور السعودي، لا التي تملك الميزانية الأكبر فحسب."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تحسين محركات البحث"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "الوصول إلى ترتيب متقدم في Google يحتاج إلى عمل متواصل، وقد يستمر أثره لسنوات. نبدأ بفهم الكلمات التي يكتبها عملاؤك فعلًا، وهي غالبًا أكثر تحديدًا وأقل رسمية مما تتوقع. فمن يبحث عن مكتب في الرياض قد يذكر حيًا أو خط مترو أو فئة سعرية، بدلًا من العبارة التسويقية التي تستخدمها في مطبوعاتك. كل بحث من هذه البحوث يمثل عميلًا محتملًا يحتاج إلى العثور على موقعك؛ وهذا جوهر "
+                          },
+                          {
+                            "type": "element",
+                            "tag": "a",
+                            "attributes": {
+                              "href": "/services-seo-saudi-arabia/"
+                            },
+                            "variant": null,
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "عملنا في تحسين محركات البحث في السعودية"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "بعد ذلك نهتم بالأساس التقني، ونكتب محتوى يجيب عن أسئلة حقيقية، ونعزز موثوقية الموقع من خلال الإشارات المحلية والروابط ذات القيمة. تظهر التحسينات الملموسة عادة خلال ثلاثة إلى ستة أشهر، ثم يتراكم أثر العمل مع الاستمرار."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/services-seo-saudi-arabia/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تعرّف على خدمات تحسين محركات البحث"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "إعلانات Google والتسويق عبر البحث"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تُظهر إعلانات Google نشاطك أمام من يبحث عما تقدّمه في اللحظة المناسبة. إنشاء حملة أمر سهل؛ أما إدارتها بحيث تحقق عائدًا يتجاوز تكلفتها، فهو الجزء الذي يستحق التركيز."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "نركّز على العائد من خلال اختيار دقيق للكلمات المفتاحية، ورسائل إعلانية تناسب نية الباحث، وصفحات هبوط تحوّل النقرات إلى استفسارات، واختبارات مستمرة تستند إلى نتائج فعلية بالريال. تعرّف على طريقة تخطيطنا وإدارتنا "
+                          },
+                          {
+                            "type": "element",
+                            "tag": "a",
+                            "attributes": {
+                              "href": "/services-google-ads-saudi-arabia-2026/"
+                            },
+                            "variant": null,
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "لحملات إعلانات Google للشركات السعودية"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": ". ولدى كثير من الشركات، تتكامل الإعلانات مع تحسين محركات البحث: تجلب الإعلانات فرصًا في المدى القريب، بينما ينمو الظهور العضوي تدريجيًا."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/services-google-ads-saudi-arabia-2/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "استكشف خدمات إدارة إعلانات Google"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "التسويق عبر وسائل التواصل الاجتماعي"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "يقضي عملاؤك ساعات يوميًا على Snapchat وTikTok وInstagram وLinkedIn، ويتواصل منافسوك معهم هناك بالفعل. والخطأ هو التعامل مع هذه المنصات كأنها قناة واحدة. يناسب Snapchat المحتوى المحلي الآني والعروض، خصوصًا للمطاعم والتجزئة والخدمات. ويمنح TikTok مساحة للعلامات التي تقدّم محتوى ممتعًا أو تعليميًا قبل البيع. أما Instagram فيناسب سرد القصص وإبراز شخصية العلامة، ويفتح LinkedIn الطريق إلى صناع القرار في قطاع الأعمال."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "ندير المحتوى العضوي والإعلانات المدفوعة، ونحافظ على اتساق الرسالة مع تكييف أسلوبها لكل منصة."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/services-google-ads-saudi-arabia/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تعرّف على خدمات التسويق عبر التواصل الاجتماعي"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "التسويق بالبريد الإلكتروني"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "يمكن للبريد الإلكتروني أن يحقق عائدًا مرتفعًا مقابل كل ريال، ويمنحك قناة تواصل مباشرة مع جمهورك. عندما ينزّل شخص دليلًا أو يطرح سؤالًا أو يترك سلة مشترياته، تساعدك "
+                          },
+                          {
+                            "type": "element",
+                            "tag": "a",
+                            "attributes": {
+                              "href": "/services-email-marketing-saudi-arabia/"
+                            },
+                            "variant": null,
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "خدمة التسويق بالبريد الإلكتروني"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": " على البقاء حاضرًا لديه حتى يصبح مستعدًا للشراء."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "نبني قائمتك البريدية وننقّيها، ونقسّم الجمهور ليصل المحتوى المناسب إلى الأشخاص المناسبين، ونُعدّ المتابعات التلقائية. ويشمل ذلك رسائل الترحيب بالمشتركين الجدد ومسارات إعادة تفاعل المشتركين غير النشطين وما بينهما."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/services-email-marketing-saudi-arabia/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "استكشف خدمات التسويق بالبريد الإلكتروني"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "التسويق بالفيديو"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "يحظى الفيديو بحضور قوي في وسائل التواصل الاجتماعي في السعودية؛ تدعمه المنصات ويفضّله الجمهور. تساعد المقاطع القصيرة في Reels وTikTok على اكتشاف العلامة، بينما يعزز المحتوى الأطول على YouTube سمعتك وخبرتك. ويمكن لعرض المنتج بالفيديو على موقعك أن يحسن التحويل، كما تبني تجربة عميل يروي قصته أمام الكاميرا ثقة يصعب نقلها بالنص وحده."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "سواء تولّينا الإنتاج أو درّبنا فريقك على التصوير داخليًا، تساعدك "
+                          },
+                          {
+                            "type": "element",
+                            "tag": "a",
+                            "attributes": {
+                              "href": "/services-video-marketing-saudi-arabia/"
+                            },
+                            "variant": null,
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "خدمة التسويق بالفيديو"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": " على بناء أسلوب إنتاج مستمر يمكنك الالتزام به."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/services-video-marketing-saudi-arabia/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تعرّف على حلول التسويق بالفيديو"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "أتمتة التسويق"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تتولى الأتمتة المتابعة المتكررة التي يصعب على فريق ينمو تنفيذها يدويًا. فيتلقى من يملأ نموذجًا منتصف الليل ردًا تلقائيًا، ويدخل من ينزّل دليل الأسعار في مسار متابعة خلال الأسابيع التالية، ويحصل العميل الجديد على رسالة شكر وطلب تقييم ودافع للعودة. وهذا ما تهيّئه لك "
+                          },
+                          {
+                            "type": "element",
+                            "tag": "a",
+                            "attributes": {
+                              "href": "/services-marketing-automation-saudi-arabia/"
+                            },
+                            "variant": null,
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "خدمة أتمتة التسويق"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": " حتى لا تضيع فرص المتابعة أو تعتمد على المراقبة المستمرة."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/services-marketing-automation-saudi-arabia/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تعرّف على خدمات أتمتة التسويق"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-100",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "نخدم الشركات في مختلف مناطق السعودية"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "section",
+                    "attributes": {},
+                    "variant": "service-inner",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-columns",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "div",
+                            "attributes": {},
+                            "variant": "service-column-33",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "element",
+                                "tag": "div",
+                                "attributes": {},
+                                "variant": "service-heading",
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "text": "\n"
+                                  },
+                                  {
+                                    "type": "element",
+                                    "tag": "h4",
+                                    "attributes": {},
+                                    "variant": null,
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "text": "وكالة تسويق رقمي في الرياض"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "element",
+                                "tag": "div",
+                                "attributes": {},
+                                "variant": "service-copy",
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "text": "\n"
+                                  },
+                                  {
+                                    "type": "element",
+                                    "tag": "p",
+                                    "attributes": {},
+                                    "variant": null,
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "text": "بوصفها العاصمة ومركزًا للأعمال، تشهد الرياض منافسة رقمية قوية. نعتمد في "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "tag": "a",
+                                        "attributes": {
+                                          "href": "/locations-digital-marketing-riyadh/"
+                                        },
+                                        "variant": null,
+                                        "children": [
+                                          {
+                                            "type": "text",
+                                            "text": "خدمات التسويق الرقمي في الرياض"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": " على استراتيجيات قائمة على البيانات وملائمة لسوق العاصمة، تجمع البحث والتواصل الاجتماعي والمحتوى والحملات في اتجاه واحد."
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "element",
+                                "tag": "div",
+                                "attributes": {},
+                                "variant": "service-action-center",
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "a",
+                                    "attributes": {
+                                      "href": "/locations-digital-marketing-riyadh/"
+                                    },
+                                    "variant": "service-button",
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "text": "تعرّف على التسويق الرقمي في الرياض"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "div",
+                            "attributes": {},
+                            "variant": "service-column-33",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "element",
+                                "tag": "div",
+                                "attributes": {},
+                                "variant": "service-heading",
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "text": "\n"
+                                  },
+                                  {
+                                    "type": "element",
+                                    "tag": "h4",
+                                    "attributes": {},
+                                    "variant": null,
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "text": "خدمات التسويق الرقمي في جدة"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "element",
+                                "tag": "div",
+                                "attributes": {},
+                                "variant": "service-copy",
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "text": "\n"
+                                  },
+                                  {
+                                    "type": "element",
+                                    "tag": "p",
+                                    "attributes": {},
+                                    "variant": null,
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "text": "تتمتع جدة بطابع تجاري وساحلي وانفتاح على جمهور متنوع، ما يفتح فرصًا مختلفة. نساعد "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "tag": "a",
+                                        "attributes": {
+                                          "href": "/locations-digital-marketing-jeddah/"
+                                        },
+                                        "variant": null,
+                                        "children": [
+                                          {
+                                            "type": "text",
+                                            "text": "العلامات التجارية في جدة"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": " على الوصول إلى هذا الجمهور مع الحفاظ على الصلة بالسوق المحلي، عبر حملات ثنائية اللغة واستهداف يتجاوز المدينة عندما يخدم أهداف العمل."
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "element",
+                                "tag": "div",
+                                "attributes": {},
+                                "variant": "service-action-center",
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "a",
+                                    "attributes": {
+                                      "href": "/locations-digital-marketing-jeddah/"
+                                    },
+                                    "variant": "service-button",
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "text": "استكشف التسويق الرقمي في جدة"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "div",
+                            "attributes": {},
+                            "variant": "service-column-33",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "element",
+                                "tag": "div",
+                                "attributes": {},
+                                "variant": "service-heading",
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "text": "\n"
+                                  },
+                                  {
+                                    "type": "element",
+                                    "tag": "h4",
+                                    "attributes": {},
+                                    "variant": null,
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "text": "التسويق الرقمي في المنطقة الشرقية"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "element",
+                                "tag": "div",
+                                "attributes": {},
+                                "variant": "service-copy",
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "text": "\n"
+                                  },
+                                  {
+                                    "type": "element",
+                                    "tag": "p",
+                                    "attributes": {},
+                                    "variant": null,
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "text": "تتميّز المنطقة الشرقية بحضور قطاعات الطاقة والتصنيع والخدمات الموجهة للشركات، وهي تحتاج إلى منهج يختلف عن الحملات الاستهلاكية. تركّز "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "tag": "a",
+                                        "attributes": {
+                                          "href": "/locations-digital-marketing-dammam-eastern-province/"
+                                        },
+                                        "variant": null,
+                                        "children": [
+                                          {
+                                            "type": "text",
+                                            "text": "خدماتنا التسويقية في الدمام والمنطقة الشرقية"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": " على الوصول إلى صناع القرار عبر LinkedIn، والبحث الموجّه لمشتري الخدمات التجارية، وأنظمة العملاء المحتملين المناسبة لدورات البيع الأطول."
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "element",
+                                "tag": "div",
+                                "attributes": {},
+                                "variant": "service-action-center",
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "a",
+                                    "attributes": {
+                                      "href": "/locations-digital-marketing-dammam-eastern-province/"
+                                    },
+                                    "variant": "service-button",
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "text": "استكشف التسويق الرقمي في الدمام والمنطقة الشرقية"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-100",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "الأسئلة المتداولة"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "disclosure",
+                    "summary": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": "service-faq-icon",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-faq-closed-icon",
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "svg",
+                                "attributes": {
+                                  "viewbox": "0 0 448 512"
+                                },
+                                "variant": null,
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "path",
+                                    "attributes": {
+                                      "d": "M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                                    },
+                                    "variant": null,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-faq-open-icon",
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "svg",
+                                "attributes": {
+                                  "viewbox": "0 0 448 512"
+                                },
+                                "variant": null,
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "path",
+                                    "attributes": {
+                                      "d": "M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                                    },
+                                    "variant": null,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "متى تبدأ نتائج التسويق الرقمي بالظهور؟"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "قد تجلب إعلانات Google فرص عملاء خلال أيام عند إعداد الحملات بصورة صحيحة، ويمكن أن تظهر نتائج إعلانات التواصل الاجتماعي بسرعة مماثلة. أما تحسين محركات البحث فيحتاج عادة إلى ثلاثة إلى ستة أشهر قبل ظهور تحسن ملموس في الزيارات. وتجمع الشركات التي تحقق أفضل النتائج على المدى الطويل بين قنوات تجلب فرصًا فورية وأخرى تبني ميزة مستدامة بمرور الوقت."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "open": true
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "disclosure",
+                    "summary": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": "service-faq-icon",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-faq-closed-icon",
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "svg",
+                                "attributes": {
+                                  "viewbox": "0 0 448 512"
+                                },
+                                "variant": null,
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "path",
+                                    "attributes": {
+                                      "d": "M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                                    },
+                                    "variant": null,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-faq-open-icon",
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "svg",
+                                "attributes": {
+                                  "viewbox": "0 0 448 512"
+                                },
+                                "variant": null,
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "path",
+                                    "attributes": {
+                                      "d": "M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                                    },
+                                    "variant": null,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "ما القنوات التسويقية التي ينبغي أن نركّز عليها؟"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "يعتمد ذلك على نشاطك وعملائك. غالبًا ما تستفيد شركات قطاع الأعمال من LinkedIn والتسويق عبر البحث، وتحتاج المتاجر الإلكترونية إلى حضور قوي في Google Shopping والتجارة عبر التواصل الاجتماعي. أما الخدمات المحلية فتستفيد من تحسين البحث المحلي والظهور على خرائط Google. البدء بعدد كبير من القنوات قد يضعف التنفيذ؛ والأفضل غالبًا إتقان قناتين أو ثلاث ثم التوسع."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "open": false
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "disclosure",
+                    "summary": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": "service-faq-icon",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-faq-closed-icon",
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "svg",
+                                "attributes": {
+                                  "viewbox": "0 0 448 512"
+                                },
+                                "variant": null,
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "path",
+                                    "attributes": {
+                                      "d": "M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                                    },
+                                    "variant": null,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-faq-open-icon",
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "svg",
+                                "attributes": {
+                                  "viewbox": "0 0 448 512"
+                                },
+                                "variant": null,
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "path",
+                                    "attributes": {
+                                      "d": "M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                                    },
+                                    "variant": null,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "ماذا لو كان لدينا فريق تسويق داخلي؟"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "نعمل بالتكامل مع الفرق الداخلية؛ ففريقك يعرف نشاطك بعمق، ونحن نضيف خبرة متخصصة في التسويق الرقمي. ومن أمثلة التعاون أن ندير الإعلانات المدفوعة بينما يتولى فريقك المحتوى، أو أن نقدّم الاستراتيجية ويتولى فريقك التنفيذ اليومي."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "open": false
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-100",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "هل أنت مستعد لبناء منظومة تسويقية فعّالة؟"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "regular",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "نعمل مع الشركات في مختلف مناطق السعودية لبناء أنظمة تسويق رقمي تحقق نتائج قابلة للقياس والتوقع. احجز استشارة مجانية لمناقشة نشاطك ووضعك الحالي وأهدافك، دون ضغط أو التزام."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/contacts/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n\nاتصل بنا الآن\n\n"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ]
+  },
+  "sourceSnapshot": {
+    "id": "R-661faf9de8b4a219",
+    "sourceRouteId": "R-661faf9de8b4a219",
+    "path": "/services-digital-marketing/",
+    "kind": "marketing",
+    "locale": "en",
+    "status": "published",
+    "seo": {
+      "title": "Best Digital Marketing Services in Saudi Arabia | Nalk Solutions",
+      "description": "Digital marketing built for the Saudi market. SEO, Google Ads, social, email and automation across Riyadh, Jeddah and Dammam. Book a free consultation.",
+      "canonical": "https://nalksolutions.com/services-digital-marketing/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "googlebot": null,
+      "social": [
+        {
+          "property": "og:locale",
+          "content": "en_US"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Best Digital Marketing Services in Saudi Arabia | Nalk Solutions"
+        },
+        {
+          "property": "og:description",
+          "content": "Digital marketing built for the Saudi market. SEO, Google Ads, social, email and automation across Riyadh, Jeddah and Dammam. Book a free consultation."
+        },
+        {
+          "property": "og:url",
+          "content": "https://nalksolutions.com/services-digital-marketing/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Nalk Solutions"
+        },
+        {
+          "property": "og:updated_time",
+          "content": "2026-07-19T16:06:46+00:00"
+        },
+        {
+          "property": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "property": "twitter:title",
+          "content": "Best Digital Marketing Services in Saudi Arabia | Nalk Solutions"
+        },
+        {
+          "property": "twitter:description",
+          "content": "Digital marketing built for the Saudi market. SEO, Google Ads, social, email and automation across Riyadh, Jeddah and Dammam. Book a free consultation."
+        },
+        {
+          "property": "twitter:label1",
+          "content": "Time to read"
+        },
+        {
+          "property": "twitter:data1",
+          "content": "6 minutes"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Place",
+              "@id": "https://nalksolutions.com/#place",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              }
+            },
+            {
+              "@type": ["ProfessionalService", "Organization"],
+              "@id": "https://nalksolutions.com/#organization",
+              "name": "Nalk Solutions",
+              "url": "https://nalksolutions.com",
+              "email": "info@nalksolutions.com",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              },
+              "logo": {
+                "@type": "ImageObject",
+                "@id": "https://nalksolutions.com/#logo",
+                "url": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "contentUrl": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "caption": "Nalk Solutions",
+                "inLanguage": "en-US",
+                "width": "1563",
+                "height": "1563"
+              },
+              "openingHours": ["Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"],
+              "description": "Nalk provides Nalk Solutions is a technology company in Saudi Arabia; delivering digital marketing, web development, app development &amp; IT solutions across Riyadh, Jeddah and all major cities across the kingdom.",
+              "legalName": "uhj1984@yahoo.com",
+              "location": {
+                "@id": "https://nalksolutions.com/#place"
+              },
+              "image": {
+                "@id": "https://nalksolutions.com/#logo"
+              },
+              "telephone": "+966506000843"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://nalksolutions.com/#website",
+              "url": "https://nalksolutions.com",
+              "name": "Nalk Solutions",
+              "publisher": {
+                "@id": "https://nalksolutions.com/#organization"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://nalksolutions.com/services-digital-marketing/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": "1",
+                  "item": {
+                    "@id": "https://nalksolutions.com",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "position": "2",
+                  "item": {
+                    "@id": "https://nalksolutions.com/services-digital-marketing/",
+                    "name": "Digital Marketing Services in Saudi Arabia"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://nalksolutions.com/services-digital-marketing/#webpage",
+              "url": "https://nalksolutions.com/services-digital-marketing/",
+              "name": "Best Digital Marketing Services in Saudi Arabia | Nalk Solutions",
+              "datePublished": "2026-05-15T18:09:05+00:00",
+              "dateModified": "2026-07-19T16:06:46+00:00",
+              "isPartOf": {
+                "@id": "https://nalksolutions.com/#website"
+              },
+              "inLanguage": "en-US",
+              "breadcrumb": {
+                "@id": "https://nalksolutions.com/services-digital-marketing/#breadcrumb"
+              }
+            },
+            {
+              "@type": "Service",
+              "name": "Best Digital Marketing Services in Saudi Arabia | Nalk Solutions",
+              "description": "Digital marketing built for the Saudi market. SEO, Google Ads, social, email and automation across Riyadh, Jeddah and Dammam. Book a free consultation.",
+              "offers": {
+                "@type": "Offer",
+                "availability": "InStock"
+              },
+              "@id": "https://nalksolutions.com/services-digital-marketing/#schema-23877",
+              "mainEntityOfPage": {
+                "@id": "https://nalksolutions.com/services-digital-marketing/#webpage"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "content": {
+      "heading": "Digital Marketing Services in Saudi Arabia\n",
+      "paragraphs": ["Digital Marketing Services in Saudi Arabia\n"],
+      "documentId": "R-661faf9de8b4a219"
+    },
+    "provenance": {
+      "sourceHtml": "nalk-public-archive/html/source/services-digital-marketing-661faf9de8b4a219.html",
+      "sourceSha256": "e81debfc41246509267a6ca33319528169a27c16fb4e0832424abe7712ec082b",
+      "pageRecord": "nalk-public-archive/pages/services-digital-marketing-661faf9de8b4a219.json",
+      "pageRecordSha256": "098afa616adf9fd68fd2ecae0c8507203eabf5c539d5ad79167821892249132b",
+      "excerpt": false,
+      "headingFallback": false
+    }
+  }
+}

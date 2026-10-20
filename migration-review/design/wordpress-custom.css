@@ -1,0 +1,8 @@
+.elementor-95 .elementor-element.elementor-element-9abae35 {
+	display:none;
+}.wp-post-image,
+.post-thumbnail img,
+.entry-media img {
+    object-fit: contain !important;
+    object-position: center;
+}

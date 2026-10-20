@@ -1,0 +1,4689 @@
+{
+  "id": "R-19289ea1a50ad37e",
+  "path": "/ai-automation-cost-in-saudi-arabia/",
+  "locale": "en",
+  "family": "article",
+  "nodes": [
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "AI automation in Saudi Arabia usually costs between SAR 5,000 and SAR 400,000, depending on scope. A single chatbot or lead-routing workflow sits at the low end. A custom system that connects your CRM, ERP, and finance tools with Arabic and English support sits in the SAR 100,000 to SAR 400,000 range. Very few SMEs need to spend more than SAR 150,000 for their first project."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "What Is AI Automation?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "AI automation is software that takes over a repeatable task your team currently does by hand, and then makes small decisions along the way instead of just following a fixed script."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "A basic automation might forward a WhatsApp inquiry to the right salesperson. A more advanced one might read an invoice, check it against a purchase order, flag anything unusual, and only ask a human to step in when something doesn’t match. The second example uses AI (to read the invoice and judge what “unusual” means). The first is closer to plain workflow automation, no real intelligence involved, just routing. "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/what-is-intelligent-workflow-automation/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Learn the difference between the two in our guide to intelligent workflow automation"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "For a Saudi business, this usually shows up in one of five places: customer replies (WhatsApp, chat, email), sales follow-up, HR paperwork, financial reconciliation, or internal reporting. Vision 2030’s digital-transformation push has made this kind of investment feel less experimental than it did three or four years ago, but the fundamentals of pricing it correctly haven’t changed."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Why It Matters"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Getting the cost estimate wrong is expensive in three specific ways, and all three happen constantly."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Budget overruns."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " A business owner gets a quote for “AI automation,” assumes it covers everything they need, then discovers integration with their existing CRM costs extra, ongoing model usage costs extra, and the WhatsApp Business API fee is separate too. The final bill lands 40 to 60% above the number they budgeted."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Failed pilots that quietly get shelved."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " A team buys a cheap off-the-shelf chatbot tool because it looked like the automation was “handled,” then finds it can’t actually connect to their booking system or read Arabic customer messages correctly. Nobody cancels the subscription. Nobody officially calls it a failure. It just stops being used."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Vendor lock-in."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " A low upfront price hides a much higher ongoing cost, or the vendor built the automation entirely inside their own proprietary platform, so switching providers later means starting from zero. "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/how-process-automation-services-cut-operating-costs-in-saudi-arabia/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Process automation done properly should reduce your operating costs over time, not just shift them into a subscription you can’t leave"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Misjudging cost also damages something harder to fix: credibility with leadership. A founder or ops manager who pitches AI automation on inflated ROI numbers, then has to explain a budget overrun three months later, has a much harder time getting the next project approved."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "The Core Cost Drivers"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Five things move the price more than anything else."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "ul",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Number of systems it touches."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " A chatbot that lives on its own is cheap. A chatbot that needs to check inventory, update a CRM, and trigger an invoice touches three systems and costs like it."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Data readiness."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " If your customer or process data is already clean and structured, automation is faster to build. If it’s scattered across spreadsheets, WhatsApp chat history, and someone’s memory, the project starts with a data cleanup phase that isn’t optional."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Language requirements."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Arabic-English automation, especially anything handling mixed-language messages or Arabic invoices and contracts, costs more to build and test properly than English-only automation."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Level of intelligence needed."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Simple rule-based routing is cheap. A system that has to read, interpret, and make a judgment call (like an AI agent handling a complaint) costs more, because it needs testing against many edge cases before it’s safe to trust."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Ongoing support."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " A system that’s monitored, maintained, and improved after launch costs more month to month than one you’re handed and left to run alone. The second option is cheaper today and more expensive the day it breaks."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Quick cost box:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " as a rough rule, each additional system integration adds roughly 15 to 30% to project cost, and full bilingual (Arabic/English) support adds another 10 to 25% on top of an English-only build."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "How Pricing Works"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Most Saudi automation projects fall into a typical range once you know which category they belong to."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Typical scenario:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " a single-workflow automation, like WhatsApp lead capture and routing, or automated invoice data entry, generally runs SAR 5,000 to SAR 40,000. This covers one clear task with one or two system connections. "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/services-ai-automation-saudi-arabia/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Our AI automation services in Saudi Arabia"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " start most engagements in this range, because it’s where the fastest ROI usually sits."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Mid-range scenario:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " a connected automation spanning two to four systems (say, a customer service bot that reads tickets, checks order status in your CRM, and escalates to a human when confidence is low) typically runs SAR 40,000 to SAR 120,000."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Exception scenario:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " large-scale, highly custom builds (multi-department workflows, agentic systems that plan and execute several steps, or anything requiring heavy compliance and audit trails for finance or healthcare) can run SAR 150,000 to SAR 400,000 or more. This is uncommon for SMEs and far more typical of enterprise or public-sector work."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "It’s worth separating this from "
+        },
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "industrial AI automation"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", robotics and plant-level automation for manufacturing or oil and gas. That’s a different market entirely, with initial investments that can run into the millions of SAR, and it isn’t what most Saudi service or retail businesses are shopping for when they search “AI automation cost.”"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Real Cost Examples"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "These are illustrative estimates based on typical project scope, not quoted or verified prices from specific vendors."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "ol",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Retail (Riyadh, mid-size chain)."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " WhatsApp order status bot connected to their POS system. Estimated range: SAR 20,000 to SAR 45,000."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Healthcare (Jeddah clinic group)."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Appointment reminder and rescheduling automation with Arabic support, connected to their booking software. Estimated range: SAR 30,000 to SAR 70,000."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Logistics (Dammam freight company)."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Automated shipment status updates to customers plus exception flagging for delays. Estimated range: SAR 50,000 to SAR 110,000."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Banking (regional retail bank branch operations, not core banking)."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Document intake automation for loan application paperwork, with human review built in. Estimated range: SAR 150,000 to SAR 300,000, reflecting compliance and audit requirements."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Real estate (Riyadh brokerage)."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Lead routing by property type and automated follow-up sequences. Estimated range: SAR 15,000 to SAR 35,000."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Customer support (SaaS company serving GCC clients)."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Ticket triage and first-response drafting, with escalation rules. Estimated range: SAR 40,000 to SAR 90,000."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Manufacturing (Jubail SME, back-office not plant floor)."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Purchase order matching and supplier communication automation. Estimated range: SAR 45,000 to SAR 100,000."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "SaaS/tech (Riyadh startup)."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Onboarding email sequences and in-app usage-based lead scoring. Estimated range: SAR 12,000 to SAR 30,000."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Government-adjacent/public sector supplier."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Citizen or applicant query handling with strict data-residency and audit requirements. Estimated range: SAR 180,000 to SAR 400,000+."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Small business (single-location service provider)."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " A single WhatsApp FAQ and booking bot. Estimated range: SAR 5,000 to SAR 15,000."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Cost Myths vs. Reality"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "table",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "thead",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "th",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Myth"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "th",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Reality"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "tbody",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "❌ AI automation always saves money immediately"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "✅ Most projects break even in 2 to 6 months, not on day one. Setup, testing, and staff adjustment take time before the labor savings outweigh the build cost."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "❌ A cheap chatbot tool is basically the same as custom automation"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "✅ Off-the-shelf tools handle simple FAQs; custom builds handle your actual workflow. Generic tools can’t read your specific systems or make judgment calls tied to your process."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "❌ Once it’s built, it runs itself forever"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "✅ Automations need monitoring and occasional retraining. Business processes change, and an unmonitored automation quietly starts making bad decisions."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "❌ The quoted price is the total price"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "✅ Hosting, API usage, and third-party tool fees are usually separate. Vendors often quote build cost only, not the recurring infrastructure underneath it."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "❌ Bigger companies always pay proportionally more"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "✅ Cost tracks complexity, not headcount. A 10-person company with five messy legacy systems can cost more to automate than a 200-person company with one clean system."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "❌ Arabic support is a small add-on"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "✅ Proper bilingual automation adds real cost. Testing Arabic, English, and mixed-language inputs against real customer messages takes meaningfully more work than English alone."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "❌ AI automation replaces your whole team"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "✅ It removes specific repetitive tasks, not roles. Most successful projects free up hours within existing roles rather than eliminating positions."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "❌ Local Saudi agencies always cost more than offshore ones"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "✅ It depends on scope and ongoing support needs, not just location. Offshore teams can be cheaper hourly but slower on time-zone-sensitive support; local teams cost more but respond faster."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "❌ You need a huge budget to start"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "✅ A single well-chosen workflow can start under SAR 20,000. Most ROI comes from automating one high-volume, low-complexity task first, not from a company-wide rollout."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "❌ More AI features mean a better system"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "✅ The best systems automate exactly what’s needed and nothing more. Extra AI capability that isn’t tied to a real bottleneck adds cost and fragility without adding value."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Why Businesses Misjudge This Cost"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Vendor pricing opacity."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Many providers quote a headline number for “build” and leave out ongoing model usage, third-party API costs, and support, so the real annual cost only becomes clear after signing."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Scope creep."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " A project scoped as “automate customer replies” quietly grows to include CRM updates, reporting dashboards, and a second language, without the budget growing to match."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Underestimating integration and data cleanup."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Businesses budget for the automation itself and forget that connecting it to an existing CRM, ERP, or spreadsheet-based process often takes as long as building the automation."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Confusing SaaS subscription tools with custom-built automation."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " A SAR 200/month chatbot subscription and a SAR 60,000 custom-built system solve different problems. Comparing their price tags directly leads to disappointment either way."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Benchmarking against global averages."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " US and European automation pricing guides quote figures in USD that don’t reflect Saudi labor costs, local agency rates, or the smaller scale of most Saudi SME projects. A Saudi business budgeting off a US blog post will usually overestimate."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Common Budgeting Mistakes Checklist"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "ul",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Treating the quote as the final number."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " What it is: assuming the proposal covers every cost. Why it happens: vendors lead with the build price because it’s the easiest number to sell. How to avoid it: ask directly what’s excluded, hosting, API usage, third-party licenses, before signing."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Skipping the data audit."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " What it is: not checking whether your data is clean enough to automate. Why it happens: it feels like an unnecessary extra step before the “real” project starts. How to avoid it: budget a small discovery phase to check data quality first."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Picking the biggest possible first project."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " What it is: trying to automate an entire department at once. Why it happens: it feels efficient to solve everything together. How to avoid it: start with one workflow, prove the ROI, then expand."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Ignoring maintenance costs."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " What it is: budgeting only for the build, not the upkeep. Why it happens: maintenance feels like a future problem. How to avoid it: ask for a monthly or quarterly maintenance estimate upfront, not after launch."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Not testing with real, messy data."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " What it is: approving a system based on a clean demo. Why it happens: demos are built to look good. How to avoid it: insist on testing with actual customer messages and documents, including the ugly ones, before sign-off."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "AI Automation Cost in Real Saudi Businesses"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "This is where advertised pricing, technically possible pricing, and what businesses actually pay tend to diverge."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Advertised/theoretical pricing"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " is what you see on agency websites: “starting from SAR 5,000.” That’s real, but it usually describes the smallest possible single-task automation with no integrations and no ongoing support."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Technically possible low-cost options"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " exist too. A business owner with some technical comfort can wire together a no-code tool and a WhatsApp API for close to nothing beyond their own time. It works, until the workflow needs to handle an exception the no-code setup wasn’t built for, at which point it breaks quietly and nobody notices for weeks."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "What businesses actually pay in practice"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " sits above both of those numbers. Once you include a proper discovery phase, at least one system integration, testing against real customer data, and a few months of post-launch monitoring, most SME projects land in the SAR 30,000 to SAR 90,000 range, even when the original quote or advertised starting price was lower."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "The gap isn’t dishonesty. It’s that the advertised number describes the smallest theoretical version of the project, and almost no real business ends up buying the smallest theoretical version."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Enterprise vs. SME Pricing"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "A genuine difference exists here, so it’s worth separating."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "SMEs"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " typically automate one or two workflows at a time, connect to one or two existing systems, and need less formal governance. Budgets in the SAR 5,000 to SAR 120,000 range cover the overwhelming majority of SME projects."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Enterprises"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " need automation that spans multiple departments, integrates with ERP and legacy systems that may lack modern APIs, and requires audit trails, access controls, and compliance sign-off, especially in banking, healthcare, or government-adjacent work. This pushes typical budgets into the SAR 150,000 to SAR 400,000+ range, with the compliance and governance layer often costing as much as the automation itself."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "In-House Team vs. Outsourced Agency"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Building an in-house team makes sense when automation is core to your product, or when you expect to build and maintain many workflows continuously for years. It’s rarely worth it for a single project, since hiring, training, and retaining AI engineering talent costs more than most first automations. "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/how-to-hire-developers-for-your-startup/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Our guide to hiring developers for your startup"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " walks through that build-vs-hire decision in more depth."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "An outsourced agency makes sense for most businesses starting out, since it avoids the fixed cost of full-time salaries and gives access to a team that’s already solved similar problems."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Within outsourcing, "
+        },
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "local Saudi agencies"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " tend to cost more per hour but offer same-time-zone support and closer familiarity with Saudi compliance requirements like PDPL. "
+        },
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Offshore agencies"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", including Pakistan-based teams, which serve a large share of the Saudi SME market, typically offer lower hourly rates and strong technical delivery, though same-day, in-person support is less immediate. Many Saudi businesses land on a hybrid: an offshore or regional team for build and development, with a local point of contact for ongoing communication and compliance questions."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Comparison Table"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Local Saudi Agency"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "table",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "thead",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "th",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Feature"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "th",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Local Saudi Agency"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "tbody",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Typical hourly rate"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Higher"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Time zone overlap"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Same time zone"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Familiarity with PDPL/local compliance"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Generally stronger"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Speed of urgent support"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Faster"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Typical project cost for mid-size build"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "15 to 40% higher for comparable scope"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Best fit"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Businesses needing frequent in-person meetings or heavy compliance work"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Outsourced/Offshore Agency (e.g., Pakistan-based)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "table",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "thead",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "th",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Feature"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "th",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Outsourced/Offshore Agency"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "tbody",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Typical hourly rate"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Lower"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Time zone overlap"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Partial overlap, usually workable"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Familiarity with PDPL/local compliance"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Varies, confirm before signing"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Speed of urgent support"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Slightly slower, depends on setup"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Typical project cost for mid-size build"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "More budget-friendly for the same scope"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Best fit"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Businesses prioritizing budget and comfortable with remote collaboration"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Quick Cost-Estimation Rule of Thumb"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "The “one, two, three” rule:"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " count how many systems the automation needs to touch. One system, budget SAR 5,000 to SAR 25,000. Two to three systems, budget SAR 30,000 to SAR 90,000. More than three systems, or any requirement for compliance sign-off, start your planning conversation at SAR 150,000 and expect it to move from there. It’s a rough heuristic, not a quote, but it catches most businesses before they underbudget by half."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Real-Life Situations"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Pitching to leadership."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " A finance manager wants to automate expense report processing. Instead of quoting one number, they bring three: the cost of a basic version, a mid-tier version with CRM integration, and the fully governed version with audit trails, then let leadership pick the risk-and-budget tradeoff that fits."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Negotiating with a vendor."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " An operations lead gets a quote that seems low. Rather than accepting it immediately, they ask what’s excluded: hosting, API usage, post-launch support, and get those numbers in writing before comparing it to a second quote."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Comparing three quotes."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " A retail owner gets bids from three agencies. The middle-priced one turns out to be the best value once they check that the cheapest quote excludes WhatsApp API costs and the most expensive one includes six months of support the others charge separately for."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Planning a pilot project."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " A logistics company picks their highest-volume, lowest-complexity workflow (shipment status updates) as a pilot, rather than their most ambitious idea (full route optimization), to prove ROI before asking for a bigger budget."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "A board budget meeting."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " A CFO presenting AI automation spend separates the one-time build cost from the ongoing monthly cost, so the board isn’t surprised by a recurring line item they thought was a one-off expense."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Mini Quiz"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "table",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "thead",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "th",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Question"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "th",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Answer & Explanation"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "tbody",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "1. True or False: The advertised “starting from” price usually covers the full project."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "strong",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "False."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " It typically covers only the smallest possible version, without integrations or support."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "2. Fill in the blank: Adding Arabic-English support typically adds ___ to ___% to project cost."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "strong",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "10 to 25%."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " Testing across both languages and mixed-language inputs takes real additional work."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "3. Spot the hidden cost: A quote of SAR 25,000 for “WhatsApp automation” with no mention of the WhatsApp Business API fee."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "strong",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "The API fee itself."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " Meta charges separately for WhatsApp Business API usage; this is rarely included in the build quote."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "4. True or False: Enterprise automation projects usually cost more mainly because of company size."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "strong",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "False."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " Cost tracks complexity and compliance needs, not headcount."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "5. Fill in the blank: Most SME automation projects fall in the SAR ___ to SAR ___ range."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "strong",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "5,000 to 120,000."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " This covers the large majority of single- or few-workflow SME projects."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "6. Spot the hidden cost: A “final” quote that doesn’t mention post-launch monitoring."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "strong",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Ongoing maintenance and monitoring fees."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " Systems that go unmonitored tend to degrade quietly as business processes change."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "7. True or False: A cheap no-code automation is always a bad choice."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "strong",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "False."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " It can work well for simple, low-stakes tasks, but tends to break on exceptions a custom build would handle."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "8. Fill in the blank: Each additional system integration adds roughly ___ to ___% to project cost."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "strong",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "15 to 30%."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " More systems mean more testing, more failure points, and more ongoing maintenance."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "9. Spot the hidden cost: A proposal that includes “AI chatbot” but not a separate line for model/API usage costs."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "strong",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Ongoing AI model usage fees."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " Many providers charge build cost separately from the per-use cost of the underlying AI model."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "10. True or False: Offshore agencies are always the cheaper choice regardless of project type."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "strong",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "False."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " They’re often cheaper per hour, but urgent, high-compliance, or in-person-heavy projects may favor a local agency despite the higher rate."
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Expert Tips"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "ul",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Ask every vendor for a 12-month total cost estimate, not just the build price. It changes how quotes compare."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Start with the workflow that has the highest volume and lowest complexity. It’s the fastest path to provable ROI, which makes the next budget conversation easier."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Insist on testing with your real data before final sign-off, not a cleaned-up demo dataset."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Separate “must integrate now” from “nice to integrate later.” Phasing integrations lowers the first invoice significantly."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Get the exclusions in writing. What’s not included in a quote matters as much as what is."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "FAQ"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Is AI automation worth it for a small business in Saudi Arabia?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Usually yes, if there’s a clear, repetitive, high-volume task to target first. It’s a poor fit as a company-wide first project with no prior automation experience."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "How long does an AI automation project take to build?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "A single-workflow project typically takes two to six weeks. Multi-system enterprise builds can take two to four months or longer."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Can I automate in Arabic only, or does it need to support English too?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Either is possible, but most Saudi businesses need both, since customers switch between Arabic and English, sometimes within the same message."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Do I need a developer on staff to maintain the automation?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Not necessarily. Many agencies offer ongoing maintenance retainers, which is often more cost-effective than a full-time hire for a first project."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "What’s the cheapest way to start with AI automation?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "A single WhatsApp or web chat automation handling one repetitive task, without deep system integration, is the lowest-cost realistic starting point."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Does AI automation replace customer service staff?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Rarely entirely. It typically handles the repetitive share of inquiries and routes anything complex to a human, which changes the role more than it eliminates it."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "How is AI automation pricing different from regular software development pricing?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "AI components add testing and evaluation work that traditional software doesn’t need, since AI outputs are less predictable and need checking against many real-world examples before launch."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Is a monthly subscription tool cheaper than a custom build?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Upfront, yes. Over a year or more, a subscription tool that doesn’t fit your workflow well can end up more expensive in wasted staff time than a custom build would have cost."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "What ongoing costs should I expect after launch?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Typically hosting, API or model usage fees, and either a maintenance retainer or in-house time to monitor and adjust the system."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "How do I know if a vendor’s quote is realistic?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Compare it against the number of systems it touches and whether Arabic support, testing, and post-launch monitoring are explicitly included. A quote missing those details usually isn’t the full picture."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Quick Summary"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "AI automation in Saudi Arabia typically costs SAR 5,000 to SAR 400,000, with most SME projects landing between SAR 5,000 and SAR 120,000. Price is driven mainly by how many systems the automation touches, how much Arabic-English support it needs, and how much ongoing monitoring it requires, not by company size alone. The biggest budgeting mistakes are treating the quoted price as final, skipping data cleanup, and comparing cheap subscription tools directly against custom builds. Start with one high-volume, low-complexity workflow, ask vendors for a full 12-month cost picture, and test with real data before sign-off. That approach avoids the overruns and quietly abandoned pilots that make up most of the bad experiences businesses report with AI automation."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    }
+  ],
+  "article": {
+    "excerpt": "AI automation in Saudi Arabia usually costs between SAR 5,000 and SAR 400,000, depending on scope. A single chatbot or lead-routing workflow sits at the low end. A custom system that connects your CRM, ERP, and finance tools with Arabic and English support sits in the SAR 100,000 to SAR 400,000 range. Very few SMEs …",
+    "dateLabel": "August 23, 2026",
+    "category": {
+      "label": "Custom Software & Apps",
+      "href": "/category/custom-software-apps/"
+    },
+    "additionalCategories": [],
+    "featured": {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/08/ai-automation.png",
+      "alt": "ai automation price in ksa",
+      "width": 1536,
+      "height": 1024,
+      "variants": [
+        {
+          "src": "/wp-content/uploads/2026/08/ai-automation.png",
+          "width": 1536
+        },
+        {
+          "src": "/wp-content/uploads/2026/08/ai-automation-300x200.png",
+          "width": 300
+        },
+        {
+          "src": "/wp-content/uploads/2026/08/ai-automation-1024x683.png",
+          "width": 1024
+        },
+        {
+          "src": "/wp-content/uploads/2026/08/ai-automation-768x512.png",
+          "width": 768
+        },
+        {
+          "src": "/wp-content/uploads/2026/08/ai-automation-18x12.png",
+          "width": 18
+        },
+        {
+          "src": "/wp-content/uploads/2026/08/ai-automation-450x300.png",
+          "width": 450
+        }
+      ],
+      "sizes": "(max-width: 1536px) 100vw, 1536px"
+    },
+    "adjacent": [
+      {
+        "label": "Previous Post",
+        "title": "Website Cost in Saudi Arabia 2026: Real SAR Price Guide",
+        "href": "/website-cost-in-saudi-arabia/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/08/blog-image-12-150x150.png",
+          "alt": "website cost in saudi arabia",
+          "width": 150,
+          "height": 150,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/08/blog-image-12-150x150.png",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-image-12-260x260.png",
+              "width": 260
+            }
+          ],
+          "sizes": "(max-width: 150px) 100vw, 150px"
+        }
+      },
+      {
+        "label": "Next Post",
+        "title": "كيف تختار شركة تطوير تطبيقات الجوال في السعودية؟",
+        "href": "/how-to-choose-mobile-app-development-company-saudi-arabia/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/08/BLOG-IMAGE-14-150x150.png",
+          "alt": "كيف تختار شركة تطوير تطبيقات الجوال في السعودية؟",
+          "width": 150,
+          "height": 150,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/08/BLOG-IMAGE-14-150x150.png",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/BLOG-IMAGE-14-260x260.png",
+              "width": 260
+            }
+          ],
+          "sizes": "(max-width: 150px) 100vw, 150px"
+        }
+      }
+    ],
+    "related": [
+      {
+        "title": "Social Media Marketing Cost in Saudi Arabia (2026 Guide)",
+        "href": "/social-media-marketing-cost-in-saudi-arabia/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2025/10/71-posts-placeholder-300x300.webp",
+          "alt": "",
+          "width": 300,
+          "height": 300,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-300x300.webp",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-100x100.webp",
+              "width": 100
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-600x600.webp",
+              "width": 600
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-150x150.webp",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-260x260.webp",
+              "width": 260
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder.webp",
+              "width": 768
+            }
+          ],
+          "sizes": "(max-width: 300px) 100vw, 300px"
+        },
+        "category": {
+          "label": "Digital Marketing Strategy & Fundamentals",
+          "href": "/category/digital-marketing-strategy/"
+        },
+        "dateLabel": "September 21, 2026",
+        "actionLabel": "Read More"
+      },
+      {
+        "title": "كيف يساعد الذكاء الاصطناعي الشركات في السعودية 2026 | نالك سوليوشنز",
+        "href": "/how-ai-helps-companies-in-saudi-arabia/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-300x200.jpeg",
+          "alt": "كيف يساعد الذكاء الاصطناعي الشركات في السعودية 2026 | نالك سوليوشنز",
+          "width": 300,
+          "height": 200,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-300x200.jpeg",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-1024x683.jpeg",
+              "width": 1024
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-768x512.jpeg",
+              "width": 768
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-18x12.jpeg",
+              "width": 18
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-450x300.jpeg",
+              "width": 450
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg.jpeg",
+              "width": 1536
+            }
+          ],
+          "sizes": "(max-width: 300px) 100vw, 300px"
+        },
+        "category": {
+          "label": "Custom Software & Apps",
+          "href": "/category/custom-software-apps/"
+        },
+        "dateLabel": "September 2, 2026",
+        "actionLabel": "Read More"
+      },
+      {
+        "title": "التسويق عبر سناب شات وتيك توك للشركات السعودية: الدليل الكامل 2026",
+        "href": "/snapchat-tiktok-marketing-saudi-businesses/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/08/blog-two-300x200.png",
+          "alt": "التسويق عبر سناب شات وتيك توك للشركات السعودية: الدليل الكامل 2026",
+          "width": 300,
+          "height": 200,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-300x200.png",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-1024x683.png",
+              "width": 1024
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-768x512.png",
+              "width": 768
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-18x12.png",
+              "width": 18
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-450x300.png",
+              "width": 450
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two.png",
+              "width": 1536
+            }
+          ],
+          "sizes": "(max-width: 300px) 100vw, 300px"
+        },
+        "category": {
+          "label": "Digital Marketing Strategy & Fundamentals",
+          "href": "/category/digital-marketing-strategy/"
+        },
+        "dateLabel": "August 26, 2026",
+        "actionLabel": "Read More"
+      }
+    ],
+    "footer": {
+      "owner": "NALK SOLUTIONS pvt Ltd",
+      "notice": "© 2026 - All Rights Reserved"
+    }
+  }
+}

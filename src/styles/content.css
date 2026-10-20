@@ -1,0 +1,233 @@
+/* Complete-content baseline. Family-specific source layout reconstruction remains open. */
+.content-site {
+  background: #020202;
+  color: #f3f3f3;
+  min-height: 100vh;
+}
+.content-site main {
+  padding-block: 7rem 4rem;
+  min-width: 0;
+}
+.content-site [data-document-body] {
+  max-width: 1260px;
+  margin-inline: auto;
+  padding-inline: 30px;
+  font-size: 18px;
+  line-height: 1.65;
+}
+.content-site :where(div, section, article, figure) {
+  min-width: 0;
+}
+.content-site [data-document-body] :where(h1, h2, h3, h4, h5, h6) {
+  font-weight: 600;
+  line-height: 1.2;
+  margin-block: 1.5em 0.7em;
+  text-wrap: balance;
+}
+.content-site [data-document-body] h1 {
+  font-size: clamp(2.2rem, 4.8vw, 4.6rem);
+  color: #f7c5f7;
+}
+.content-site [data-document-body] h2 {
+  font-size: clamp(1.7rem, 3vw, 2.7rem);
+}
+.content-site [data-document-body] h3 {
+  font-size: clamp(1.4rem, 2vw, 2rem);
+}
+.content-site [data-document-body] :where(h4, h5, h6) {
+  font-size: 1.25rem;
+}
+.content-site [data-document-body] p {
+  margin-block: 1em;
+}
+.content-site [data-document-body] :where(ul, ol) {
+  padding-inline-start: 1.5em;
+  margin-block: 1em;
+}
+.content-site [data-document-body] ul {
+  list-style: disc;
+}
+.content-site [data-document-body] ol {
+  list-style: decimal;
+}
+.content-site [data-document-body] a {
+  color: #e7b5ff;
+  text-decoration: underline;
+}
+.content-site [data-document-body] img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+.content-site [data-document-body] svg {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+}
+.content-site .content-section {
+  padding-block: 2rem;
+}
+.content-site .content-columns {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+.content-site .content-column {
+  flex: 1 1 240px;
+}
+.content-site .content-cards {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 2rem;
+}
+.content-site .content-card {
+  border: 1px solid #3c3c3c;
+  padding: 1.25rem;
+  border-radius: 16px;
+  margin-block: 1rem;
+}
+.content-site .content-card :where(h2, h3) {
+  font-size: 1.5rem;
+}
+.content-site .content-prose {
+  max-width: 940px;
+  margin-inline: auto;
+}
+.content-site .content-feature,
+.content-site .content-testimonial {
+  padding: 1.5rem;
+  border: 1px solid #3c3c3c;
+  border-radius: 16px;
+  margin-block: 1rem;
+}
+.content-site .content-statistic {
+  padding: 1rem;
+  font-size: 1.4rem;
+}
+.content-site .content-metadata {
+  color: #c3c3c3;
+  font-size: 0.9rem;
+}
+.content-site .content-excerpt {
+  color: #ddd;
+  font-size: 1.2rem;
+}
+.content-site .content-pagination {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-block: 2rem;
+}
+.content-site [data-document-body] .content-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.85rem 1.3rem;
+  margin-block: 0.5rem;
+  border: 1px solid #e7b5ff;
+  border-radius: 99px;
+  text-decoration: none;
+}
+.content-site
+  [data-document-body]
+  :where(a, button, input, textarea, select, summary):focus-visible {
+  outline: 3px solid #c6b7ff;
+  outline-offset: 4px;
+}
+.content-site [data-document-body] pre {
+  overflow-x: auto;
+  max-width: 100%;
+  padding: 1rem;
+  white-space: pre;
+  background: #171717;
+  border: 1px solid #555;
+  border-radius: 8px;
+}
+.content-site .content-table {
+  overflow-x: auto;
+  max-width: 100%;
+  margin-block: 1.5rem;
+}
+.content-site [data-document-body] table {
+  border-collapse: collapse;
+  width: 100%;
+}
+.content-site [data-document-body] :where(th, td) {
+  border: 1px solid #555;
+  padding: 0.65rem;
+  text-align: start;
+}
+.content-site [data-document-body] blockquote {
+  border-inline-start: 3px solid #e7b5ff;
+  padding-inline-start: 1.5rem;
+}
+.content-site .content-disclosure {
+  padding: 1rem;
+  border-block-end: 1px solid #555;
+}
+.content-site .content-disclosure summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+.content-site .content-tab-heading {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-block: 1.5rem 0.5rem;
+}
+.content-site :where(.content-search, .content-enquiry) {
+  margin-block: 2rem;
+}
+.content-site :where(input, select, textarea) {
+  display: block;
+  background: #171717;
+  color: white;
+  border: 1px solid #777;
+  border-radius: 8px;
+  width: 100%;
+  max-width: 100%;
+  padding: 0.75rem;
+}
+.content-site label {
+  display: block;
+  margin-block: 0.5rem;
+}
+.content-site .content-fields {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+.content-site .content-enquiry button {
+  border: 1px solid #777;
+  border-radius: 99px;
+  padding: 0.75rem 1.3rem;
+  margin-block-start: 1rem;
+}
+.content-site .content-enquiry button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+.content-site:dir(rtl) pre {
+  direction: ltr;
+  unicode-bidi: isolate;
+}
+@media (max-width: 1024px) {
+  .content-site .content-cards {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 767px) {
+  .content-site main {
+    padding-block-start: 4rem;
+  }
+  .content-site [data-document-body] {
+    padding-inline: 20px;
+    font-size: 16px;
+  }
+  .content-site .content-cards,
+  .content-site .content-fields {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .content-site .content-columns {
+    display: block;
+  }
+}

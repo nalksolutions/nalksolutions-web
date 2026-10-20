@@ -1,0 +1,229 @@
+{
+  "entityId": "R-e694596eeb7dbf6a",
+  "path": "/ar/author/uhj1984yahoo-com/page/4/",
+  "publication": {
+    "ready": true,
+    "acceptance": "ownerManaged"
+  },
+  "listing": {
+    "family": "author",
+    "basePath": "/author/uhj1984yahoo-com/",
+    "number": 4
+  },
+  "review": {
+    "status": "inReview",
+    "reviewer": null,
+    "approvedAt": null,
+    "translationRevision": "generated-listings-1",
+    "sourceInputs": [
+      {
+        "path": "src/content/site/pages.generated.json",
+        "sha256": "7cd8249a8f5b73200fb4c39193dc5469fa0cc595cc493904a611272606512429"
+      },
+      {
+        "path": "src/content/site/documents/R-e694596eeb7dbf6a.json",
+        "sha256": "54462a20e9812dc7739ab566f3bfa926a4d90e333b3242ad67943d06981ddd36"
+      },
+      {
+        "path": "src/content/localization/listing-index.json",
+        "sha256": "9566dd2c16042f2dca2ed29001b2330e0a0aa8322ec23f272d18ea91ab4e8c05"
+      }
+    ]
+  },
+  "seo": {
+    "title": "مقالات uhj1984@yahoo.com | نالك سوليوشنز",
+    "description": "تصفّح مقالات نالك سوليوشنز بالعربية في التقنية وتطوير الأعمال والتسويق الرقمي."
+  },
+  "heading": "مقالات uhj1984@yahoo.com",
+  "blocks": {},
+  "imageAlts": {},
+  "issues": [],
+  "document": {
+    "nodes": [
+      {
+        "type": "text",
+        "text": ""
+      }
+    ]
+  },
+  "sourceSnapshot": {
+    "id": "R-e694596eeb7dbf6a",
+    "sourceRouteId": "R-e694596eeb7dbf6a",
+    "path": "/author/uhj1984yahoo-com/page/4/",
+    "kind": "archive",
+    "locale": "en",
+    "status": "published",
+    "seo": {
+      "title": "uhj1984@yahoo.com, Author at Nalk Solutions - Page 4 of 5",
+      "description": null,
+      "canonical": null,
+      "robots": "follow, noindex",
+      "googlebot": null,
+      "social": [
+        {
+          "property": "og:locale",
+          "content": "en_US"
+        },
+        {
+          "property": "og:type",
+          "content": "profile"
+        },
+        {
+          "property": "og:title",
+          "content": "uhj1984@yahoo.com, Author at Nalk Solutions - Page 4 of 5"
+        },
+        {
+          "property": "og:url",
+          "content": "https://nalksolutions.com/author/uhj1984yahoo-com/page/4/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Nalk Solutions"
+        },
+        {
+          "property": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "property": "twitter:title",
+          "content": "uhj1984@yahoo.com, Author at Nalk Solutions - Page 4 of 5"
+        },
+        {
+          "property": "twitter:label1",
+          "content": "Name"
+        },
+        {
+          "property": "twitter:data1",
+          "content": "uhj1984@yahoo.com"
+        },
+        {
+          "property": "twitter:label2",
+          "content": "Posts"
+        },
+        {
+          "property": "twitter:data2",
+          "content": "43"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Place",
+              "@id": "https://nalksolutions.com/#place",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              }
+            },
+            {
+              "@type": "ProfessionalService",
+              "@id": "https://nalksolutions.com/#organization",
+              "name": "Nalk Solutions",
+              "url": "https://nalksolutions.com",
+              "email": "info@nalksolutions.com",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              },
+              "logo": {
+                "@type": "ImageObject",
+                "@id": "https://nalksolutions.com/#logo",
+                "url": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "contentUrl": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "caption": "Nalk Solutions",
+                "inLanguage": "en-US",
+                "width": "1563",
+                "height": "1563"
+              },
+              "openingHours": ["Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"],
+              "description": "Nalk provides Nalk Solutions is a technology company in Saudi Arabia; delivering digital marketing, web development, app development &amp; IT solutions across Riyadh, Jeddah and all major cities across the kingdom.",
+              "legalName": "uhj1984@yahoo.com",
+              "location": {
+                "@id": "https://nalksolutions.com/#place"
+              },
+              "image": {
+                "@id": "https://nalksolutions.com/#logo"
+              },
+              "telephone": "+966506000843"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://nalksolutions.com/#website",
+              "url": "https://nalksolutions.com",
+              "name": "Nalk Solutions",
+              "publisher": {
+                "@id": "https://nalksolutions.com/#organization"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://nalksolutions.com/author/uhj1984yahoo-com/page/4/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": "1",
+                  "item": {
+                    "@id": "https://nalksolutions.com",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "ProfilePage",
+              "@id": "https://nalksolutions.com/author/uhj1984yahoo-com/page/4/#webpage",
+              "url": "https://nalksolutions.com/author/uhj1984yahoo-com/page/4/",
+              "name": "uhj1984@yahoo.com, Author at Nalk Solutions - Page 4 of 5",
+              "isPartOf": {
+                "@id": "https://nalksolutions.com/#website"
+              },
+              "inLanguage": "en-US",
+              "breadcrumb": {
+                "@id": "https://nalksolutions.com/author/uhj1984yahoo-com/page/4/#breadcrumb"
+              }
+            },
+            {
+              "@type": "Person",
+              "@id": "#author",
+              "name": "uhj1984@yahoo.com",
+              "image": {
+                "@type": "ImageObject",
+                "@id": "https://secure.gravatar.com/avatar/579a7bde0ace771a4bb782feeb83aba48d2b689bebee8d20b924c6b2991e04fa?s=96&amp;d=mm&amp;r=g",
+                "url": "https://secure.gravatar.com/avatar/579a7bde0ace771a4bb782feeb83aba48d2b689bebee8d20b924c6b2991e04fa?s=96&amp;d=mm&amp;r=g",
+                "caption": "uhj1984@yahoo.com",
+                "inLanguage": "en-US"
+              },
+              "sameAs": ["https://nalksolutions.com"],
+              "worksFor": {
+                "@id": "https://nalksolutions.com/#organization"
+              },
+              "mainEntityOfPage": {
+                "@id": "https://nalksolutions.com/author/uhj1984yahoo-com/page/4/#webpage"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "content": {
+      "heading": "Author: uhj1984@yahoo.com",
+      "paragraphs": ["Author: uhj1984@yahoo.com"],
+      "documentId": "R-e694596eeb7dbf6a"
+    },
+    "provenance": {
+      "sourceHtml": "nalk-public-archive/html/source/author-uhj1984yahoo-com-page-4-e694596eeb7dbf6a.html",
+      "sourceSha256": "47e2f827f23cfefd150894386f1743f73a7a247598f49f7df709729fe6002a88",
+      "pageRecord": "nalk-public-archive/pages/author-uhj1984yahoo-com-page-4-e694596eeb7dbf6a.json",
+      "pageRecordSha256": "2bd6787248ba4648211a408ac47be2de0b23eb1ddae54990a3d93390872a10fa",
+      "excerpt": false,
+      "headingFallback": false
+    }
+  }
+}

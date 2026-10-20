@@ -1,0 +1,976 @@
+{
+  "content": [],
+  "settings": {
+    "template": "default",
+    "colors_enable_styleguide_preview": "yes",
+    "system_colors": [
+      {
+        "_id": "primary",
+        "title": "Primary",
+        "color": "#6D2785"
+      },
+      {
+        "_id": "secondary",
+        "title": "Secondary",
+        "color": "#FFFFFF"
+      },
+      {
+        "_id": "text",
+        "title": "Text",
+        "color": "#D2D2CF"
+      },
+      {
+        "_id": "accent",
+        "title": "Accent",
+        "color": "#FFFBBD"
+      },
+      {
+        "_id": "tertiary",
+        "title": "Alternate Accent",
+        "color": "#B6B6B3"
+      },
+      {
+        "_id": "background",
+        "title": "Background",
+        "color": "#020202"
+      },
+      {
+        "_id": "alternate",
+        "title": "Alternate Background",
+        "color": "#272727"
+      },
+      {
+        "_id": "border",
+        "title": "Border",
+        "color": "#332C27"
+      }
+    ],
+    "custom_colors": [
+      {
+        "_id": "c68267a",
+        "title": "Custom 1",
+        "color": "#008CFF"
+      },
+      {
+        "_id": "ce4aeac",
+        "title": "Custom 2",
+        "color": "#DD8716"
+      },
+      {
+        "_id": "91278c9",
+        "title": "Custom 3",
+        "color": "#FF4800"
+      },
+      {
+        "_id": "b401876",
+        "title": "New Item #4",
+        "color": "#AD2B68"
+      }
+    ],
+    "typography_enable_styleguide_preview": "yes",
+    "system_typography": [
+      {
+        "_id": "primary",
+        "title": "Primary",
+        "typography_typography": "custom",
+        "typography_font_family": "Space Grotesk",
+        "typography_font_weight": "500"
+      },
+      {
+        "_id": "secondary",
+        "title": "Secondary",
+        "typography_typography": "custom",
+        "typography_font_family": "Space Grotesk",
+        "typography_font_weight": "400"
+      },
+      {
+        "_id": "text",
+        "title": "Text",
+        "typography_typography": "custom",
+        "typography_font_family": "Manrope",
+        "typography_font_weight": "400",
+        "typography_font_size": {
+          "unit": "px",
+          "size": "18",
+          "sizes": []
+        },
+        "typography_text_transform": "none",
+        "typography_font_style": "normal",
+        "typography_text_decoration": "none",
+        "typography_line_height": {
+          "unit": "em",
+          "size": "1.55",
+          "sizes": []
+        },
+        "typography_letter_spacing": {
+          "unit": "px",
+          "size": "0",
+          "sizes": []
+        },
+        "typography_word_spacing": {
+          "unit": "px",
+          "size": "0",
+          "sizes": []
+        },
+        "typography_font_size_tablet": {
+          "unit": "px",
+          "size": 17,
+          "sizes": []
+        },
+        "typography_font_size_mobile": {
+          "unit": "px",
+          "size": 16,
+          "sizes": []
+        }
+      },
+      {
+        "_id": "accent",
+        "title": "Accent",
+        "typography_typography": "custom",
+        "typography_font_family": "Manrope",
+        "typography_font_weight": "700",
+        "typography_font_size": {
+          "unit": "px",
+          "size": "17",
+          "sizes": []
+        },
+        "typography_text_transform": "none",
+        "typography_font_style": "normal",
+        "typography_text_decoration": "none",
+        "typography_line_height": {
+          "unit": "em",
+          "size": "1.65",
+          "sizes": []
+        },
+        "typography_letter_spacing": {
+          "unit": "px",
+          "size": "0",
+          "sizes": []
+        },
+        "typography_word_spacing": {
+          "unit": "px",
+          "size": "0",
+          "sizes": []
+        },
+        "typography_font_size_tablet": {
+          "unit": "px",
+          "size": 16,
+          "sizes": []
+        },
+        "typography_font_size_mobile": {
+          "unit": "px",
+          "size": 15,
+          "sizes": []
+        }
+      },
+      {
+        "_id": "tertiary",
+        "title": "Alternate Accent",
+        "typography_typography": "custom",
+        "typography_font_family": "Manrope",
+        "typography_font_size": {
+          "unit": "px",
+          "size": "16",
+          "sizes": []
+        },
+        "typography_font_weight": "500",
+        "typography_text_transform": "none",
+        "typography_font_style": "normal",
+        "typography_text_decoration": "none",
+        "typography_line_height": {
+          "unit": "em",
+          "size": "1.65",
+          "sizes": []
+        },
+        "typography_letter_spacing": {
+          "unit": "px",
+          "size": "0",
+          "sizes": []
+        },
+        "typography_word_spacing": {
+          "unit": "px",
+          "size": "0",
+          "sizes": []
+        },
+        "typography_font_size_tablet": {
+          "unit": "px",
+          "size": 15,
+          "sizes": []
+        },
+        "typography_font_size_mobile": {
+          "unit": "px",
+          "size": 14,
+          "sizes": []
+        }
+      },
+      {
+        "_id": "meta",
+        "title": "Meta",
+        "typography_typography": "custom",
+        "typography_font_family": "Space Grotesk",
+        "typography_font_size": {
+          "unit": "px",
+          "size": "15",
+          "sizes": []
+        },
+        "typography_font_weight": "500",
+        "typography_text_transform": "none",
+        "typography_font_style": "normal",
+        "typography_text_decoration": "none",
+        "typography_line_height": {
+          "unit": "em",
+          "size": "1.6",
+          "sizes": []
+        },
+        "typography_letter_spacing": {
+          "unit": "px",
+          "size": "0",
+          "sizes": []
+        },
+        "typography_word_spacing": {
+          "unit": "px",
+          "size": "0",
+          "sizes": []
+        },
+        "typography_font_size_tablet": {
+          "unit": "px",
+          "size": 14,
+          "sizes": []
+        },
+        "typography_font_size_mobile": {
+          "unit": "px",
+          "size": 13,
+          "sizes": []
+        }
+      },
+      {
+        "_id": "taxonomy",
+        "title": "Alternate Meta",
+        "typography_typography": "custom",
+        "typography_font_family": "Space Grotesk",
+        "typography_font_size": {
+          "unit": "px",
+          "size": "13",
+          "sizes": []
+        },
+        "typography_font_weight": "700",
+        "typography_text_transform": "uppercase",
+        "typography_font_style": "normal",
+        "typography_text_decoration": "none",
+        "typography_line_height": {
+          "unit": "em",
+          "size": "1.55",
+          "sizes": []
+        },
+        "typography_letter_spacing": {
+          "unit": "px",
+          "size": "0",
+          "sizes": []
+        },
+        "typography_word_spacing": {
+          "unit": "px",
+          "size": "0",
+          "sizes": []
+        },
+        "typography_font_size_tablet": {
+          "unit": "px",
+          "size": 12,
+          "sizes": []
+        }
+      },
+      {
+        "_id": "small",
+        "title": "Small",
+        "typography_typography": "custom",
+        "typography_font_family": "Manrope",
+        "typography_font_size": {
+          "unit": "px",
+          "size": "14",
+          "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_text_transform": "none",
+        "typography_font_style": "normal",
+        "typography_text_decoration": "none",
+        "typography_line_height": {
+          "unit": "em",
+          "size": "1.55",
+          "sizes": []
+        },
+        "typography_letter_spacing": {
+          "unit": "px",
+          "size": "0",
+          "sizes": []
+        },
+        "typography_word_spacing": {
+          "unit": "px",
+          "size": "0",
+          "sizes": []
+        },
+        "typography_font_size_mobile": {
+          "unit": "px",
+          "size": 13,
+          "sizes": []
+        }
+      },
+      {
+        "_id": "h1",
+        "title": "H1",
+        "typography_typography": "custom",
+        "typography_font_family": "Space Grotesk",
+        "typography_font_size": {
+          "unit": "px",
+          "size": "82",
+          "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_text_transform": "none",
+        "typography_font_style": "normal",
+        "typography_text_decoration": "none",
+        "typography_line_height": {
+          "unit": "em",
+          "size": "1.05",
+          "sizes": []
+        },
+        "typography_letter_spacing": {
+          "unit": "px",
+          "size": "-2",
+          "sizes": []
+        },
+        "typography_word_spacing": {
+          "unit": "px",
+          "size": "0",
+          "sizes": []
+        },
+        "typography_font_size_tablet": {
+          "unit": "px",
+          "size": 60,
+          "sizes": []
+        },
+        "typography_font_size_mobile": {
+          "unit": "px",
+          "size": 42,
+          "sizes": []
+        }
+      },
+      {
+        "_id": "h2",
+        "title": "H2",
+        "typography_typography": "custom",
+        "typography_font_family": "Space Grotesk",
+        "typography_font_size": {
+          "unit": "px",
+          "size": "62",
+          "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_text_transform": "none",
+        "typography_font_style": "normal",
+        "typography_text_decoration": "none",
+        "typography_line_height": {
+          "unit": "em",
+          "size": "1.1",
+          "sizes": []
+        },
+        "typography_letter_spacing": {
+          "unit": "px",
+          "size": "-2",
+          "sizes": []
+        },
+        "typography_word_spacing": {
+          "unit": "px",
+          "size": "0",
+          "sizes": []
+        },
+        "typography_font_size_tablet": {
+          "unit": "px",
+          "size": 48,
+          "sizes": []
+        },
+        "typography_font_size_mobile": {
+          "unit": "px",
+          "size": 36,
+          "sizes": []
+        }
+      },
+      {
+        "_id": "h3",
+        "title": "H3",
+        "typography_typography": "custom",
+        "typography_font_family": "Space Grotesk",
+        "typography_font_size": {
+          "unit": "px",
+          "size": "48",
+          "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_text_transform": "none",
+        "typography_font_style": "normal",
+        "typography_text_decoration": "none",
+        "typography_line_height": {
+          "unit": "em",
+          "size": "1.15",
+          "sizes": []
+        },
+        "typography_letter_spacing": {
+          "unit": "px",
+          "size": "-1",
+          "sizes": []
+        },
+        "typography_word_spacing": {
+          "unit": "px",
+          "size": "0",
+          "sizes": []
+        },
+        "typography_font_size_tablet": {
+          "unit": "px",
+          "size": 36,
+          "sizes": []
+        },
+        "typography_font_size_mobile": {
+          "unit": "px",
+          "size": 28,
+          "sizes": []
+        }
+      },
+      {
+        "_id": "h4",
+        "title": "H4",
+        "typography_typography": "custom",
+        "typography_font_family": "Space Grotesk",
+        "typography_font_size": {
+          "unit": "px",
+          "size": "32",
+          "sizes": []
+        },
+        "typography_font_weight": "500",
+        "typography_text_transform": "none",
+        "typography_font_style": "normal",
+        "typography_text_decoration": "none",
+        "typography_line_height": {
+          "unit": "em",
+          "size": "1.25",
+          "sizes": []
+        },
+        "typography_letter_spacing": {
+          "unit": "px",
+          "size": "-1",
+          "sizes": []
+        },
+        "typography_word_spacing": {
+          "unit": "px",
+          "size": "0",
+          "sizes": []
+        },
+        "typography_font_size_tablet": {
+          "unit": "px",
+          "size": 28,
+          "sizes": []
+        },
+        "typography_font_size_mobile": {
+          "unit": "px",
+          "size": 24,
+          "sizes": []
+        }
+      },
+      {
+        "_id": "h5",
+        "title": "H5",
+        "typography_typography": "custom",
+        "typography_font_family": "Space Grotesk",
+        "typography_font_size": {
+          "unit": "px",
+          "size": "24",
+          "sizes": []
+        },
+        "typography_font_weight": "500",
+        "typography_text_transform": "none",
+        "typography_font_style": "normal",
+        "typography_text_decoration": "none",
+        "typography_line_height": {
+          "unit": "em",
+          "size": "1.35",
+          "sizes": []
+        },
+        "typography_letter_spacing": {
+          "unit": "px",
+          "size": "-1",
+          "sizes": []
+        },
+        "typography_word_spacing": {
+          "unit": "px",
+          "size": "0",
+          "sizes": []
+        },
+        "typography_font_size_tablet": {
+          "unit": "px",
+          "size": 22,
+          "sizes": []
+        },
+        "typography_font_size_mobile": {
+          "unit": "px",
+          "size": 18,
+          "sizes": []
+        }
+      },
+      {
+        "_id": "h6",
+        "title": "H6",
+        "typography_typography": "custom",
+        "typography_font_family": "Space Grotesk",
+        "typography_font_size": {
+          "unit": "px",
+          "size": "17",
+          "sizes": []
+        },
+        "typography_font_weight": "500",
+        "typography_text_transform": "none",
+        "typography_font_style": "normal",
+        "typography_text_decoration": "none",
+        "typography_line_height": {
+          "unit": "em",
+          "size": "1.65",
+          "sizes": []
+        },
+        "typography_letter_spacing": {
+          "unit": "px",
+          "size": "0",
+          "sizes": []
+        },
+        "typography_word_spacing": {
+          "unit": "px",
+          "size": "0",
+          "sizes": []
+        },
+        "typography_font_size_tablet": {
+          "unit": "px",
+          "size": 16,
+          "sizes": []
+        },
+        "typography_font_size_mobile": {
+          "unit": "px",
+          "size": 15,
+          "sizes": []
+        }
+      },
+      {
+        "_id": "button",
+        "title": "Button",
+        "typography_typography": "custom",
+        "typography_font_family": "Manrope",
+        "typography_font_size": {
+          "unit": "px",
+          "size": "16",
+          "sizes": []
+        },
+        "typography_font_weight": "700",
+        "typography_text_transform": "none",
+        "typography_font_style": "normal",
+        "typography_text_decoration": "none",
+        "typography_line_height": {
+          "unit": "em",
+          "size": "1.65",
+          "sizes": []
+        },
+        "typography_letter_spacing": {
+          "unit": "px",
+          "size": "0",
+          "sizes": []
+        },
+        "typography_word_spacing": {
+          "unit": "px",
+          "size": "0",
+          "sizes": []
+        },
+        "typography_font_size_tablet": {
+          "unit": "px",
+          "size": 15,
+          "sizes": []
+        },
+        "typography_font_size_mobile": {
+          "unit": "px",
+          "size": 14,
+          "sizes": []
+        }
+      },
+      {
+        "_id": "blockquote",
+        "title": "Blockquote",
+        "typography_typography": "custom",
+        "typography_font_family": "Space Grotesk",
+        "typography_font_size": {
+          "unit": "px",
+          "size": "30",
+          "sizes": []
+        },
+        "typography_font_weight": "400",
+        "typography_text_transform": "none",
+        "typography_font_style": "normal",
+        "typography_text_decoration": "none",
+        "typography_line_height": {
+          "unit": "em",
+          "size": "1.35",
+          "sizes": []
+        },
+        "typography_letter_spacing": {
+          "unit": "px",
+          "size": "-1",
+          "sizes": []
+        },
+        "typography_word_spacing": {
+          "unit": "px",
+          "size": "0",
+          "sizes": []
+        },
+        "typography_font_size_tablet": {
+          "unit": "px",
+          "size": 28,
+          "sizes": []
+        },
+        "typography_font_size_mobile": {
+          "unit": "px",
+          "size": 22,
+          "sizes": []
+        }
+      }
+    ],
+    "custom_typography": [
+      {
+        "_id": "bbb426b",
+        "title": "Excerpt",
+        "typography_typography": "custom",
+        "typography_font_family": "Manrope",
+        "typography_font_size": {
+          "unit": "px",
+          "size": 20,
+          "sizes": []
+        },
+        "typography_font_weight": "500",
+        "typography_text_transform": "none",
+        "typography_font_style": "normal",
+        "typography_text_decoration": "none",
+        "typography_letter_spacing": {
+          "unit": "px",
+          "size": 0,
+          "sizes": []
+        },
+        "typography_word_spacing": {
+          "unit": "px",
+          "size": 0,
+          "sizes": []
+        },
+        "typography_line_height": {
+          "unit": "em",
+          "size": 1.5,
+          "sizes": []
+        }
+      }
+    ],
+    "default_generic_fonts": "Sans-serif",
+    "page_title_selector": "h1.entry-title",
+    "cmsmasters_header_top_info_items": [],
+    "cmsmasters_header_top_social_items": [],
+    "cmsmasters_header_mid_info_items": [],
+    "cmsmasters_header_mid_social_items": [],
+    "cmsmasters_header_bot_social_items": [],
+    "cmsmasters_main_layout": "fullwidth",
+    "cmsmasters_archive_grid_columns": "",
+    "cmsmasters_search_grid_columns": "",
+    "cmsmasters_footer_social_items": [],
+    "cmsmasters_footer_info_items": [],
+    "activeItemIndex": 4,
+    "viewport_md": 768,
+    "viewport_lg": 1181,
+    "container_width": {
+      "unit": "px",
+      "size": 1280,
+      "sizes": []
+    },
+    "container_padding": {
+      "unit": "px",
+      "top": "0",
+      "right": "0",
+      "bottom": "0",
+      "left": "0",
+      "isLinked": true
+    },
+    "active_breakpoints": [
+      "viewport_mobile",
+      "viewport_tablet",
+      "viewport_widescreen"
+    ],
+    "viewport_tablet": 1180,
+    "viewport_widescreen": 1601,
+    "cmsmasters_button_normal_colors_bg_type": "gradient",
+    "cmsmasters_button_normal_colors_bg_gradient_angle": {
+      "unit": "deg",
+      "size": 70,
+      "sizes": []
+    },
+    "cmsmasters_button_normal_bd_radius": {
+      "unit": "px",
+      "top": "10",
+      "right": "10",
+      "bottom": "10",
+      "left": "10",
+      "isLinked": true
+    },
+    "cmsmasters_button_hover_colors_bg_type": "gradient",
+    "cmsmasters_button_hover_colors_bg_gradient_angle": {
+      "unit": "deg",
+      "size": 70,
+      "sizes": []
+    },
+    "cmsmasters_button_normal_border_border": "none",
+    "cmsmasters_button_padding": {
+      "unit": "px",
+      "top": "13",
+      "right": "30",
+      "bottom": "13",
+      "left": "30",
+      "isLinked": false
+    },
+    "cmsmasters_archive_layout": "fullwidth",
+    "__globals__": {
+      "cmsmasters_button_normal_colors_bg": "globals/colors?id=c68267a",
+      "cmsmasters_button_normal_colors_bg_b": "globals/colors?id=primary",
+      "cmsmasters_button_normal_colors_color": "globals/colors?id=secondary",
+      "cmsmasters_button_hover_colors_bg": "globals/colors?id=secondary",
+      "cmsmasters_button_hover_colors_bg_b": "globals/colors?id=accent",
+      "cmsmasters_button_hover_colors_color": "globals/colors?id=background",
+      "cmsmasters_lazyload_widget_preloader_icon_color": "globals/colors?id=accent",
+      "cmsmasters_lazyload_widget_preloader_background_color": "globals/colors?id=alternate",
+      "cmsmasters_lazyload_widget_preloader_border_color": "globals/colors?id=border"
+    },
+    "cmsmasters_single_layout": "fullwidth",
+    "cmsmasters_button_normal_colors_bg_b_stop": {
+      "unit": "%",
+      "size": 70,
+      "sizes": []
+    },
+    "cmsmasters_button_hover_colors_bg_b_stop": {
+      "unit": "%",
+      "size": 70,
+      "sizes": []
+    },
+    "woocommerce_checkout_page_id": 55646,
+    "cmsmasters_single_heading_visibility": "",
+    "cmsmasters_single_meta_first_box_toggle": "yes",
+    "cmsmasters_single_meta_first_box_padding": {
+      "unit": "px",
+      "top": "60",
+      "right": "0",
+      "bottom": "0",
+      "left": "0",
+      "isLinked": false
+    },
+    "woocommerce_cart_page_id": 56622,
+    "woocommerce_myaccount_page_id": 56623,
+    "cmsmasters_single_nav_box_toggle": "yes",
+    "cmsmasters_single_comments_box_toggle": "yes",
+    "cmsmasters_lazyload_widget_preloader_icon": {
+      "value": {
+        "url": "https://softy-solutions.cmsmasters.net/dark-demo/wp-content/uploads/sites/2/2025/09/dual-ball-preloader.svg",
+        "id": 57195
+      },
+      "library": "svg"
+    },
+    "cmsmasters_lazyload_widget_preloader_icon_size": {
+      "unit": "px",
+      "size": 56,
+      "sizes": []
+    },
+    "cmsmasters_lazyload_widget_preloader_height": {
+      "unit": "px",
+      "size": 520,
+      "sizes": []
+    },
+    "cmsmasters_lazyload_widget_preloader_background_background": "classic",
+    "cmsmasters_lazyload_widget_preloader_border_border": "solid",
+    "cmsmasters_lazyload_widget_preloader_border_width": {
+      "unit": "px",
+      "top": "1",
+      "right": "1",
+      "bottom": "1",
+      "left": "1",
+      "isLinked": true
+    },
+    "cmsmasters_lazyload_widget_preloader_bd_radius": {
+      "unit": "px",
+      "size": 20,
+      "sizes": []
+    },
+    "cmsmasters_lazyload_widget_preloader_icon_animation_type": "none"
+  },
+  "metadata": [],
+  "experiments": {
+    "e_font_icon_svg": {
+      "name": "e_font_icon_svg",
+      "title": "Inline Font Icons",
+      "state": "default",
+      "default": "active",
+      "release_status": "stable"
+    },
+    "additional_custom_breakpoints": {
+      "name": "additional_custom_breakpoints",
+      "title": "Additional Custom Breakpoints",
+      "state": "default",
+      "default": "active",
+      "release_status": "stable"
+    },
+    "container": {
+      "name": "container",
+      "title": "Container",
+      "state": "active",
+      "default": "active",
+      "release_status": "stable"
+    },
+    "e_optimized_markup": {
+      "name": "e_optimized_markup",
+      "title": "Optimized Markup",
+      "state": "default",
+      "default": "active",
+      "release_status": "stable"
+    },
+    "e_panel_promotions": {
+      "name": "e_panel_promotions",
+      "title": "Panel Promotions",
+      "state": "default",
+      "default": "active",
+      "release_status": "dev"
+    },
+    "e_wp_abilities_api": {
+      "name": "e_wp_abilities_api",
+      "title": "Elementor MCP WP Abilities API",
+      "state": "default",
+      "default": "inactive",
+      "release_status": "alpha"
+    },
+    "e_pro_free_trial_popup": {
+      "name": "e_pro_free_trial_popup",
+      "title": "Pro Free Trial Popup",
+      "state": "default",
+      "default": "active",
+      "release_status": "alpha"
+    },
+    "nested-elements": {
+      "name": "nested-elements",
+      "title": "Nested Elements",
+      "state": "default",
+      "default": "active",
+      "release_status": "stable"
+    },
+    "pages_panel": {
+      "name": "pages_panel",
+      "title": "Pages Panel",
+      "state": "default",
+      "default": "inactive",
+      "release_status": "alpha"
+    },
+    "e_atomic_elements": {
+      "name": "e_atomic_elements",
+      "title": "Atomic Widgets",
+      "state": "default",
+      "default": "inactive",
+      "release_status": "beta"
+    },
+    "e_classes": {
+      "name": "e_classes",
+      "title": "Global Classes",
+      "state": "default",
+      "default": "inactive",
+      "release_status": "alpha"
+    },
+    "global_classes_should_enforce_capabilities": {
+      "name": "global_classes_should_enforce_capabilities",
+      "title": "Enforce global classes capabilities",
+      "state": "default",
+      "default": "active",
+      "release_status": "dev"
+    },
+    "e_variables": {
+      "name": "e_variables",
+      "title": "Variables",
+      "state": "default",
+      "default": "active",
+      "release_status": "alpha"
+    },
+    "e_opt_in_v4_page": {
+      "name": "e_opt_in_v4_page",
+      "title": "Editor v4 (Opt In Page)",
+      "state": "default",
+      "default": "active",
+      "release_status": "alpha"
+    },
+    "e_opt_in_v4": {
+      "name": "e_opt_in_v4",
+      "title": "Editor V4",
+      "state": "default",
+      "default": "inactive",
+      "release_status": "alpha"
+    },
+    "e_components": {
+      "name": "e_components",
+      "title": "Components",
+      "state": "default",
+      "default": "active",
+      "release_status": "beta"
+    },
+    "e_interactions": {
+      "name": "e_interactions",
+      "title": "Interactions",
+      "state": "default",
+      "default": "active",
+      "release_status": "dev"
+    },
+    "e_widget_creation": {
+      "name": "e_widget_creation",
+      "title": "Widget Creation",
+      "state": "default",
+      "default": "active",
+      "release_status": "alpha"
+    },
+    "markdown_rendering": {
+      "name": "markdown_rendering",
+      "title": "Generate website markdown",
+      "state": "default",
+      "default": "inactive",
+      "release_status": "alpha"
+    },
+    "e_assets_manager": {
+      "name": "e_assets_manager",
+      "title": "Dynamic Assets Management",
+      "state": "default",
+      "default": "inactive",
+      "release_status": "dev"
+    },
+    "import-export-customization": {
+      "name": "import-export-customization",
+      "title": "Import/Export Customization",
+      "state": "default",
+      "default": "active",
+      "release_status": "beta"
+    },
+    "site-builder": {
+      "name": "site-builder",
+      "title": "Site Builder",
+      "state": "default",
+      "default": "inactive",
+      "release_status": "dev"
+    },
+    "in_editor_feedback": {
+      "name": "in_editor_feedback",
+      "title": "In-Editor Feedback",
+      "state": "default",
+      "default": "inactive",
+      "release_status": "beta"
+    },
+    "editor_events": {
+      "name": "editor_events",
+      "title": "Elementor Editor Events",
+      "state": "default",
+      "default": "active",
+      "release_status": "alpha"
+    }
+  }
+}

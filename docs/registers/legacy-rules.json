@@ -1,0 +1,3149 @@
+{
+  "schema_version": 1,
+  "baseline_id": "nalk-wordpress-2026-10-15",
+  "rules": [
+    {
+      "id": "L-rank-math-redirections-1",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "1",
+        "source_pattern": "author-page",
+        "source_url": "https://nalksolutions.com/author-page",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.413639+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/author-page",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-2",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "2",
+        "source_pattern": "cart",
+        "source_url": "https://nalksolutions.com/cart",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.414927+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/cart",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-3",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "3",
+        "source_pattern": "checkout",
+        "source_url": "https://nalksolutions.com/checkout",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.415947+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/checkout",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-4",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "4",
+        "source_pattern": "my-account",
+        "source_url": "https://nalksolutions.com/my-account",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.416980+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/my-account",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-5",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "5",
+        "source_pattern": "product-tag/sport/",
+        "source_url": "https://nalksolutions.com/product-tag/sport/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417017+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/product-tag/sport/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-6",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "6",
+        "source_pattern": "blog-page",
+        "source_url": "https://nalksolutions.com/blog-page",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/blog",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417052+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/blog-page",
+            "status": 301,
+            "target": "https://nalksolutions.com/blog"
+          },
+          {
+            "url": "https://nalksolutions.com/blog",
+            "status": 301,
+            "target": "https://nalksolutions.com/blog/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/blog/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/blog",
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-7",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "7",
+        "source_pattern": "product/cms-notebook/",
+        "source_url": "https://nalksolutions.com/product/cms-notebook/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417077+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/product/cms-notebook/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-8",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "8",
+        "source_pattern": "product-tag/cotton/",
+        "source_url": "https://nalksolutions.com/product-tag/cotton/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417087+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/product-tag/cotton/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-9",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "9",
+        "source_pattern": "product-tag/ceramics/",
+        "source_url": "https://nalksolutions.com/product-tag/ceramics/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417096+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/product-tag/ceramics/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-10",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "10",
+        "source_pattern": "product-tag/sale/",
+        "source_url": "https://nalksolutions.com/product-tag/sale/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417108+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/product-tag/sale/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-11",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "11",
+        "source_pattern": "product-tag/bracelet/",
+        "source_url": "https://nalksolutions.com/product-tag/bracelet/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417146+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/product-tag/bracelet/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-12",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "12",
+        "source_pattern": "product-tag/print/",
+        "source_url": "https://nalksolutions.com/product-tag/print/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417155+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/product-tag/print/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-13",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "13",
+        "source_pattern": "product-tag/drink/",
+        "source_url": "https://nalksolutions.com/product-tag/drink/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417165+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/product-tag/drink/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-14",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "14",
+        "source_pattern": "product-category/accessories/",
+        "source_url": "https://nalksolutions.com/product-category/accessories/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417173+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/product-category/accessories/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-15",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "15",
+        "source_pattern": "surgical-instruments/",
+        "source_url": "https://nalksolutions.com/surgical-instruments/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417181+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/surgical-instruments/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-16",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "16",
+        "source_pattern": "product/training-t-shirt/",
+        "source_url": "https://nalksolutions.com/product/training-t-shirt/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417189+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/product/training-t-shirt/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-17",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "17",
+        "source_pattern": "product/mug-with-cms-print/",
+        "source_url": "https://nalksolutions.com/product/mug-with-cms-print/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417197+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/product/mug-with-cms-print/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-18",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "18",
+        "source_pattern": "product-category/clothes/",
+        "source_url": "https://nalksolutions.com/product-category/clothes/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417210+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/product-category/clothes/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-19",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "19",
+        "source_pattern": "product/cms-baseball-cap/",
+        "source_url": "https://nalksolutions.com/product/cms-baseball-cap/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417218+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/product/cms-baseball-cap/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-20",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "20",
+        "source_pattern": "wp-content/themes/softy-solutions/*",
+        "source_url": "https://nalksolutions.com/wp-content/themes/softy-solutions/*",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "Asterisk in an exact-match rule; do not reinterpret as a wildcard",
+        "checked_at": "2026-10-15T12:18:55.417226+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/wp-content/themes/softy-solutions/*",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [
+          "D-08"
+        ],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-21",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "21",
+        "source_pattern": "product-tag/energy/",
+        "source_url": "https://nalksolutions.com/product-tag/energy/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417233+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/product-tag/energy/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-22",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "22",
+        "source_pattern": "product/cms-silicone-bracelet/",
+        "source_url": "https://nalksolutions.com/product/cms-silicone-bracelet/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417240+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/product/cms-silicone-bracelet/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-23",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "23",
+        "source_pattern": "product-tag/office/",
+        "source_url": "https://nalksolutions.com/product-tag/office/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417248+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/product-tag/office/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-24",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "24",
+        "source_pattern": "product-tag/silicone/",
+        "source_url": "https://nalksolutions.com/product-tag/silicone/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417255+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/product-tag/silicone/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-25",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "25",
+        "source_pattern": "cmsms_profile/sara-thompson/",
+        "source_url": "https://nalksolutions.com/cmsms_profile/sara-thompson/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417262+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/cmsms_profile/sara-thompson/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-26",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "26",
+        "source_pattern": "cmsms_profile/ryan-chen/",
+        "source_url": "https://nalksolutions.com/cmsms_profile/ryan-chen/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417269+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/cmsms_profile/ryan-chen/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-27",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "27",
+        "source_pattern": "cmsms_profile_category/back-end-engineer/",
+        "source_url": "https://nalksolutions.com/cmsms_profile_category/back-end-engineer/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417277+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/cmsms_profile_category/back-end-engineer/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-28",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "28",
+        "source_pattern": "cmsms_profile_category/front-end-developer/",
+        "source_url": "https://nalksolutions.com/cmsms_profile_category/front-end-developer/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417285+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/cmsms_profile_category/front-end-developer/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-29",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "29",
+        "source_pattern": "cmsms_profile_category/full-stack-developer/",
+        "source_url": "https://nalksolutions.com/cmsms_profile_category/full-stack-developer/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417294+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/cmsms_profile_category/full-stack-developer/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-30",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "30",
+        "source_pattern": "cmsms_profile_category/ai-solutions-architect/",
+        "source_url": "https://nalksolutions.com/cmsms_profile_category/ai-solutions-architect/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417302+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/cmsms_profile_category/ai-solutions-architect/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-31",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "31",
+        "source_pattern": "cmsms_project_category/legaltech/",
+        "source_url": "https://nalksolutions.com/cmsms_project_category/legaltech/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417312+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/cmsms_project_category/legaltech/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-32",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "32",
+        "source_pattern": "cmsms_project_category/retail/",
+        "source_url": "https://nalksolutions.com/cmsms_project_category/retail/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417319+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/cmsms_project_category/retail/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-33",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "33",
+        "source_pattern": "cmsms_project_category/healthcare/",
+        "source_url": "https://nalksolutions.com/cmsms_project_category/healthcare/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417330+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/cmsms_project_category/healthcare/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-34",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "34",
+        "source_pattern": "cmsms_project_category/workplace-tech/",
+        "source_url": "https://nalksolutions.com/cmsms_project_category/workplace-tech/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417337+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/cmsms_project_category/workplace-tech/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-35",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "35",
+        "source_pattern": "cmsms_project_category/technology/",
+        "source_url": "https://nalksolutions.com/cmsms_project_category/technology/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417345+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/cmsms_project_category/technology/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-36",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "36",
+        "source_pattern": "cmsms_project_category/logistics-tech/",
+        "source_url": "https://nalksolutions.com/cmsms_project_category/logistics-tech/",
+        "match_type": "exact",
+        "expected_status": 410,
+        "target_url": "",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417355+00:00",
+        "redirect_chain": [],
+        "actual_status": 410,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/cmsms_project_category/logistics-tech/",
+        "result": "matches status"
+      },
+      "plan": {
+        "expected_initial_status": 410,
+        "expected_target": null,
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-37",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "37",
+        "source_pattern": "choosing-the-right-tech-stack-for-your-software-project/",
+        "source_url": "https://nalksolutions.com/choosing-the-right-tech-stack-for-your-software-project/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/email-marketing-goals-and-objectives/",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417363+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/choosing-the-right-tech-stack-for-your-software-project/",
+            "status": 301,
+            "target": "https://nalksolutions.com/email-marketing-goals-and-objectives/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/email-marketing-goals-and-objectives/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/email-marketing-goals-and-objectives/",
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-38",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "38",
+        "source_pattern": "services-digital-marketing-saudi-arabia/",
+        "source_url": "https://nalksolutions.com/services-digital-marketing-saudi-arabia/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/services-digital-marketing/",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417371+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/services-digital-marketing-saudi-arabia/",
+            "status": 301,
+            "target": "https://nalksolutions.com/services-digital-marketing/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/services-digital-marketing/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/services-digital-marketing/",
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-39",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "39",
+        "source_pattern": "how-cloud-portals-are-revolutionizing-office-management/",
+        "source_url": "https://nalksolutions.com/how-cloud-portals-are-revolutionizing-office-management/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/b2c-marketing-automation-software/",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417378+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/how-cloud-portals-are-revolutionizing-office-management/",
+            "status": 301,
+            "target": "https://nalksolutions.com/b2c-marketing-automation-software/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/b2c-marketing-automation-software/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/b2c-marketing-automation-software/",
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-40",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "40",
+        "source_pattern": "the-future-of-it-solutions-automating-local-industry/",
+        "source_url": "https://nalksolutions.com/the-future-of-it-solutions-automating-local-industry/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/edm-marketing-for-saudi-businesses/",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417386+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/the-future-of-it-solutions-automating-local-industry/",
+            "status": 301,
+            "target": "https://nalksolutions.com/edm-marketing-for-saudi-businesses/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/edm-marketing-for-saudi-businesses/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/edm-marketing-for-saudi-businesses/",
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-41",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "41",
+        "source_pattern": "why-your-business-needs-a-professional-website-in-2026/",
+        "source_url": "https://nalksolutions.com/why-your-business-needs-a-professional-website-in-2026/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/content-framework-template-2026/",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417396+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/why-your-business-needs-a-professional-website-in-2026/",
+            "status": 301,
+            "target": "https://nalksolutions.com/content-framework-template-2026/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/content-framework-template-2026/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/content-framework-template-2026/",
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-42",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "42",
+        "source_pattern": "5-essential-features-for-modern-e-commerce-portals/",
+        "source_url": "https://nalksolutions.com/5-essential-features-for-modern-e-commerce-portals/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%88%d9%8a%d8%a8-%d9%84%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9/",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417406+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/5-essential-features-for-modern-e-commerce-portals/",
+            "status": 301,
+            "target": "https://nalksolutions.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%88%d9%8a%d8%a8-%d9%84%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%88%d9%8a%d8%a8-%d9%84%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%88%d9%8a%d8%a8-%d9%84%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9/",
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-43",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "43",
+        "source_pattern": "how-to-build-a-web-app-from-scratch-in-2026/",
+        "source_url": "https://nalksolutions.com/how-to-build-a-web-app-from-scratch-in-2026/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/how-to-build-a-web-app-from-scratch/",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417415+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/how-to-build-a-web-app-from-scratch-in-2026/",
+            "status": 301,
+            "target": "https://nalksolutions.com/how-to-build-a-web-app-from-scratch/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/how-to-build-a-web-app-from-scratch/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/how-to-build-a-web-app-from-scratch/",
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-rank-math-redirections-44",
+      "observed": {
+        "rule_table": "wp_rank_math_redirections",
+        "rule_id": "44",
+        "source_pattern": "ما-هو-التسويق-الرقمي؟-الدليل-الشامل-لل/",
+        "source_url": "https://nalksolutions.com/%D9%85%D8%A7-%D9%87%D9%88-%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%9F-%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84-%D9%84%D9%84/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/%d9%85%d8%a7-%d9%87%d9%88-%d8%a7%d9%84%d8%aa%d8%b3%d9%88%d9%8a%d9%82-%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%8a/",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417429+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/%D9%85%D8%A7-%D9%87%D9%88-%D8%A7%D9%84%D8%AA%D8%B3%D9%88%D9%8A%D9%82-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%9F-%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84-%D9%84%D9%84/",
+            "status": 301,
+            "target": "https://nalksolutions.com/%d9%85%d8%a7-%d9%87%d9%88-%d8%a7%d9%84%d8%aa%d8%b3%d9%88%d9%8a%d9%82-%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%8a/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/%d9%85%d8%a7-%d9%87%d9%88-%d8%a7%d9%84%d8%aa%d8%b3%d9%88%d9%8a%d9%82-%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%8a/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/%d9%85%d8%a7-%d9%87%d9%88-%d8%a7%d9%84%d8%aa%d8%b3%d9%88%d9%8a%d9%82-%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%8a/",
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-redirection-items-1",
+      "observed": {
+        "rule_table": "wp_redirection_items",
+        "rule_id": "1",
+        "source_pattern": "/contact-us/",
+        "source_url": "https://nalksolutions.com/contact-us/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/contacts/",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417437+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/contact-us/",
+            "status": 301,
+            "target": "https://nalksolutions.com/contacts/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/contacts/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/contacts/",
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-redirection-items-2",
+      "observed": {
+        "rule_table": "wp_redirection_items",
+        "rule_id": "2",
+        "source_pattern": "/digital-marketing-services/",
+        "source_url": "https://nalksolutions.com/digital-marketing-services/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/services/digital-marketing/",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417448+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/digital-marketing-services/",
+            "status": 301,
+            "target": "https://nalksolutions.com/services/digital-marketing/"
+          },
+          {
+            "url": "https://nalksolutions.com/services/digital-marketing/",
+            "status": 301,
+            "target": "https://nalksolutions.com/services-digital-marketing-saudi-arabia/"
+          },
+          {
+            "url": "https://nalksolutions.com/services-digital-marketing-saudi-arabia/",
+            "status": 301,
+            "target": "https://nalksolutions.com/services-digital-marketing/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/services-digital-marketing/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/services/digital-marketing/",
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-redirection-items-3",
+      "observed": {
+        "rule_table": "wp_redirection_items",
+        "rule_id": "3",
+        "source_pattern": "/services-custom-web-development-saudi-arabia/",
+        "source_url": "https://nalksolutions.com/services-custom-web-development-saudi-arabia/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/services-custom-website-development-saudi-arabia/",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417456+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/services-custom-web-development-saudi-arabia/",
+            "status": 301,
+            "target": "https://nalksolutions.com/services-custom-website-development-saudi-arabia/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/services-custom-website-development-saudi-arabia/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/services-custom-website-development-saudi-arabia/",
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-redirection-items-4",
+      "observed": {
+        "rule_table": "wp_redirection_items",
+        "rule_id": "4",
+        "source_pattern": "/services/ai-accelerated-digital-solutions/",
+        "source_url": "https://nalksolutions.com/services/ai-accelerated-digital-solutions/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/services-ai-automation-saudi-arabia/",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417463+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/services/ai-accelerated-digital-solutions/",
+            "status": 301,
+            "target": "https://nalksolutions.com/services-ai-automation-saudi-arabia/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/services-ai-automation-saudi-arabia/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/services-ai-automation-saudi-arabia/",
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-redirection-items-5",
+      "observed": {
+        "rule_table": "wp_redirection_items",
+        "rule_id": "5",
+        "source_pattern": "/services/cloud-architecture-devops/",
+        "source_url": "https://nalksolutions.com/services/cloud-architecture-devops/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/services-cloud-portal-development-saudi-arabia/",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417471+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/services/cloud-architecture-devops/",
+            "status": 301,
+            "target": "https://nalksolutions.com/services-cloud-portal-development-saudi-arabia/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/services-cloud-portal-development-saudi-arabia/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/services-cloud-portal-development-saudi-arabia/",
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-redirection-items-6",
+      "observed": {
+        "rule_table": "wp_redirection_items",
+        "rule_id": "6",
+        "source_pattern": "/services/custom-software-app-development/",
+        "source_url": "https://nalksolutions.com/services/custom-software-app-development/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/services-custom-software-app-development-saudi-arabia/",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417479+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/services/custom-software-app-development/",
+            "status": 301,
+            "target": "https://nalksolutions.com/services-custom-software-app-development-saudi-arabia/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/services-custom-software-app-development-saudi-arabia/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/services-custom-software-app-development-saudi-arabia/",
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-redirection-items-7",
+      "observed": {
+        "rule_table": "wp_redirection_items",
+        "rule_id": "7",
+        "source_pattern": "/services/web-development/",
+        "source_url": "https://nalksolutions.com/services/web-development/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/professional-website-development-company-in-saudi-arabia/",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417486+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/services/web-development/",
+            "status": 301,
+            "target": "https://nalksolutions.com/professional-website-development-company-in-saudi-arabia/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/professional-website-development-company-in-saudi-arabia/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/professional-website-development-company-in-saudi-arabia/",
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-redirection-items-8",
+      "observed": {
+        "rule_table": "wp_redirection_items",
+        "rule_id": "8",
+        "source_pattern": "/services/prototyping-ui-ux-design/",
+        "source_url": "https://nalksolutions.com/services/prototyping-ui-ux-design/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/services-ui-ux-design-saudi-arabia/",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417496+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/services/prototyping-ui-ux-design/",
+            "status": 301,
+            "target": "https://nalksolutions.com/services-ui-ux-design-saudi-arabia/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/services-ui-ux-design-saudi-arabia/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/services-ui-ux-design-saudi-arabia/",
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-redirection-items-9",
+      "observed": {
+        "rule_table": "wp_redirection_items",
+        "rule_id": "9",
+        "source_pattern": "/services-google-ads-saudi-arabia/",
+        "source_url": "https://nalksolutions.com/services-google-ads-saudi-arabia/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/social-media-marketing-services-in-saudi-arabia/",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417504+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/services-google-ads-saudi-arabia/",
+            "status": 301,
+            "target": "https://nalksolutions.com/social-media-marketing-services-in-saudi-arabia/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/social-media-marketing-services-in-saudi-arabia/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/social-media-marketing-services-in-saudi-arabia/",
+        "decision_ids": [
+          "D-08"
+        ],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-redirection-items-10",
+      "observed": {
+        "rule_table": "wp_redirection_items",
+        "rule_id": "10",
+        "source_pattern": "/services/smm/",
+        "source_url": "https://nalksolutions.com/services/smm/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/social-media-marketing-services-in-saudi-arabia/",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417513+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/services/smm/",
+            "status": 301,
+            "target": "https://nalksolutions.com/social-media-marketing-services-in-saudi-arabia/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/social-media-marketing-services-in-saudi-arabia/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/social-media-marketing-services-in-saudi-arabia/",
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-redirection-items-11",
+      "observed": {
+        "rule_table": "wp_redirection_items",
+        "rule_id": "11",
+        "source_pattern": "/services/digital-marketing/",
+        "source_url": "https://nalksolutions.com/services/digital-marketing/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/services-digital-marketing-saudi-arabia/",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417521+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/services/digital-marketing/",
+            "status": 301,
+            "target": "https://nalksolutions.com/services-digital-marketing-saudi-arabia/"
+          },
+          {
+            "url": "https://nalksolutions.com/services-digital-marketing-saudi-arabia/",
+            "status": 301,
+            "target": "https://nalksolutions.com/services-digital-marketing/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/services-digital-marketing/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/services-digital-marketing-saudi-arabia/",
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-redirection-items-12",
+      "observed": {
+        "rule_table": "wp_redirection_items",
+        "rule_id": "12",
+        "source_pattern": "/services/startup-growth-consulting/",
+        "source_url": "https://nalksolutions.com/services/startup-growth-consulting/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417528+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/services/startup-growth-consulting/",
+            "status": 301,
+            "target": "https://nalksolutions.com/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/",
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-redirection-items-13",
+      "observed": {
+        "rule_table": "wp_redirection_items",
+        "rule_id": "13",
+        "source_pattern": "/services/graphic-designing/",
+        "source_url": "https://nalksolutions.com/services/graphic-designing/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/services-digital-marketing-saudi-arabia/",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417536+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/services/graphic-designing/",
+            "status": 301,
+            "target": "https://nalksolutions.com/services-digital-marketing-saudi-arabia/"
+          },
+          {
+            "url": "https://nalksolutions.com/services-digital-marketing-saudi-arabia/",
+            "status": 301,
+            "target": "https://nalksolutions.com/services-digital-marketing/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/services-digital-marketing/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/services-digital-marketing-saudi-arabia/",
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-redirection-items-14",
+      "observed": {
+        "rule_table": "wp_redirection_items",
+        "rule_id": "14",
+        "source_pattern": "/arbic/",
+        "source_url": "https://nalksolutions.com/arbic/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/arabic/",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417543+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/arbic/",
+            "status": 301,
+            "target": "https://nalksolutions.com/arabic/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 410,
+        "final_url": "https://nalksolutions.com/arabic/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/arabic/",
+        "decision_ids": [
+          "D-06"
+        ],
+        "notes": [
+          "Observed 301 leads to a 410 destination. Review language intent; do not treat initial-status agreement as destination acceptance.",
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-redirection-items-15",
+      "observed": {
+        "rule_table": "wp_redirection_items",
+        "rule_id": "15",
+        "source_pattern": "/impact-of-digital-marketing-on-business-success/",
+        "source_url": "https://nalksolutions.com/impact-of-digital-marketing-on-business-success/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/digital-marketing-for-professional-services/",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417554+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/impact-of-digital-marketing-on-business-success/",
+            "status": 301,
+            "target": "https://nalksolutions.com/digital-marketing-for-professional-services/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/digital-marketing-for-professional-services/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/digital-marketing-for-professional-services/",
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-redirection-items-16",
+      "observed": {
+        "rule_table": "wp_redirection_items",
+        "rule_id": "16",
+        "source_pattern": "/overcoming-busin…th-digital-tools/",
+        "source_url": "https://nalksolutions.com/overcoming-busin%E2%80%A6th-digital-tools/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/digital-channel-strategy-secrets-2026/",
+        "pattern_warning": "Contains ellipsis or invisible formatting characters",
+        "checked_at": "2026-10-15T12:18:55.417564+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/overcoming-busin%E2%80%A6th-digital-tools/",
+            "status": 301,
+            "target": "https://nalksolutions.com/digital-channel-strategy-secrets-2026/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/digital-channel-strategy-secrets-2026/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/digital-channel-strategy-secrets-2026/",
+        "decision_ids": [
+          "D-08"
+        ],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-redirection-items-17",
+      "observed": {
+        "rule_table": "wp_redirection_items",
+        "rule_id": "17",
+        "source_pattern": "/services-google-ads-saudi-arabia-2/",
+        "source_url": "https://nalksolutions.com/services-google-ads-saudi-arabia-2/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/services-google-ads-saudi-arabia-2026/",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417579+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/services-google-ads-saudi-arabia-2/",
+            "status": 301,
+            "target": "https://nalksolutions.com/services-google-ads-saudi-arabia-2026/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/services-google-ads-saudi-arabia-2026/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/services-google-ads-saudi-arabia-2026/",
+        "decision_ids": [
+          "D-08"
+        ],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-redirection-items-18",
+      "observed": {
+        "rule_table": "wp_redirection_items",
+        "rule_id": "18",
+        "source_pattern": "/content-marketing-vs-paid-ads-which-is-better/",
+        "source_url": "https://nalksolutions.com/content-marketing-vs-paid-ads-which-is-better/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/virtual-marketing-2026-strategies/",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417597+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/content-marketing-vs-paid-ads-which-is-better/",
+            "status": 301,
+            "target": "https://nalksolutions.com/virtual-marketing-2026-strategies/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/virtual-marketing-2026-strategies/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/virtual-marketing-2026-strategies/",
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-redirection-items-19",
+      "observed": {
+        "rule_table": "wp_redirection_items",
+        "rule_id": "19",
+        "source_pattern": "/building-customer-trust-via-social-media-branding/",
+        "source_url": "https://nalksolutions.com/building-customer-trust-via-social-media-branding/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/12-types-of-digital-ads-that-drive-sales-2026/",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417610+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/building-customer-trust-via-social-media-branding/",
+            "status": 301,
+            "target": "https://nalksolutions.com/12-types-of-digital-ads-that-drive-sales-2026/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/12-types-of-digital-ads-that-drive-sales-2026/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/12-types-of-digital-ads-that-drive-sales-2026/",
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-redirection-items-20",
+      "observed": {
+        "rule_table": "wp_redirection_items",
+        "rule_id": "20",
+        "source_pattern": "/common-cybersecu…small-businesses/ ‎",
+        "source_url": "https://nalksolutions.com/common-cybersecu%E2%80%A6small-businesses/%20%E2%80%8E",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/12-types-of-digital-ads-that-drive-sales-2026/",
+        "pattern_warning": "Contains ellipsis or invisible formatting characters",
+        "checked_at": "2026-10-15T12:18:55.417625+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/common-cybersecu%E2%80%A6small-businesses/%20%E2%80%8E",
+            "status": 301,
+            "target": "https://nalksolutions.com/12-types-of-digital-ads-that-drive-sales-2026/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/12-types-of-digital-ads-that-drive-sales-2026/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/12-types-of-digital-ads-that-drive-sales-2026/",
+        "decision_ids": [
+          "D-08"
+        ],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-redirection-items-21",
+      "observed": {
+        "rule_table": "wp_redirection_items",
+        "rule_id": "21",
+        "source_pattern": "/cloud-based-applications-as-the-new-normal/",
+        "source_url": "https://nalksolutions.com/cloud-based-applications-as-the-new-normal/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/services-cloud-portal-development-saudi-arabia/",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417639+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/cloud-based-applications-as-the-new-normal/",
+            "status": 301,
+            "target": "https://nalksolutions.com/services-cloud-portal-development-saudi-arabia/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/services-cloud-portal-development-saudi-arabia/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/services-cloud-portal-development-saudi-arabia/",
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-redirection-items-22",
+      "observed": {
+        "rule_table": "wp_redirection_items",
+        "rule_id": "22",
+        "source_pattern": "/how-mobile-apps-improve-customer-loyalty-and-brand-trust/",
+        "source_url": "https://nalksolutions.com/how-mobile-apps-improve-customer-loyalty-and-brand-trust/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/services-custom-software-app-development-saudi-arabia/",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417647+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/how-mobile-apps-improve-customer-loyalty-and-brand-trust/",
+            "status": 301,
+            "target": "https://nalksolutions.com/services-custom-software-app-development-saudi-arabia/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/services-custom-software-app-development-saudi-arabia/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/services-custom-software-app-development-saudi-arabia/",
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    },
+    {
+      "id": "L-redirection-items-23",
+      "observed": {
+        "rule_table": "wp_redirection_items",
+        "rule_id": "23",
+        "source_pattern": "/what-is-digital-marketing-a-complete-guide-for-beginners-businesses/",
+        "source_url": "https://nalksolutions.com/what-is-digital-marketing-a-complete-guide-for-beginners-businesses/",
+        "match_type": "exact",
+        "expected_status": 301,
+        "target_url": "https://nalksolutions.com/digital-marketing-for-professional-services/",
+        "pattern_warning": "",
+        "checked_at": "2026-10-15T12:18:55.417657+00:00",
+        "redirect_chain": [
+          {
+            "url": "https://nalksolutions.com/what-is-digital-marketing-a-complete-guide-for-beginners-businesses/",
+            "status": 301,
+            "target": "https://nalksolutions.com/digital-marketing-for-professional-services/"
+          }
+        ],
+        "actual_status": 301,
+        "final_status": 200,
+        "final_url": "https://nalksolutions.com/digital-marketing-for-professional-services/",
+        "result": "matches status",
+        "first_target_matches": true
+      },
+      "plan": {
+        "expected_initial_status": 301,
+        "expected_target": "https://nalksolutions.com/digital-marketing-for-professional-services/",
+        "decision_ids": [],
+        "notes": [
+          "Chunk 1: exact local GET/HEAD first-response proof passed; final destination/body/platform acceptance remains open."
+        ]
+      },
+      "implementation": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      },
+      "verification": {
+        "status": "in_progress",
+        "evidence": [
+          "../../tmp/chunk1/2026-10-16T20-39-03-837Z/manifest.json",
+          "../../tests/http/routes.spec.ts"
+        ],
+        "reviewer": null
+      }
+    }
+  ]
+}

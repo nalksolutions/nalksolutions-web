@@ -1,0 +1,3343 @@
+{
+  "id": "R-e8871af3f8742876",
+  "path": "/how-to-build-a-web-app-from-scratch/",
+  "locale": "en",
+  "family": "article",
+  "nodes": [
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Building a web app from scratch involves defining your idea, choosing the right tools or no-code platform, designing the UI, developing the front end and back end, testing, and deploying. Beginners can use no-code platforms like WeWeb to build production-ready web apps without writing a single line of code. More technical users can build with Python, JavaScript, or AI-assisted tools like Claude. The process takes anywhere from a few hours (with no-code) to several weeks (with traditional coding), depending on complexity."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Most guides on how to build a web app assume you already know how to code. This one does not."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "The goal here is simple: give you a clear, actionable roadmap from idea to deployed product—regardless of your technical background. Whether you want to build a web app from scratch with no experience, use AI to accelerate development, or write your own code in Python or JavaScript, this guide covers every path."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "The timing matters. By 2025, an estimated 70% of new applications are projected to be built using low-code or no-code tools—a massive jump from under 25% in 2020. The barrier to building real, production-grade software has never been lower."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "By the end of this guide, you’ll understand what kind of web app builder suits your goals, how to move through each stage of development, and which tools—from WeWeb to Claude to Python frameworks—fit each step of the process."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "What Is a Web App, and How Is It Different from a Website?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "img",
+          "attributes": {
+            "src": "/wp-content/uploads/2026/07/how-to-build-a-web-app-step-by-step.webp.png",
+            "alt": "How to build a web app step by step infographic showing idea validation, planning, UI design, frontend, backend, testing, deployment, and maintenance.",
+            "width": "1254",
+            "height": "1254",
+            "srcset": "/wp-content/uploads/2026/07/how-to-build-a-web-app-step-by-step.webp.png 1254w, /wp-content/uploads/2026/07/how-to-build-a-web-app-step-by-step.webp-300x300.png 300w, /wp-content/uploads/2026/07/how-to-build-a-web-app-step-by-step.webp-1024x1024.png 1024w, /wp-content/uploads/2026/07/how-to-build-a-web-app-step-by-step.webp-150x150.png 150w, /wp-content/uploads/2026/07/how-to-build-a-web-app-step-by-step.webp-768x768.png 768w, /wp-content/uploads/2026/07/how-to-build-a-web-app-step-by-step.webp-12x12.png 12w, /wp-content/uploads/2026/07/how-to-build-a-web-app-step-by-step.webp-260x260.png 260w",
+            "sizes": "(max-width: 1254px) 100vw, 1254px"
+          },
+          "variant": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "A web app is software that runs in a browser. It responds to user input, processes data dynamically, and typically connects to a backend system. A traditional website, like a blog or portfolio, serves static content. A web app, like a project management tool, customer portal, or SaaS dashboard, is built around interaction and real-time data."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Web apps exist on a spectrum:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "ul",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Static web apps:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Fast and simple, with fixed content and minimal interactivity."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Dynamic web apps:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Content changes based on user behavior or database queries."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Single-page applications (SPAs):"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Load once and update content dynamically without full page reloads. React and Vue.js are common frameworks for building SPAs."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Progressive Web Apps (PWAs):"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " A step further—these work offline, can be installed on a device like a native app, and support push notifications."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "PWAs are worth understanding specifically if you’re targeting mobile users. AliExpress rebuilt its web experience as a PWA and saw new user conversion rates increase by 104%. For developers and no-code builders alike, the PWA format is increasingly worth targeting."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "If you’re asking how to build a web application from scratch with no experience, know this: the format you choose shapes the tools you’ll use. Most beginners are best served starting with a dynamic web app before thinking about SPAs or PWAs."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "What Kind of Web App Builder Do You Actually Need?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "The right starting point depends entirely on what you’re building. Three categories of builder exist, and they are not interchangeable."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "table",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "thead",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "th",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Builder Type"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "th",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Best For"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "th",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Key Limitation"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "th",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Example Tools"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "tbody",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Website builder"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Portfolios, blogs, landing pages"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "No support for real user logic or dynamic data"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Squarespace, Wix"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Internal tool builder"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Admin panels, dashboards, CRUD tools"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Not designed for customer-facing products"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Retool"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tr",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Web application builder"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "SaaS products, portals, marketplaces, enterprise apps"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Requires more setup than a website builder"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "td",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "WeWeb"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Website builders like Squarespace and Wix are excellent for content sites. They’re not suitable for interactive apps with user accounts, complex data flows, or custom business logic."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Internal tool builders like Retool solve a different problem. They’re fast for building internal dashboards, but the output isn’t designed for polished, customer-facing experiences."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "WeWeb sits in the third category: a visual web application builder purpose-built for SaaS products, customer portals, and enterprise-grade applications. It supports data connections, authentication, custom logic, and scalable backends—all without requiring you to write code. For developers who want more control, WeWeb generates clean, exportable code in the background, so you’re never locked into a proprietary system."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "What Features Should You Look for Before Committing to a Platform?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Before choosing a platform or tech stack, evaluate it against this checklist:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "ul",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Visual editor and drag-and-drop design: You should be able to build and iterate on your UI visually."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Pre-built templates and reusable components: Starting from scratch every time is inefficient."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "API and third-party integrations: Payment gateways, CRMs, and databases need to connect seamlessly."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "User authentication and role-based permissions: Any app with user accounts requires a secure, reliable login system."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "HTTPS configuration and built-in security: Over 88% of websites now use HTTPS by default—your app should too, from day one."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "One-click deployment and hosting: Deployment should not require a DevOps background."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Scalability and backend flexibility: Your platform should grow with your user base."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Vendor lock-in policy: Can you export your code or self-host if you need to move?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Callout: If you ever want to move platforms, make sure you own your data and code from day one. Not all builders make this easy—check the terms before you build."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "img",
+          "attributes": {
+            "src": "/wp-content/uploads/2026/07/best-way-to-build-a-web-app-comparison.webp.png",
+            "alt": "How to build a web app step by step infographic showing idea validation, planning, UI design, frontend, backend, testing, deployment, and maintenance.",
+            "width": "1254",
+            "height": "1254",
+            "srcset": "/wp-content/uploads/2026/07/best-way-to-build-a-web-app-comparison.webp.png 1254w, /wp-content/uploads/2026/07/best-way-to-build-a-web-app-comparison.webp-300x300.png 300w, /wp-content/uploads/2026/07/best-way-to-build-a-web-app-comparison.webp-1024x1024.png 1024w, /wp-content/uploads/2026/07/best-way-to-build-a-web-app-comparison.webp-150x150.png 150w, /wp-content/uploads/2026/07/best-way-to-build-a-web-app-comparison.webp-768x768.png 768w, /wp-content/uploads/2026/07/best-way-to-build-a-web-app-comparison.webp-12x12.png 12w, /wp-content/uploads/2026/07/best-way-to-build-a-web-app-comparison.webp-260x260.png 260w",
+            "sizes": "(max-width: 1254px) 100vw, 1254px"
+          },
+          "variant": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "How to Build a Web App from Scratch: Step-by-Step"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Step 1: Define Your Idea and Validate It"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Start with the problem, not the feature list. Who is this app for? What does it replace—a spreadsheet, a manual process, a competitor product? Define the minimum viable product (MVP): the smallest set of features that still delivers real value."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Before writing a line of code or dragging a single component, validate the idea. Talk to potential users. Run a competitor analysis. Build a simple landing page that describes the product and measure interest before investing weeks in development."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Step 2: Plan Your App Architecture"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Map out your main screens, user flows, and data requirements. Sketch what users see when they first land, what actions they can take, and what data each action creates or retrieves."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Then decide on your approach: no-code, low-code, or traditional code. Each has trade-offs:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "ul",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "No-code is fastest for MVPs and non-technical founders."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Low-code suits teams with some scripting knowledge who need more control."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Traditional code offers maximum flexibility but takes longer."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "If you’re based in the region and exploring custom-built solutions, "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "NALK Solutions"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " offers tailored digital services for businesses at this exact stage of planning."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Identify your backend needs early: a database, user authentication, API integrations, and file storage are the most common requirements. Also consider using separate development and production environments—this keeps your live app stable while you continue to build and test."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Step 3: Design the User Interface"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Wireframe your main screens using a tool like Figma or Sketch before touching your builder. At this stage, structure and user flow matter more than aesthetics. Get the logic right, then make it beautiful."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "For those using no-code platforms like WeWeb, the design and development stages overlap naturally in the visual editor—you design and configure logic in the same workspace. For developers who prefer writing their own markup, this is where knowledge of how to create a web application using HTML and CSS becomes relevant. HTML defines the structure; CSS handles the visual presentation."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Step 4: Build the Front End"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "The front end is everything a user sees and interacts with in the browser."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "For no-code users: Use WeWeb’s visual editor to drag and drop components, connect data sources, and configure dynamic pages. Collections, bindings, and conditional visibility replace manual JavaScript logic."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "For coders: HTML provides structure, CSS handles styling, and JavaScript adds interactivity. Popular frameworks that handle how to make a web app with JavaScript include:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "ul",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "React:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Component-based, widely adopted, excellent ecosystem."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Vue.js:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Approachable syntax, great for smaller teams."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Angular:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Opinionated and enterprise-friendly."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "WeWeb’s visual builder generates clean code in the background, so developers can inspect, export, or extend it without being trapped in a proprietary format."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Step 5: Build the Back End"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "The backend is the engine underneath your app. It stores data, handles business logic, and responds to requests from the front end. Three paths exist here:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "ul",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "No-code backend:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Tools like Xano and Supabase connect directly to WeWeb and let you build databases, define logic, and configure APIs without writing server-side code."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Python backend:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " For readers researching how to create a web app with Python, Flask and Django are the most common choices. Flask is lightweight and flexible; Django comes with more built-in structure, including an ORM and admin interface. Python is especially well-suited to data-heavy or AI-powered applications."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "AI-assisted backend:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Tools like Claude or Cursor allow developers to generate backend logic, API handlers, and database schemas quickly. If you know what you want to build but want to move faster, describing your requirements to an AI coding assistant and refining the output is now a legitimate and efficient workflow. More on this in the AI section below."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "For businesses that need a fully managed "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/services-custom-software-app-development-saudi-arabia/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "custom software and app development solution in Saudi Arabia"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", working with a specialist agency can accelerate this backend stage significantly—particularly for complex integrations or compliance-sensitive industries."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "APIs—application programming interfaces—serve as the bridge between your front end and back end. Whenever your app fetches data, submits a form, or triggers a workflow, it’s making an API call."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Step 6: Add Authentication and User Permissions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Authentication is non-negotiable for any app with user accounts. At minimum, you need secure sign-up, login, password recovery, and session management."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Most no-code platforms, including WeWeb, have authentication built in. WeWeb supports third-party auth providers like Auth0 and Supabase Auth, both of which handle security best practices so you don’t have to implement them from scratch."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "For developers building with Node.js, Passport.js is a standard choice. For Python apps, Django includes a built-in authentication system that covers most common use cases out of the box."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Role-based permissions—controlling what different user types can see and do—should be planned in step two and implemented here."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Step 7: Connect Your Integrations"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Few apps exist in isolation. Common integrations include:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "ul",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Payments: Stripe"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Email: SendGrid or Postmark"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "CRM: HubSpot or Salesforce"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Analytics: Google Analytics or Mixpanel"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "For services without a native connector, REST APIs allow you to make custom API calls. WeWeb includes a native integrations library that speeds this step up significantly for common use cases."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "img",
+          "attributes": {
+            "src": "/wp-content/uploads/2026/07/what-you-need-to-build-a-web-app.webp.png",
+            "alt": "What do you need to build a web app? Checklist infographic showing frontend, backend, database, authentication, APIs, hosting, and testing.",
+            "width": "1254",
+            "height": "1254",
+            "srcset": "/wp-content/uploads/2026/07/what-you-need-to-build-a-web-app.webp.png 1254w, /wp-content/uploads/2026/07/what-you-need-to-build-a-web-app.webp-300x300.png 300w, /wp-content/uploads/2026/07/what-you-need-to-build-a-web-app.webp-1024x1024.png 1024w, /wp-content/uploads/2026/07/what-you-need-to-build-a-web-app.webp-150x150.png 150w, /wp-content/uploads/2026/07/what-you-need-to-build-a-web-app.webp-768x768.png 768w, /wp-content/uploads/2026/07/what-you-need-to-build-a-web-app.webp-12x12.png 12w, /wp-content/uploads/2026/07/what-you-need-to-build-a-web-app.webp-260x260.png 260w",
+            "sizes": "(max-width: 1254px) 100vw, 1254px"
+          },
+          "variant": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Step 8: Test Your Web App"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Testing is where most first-time builders cut corners—and where most post-launch problems originate."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Run four types of tests before going live:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "ul",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Functional:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Does every feature work as intended?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Usability:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Can a new user complete core tasks without guidance?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Performance:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Does the app load quickly across connection speeds?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Security:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Are permissions enforced correctly? Can users access data they shouldn’t?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "For code-based apps, Jest (unit testing) and Selenium (end-to-end testing) are widely used tools. For no-code apps, test every user flow manually. Check for broken data connections, permission errors, and display issues across screen sizes and devices."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Set up logging from the start. Application logs are your diagnostic record—critical for identifying issues post-launch. Compliance standards like PCI DSS mandate detailed logs for apps handling sensitive financial data."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Step 9: Deploy Your Web App"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Deployment means packaging your app and making it accessible on a live server."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Hosting options include:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "ul",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Vercel:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Fast, developer-friendly, excellent for front-end frameworks."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "AWS:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Flexible and scalable, but requires more configuration."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Heroku:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Simpler setup, good for early-stage products."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "WeWeb’s built-in hosting:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " One-click publish with HTTPS configured automatically."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "At launch, confirm your custom domain is connected, HTTPS is active, and performance monitoring is in place. For users exploring how to create a web app in Chrome for testing purposes, Chrome DevTools provides network inspection, performance profiling, and JavaScript debugging without any additional setup."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "For advanced users who want maximum control, self-hosting is an option. WeWeb supports this via Docker, allowing you to deploy to your own infrastructure and avoid platform dependency entirely."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Step 10: Launch, Maintain, and Iterate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Launching is not the finish line—it’s the starting line for learning."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Post-launch priorities include monitoring performance, collecting user feedback, shipping bug fixes, and planning the next feature cycle. Tools like Hotjar and PostHog help you understand where users drop off and what they actually use."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Security patches and dependency updates require ongoing attention. An app you stop maintaining becomes a liability. Schedule regular reviews—monthly at minimum—even when nothing appears broken."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "How to Build a Web App with AI in 2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "AI-assisted development is now one of the fastest-growing topics in web application development. Two distinct approaches are worth understanding."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Approach 1: AI-First (Prompt-to-App)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Platforms like WeWeb have integrated AI generation that lets you describe your app in plain language and receive a working prototype in minutes. You outline the app’s purpose, main screens, and data structure, and the AI generates a visual starting point you can immediately edit."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "This approach suits non-technical founders who need to move quickly from concept to testable product. The key advantage over purely generative tools is that WeWeb’s AI output lives in a no-code editor—so every element remains editable without re-prompting from scratch."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Approach 2: AI-Assisted Coding"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "For developers, tools like GitHub Copilot, Cursor, and Claude have changed how fast it’s possible to write and debug code. Specifically, here’s how to build a web app with Claude: describe your backend logic requirements, API structure, or component specifications in a prompt, and Claude generates functional code that you then integrate into your chosen framework. This works particularly well for boilerplate-heavy tasks—authentication flows, database schema design, and API handler templates."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "The limitation of pure AI generation is maintainability. Prompt-generated code without a structured editor can become difficult to manage as your app grows. The most effective workflow combines AI for speed with a visual editor or version-controlled codebase for long-term clarity."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Real Examples of Web Apps Built with No Code"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "No-code is not just for simple apps or MVPs. The WeWeb showcase includes production-grade products built for complex, real-world use cases."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "ul",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Soraia replaced Excel-heavy recruitment workflows with a custom platform built using WeWeb and Xano—giving their team a purpose-built tool without a development team."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Appy Makers replaced a pathology lab’s manual archiving system with a mission-critical application. The stakes were high; the no-code approach delivered."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "PwC used WeWeb to build secure, compliant internal applications faster than traditional development cycles allowed."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Shunpo built a high-performance live quiz app for TF1—a major French broadcaster—using WeWeb and Supabase, handling real-time data and large simultaneous user loads."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Each example follows the same pattern: a real problem, a combination of WeWeb with a scalable backend, and a production-ready result."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Frequently Asked Questions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Do I need coding skills to build a web app?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "No. With a no-code platform like WeWeb, you can build a fully functional, production-ready web app without writing any code. Some low-code platforms benefit from basic scripting knowledge for advanced custom logic, but coding is not a prerequisite for getting started or shipping a working product."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "How long does it take to build a web app from scratch?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "With no-code tools, a basic app can be live in a matter of days. A more complex SaaS product with custom logic, multiple user roles, and third-party integrations may take several weeks to months. The timeline depends on the number of features in your MVP, not the tool you use."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "How do I build a web app with no experience?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Start with a visual no-code platform like WeWeb. Define a simple MVP—one core problem, the minimum features needed to solve it. Use built-in templates to reduce setup time, and connect a no-code backend like Xano or Supabase for your database and logic. Ship early, iterate based on feedback."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "What is the difference between a web app and a PWA?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "All PWAs are web apps, but not all web apps are PWAs. A Progressive Web App adds three capabilities on top of a standard web app: offline functionality, device installability, and push notifications. Building a PWA requires additional configuration, including a service worker and a web app manifest file."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "What happens if I outgrow my no-code platform?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Choose a platform that supports code export or self-hosting from the start. WeWeb provides full application ownership and a Docker-based self-hosting option, so you can migrate to your own infrastructure as your scale or compliance requirements change—without losing what you’ve built."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Can a no-code web app scale to large user numbers?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Yes, provided the platform connects to a scalable backend. WeWeb is backend-agnostic, meaning you can connect it to any cloud database, API, or infrastructure provider. The front-end builder does not create a performance ceiling—your backend determines how many users your app can support."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Start Building Your Web App Today"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "The path from idea to working web app is more accessible than it has ever been. Whether you prefer to code in Python with Django, build visually with WeWeb, or generate a prototype with Claude and refine it from there, the tools exist to match your skill level and your timeline."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "The key decision is matching your tool to your goal. Static content sites belong in website builders. Serious interactive products—SaaS platforms, customer portals, internal tools, marketplaces—belong in a web application builder like WeWeb."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Start building for free on WeWeb and take your idea from concept to deployed product without needing a development background. For further reading, explore WeWeb’s blog posts on no-code automation and visual AI development to see what’s possible beyond the MVP stage."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "The first version doesn’t need to be perfect. It needs to exist."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    }
+  ],
+  "article": {
+    "excerpt": "Building a web app from scratch involves defining your idea, choosing the right tools or no-code platform, designing the UI, developing the front end and back end, testing, and deploying. Beginners can use no-code platforms like WeWeb to build production-ready web apps without writing a single line of code. More technical users can build with …",
+    "dateLabel": "July 5, 2026",
+    "category": {
+      "label": "Custom Software & Apps",
+      "href": "/category/custom-software-apps/"
+    },
+    "additionalCategories": [],
+    "featured": {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/07/blog-image-web-app-from-scratch-scaled.png",
+      "alt": "blog image - web app from scratch.png",
+      "width": 2560,
+      "height": 1706,
+      "variants": [
+        {
+          "src": "/wp-content/uploads/2026/07/blog-image-web-app-from-scratch-scaled.png",
+          "width": 2560
+        },
+        {
+          "src": "/wp-content/uploads/2026/07/blog-image-web-app-from-scratch-300x200.png",
+          "width": 300
+        },
+        {
+          "src": "/wp-content/uploads/2026/07/blog-image-web-app-from-scratch-1024x683.png",
+          "width": 1024
+        },
+        {
+          "src": "/wp-content/uploads/2026/07/blog-image-web-app-from-scratch-768x512.png",
+          "width": 768
+        },
+        {
+          "src": "/wp-content/uploads/2026/07/blog-image-web-app-from-scratch-1536x1024.png",
+          "width": 1536
+        },
+        {
+          "src": "/wp-content/uploads/2026/07/blog-image-web-app-from-scratch-2048x1365.png",
+          "width": 2048
+        },
+        {
+          "src": "/wp-content/uploads/2026/07/blog-image-web-app-from-scratch-18x12.png",
+          "width": 18
+        },
+        {
+          "src": "/wp-content/uploads/2026/07/blog-image-web-app-from-scratch-450x300.png",
+          "width": 450
+        }
+      ],
+      "sizes": "(max-width: 2560px) 100vw, 2560px"
+    },
+    "adjacent": [
+      {
+        "label": "Previous Post",
+        "title": "How to Choose a Web Design Company in 2026 (7 Checks That Prevent Costly Mistakes)",
+        "href": "/how-to-choose-a-web-design-company-in-2026/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/07/nalk-blog-image-1-150x150.png",
+          "alt": "How to Choose a Web Design Company",
+          "width": 150,
+          "height": 150,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/07/nalk-blog-image-1-150x150.png",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/nalk-blog-image-1-260x260.png",
+              "width": 260
+            }
+          ],
+          "sizes": "(max-width: 150px) 100vw, 150px"
+        }
+      },
+      {
+        "label": "Next Post",
+        "title": "How to Build an API from Scratch: A Step-by-Step Guide",
+        "href": "/how-to-build-an-api-from-scratch-a-step-by-step-guide/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/07/blog-image-API-6-150x150.png",
+          "alt": "",
+          "width": 150,
+          "height": 150,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/07/blog-image-API-6-150x150.png",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/blog-image-API-6-260x260.png",
+              "width": 260
+            }
+          ],
+          "sizes": "(max-width: 150px) 100vw, 150px"
+        }
+      }
+    ],
+    "related": [
+      {
+        "title": "Social Media Marketing Cost in Saudi Arabia (2026 Guide)",
+        "href": "/social-media-marketing-cost-in-saudi-arabia/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2025/10/71-posts-placeholder-300x300.webp",
+          "alt": "",
+          "width": 300,
+          "height": 300,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-300x300.webp",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-100x100.webp",
+              "width": 100
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-600x600.webp",
+              "width": 600
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-150x150.webp",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-260x260.webp",
+              "width": 260
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder.webp",
+              "width": 768
+            }
+          ],
+          "sizes": "(max-width: 300px) 100vw, 300px"
+        },
+        "category": {
+          "label": "Digital Marketing Strategy & Fundamentals",
+          "href": "/category/digital-marketing-strategy/"
+        },
+        "dateLabel": "September 21, 2026",
+        "actionLabel": "Read More"
+      },
+      {
+        "title": "كيف يساعد الذكاء الاصطناعي الشركات في السعودية 2026 | نالك سوليوشنز",
+        "href": "/how-ai-helps-companies-in-saudi-arabia/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-300x200.jpeg",
+          "alt": "كيف يساعد الذكاء الاصطناعي الشركات في السعودية 2026 | نالك سوليوشنز",
+          "width": 300,
+          "height": 200,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-300x200.jpeg",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-1024x683.jpeg",
+              "width": 1024
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-768x512.jpeg",
+              "width": 768
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-18x12.jpeg",
+              "width": 18
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-450x300.jpeg",
+              "width": 450
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg.jpeg",
+              "width": 1536
+            }
+          ],
+          "sizes": "(max-width: 300px) 100vw, 300px"
+        },
+        "category": {
+          "label": "Custom Software & Apps",
+          "href": "/category/custom-software-apps/"
+        },
+        "dateLabel": "September 2, 2026",
+        "actionLabel": "Read More"
+      },
+      {
+        "title": "التسويق عبر سناب شات وتيك توك للشركات السعودية: الدليل الكامل 2026",
+        "href": "/snapchat-tiktok-marketing-saudi-businesses/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/08/blog-two-300x200.png",
+          "alt": "التسويق عبر سناب شات وتيك توك للشركات السعودية: الدليل الكامل 2026",
+          "width": 300,
+          "height": 200,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-300x200.png",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-1024x683.png",
+              "width": 1024
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-768x512.png",
+              "width": 768
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-18x12.png",
+              "width": 18
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-450x300.png",
+              "width": 450
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two.png",
+              "width": 1536
+            }
+          ],
+          "sizes": "(max-width: 300px) 100vw, 300px"
+        },
+        "category": {
+          "label": "Digital Marketing Strategy & Fundamentals",
+          "href": "/category/digital-marketing-strategy/"
+        },
+        "dateLabel": "August 26, 2026",
+        "actionLabel": "Read More"
+      }
+    ],
+    "footer": {
+      "owner": "NALK SOLUTIONS pvt Ltd",
+      "notice": "© 2026 - All Rights Reserved"
+    }
+  }
+}

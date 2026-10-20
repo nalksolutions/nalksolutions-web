@@ -1,0 +1,210 @@
+{
+  "entityId": "R-d2577f7bd6af225b",
+  "path": "/ar/category/custom-software-apps/",
+  "publication": {
+    "ready": true,
+    "acceptance": "ownerManaged"
+  },
+  "listing": {
+    "family": "category",
+    "basePath": "/category/custom-software-apps/",
+    "number": 1
+  },
+  "review": {
+    "status": "inReview",
+    "reviewer": null,
+    "approvedAt": null,
+    "translationRevision": "generated-listings-1",
+    "sourceInputs": [
+      {
+        "path": "src/content/site/pages.generated.json",
+        "sha256": "7cd8249a8f5b73200fb4c39193dc5469fa0cc595cc493904a611272606512429"
+      },
+      {
+        "path": "src/content/site/documents/R-d2577f7bd6af225b.json",
+        "sha256": "a9607d02e632b104a5bc54709cdcec43782011507c3b4b4b04200a7de24d4809"
+      },
+      {
+        "path": "src/content/localization/listing-index.json",
+        "sha256": "9566dd2c16042f2dca2ed29001b2330e0a0aa8322ec23f272d18ea91ab4e8c05"
+      }
+    ]
+  },
+  "seo": {
+    "title": "البرمجيات وتطبيقات الجوال | نالك سوليوشنز",
+    "description": "تصفّح مقالات نالك سوليوشنز بالعربية في التقنية وتطوير الأعمال والتسويق الرقمي."
+  },
+  "heading": "البرمجيات وتطبيقات الجوال",
+  "blocks": {},
+  "imageAlts": {},
+  "issues": [],
+  "document": {
+    "nodes": [
+      {
+        "type": "text",
+        "text": ""
+      }
+    ]
+  },
+  "sourceSnapshot": {
+    "id": "R-d2577f7bd6af225b",
+    "sourceRouteId": "R-d2577f7bd6af225b",
+    "path": "/category/custom-software-apps/",
+    "kind": "archive",
+    "locale": "en",
+    "status": "published",
+    "seo": {
+      "title": "Custom Software & Apps Archives - Nalk Solutions",
+      "description": null,
+      "canonical": null,
+      "robots": "follow, noindex",
+      "googlebot": null,
+      "social": [
+        {
+          "property": "og:locale",
+          "content": "en_US"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Custom Software & Apps Archives - Nalk Solutions"
+        },
+        {
+          "property": "og:url",
+          "content": "https://nalksolutions.com/category/custom-software-apps/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Nalk Solutions"
+        },
+        {
+          "property": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "property": "twitter:title",
+          "content": "Custom Software & Apps Archives - Nalk Solutions"
+        },
+        {
+          "property": "twitter:label1",
+          "content": "Posts"
+        },
+        {
+          "property": "twitter:data1",
+          "content": "8"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Place",
+              "@id": "https://nalksolutions.com/#place",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              }
+            },
+            {
+              "@type": "ProfessionalService",
+              "@id": "https://nalksolutions.com/#organization",
+              "name": "Nalk Solutions",
+              "url": "https://nalksolutions.com",
+              "email": "info@nalksolutions.com",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              },
+              "logo": {
+                "@type": "ImageObject",
+                "@id": "https://nalksolutions.com/#logo",
+                "url": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "contentUrl": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "caption": "Nalk Solutions",
+                "inLanguage": "en-US",
+                "width": "1563",
+                "height": "1563"
+              },
+              "openingHours": ["Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"],
+              "description": "Nalk provides Nalk Solutions is a technology company in Saudi Arabia; delivering digital marketing, web development, app development &amp; IT solutions across Riyadh, Jeddah and all major cities across the kingdom.",
+              "legalName": "uhj1984@yahoo.com",
+              "location": {
+                "@id": "https://nalksolutions.com/#place"
+              },
+              "image": {
+                "@id": "https://nalksolutions.com/#logo"
+              },
+              "telephone": "+966506000843"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://nalksolutions.com/#website",
+              "url": "https://nalksolutions.com",
+              "name": "Nalk Solutions",
+              "publisher": {
+                "@id": "https://nalksolutions.com/#organization"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://nalksolutions.com/category/custom-software-apps/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": "1",
+                  "item": {
+                    "@id": "https://nalksolutions.com",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "position": "2",
+                  "item": {
+                    "@id": "https://nalksolutions.com/category/custom-software-apps/",
+                    "name": "Custom Software &amp; Apps"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "CollectionPage",
+              "@id": "https://nalksolutions.com/category/custom-software-apps/#webpage",
+              "url": "https://nalksolutions.com/category/custom-software-apps/",
+              "name": "Custom Software &amp; Apps Archives - Nalk Solutions",
+              "isPartOf": {
+                "@id": "https://nalksolutions.com/#website"
+              },
+              "inLanguage": "en-US",
+              "breadcrumb": {
+                "@id": "https://nalksolutions.com/category/custom-software-apps/#breadcrumb"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "content": {
+      "heading": "Category: Custom Software & Apps",
+      "paragraphs": ["Category: Custom Software & Apps"],
+      "documentId": "R-d2577f7bd6af225b"
+    },
+    "provenance": {
+      "sourceHtml": "nalk-public-archive/html/source/category-custom-software-apps-d2577f7bd6af225b.html",
+      "sourceSha256": "73d49102d2be749cb6d03c3e3ba571ff37320e3c42e49616ffa35380d7b2f565",
+      "pageRecord": "nalk-public-archive/pages/category-custom-software-apps-d2577f7bd6af225b.json",
+      "pageRecordSha256": "e9bdd3ff0daa245d91b3af83f82efdb4815b93779fcd3a07aca4cec5729a4ccb",
+      "excerpt": false,
+      "headingFallback": false
+    }
+  }
+}

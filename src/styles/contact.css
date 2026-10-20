@@ -1,0 +1,174 @@
+.contact-journey {
+  padding-bottom: 48px;
+}
+.contact-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr);
+  align-items: center;
+  gap: 64px;
+  padding-top: 220px;
+}
+.company-site .contact-hero h1 {
+  font-size: clamp(44px, 5.5vw, 76px);
+  line-height: 1.05;
+  letter-spacing: -2px;
+  margin: 28px 0;
+  max-width: 10ch;
+}
+.contact-hero .contact-lead {
+  font-size: 20px;
+  max-width: 48ch;
+  line-height: 1.7;
+}
+.company-site .contact-hero .contact-reassurance {
+  margin-top: 24px;
+  font-size: 15px;
+  color: #bbb9c3;
+  max-width: 45ch;
+}
+.contact-brief,
+.contact-method,
+.contact-office {
+  border-radius: 24px;
+  overflow: hidden;
+}
+.contact-hero-media {
+  overflow: hidden;
+}
+.company-site .contact-hero-media img {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+.company-site .contact-office-media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.contact-brief-copy {
+  padding: 28px 32px;
+}
+.company-site .contact-brief h2 {
+  font-size: 28px;
+  letter-spacing: -0.7px;
+  margin-bottom: 24px;
+}
+.contact-brief ol {
+  list-style: decimal-leading-zero;
+  padding-inline-start: 28px;
+}
+.contact-brief li {
+  padding-inline-start: 8px;
+  margin-bottom: 22px;
+}
+.contact-brief li::marker {
+  color: #fffbbd;
+}
+.company-site .contact-brief h3 {
+  font-size: 18px;
+  letter-spacing: 0;
+  margin-bottom: 6px;
+}
+.company-site .contact-brief p {
+  margin: 0;
+  font-size: 15px;
+}
+.contact-section-heading {
+  margin-bottom: 32px;
+  max-width: 850px;
+}
+.contact-section-heading > .section-label {
+  margin-bottom: 24px;
+}
+.contact-methods {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 24px;
+}
+.contact-methods .contact-method {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  padding: 32px;
+  color: white;
+  text-decoration: none;
+}
+.contact-method > span:first-child {
+  color: #fffbbd;
+  font-size: 15px;
+}
+.contact-method strong {
+  font: 500 clamp(18px, 1.7vw, 24px)/1.4 var(--font-nalk-heading);
+  overflow-wrap: anywhere;
+}
+.contact-method > span:last-child {
+  margin-top: auto;
+  font-size: 15px;
+  color: #d2d2cf;
+}
+.contact-method:hover {
+  box-shadow: 0 12px 40px #6d27852e;
+}
+.contact-office-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 28px;
+}
+.contact-office-media {
+  overflow: hidden;
+  height: 230px;
+}
+.contact-office-copy {
+  padding: 32px;
+}
+.contact-office .section-label {
+  margin-bottom: 20px;
+}
+.company-site .contact-office h3 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+.contact-office address {
+  font-style: normal;
+  margin-bottom: 20px;
+}
+.contact-map-link {
+  color: #fffbbd;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+.contact-form-note > p {
+  max-width: 70ch;
+}
+.contact-form-panel {
+  margin-top: 24px;
+  padding: clamp(20px, 3vw, 40px);
+  border-radius: 24px;
+}
+@media (max-width: 1180px) {
+  .contact-hero {
+    gap: 36px;
+    padding-top: 180px;
+  }
+  .contact-methods {
+    grid-template-columns: 1fr;
+  }
+}
+@media (max-width: 767px) {
+  .contact-hero {
+    grid-template-columns: 1fr;
+    padding-top: 150px;
+  }
+  .contact-office-grid {
+    grid-template-columns: 1fr;
+  }
+  .contact-hero .contact-lead {
+    font-size: 18px;
+  }
+  .contact-brief-copy,
+  .contact-office-copy,
+  .contact-methods .contact-method {
+    padding: 26px;
+  }
+}

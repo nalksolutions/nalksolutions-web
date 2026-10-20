@@ -1,0 +1,1860 @@
+{
+  "id": "R-ae01622fce47a3ac",
+  "path": "/our-team/",
+  "locale": "en",
+  "family": "corporate-or-special",
+  "nodes": [
+    {
+      "type": "text",
+      "text": " "
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {},
+      "variant": "secondary-hero",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "secondary-heading",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "h1",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Our Team"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " "
+            }
+          ],
+          "entrance": {
+            "kind": "up",
+            "delay": 0
+          }
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "secondary-breadcrumbs",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "a",
+              "attributes": {
+                "href": "/"
+              },
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Home"
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "secondary-breadcrumb-separator",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "Our Team"
+            },
+            {
+              "type": "text",
+              "text": " "
+            }
+          ],
+          "entrance": {
+            "kind": "up",
+            "delay": 300
+          }
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {},
+      "variant": "secondary-team-grid-section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "secondary-inner",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "secondary-team-grid",
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "article",
+                  "attributes": {
+                    "id": "post-1909"
+                  },
+                  "variant": "secondary-team-card",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/cmsms_profile/sara-thompson/"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "secondary-inner",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "secondary-team-image",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "img",
+                                  "attributes": {
+                                    "src": "/wp-content/uploads/2025/08/71-profile-6-768x934.webp",
+                                    "alt": "",
+                                    "width": "768",
+                                    "height": "934",
+                                    "srcset": "/wp-content/uploads/2025/08/71-profile-6-768x934.webp 768w, /wp-content/uploads/2025/08/71-profile-6-247x300.webp 247w, /wp-content/uploads/2025/08/71-profile-6-842x1024.webp 842w, /wp-content/uploads/2025/08/71-profile-6-600x730.webp 600w, /wp-content/uploads/2025/08/71-profile-6.webp 1180w",
+                                    "sizes": "(max-width: 768px) 100vw, 768px"
+                                  },
+                                  "variant": null,
+                                  "children": []
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "secondary-team-arrow",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "listing-arrow",
+                                  "children": []
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "secondary-team-name",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "h5",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "a",
+                              "attributes": {
+                                "href": "/cmsms_profile/sara-thompson/"
+                              },
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "Sara Thompson"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "secondary-team-taxonomy",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "a",
+                          "attributes": {
+                            "href": "/cmsms_profile_category/startup-growth-strategist/",
+                            "rel": "category tag"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Startup Growth Strategist"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "article",
+                  "attributes": {
+                    "id": "post-1910"
+                  },
+                  "variant": "secondary-team-card",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/cmsms_profile/daniel-foster/"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "secondary-inner",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "secondary-team-image",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "img",
+                                  "attributes": {
+                                    "src": "/wp-content/uploads/2025/08/71-profile-5-768x934.webp",
+                                    "alt": "",
+                                    "width": "768",
+                                    "height": "934",
+                                    "srcset": "/wp-content/uploads/2025/08/71-profile-5-768x934.webp 768w, /wp-content/uploads/2025/08/71-profile-5-247x300.webp 247w, /wp-content/uploads/2025/08/71-profile-5-842x1024.webp 842w, /wp-content/uploads/2025/08/71-profile-5-600x730.webp 600w, /wp-content/uploads/2025/08/71-profile-5.webp 1180w",
+                                    "sizes": "(max-width: 768px) 100vw, 768px"
+                                  },
+                                  "variant": null,
+                                  "children": []
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "secondary-team-arrow",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "listing-arrow",
+                                  "children": []
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "secondary-team-name",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "h5",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "a",
+                              "attributes": {
+                                "href": "/cmsms_profile/daniel-foster/"
+                              },
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "Daniel Foster"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "secondary-team-taxonomy",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "a",
+                          "attributes": {
+                            "href": "/cmsms_profile_category/back-end-engineer/",
+                            "rel": "category tag"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Back-End Engineer"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "article",
+                  "attributes": {
+                    "id": "post-1911"
+                  },
+                  "variant": "secondary-team-card",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/cmsms_profile/liam-carter/"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "secondary-inner",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "secondary-team-image",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "img",
+                                  "attributes": {
+                                    "src": "/wp-content/uploads/2025/08/71-profile-4-768x934.webp",
+                                    "alt": "",
+                                    "width": "768",
+                                    "height": "934",
+                                    "srcset": "/wp-content/uploads/2025/08/71-profile-4-768x934.webp 768w, /wp-content/uploads/2025/08/71-profile-4-247x300.webp 247w, /wp-content/uploads/2025/08/71-profile-4-842x1024.webp 842w, /wp-content/uploads/2025/08/71-profile-4-600x730.webp 600w, /wp-content/uploads/2025/08/71-profile-4.webp 1180w",
+                                    "sizes": "(max-width: 768px) 100vw, 768px"
+                                  },
+                                  "variant": null,
+                                  "children": []
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "secondary-team-arrow",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "listing-arrow",
+                                  "children": []
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "secondary-team-name",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "h5",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "a",
+                              "attributes": {
+                                "href": "/cmsms_profile/liam-carter/"
+                              },
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "Liam Carter"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "secondary-team-taxonomy",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "a",
+                          "attributes": {
+                            "href": "/cmsms_profile_category/front-end-developer/",
+                            "rel": "category tag"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Front-End Developer"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "article",
+                  "attributes": {
+                    "id": "post-1912"
+                  },
+                  "variant": "secondary-team-card",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/cmsms_profile/ryan-chen/"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "secondary-inner",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "secondary-team-image",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "img",
+                                  "attributes": {
+                                    "src": "/wp-content/uploads/2025/08/71-profile-3-768x934.webp",
+                                    "alt": "",
+                                    "width": "768",
+                                    "height": "934",
+                                    "srcset": "/wp-content/uploads/2025/08/71-profile-3-768x934.webp 768w, /wp-content/uploads/2025/08/71-profile-3-247x300.webp 247w, /wp-content/uploads/2025/08/71-profile-3-842x1024.webp 842w, /wp-content/uploads/2025/08/71-profile-3-600x730.webp 600w, /wp-content/uploads/2025/08/71-profile-3.webp 1180w",
+                                    "sizes": "(max-width: 768px) 100vw, 768px"
+                                  },
+                                  "variant": null,
+                                  "children": []
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "secondary-team-arrow",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "listing-arrow",
+                                  "children": []
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "secondary-team-name",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "h5",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "a",
+                              "attributes": {
+                                "href": "/cmsms_profile/ryan-chen/"
+                              },
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "Ryan Chen"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "secondary-team-taxonomy",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "a",
+                          "attributes": {
+                            "href": "/cmsms_profile_category/full-stack-developer/",
+                            "rel": "category tag"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Full-Stack Developer"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "article",
+                  "attributes": {
+                    "id": "post-2975"
+                  },
+                  "variant": "secondary-team-card",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/cmsms_profile/maya-brooks/"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "secondary-inner",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "secondary-team-image",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "img",
+                                  "attributes": {
+                                    "src": "/wp-content/uploads/2025/08/71-profile-2-768x934.webp",
+                                    "alt": "",
+                                    "width": "768",
+                                    "height": "934",
+                                    "srcset": "/wp-content/uploads/2025/08/71-profile-2-768x934.webp 768w, /wp-content/uploads/2025/08/71-profile-2-247x300.webp 247w, /wp-content/uploads/2025/08/71-profile-2-842x1024.webp 842w, /wp-content/uploads/2025/08/71-profile-2-600x730.webp 600w, /wp-content/uploads/2025/08/71-profile-2.webp 1180w",
+                                    "sizes": "(max-width: 768px) 100vw, 768px"
+                                  },
+                                  "variant": null,
+                                  "children": []
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "secondary-team-arrow",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "listing-arrow",
+                                  "children": []
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "secondary-team-name",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "h5",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "a",
+                              "attributes": {
+                                "href": "/cmsms_profile/maya-brooks/"
+                              },
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "Maya Brooks"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "secondary-team-taxonomy",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "a",
+                          "attributes": {
+                            "href": "/cmsms_profile_category/lead-ux-ui-designer/",
+                            "rel": "category tag"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Lead UX/UI Designer"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "article",
+                  "attributes": {
+                    "id": "post-2980"
+                  },
+                  "variant": "secondary-team-card",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/cmsms_profile/ethan-white/"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "secondary-inner",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "secondary-team-image",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "img",
+                                  "attributes": {
+                                    "src": "/wp-content/uploads/2025/08/71-profile-1-768x934.webp",
+                                    "alt": "",
+                                    "width": "768",
+                                    "height": "934",
+                                    "srcset": "/wp-content/uploads/2025/08/71-profile-1-768x934.webp 768w, /wp-content/uploads/2025/08/71-profile-1-247x300.webp 247w, /wp-content/uploads/2025/08/71-profile-1-842x1024.webp 842w, /wp-content/uploads/2025/08/71-profile-1-600x730.webp 600w, /wp-content/uploads/2025/08/71-profile-1.webp 1180w",
+                                    "sizes": "(max-width: 768px) 100vw, 768px"
+                                  },
+                                  "variant": null,
+                                  "children": []
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "secondary-team-arrow",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "span",
+                                  "attributes": {},
+                                  "variant": "listing-arrow",
+                                  "children": []
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "secondary-team-name",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "h5",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "a",
+                              "attributes": {
+                                "href": "/cmsms_profile/ethan-white/"
+                              },
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "Ethan White"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "secondary-team-taxonomy",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "a",
+                          "attributes": {
+                            "href": "/cmsms_profile_category/ai-solutions-architect/",
+                            "rel": "category tag"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "AI Solutions Architect"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ],
+              "entrance": {
+                "kind": "fade",
+                "delay": 600
+              }
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {},
+      "variant": "secondary-enquiry",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "secondary-inner",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "secondary-enquiry-image",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "img",
+                  "attributes": {
+                    "src": "/wp-content/uploads/2025/08/71-profiles-1.webp",
+                    "alt": "",
+                    "width": "1180",
+                    "height": "1550",
+                    "srcset": "/wp-content/uploads/2025/08/71-profiles-1.webp 1180w, /wp-content/uploads/2025/08/71-profiles-1-228x300.webp 228w, /wp-content/uploads/2025/08/71-profiles-1-780x1024.webp 780w, /wp-content/uploads/2025/08/71-profiles-1-768x1009.webp 768w, /wp-content/uploads/2025/08/71-profiles-1-1169x1536.webp 1169w, /wp-content/uploads/2025/08/71-profiles-1-600x788.webp 600w",
+                    "sizes": "(max-width: 1180px) 100vw, 1180px"
+                  },
+                  "variant": null,
+                  "children": [],
+                  "entrance": {
+                    "kind": "pop",
+                    "delay": 0
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "secondary-enquiry-copy",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "secondary-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h3",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Talk to Our Team and Unlock New Opportunities"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ],
+                  "entrance": {
+                    "kind": "up",
+                    "delay": 0
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "secondary-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n\t\t\t\t\t\t\t\t\tIf you have any questions, you can contact us. Please, fill out the form below.\t\t\t\t\t\t\t\t"
+                    }
+                  ],
+                  "entrance": {
+                    "kind": "up",
+                    "delay": 200
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {
+                    "id": "cmsmasters-widget-form-7dad19c"
+                  },
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "br",
+                      "attributes": {},
+                      "variant": null,
+                      "children": []
+                    },
+                    {
+                      "type": "enquiry",
+                      "fields": [
+                        {
+                          "label": "Name",
+                          "name": "name-1",
+                          "kind": "text",
+                          "required": false,
+                          "options": []
+                        },
+                        {
+                          "label": "E-Mail",
+                          "name": "email-1",
+                          "kind": "email",
+                          "required": false,
+                          "options": []
+                        },
+                        {
+                          "label": "Enter Phone Number",
+                          "name": "phone-1",
+                          "kind": "text",
+                          "required": false,
+                          "options": []
+                        },
+                        {
+                          "label": "Your Message",
+                          "name": "textarea-1",
+                          "kind": "textarea",
+                          "required": false,
+                          "options": []
+                        }
+                      ],
+                      "buttonLabel": "Send Message"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ],
+                  "entrance": {
+                    "kind": "fade",
+                    "delay": 400
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    }
+  ],
+  "secondaryLayout": "team"
+}

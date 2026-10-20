@@ -1,0 +1,733 @@
+/* Reviewed team entry 56, profile 156, archive 63 and the two active sitemap pages. */
+.secondary-site {
+  --secondary-small: 14px;
+  --secondary-h2: 62px;
+  --secondary-h3: 48px;
+  --secondary-h4: 32px;
+  --secondary-h6: 17px;
+  --secondary-paragraph-gap: 27px;
+}
+.secondary-site [data-document-body] :where(h1, h2, h3, h4, h5, h6) {
+  font-family: var(--font-nalk-heading);
+  color: #fff;
+  font-weight: 400;
+}
+.secondary-site [data-document-body] h1 {
+  font-size: var(--listing-h1);
+  line-height: 1.05;
+  letter-spacing: -2px;
+}
+.secondary-site [data-document-body] h2 {
+  font-size: var(--secondary-h2);
+  line-height: 1.1em;
+  letter-spacing: -2px;
+}
+.secondary-site [data-document-body] h3 {
+  font-size: var(--secondary-h3);
+  line-height: 1.15em;
+  letter-spacing: -1px;
+}
+.secondary-site [data-document-body] h4 {
+  font-size: var(--secondary-h4);
+  line-height: 1.25;
+  letter-spacing: -1px;
+  font-weight: 500;
+}
+.secondary-site [data-document-body] h5 {
+  font-size: var(--listing-h5);
+  line-height: 1.35;
+  letter-spacing: -1px;
+  font-weight: 500;
+}
+.secondary-site [data-document-body] h6 {
+  font-size: var(--secondary-h6);
+  line-height: 1.65;
+  font-weight: 500;
+}
+.secondary-site [data-document-body] svg {
+  width: 1em;
+  height: 1em;
+  fill: currentColor;
+}
+.secondary-site .content-secondary-inner {
+  display: contents;
+}
+.content-secondary-hero {
+  padding: 245px 40px 50px;
+  margin-bottom: 88px;
+  background: var(--secondary-background) center/cover no-repeat;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+.content-secondary-hero .content-secondary-heading {
+  max-width: var(--content-max);
+}
+.content-secondary-breadcrumbs {
+  font: 500 var(--listing-meta)/1.6 var(--font-nalk-heading);
+}
+.content-secondary-breadcrumbs a {
+  color: #fffbbd;
+}
+.content-secondary-breadcrumb-separator {
+  margin-inline: 10px;
+}
+.secondary-layout-team .content-secondary-hero {
+  background-position: bottom center;
+}
+.content-secondary-team-grid-section {
+  width: min(100%, var(--section-shell));
+  margin: 0 auto 88px;
+  padding-inline: var(--page-gutter);
+}
+.content-secondary-team-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 40px;
+}
+.content-secondary-team-card {
+  position: relative;
+  min-width: 0;
+  text-align: center;
+}
+.content-secondary-team-image {
+  border-radius: 20px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+.content-secondary-team-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  filter: grayscale(1);
+  transition: filter 400ms ease;
+}
+.content-secondary-team-card:is(:hover, :focus-within) img {
+  filter: grayscale(0);
+}
+.secondary-site .content-secondary-team-name :is(h1, h2, h3, h4, h5, h6) {
+  font-size: var(--listing-h5);
+  line-height: 1.35;
+  letter-spacing: -1px;
+  font-weight: 500;
+}
+.content-secondary-team-taxonomy {
+  font: 500 var(--listing-meta)/1.6 var(--font-nalk-heading);
+  color: #d2d2cf;
+}
+.content-secondary-team-arrow {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  opacity: 0;
+  transition: opacity 300ms ease;
+}
+.content-secondary-team-card:is(:hover, :focus-within) .content-secondary-team-arrow {
+  opacity: 1;
+}
+.content-secondary-arrow::before {
+  content: '\e903';
+  font: 1em/1 'Nalk Icons';
+}
+.content-secondary-enquiry {
+  max-width: var(--section-shell);
+  margin: auto;
+  padding: 0 40px;
+  display: flex;
+  gap: 0;
+  align-items: center;
+}
+.content-secondary-enquiry-image,
+.content-secondary-enquiry-copy {
+  min-width: 0;
+}
+.content-secondary-enquiry-image {
+  flex: 0 1 48%;
+}
+.content-secondary-enquiry-image img {
+  width: 100%;
+  height: 560px;
+  object-fit: cover;
+  border-radius: 20px;
+}
+.content-secondary-enquiry-copy {
+  flex: 0 1 52%;
+  padding: 40px 20px 40px 56px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  text-align: center;
+}
+.secondary-site .content-enquiry {
+  text-align: start;
+}
+.secondary-site .content-fields {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px 20px;
+}
+.secondary-site .content-fields > div:nth-child(n + 3) {
+  grid-column: 1/-1;
+}
+.secondary-site .content-fields label {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+.secondary-site .content-fields :is(input, textarea, select) {
+  width: 100%;
+  min-width: 0;
+  background: #272727;
+  color: #fff;
+  border: 1px solid #332c27;
+  border-radius: 10px;
+  padding: 16px 25px;
+  font: 400 14px/1.55em var(--font-nalk-body);
+}
+.secondary-site .content-fields textarea {
+  height: 168px;
+  resize: vertical;
+}
+.secondary-site .content-enquiry > .site-button {
+  margin-top: 10px;
+}
+.secondary-site .content-enquiry > button:disabled {
+  cursor: not-allowed;
+}
+.secondary-site .content-enquiry > p {
+  font-size: 13px;
+  line-height: 1.5;
+  margin-top: 15px;
+}
+.secondary-site .content-enquiry > p a {
+  color: #fffbbd;
+  text-decoration: underline;
+}
+.content-secondary-credits-body {
+  max-width: var(--section-shell);
+  padding-inline: var(--page-gutter);
+  margin: 0 auto 72px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+.content-secondary-credits-body .content-secondary-heading {
+  margin-bottom: 0;
+}
+.content-secondary-credits-body .content-secondary-copy {
+  margin-bottom: 0;
+  overflow-wrap: break-word;
+}
+.content-secondary-credit-copy {
+  columns: 2;
+  column-gap: 48px;
+  line-height: 1.7;
+  overflow-wrap: anywhere;
+}
+.content-secondary-credits-body a {
+  color: #fffbbd;
+  text-decoration: underline;
+}
+.secondary-site [data-document-body] .content-secondary-credits-body p,
+.secondary-site [data-document-body] .content-secondary-copy p {
+  margin: 0 0 var(--secondary-paragraph-gap);
+}
+.content-secondary-profile-hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: none;
+  min-height: 815px;
+  padding: 215px max(40px, calc((100% - var(--content-max)) / 2)) 0;
+  margin-bottom: 88px;
+  background: var(--secondary-background) center/cover no-repeat;
+}
+.content-secondary-profile-intro {
+  flex: 0 1 53%;
+  padding-inline-end: 56px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  justify-content: center;
+}
+.secondary-site .content-secondary-profile-intro h1 {
+  font-size: var(--secondary-h2);
+  line-height: 1.1em;
+  margin-bottom: 20px;
+}
+.secondary-site .content-listing-card-title :is(h4, h5) {
+  font-size: var(--listing-h5);
+  line-height: 1.35em;
+}
+.secondary-layout-profile-archive .content-secondary-team-grid-section {
+  margin-bottom: 0;
+}
+.content-secondary-portrait {
+  flex: 0 1 47%;
+  height: 600px;
+  border-radius: 20px;
+  background: var(--secondary-portrait) center/cover no-repeat;
+}
+.content-secondary-profile-taxonomy a {
+  display: inline-block;
+  padding: 3px 12px;
+  border-radius: 30px;
+  background: linear-gradient(90deg, #fff, #fffbbd);
+  color: #020202;
+  font: 700 var(--listing-taxonomy)/1.55 var(--font-nalk-heading);
+  text-transform: uppercase;
+}
+.content-secondary-profile-contacts ul {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  list-style: none;
+}
+.content-secondary-profile-contacts {
+  padding-bottom: 15px;
+}
+.content-secondary-profile-contacts li {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+}
+.content-secondary-socials {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+}
+.content-secondary-socials a {
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: #332c27;
+  color: #fffbbd;
+}
+.content-secondary-socials svg {
+  width: 16px;
+  height: 16px;
+}
+.content-secondary-profile-body {
+  display: flex;
+  align-items: flex-start;
+  gap: 64px;
+  max-width: var(--section-shell);
+  padding-inline: var(--page-gutter);
+  margin: 0 auto 88px;
+}
+.content-secondary-appointment {
+  flex: 0 1 32%;
+  min-width: 0;
+}
+.content-secondary-appointment-card {
+  padding: 28px;
+  background: #1c1922;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.content-secondary-appointment-card .content-secondary-heading {
+  text-align: center;
+}
+.content-secondary-profile-content {
+  flex: 0 1 68%;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+.content-secondary-profile-content .content-secondary-copy .content-secondary-copy {
+  margin-bottom: 0;
+}
+.content-secondary-profile-content > .content-secondary-copy {
+  margin-bottom: 20px;
+}
+.content-secondary-education {
+  display: flex;
+  flex-direction: column;
+}
+.content-secondary-education-row {
+  display: grid;
+  grid-template-columns: minmax(0, 40fr) minmax(0, 60fr);
+  padding: 20px 0;
+  border-bottom: 1px solid #332c27;
+  gap: 20px;
+}
+.content-secondary-education-row:first-child {
+  padding-top: 0;
+}
+.content-secondary-education-row:last-child {
+  margin-bottom: 40px;
+}
+.secondary-site .content-secondary-education-row :is(h1, h2, h3, h4, h5, h6) {
+  font: 400 var(--listing-text)/1.55em var(--font-nalk-body);
+  letter-spacing: normal;
+}
+.secondary-site
+  .content-secondary-education-row
+  .content-secondary-heading:first-child
+  :is(h1, h2, h3, h4, h5, h6) {
+  font: 500 var(--secondary-h6)/1.65em var(--font-nalk-heading);
+}
+.content-secondary-shifts {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.content-secondary-shifts > .content-secondary-inner > .content-secondary-heading {
+  margin-bottom: 20px;
+}
+.content-secondary-shift-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 20px;
+}
+.content-secondary-shift-grid:last-child {
+  margin-bottom: 40px;
+}
+.content-secondary-shift {
+  padding: 25px;
+  background: #332c27;
+  border-radius: 16px;
+  text-align: center;
+  transition: transform 300ms ease;
+}
+.secondary-site .content-secondary-shift :is(h1, h2, h3, h4, h5, h6) {
+  font: 400 var(--listing-text)/1.55em var(--font-nalk-body);
+  letter-spacing: normal;
+  margin-bottom: 5px;
+}
+.content-secondary-shift p {
+  font: 400 14px/1.55 var(--font-nalk-body);
+}
+.content-secondary-shift-description {
+  font: 400 var(--secondary-small)/1.55em var(--font-nalk-body);
+}
+.content-secondary-shift:is(:hover, :focus-within) {
+  transform: translateY(-5px);
+}
+.content-secondary-article-carousel {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: calc((100% - 30px) / 2);
+  gap: 30px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+  overscroll-behavior-x: contain;
+}
+.content-secondary-article-carousel > article {
+  scroll-snap-align: start;
+}
+.content-secondary-appointment-card .content-fields {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 5px;
+}
+.content-secondary-appointment-card .content-fields > div:nth-child(-n + 3) {
+  grid-column: 1/-1;
+}
+.content-secondary-appointment-card .content-fields > div:nth-child(n + 4) {
+  grid-column: auto;
+}
+.content-secondary-appointment-card .content-fields :is(input, select) {
+  padding: 16px 25px;
+}
+.content-secondary-appointment-card .content-enquiry > button {
+  width: 100%;
+  margin-top: 5px;
+}
+.content-secondary-adjacent {
+  max-width: var(--section-shell);
+  padding-inline: var(--page-gutter);
+  margin-inline: auto;
+  padding-bottom: 64px;
+}
+.content-secondary-navigation {
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+}
+.secondary-site .content-secondary-shift-graphic :is(h1, h2, h3, h4, h5, h6) {
+  display: none;
+}
+.secondary-site .content-secondary-sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+.content-secondary-adjacent a {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  font: 500 24px/1.35 var(--font-nalk-heading);
+}
+.secondary-site [data-document-body] .content-secondary-adjacent svg {
+  width: 50px;
+  height: 50px;
+  padding: 16px;
+  border-radius: 50%;
+  background: #fffbbd;
+  color: #020202;
+}
+@media (max-width: 1180px) {
+  .content-secondary-article-carousel {
+    grid-auto-columns: 100%;
+  }
+  .content-secondary-shift-grid:last-child {
+    margin-bottom: 30px;
+  }
+  .content-secondary-article-carousel .content-listing-blog-image img {
+    height: 100%;
+    object-fit: cover;
+  }
+  .secondary-site {
+    --secondary-small: 13px;
+    --secondary-h2: 48px;
+    --secondary-h3: 36px;
+    --secondary-h4: 28px;
+    --secondary-h6: 16px;
+    --secondary-paragraph-gap: 25.5px;
+  }
+  .content-secondary-hero {
+    padding: 200px 30px 50px;
+    margin-bottom: 72px;
+  }
+  .content-secondary-team-grid-section {
+    padding-inline: 30px;
+    margin-bottom: 72px;
+  }
+  .content-secondary-team-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 30px;
+  }
+  .content-secondary-enquiry {
+    flex-direction: column;
+    gap: 50px;
+    padding-inline: 30px;
+  }
+  .content-secondary-enquiry-image,
+  .content-secondary-enquiry-copy {
+    width: 100%;
+    flex: none;
+    padding: 0;
+  }
+  .secondary-site .content-fields {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .secondary-site .content-fields > div {
+    grid-column: 1/-1;
+  }
+  .secondary-site .content-fields > div:first-child {
+    margin-bottom: 10px;
+  }
+  .secondary-site .content-enquiry > button {
+    margin-bottom: 10px;
+  }
+  .content-secondary-appointment-card .content-fields {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .content-secondary-appointment-card .content-fields > div:first-child {
+    margin-bottom: 0;
+  }
+  .content-secondary-appointment-card .content-enquiry > button {
+    margin-top: 15px;
+  }
+  .content-secondary-enquiry-image img {
+    height: 480px;
+  }
+  .content-secondary-profile-hero {
+    flex-direction: column;
+    gap: 60px;
+    padding: 160px 30px 0;
+    min-height: 0;
+    margin-bottom: 72px;
+  }
+  .content-secondary-profile-intro {
+    width: 100%;
+    padding: 0;
+    flex: none;
+  }
+  .content-secondary-portrait {
+    width: 100%;
+    height: 480px;
+    flex: none;
+    background-position: top center;
+  }
+  .content-secondary-profile-body {
+    flex-direction: column;
+    gap: 60px;
+    padding-inline: 30px;
+    margin-bottom: 72px;
+  }
+  .content-secondary-appointment,
+  .content-secondary-profile-content {
+    width: 100%;
+    flex: none;
+  }
+  .content-secondary-shift {
+    padding: 20px;
+  }
+  .content-secondary-profile-content {
+    gap: 30px;
+  }
+  .content-secondary-education-row:last-child {
+    margin-bottom: 30px;
+  }
+  .secondary-site
+    .content-secondary-education-row
+    .content-secondary-heading:first-child
+    :is(h1, h2, h3, h4, h5, h6) {
+    font-size: 16px;
+  }
+  .content-secondary-profile-contacts ul {
+    gap: 32px;
+  }
+  .content-secondary-team-grid {
+    row-gap: 40px;
+  }
+  .content-secondary-credits-body {
+    padding-inline: 30px;
+    margin-bottom: 0;
+  }
+  .content-secondary-credit-copy {
+    columns: 1;
+  }
+  .content-secondary-adjacent {
+    padding-inline: 30px;
+  }
+}
+@media (max-width: 767px) {
+  .content-secondary-shift-grid:last-child {
+    margin-bottom: 20px;
+  }
+  .secondary-site {
+    --secondary-small: 12px;
+    --secondary-h2: 36px;
+    --secondary-h3: 28px;
+    --secondary-h4: 24px;
+    --secondary-h6: 15px;
+    --secondary-paragraph-gap: 24px;
+  }
+  .secondary-site .content-fields :is(input, textarea, select) {
+    font-size: 16px;
+  }
+  .content-secondary-profile-content > .content-secondary-heading,
+  .content-secondary-shifts > .content-secondary-heading {
+    text-align: center;
+  }
+  .content-secondary-hero {
+    padding: 160px 20px 50px;
+    margin-bottom: 56px;
+  }
+  .content-secondary-team-grid-section {
+    padding-inline: 20px;
+    margin-bottom: 56px;
+  }
+  .content-secondary-team-grid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 30px;
+  }
+  .content-secondary-enquiry {
+    padding-inline: 20px;
+    gap: 40px;
+  }
+  .content-secondary-enquiry-image img {
+    height: 400px;
+  }
+  .content-secondary-enquiry-copy {
+    gap: 30px;
+  }
+  .content-secondary-profile-hero {
+    padding: 140px 20px 0;
+    margin-bottom: 56px;
+    gap: 50px;
+  }
+  .content-secondary-portrait {
+    height: 400px;
+  }
+  .content-secondary-profile-body {
+    padding-inline: 20px;
+    gap: 40px;
+    margin-bottom: 56px;
+  }
+  .content-secondary-appointment-card {
+    padding: 30px 20px;
+  }
+  .content-secondary-shift-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .content-secondary-shift {
+    padding: 15px 20px;
+  }
+  .content-secondary-education-row {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 20px;
+    text-align: center;
+  }
+  .content-secondary-education-row > .content-secondary-heading:first-child {
+    margin-bottom: 10px;
+  }
+  .content-secondary-education-row:last-child {
+    margin-bottom: 20px;
+  }
+  .content-secondary-socials {
+    margin-top: 10px;
+  }
+  .content-secondary-profile-contacts ul {
+    gap: 28px;
+  }
+  .secondary-site .content-secondary-profile-intro h1 {
+    margin-bottom: 10px;
+  }
+  .content-secondary-team-grid {
+    row-gap: 30px;
+  }
+  .content-secondary-navigation {
+    flex-direction: column;
+    gap: 0;
+  }
+  .content-secondary-navigation > a:last-child {
+    align-self: flex-end;
+  }
+  .content-secondary-article-carousel {
+    grid-auto-columns: 100%;
+    gap: 30px;
+  }
+  .content-secondary-article-carousel .content-listing-blog-image img {
+    height: 100%;
+  }
+  .content-secondary-credits-body {
+    padding-inline: 20px;
+    margin-bottom: 0;
+  }
+  .content-secondary-adjacent {
+    padding-inline: 20px;
+  }
+  .content-secondary-adjacent a {
+    font-size: 18px;
+    gap: 10px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .content-secondary-shift {
+    transition: none;
+  }
+  .content-secondary-shift:is(:hover, :focus-within) {
+    transform: none;
+  }
+  .content-secondary-team-image img,
+  .content-secondary-team-arrow {
+    transition: none;
+  }
+}

@@ -1,0 +1,3702 @@
+{
+  "entityId": "R-5e053fd003b0e1cd",
+  "path": "/ar/تطوير-الويب-للشركات-السعودية/",
+  "publication": {
+    "ready": true,
+    "acceptance": "ownerManaged"
+  },
+  "review": {
+    "status": "inReview",
+    "reviewer": null,
+    "approvedAt": null,
+    "translationRevision": "arabic-migration-1",
+    "sourceInputs": [
+      {
+        "path": "src/content/site/pages.generated.json",
+        "sha256": "7cd8249a8f5b73200fb4c39193dc5469fa0cc595cc493904a611272606512429"
+      },
+      {
+        "path": "src/content/site/documents/R-5e053fd003b0e1cd.json",
+        "sha256": "5d49ca96ed03381ff0bfc10973898769594168eef34a6739a397cb8b2552f3d5"
+      }
+    ]
+  },
+  "seo": {
+    "title": "تطوير الويب للشركات السعودية: دليل عملي شامل 2026",
+    "description": "تطوير المواقع الإلكترونية، تصميم المواقع في السعودية، تكلفة تطوير موقع شركة، شركة تطوير ويب، نظام حماية البيانات الشخصية PDPL، متجر إلكتروني السعودية، تحسين محركات البحث، التصميم المتجاوب"
+  },
+  "heading": "تطوير الويب للشركات السعودية: دليل عملي",
+  "blocks": {},
+  "imageAlts": {},
+  "issues": [
+    "Existing Arabic body preserved; internal linguistic acceptance is owner-managed.",
+    "Semantic correction: 1 duplicate body H1 demoted to H2; heading wording and all body content preserved."
+  ],
+  "document": {
+    "nodes": [
+      {
+        "type": "element",
+        "tag": "h2",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "تطوير الويب للشركات السعودية: دليل عملي"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "يكاد الوجود الرقمي أن يكون شرط بقاء في السوق السعودي. بلغت نسبة استخدام الإنترنت في المملكة 99% من السكان وفق "
+          },
+          {
+            "type": "element",
+            "tag": "a",
+            "attributes": {
+              "href": "https://www.stat.gov.sa/",
+              "target": "_blank",
+              "rel": "noopener noreferrer"
+            },
+            "variant": null,
+            "children": [
+              {
+                "type": "text",
+                "text": "الهيئة العامة للإحصاء (GASTAT)"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "، ويدخل 96.8% من المستخدمين إلى الإنترنت يومياً. عميلك المحتمل متصل الآن، ويبحث عن خدمتك من هاتفه."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "الموقع الإلكتروني لم يعد بطاقة تعريف رقمية فحسب. إنه قناة بيع، ومركز خدمة عملاء، وأداة تسويق تعمل 24 ساعة. هذا الدليل العملي يشرح كيف تبني موقعاً احترافياً لشركتك في السعودية: من التخطيط إلى الإطلاق، مع تغطية للتقنيات والأداء والأمن والتكلفة والامتثال لنظام حماية البيانات الشخصية."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "h2",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "ما المقصود بتطوير الويب للشركات؟"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "تطوير الويب للشركات هو عملية بناء موقع أو تطبيق ويب يخدم أهداف العمل: جذب العملاء، عرض الخدمات، وإتمام المبيعات. يجمع بين التصميم والبرمجة والمحتوى والبنية التقنية."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "يشمل تطوير الويب المتكامل العناصر التالية:"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "ul",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "الواجهة الأمامية (Frontend):"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " كل ما يراه الزائر ويتفاعل معه، من تصميم وألوان وأزرار."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "الواجهة الخلفية (Backend):"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " الخوادم وقواعد البيانات والمنطق البرمجي الذي يشغّل الموقع."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "نظام إدارة المحتوى (CMS):"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " أداة تتيح لفريقك تحديث الموقع دون كتابة كود."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "التجارة الإلكترونية:"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " سلة الشراء، وبوابات الدفع، وإدارة المخزون للمتاجر."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "التكاملات:"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " الربط مع أنظمة الدفع، وأدوات التسويق، وأنظمة إدارة العملاء."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "الاستضافة والأمن:"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " الخوادم، وشهادات SSL، وحماية البيانات."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "الصيانة:"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " التحديثات الدورية، والنسخ الاحتياطي، وإصلاح الأعطال."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "h2",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "لماذا يحتاج كل عمل سعودي إلى موقع احترافي في 2026؟"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "لأن السوق رقمي بالكامل تقريباً، والمنافسة تبدأ من نتائج البحث. العميل السعودي يبحث، يقارن، ثم يقرر، وكل ذلك عبر الإنترنت."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "الأرقام تحسم النقاش:"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "ul",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "99% نسبة انتشار الإنترنت"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " في المملكة، مع 34.4 مليون مستخدم وفق بيانات DataReportal لأواخر 2025."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "نحو 31.3 مليار دولار"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " حجم سوق التجارة الإلكترونية السعودي في 2026 بحسب تقديرات Mordor Intelligence، بمعدل نمو سنوي يقارب 12%."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "قرابة 78% من إيرادات التجارة الإلكترونية"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " تأتي من الهواتف الذكية، ما يجعل التصميم المتوافق مع الجوال أولوية لا خياراً."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "79% من معاملات التجزئة"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " تمت إلكترونياً في 2024 وفق "
+              },
+              {
+                "type": "element",
+                "tag": "a",
+                "attributes": {
+                  "href": "https://www.sama.gov.sa/",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer"
+                },
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "البنك المركزي السعودي (ساما)"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "، متجاوزةً مستهدف "
+              },
+              {
+                "type": "element",
+                "tag": "a",
+                "attributes": {
+                  "href": "https://www.vision2030.gov.sa/",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer"
+                },
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "رؤية 2030"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "رؤية 2030"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " تدفع نحو اقتصاد رقمي متنوع، ما يفتح فرصاً للشركات التي تبني حضورها الرقمي مبكراً."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "الموقع الاحترافي يمنحك ثلاثة أشياء: ثقة العميل، وظهوراً في البحث، وقناة بيع لا تغلق أبوابها."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "h2",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "أنواع المواقع الإلكترونية للشركات"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "اختيار النوع الصحيح يوفّر الوقت والميزانية. أبرز الأنواع:"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "ul",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "الموقع التعريفي:"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " يعرّف بالشركة وخدماتها وبيانات التواصل. مناسب للشركات الخدمية والمكاتب المهنية."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "المتجر الإلكتروني:"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " لبيع المنتجات مباشرة عبر الإنترنت مع بوابات دفع وإدارة طلبات."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "منصة أو تطبيق ويب:"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " نظام تفاعلي مثل منصات الحجز أو لوحات التحكم أو الخدمات الرقمية."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "الموقع الخدمي والحجوزات:"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " للعيادات والمطاعم والخدمات التي تعتمد على المواعيد."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "المدونة ومركز المحتوى:"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " لبناء السلطة في مجالك وجذب الزيارات عبر محركات البحث."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "البوابة الإلكترونية (Portal):"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " لتقديم خدمات للموظفين أو الشركاء أو العملاء عبر حسابات."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "h2",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "المراحل العملية لتطوير موقع شركة ناجح"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "المشروع الناجح يمر بمراحل واضحة. تجاوز أي مرحلة يكلّفك لاحقاً."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "element",
+            "tag": "strong",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "text",
+                "text": "1. التخطيط والتحليل."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " حدد الهدف، والجمهور، والمنافسين. اكتب قائمة بالمزايا المطلوبة قبل أي عمل تقني."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "element",
+            "tag": "strong",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "text",
+                "text": "2. تصميم تجربة المستخدم والواجهة (UX/UI)."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ارسم رحلة الزائر، ثم صمم واجهة واضحة تقود إلى الإجراء المطلوب: اتصال، أو طلب، أو شراء."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "element",
+            "tag": "strong",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "text",
+                "text": "3. التطوير."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " يبني المبرمجون الواجهة الأمامية والخلفية، ويربطون الموقع بقواعد البيانات والتكاملات."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "element",
+            "tag": "strong",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "text",
+                "text": "4. إعداد المحتوى."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " اكتب نصوصاً واضحة ومهيأة لمحركات البحث باللغة العربية، وأضف صوراً عالية الجودة."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "element",
+            "tag": "strong",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "text",
+                "text": "5. الاختبار."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " افحص الموقع على مختلف الأجهزة والمتصفحات، واختبر السرعة والأمان والنماذج."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "element",
+            "tag": "strong",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "text",
+                "text": "6. الإطلاق."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " انشر الموقع، واربطه بأدوات التحليل مثل Google Analytics وأدوات مشرفي المواقع."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "element",
+            "tag": "strong",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "text",
+                "text": "7. الصيانة والتطوير المستمر."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " حدّث المحتوى، وراقب الأداء، وأصلح الثغرات أولاً بأول."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "h2",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "كيف تختار التقنيات المناسبة؟"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "التقنية وسيلة لا غاية. اختر ما يناسب حجم مشروعك وقدرات فريقك."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "ul",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "أنظمة إدارة المحتوى الجاهزة:"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " WordPress خيار مرن واقتصادي للمواقع التعريفية والمدونات. Shopify أو Salla مناسبان للمتاجر."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "التطوير المخصص:"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " عند الحاجة إلى منطق معقد أو تكاملات خاصة، يكون البناء بأطر عمل مثل React أو Laravel أو Next.js أخفّ على المدى الطويل."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "دعم اللغة العربية والاتجاه من اليمين إلى اليسار (RTL):"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " شرط أساسي لأي موقع سعودي. تأكد أن التصميم والخطوط تدعم العربية بشكل كامل."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "الاستضافة:"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " اختر استضافة سريعة وموثوقة. وجود الخوادم قريباً من المستخدمين في المنطقة يحسّن السرعة، وقد يساعد في متطلبات إقامة البيانات."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "h2",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "تحسين الأداء وسرعة الموقع"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "السرعة تبيع. المستخدم السعودي يتوقع تحميلاً يقترب من الثانية، ويغادر إن تأخر الموقع. السرعة أيضاً عامل ترتيب في Google عبر مؤشرات Core Web Vitals."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "خطوات عملية لتسريع موقعك:"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "ul",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "اضغط الصور"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " وحوّلها إلى صيغ حديثة مثل WebP."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "فعّل التخزين المؤقت (Caching)"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " لتقليل زمن التحميل للزوار العائدين."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "استخدم شبكة توزيع محتوى (CDN)"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " لخدمة الملفات من أقرب خادم للمستخدم."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "أجّل تحميل العناصر غير الظاهرة (Lazy Loading)"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " للصور والفيديو."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "قلّل أكواد JavaScript وCSS"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " غير الضرورية."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "h2",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "تجربة المستخدم والتصميم المتجاوب"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "التصميم المتجاوب يعني أن الموقع يعمل بسلاسة على الجوال واللوحي والحاسب. ومع كون قرابة 78% من مبيعات التجارة الإلكترونية تأتي من الهواتف، فإن نهج “الجوال أولاً” (Mobile First) هو القاعدة."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "ركائز تجربة مستخدم جيدة:"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "ul",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "تنقل واضح"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " يصل بالزائر إلى ما يريد في ثلاث نقرات أو أقل."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "دعوة واضحة لاتخاذ إجراء"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " في كل صفحة مهمة."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "تصميم عربي أصيل"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " يحترم الاتجاه من اليمين إلى اليسار ويستخدم خطوطاً مقروءة."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "إتاحة الوصول (Accessibility)"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " لذوي الاحتياجات، عبر تباين ألوان كافٍ ونصوص بديلة للصور."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "h2",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "بناء تحسين محركات البحث (SEO) ومحركات الإجابة (AEO) من البداية"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "أفضل وقت لتهيئة الموقع للبحث هو أثناء بنائه، لا بعده. التهيئة المبكرة توفّر إعادة عمل مكلفة."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "ul",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "تحسين محركات البحث التقني:"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " بنية روابط نظيفة، وخريطة موقع (Sitemap)، وسرعة عالية، وتوافق مع الجوال."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "بحث الكلمات المفتاحية بالعربية:"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " استهدف ما يبحث عنه عملاؤك فعلاً، بلهجتهم ومصطلحاتهم."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "البيانات المنظمة (Schema):"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " أضف ترميزاً يساعد محركات البحث على فهم محتواك وعرضه كمقتطفات منسقة."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "تحسين محركات الإجابة (AEO):"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " صغ المحتوى على شكل أسئلة وأجوبة مباشرة ليظهر في المقتطفات المميزة والبحث الصوتي."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "تحسين محركات الذكاء الاصطناعي (GEO):"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " قدّم حقائق واضحة ومصادر موثوقة لترفع فرص اقتباس موقعك في إجابات أدوات مثل ChatGPT وGoogle AI Overviews."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "تحسين محركات البحث جزء من "
+          },
+          {
+            "type": "element",
+            "tag": "a",
+            "attributes": {
+              "href": "/arabic/services-digital-marketing/"
+            },
+            "variant": null,
+            "children": [
+              {
+                "type": "text",
+                "text": "خدمات التسويق الرقمي المتكاملة"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " التي تبني ظهوراً مستداماً في نتائج البحث."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "h2",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "الأمن السيبراني وحماية البيانات"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "الأمن ليس رفاهية. خرق واحد قد يكلّفك الثقة والمال والمساءلة القانونية."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "أساسيات يجب أن تتوفر في أي موقع شركة:"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "ul",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "شهادة SSL وبروتوكول HTTPS"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " لتشفير الاتصال. المواقع الآمنة في المملكة تعتمد HTTPS."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "تحديثات أمنية دورية"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " للنظام والإضافات لسد الثغرات."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "نسخ احتياطي منتظم"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " يحميك من فقدان البيانات."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "حماية من الهجمات"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " مثل جدار حماية تطبيقات الويب (WAF)."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "h3",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "الامتثال لنظام حماية البيانات الشخصية (PDPL)"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "أصبح نظام حماية البيانات الشخصية نافذاً بالكامل منذ 14 سبتمبر 2024، وتشرف عليه "
+          },
+          {
+            "type": "element",
+            "tag": "a",
+            "attributes": {
+              "href": "https://sdaia.gov.sa/",
+              "target": "_blank",
+              "rel": "noopener noreferrer"
+            },
+            "variant": null,
+            "children": [
+              {
+                "type": "text",
+                "text": "الهيئة السعودية للبيانات والذكاء الاصطناعي (SDAIA)"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". يطبّق النظام على أي جهة تعالج بيانات أفراد داخل المملكة، سواء كانت داخلها أو خارجها."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "ما يعنيه ذلك لموقعك:"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "ul",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "الموافقة الصريحة:"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " احصل على موافقة المستخدم قبل جمع بياناته، مع إمكانية سحبها بسهولة."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "تقليل البيانات:"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " اجمع ما تحتاجه فقط لغرض محدد ومشروع."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "سياسة خصوصية واضحة:"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " اعرض كيف تجمع البيانات وتستخدمها وتحميها."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "الاحتفاظ بالسجلات:"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " وثّق أنشطة معالجة البيانات واحتفظ بها وفق المتطلبات."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "العقوبات:"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " تصل الغرامة إلى 5 ملايين ريال للمخالفة الواحدة، وقد تتضاعف عند التكرار. أصدرت لجان SDAIA 48 قراراً بالمخالفة خلال 2025 و2026."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "الامتثال ليس عبئاً فقط. إنه ميزة ثقة أمام عملائك."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "h2",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "كم تكلفة تطوير موقع شركة في السعودية؟"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "تختلف التكلفة حسب نوع الموقع وحجمه وتعقيد مزاياه. لا يوجد رقم ثابت، لكن هذه نطاقات تقريبية للسوق السعودي:"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "ul",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "موقع تعريفي بسيط:"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " نحو 5,000 إلى 20,000 ريال."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "موقع شركة متوسط:"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " نحو 20,000 إلى 60,000 ريال."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "متجر إلكتروني:"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " نحو 30,000 إلى 150,000 ريال حسب عدد المنتجات والتكاملات."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "منصة أو تطبيق ويب مخصص:"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " يبدأ غالباً من 80,000 ريال ويرتفع مع التعقيد."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "العوامل التي ترفع التكلفة: التصميم المخصص، والتكاملات، والمحتوى، والتجارة الإلكترونية، ومستوى الأمان. اطلب دائماً عرضاً تفصيلياً يوضح ما يشمله السعر وما لا يشمله."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "h2",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "كيف تختار شركة تطوير ويب في السعودية؟"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "الشريك التقني الصحيح يوفّر عليك المال والوقت والجهد. قيّم المزودين وفق هذه المعايير:"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "ul",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "أعمال سابقة حقيقية"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " في مجالك أو مجالات قريبة."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "خبرة في المواقع العربية"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " وتصميم RTL."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "وعي بنظام حماية البيانات الشخصية"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " ومتطلبات الامتثال."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "تركيز على الأداء والسرعة"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " لا الشكل فقط."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "خطة دعم وصيانة"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " واضحة بعد الإطلاق."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "تسعير شفاف"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " بلا تكاليف خفية."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "فهم للسوق السعودي"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " وسلوك المستخدم المحلي."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "إن كنت تبحث عن شريك يجمع هذه المعايير، تعرّف على خدمات "
+          },
+          {
+            "type": "element",
+            "tag": "a",
+            "attributes": {
+              "href": "/arabic/professional-website-development-company-in-saudi-arabia/"
+            },
+            "variant": null,
+            "children": [
+              {
+                "type": "text",
+                "text": "تطوير الويب الاحترافي في السعودية"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "h2",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "أخطاء شائعة يجب تجنبها"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "ul",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "إهمال الجوال:"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " تصميم يبدو جيداً على الحاسب فقط يخسر أغلب الزوار."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "تجاهل السرعة:"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " موقع بطيء يطرد العملاء قبل أن يقرؤوا سطراً."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "محتوى ضعيف:"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " نصوص عامة لا تجيب على أسئلة العميل ولا تظهر في البحث."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "تأجيل تحسين محركات البحث:"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " التهيئة بعد الإطلاق أصعب وأغلى."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "إهمال الأمن والامتثال:"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " مخاطرة قانونية ومالية لا تستحق التوفير."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "li",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "attributes": {},
+                "variant": null,
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "غياب خطة الصيانة:"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " الموقع المهمل يتقادم ويتحول إلى ثغرة أمنية."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "h2",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "أسئلة شائعة"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "element",
+            "tag": "strong",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "text",
+                "text": "كم تستغرق مدة تطوير موقع شركة؟"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " يتراوح الوقت بين 3 إلى 6 أسابيع للموقع التعريفي، و2 إلى 4 أشهر للمتاجر والمنصات المعقدة. يعتمد ذلك على حجم المشروع وجاهزية المحتوى."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "element",
+            "tag": "strong",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "text",
+                "text": "ما الفرق بين تصميم الموقع وتطويره؟"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " التصميم يهتم بالشكل وتجربة المستخدم. التطوير يحوّل التصميم إلى موقع يعمل عبر البرمجة. كلاهما ضروري لموقع ناجح."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "element",
+            "tag": "strong",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "text",
+                "text": "هل أحتاج إلى متجر إلكتروني أم موقع تعريفي؟"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " إن كنت تبيع منتجات مباشرة، فالمتجر الإلكتروني هو الخيار. إن كنت تقدّم خدمات أو تبني سمعة، يكفي موقع تعريفي قوي، مع إمكانية إضافة المتجر لاحقاً."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "element",
+            "tag": "strong",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "text",
+                "text": "هل يجب أن يكون موقعي متوافقاً مع نظام حماية البيانات الشخصية؟"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " نعم. أي موقع يجمع بيانات أفراد في المملكة يخضع للنظام، وتصل غرامة المخالفة إلى 5 ملايين ريال. الامتثال شرط لا خيار."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "element",
+            "tag": "strong",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "text",
+                "text": "ما أفضل نظام لإدارة محتوى موقع شركة؟"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " WordPress الأكثر شيوعاً للمواقع التعريفية لمرونته. للمتاجر، تناسب منصات مثل Salla وShopify. المشاريع المعقدة قد تحتاج تطويراً مخصصاً."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "element",
+            "tag": "strong",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "text",
+                "text": "هل الاستضافة داخل السعودية ضرورية؟"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " ليست إلزامية لكل المواقع، لكنها تحسّن السرعة للمستخدم المحلي وقد تسهّل بعض متطلبات إقامة البيانات. راجع طبيعة بياناتك ومتطلبات نظام حماية البيانات."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "element",
+            "tag": "strong",
+            "attributes": {},
+            "variant": null,
+            "children": [
+              {
+                "type": "text",
+                "text": "كيف أحسّن ظهور موقعي في نتائج البحث والذكاء الاصطناعي؟"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " هيّئ الموقع تقنياً، واستهدف كلمات مفتاحية عربية، وأضف بيانات منظمة، واكتب محتوى يجيب على أسئلة عملائك بوضوح. هذا يرفع ظهورك في Google وفي إجابات أدوات الذكاء الاصطناعي."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "h2",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "الخلاصة"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "تطوير الويب للشركات السعودية لم يعد مشروعاً تقنياً فقط، بل قرار نمو. السوق متصل بنسبة 99%، والمنافسة تبدأ من نتائج البحث، والامتثال لحماية البيانات أصبح إلزامياً. ابدأ بهدف واضح، واختر الشريك الصحيح، وابنِ موقعاً سريعاً وآمناً ومهيأً للبحث من اليوم الأول."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "p",
+        "attributes": {},
+        "variant": null,
+        "children": [
+          {
+            "type": "text",
+            "text": "في "
+          },
+          {
+            "type": "element",
+            "tag": "a",
+            "attributes": {
+              "href": "/arabic/"
+            },
+            "variant": null,
+            "children": [
+              {
+                "type": "text",
+                "text": "NALK Solutions"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " نساعد الشركات السعودية على بناء مواقع سريعة وآمنة ومهيأة للبحث. "
+          },
+          {
+            "type": "element",
+            "tag": "a",
+            "attributes": {
+              "href": "/arabic/contacts/"
+            },
+            "variant": null,
+            "children": [
+              {
+                "type": "text",
+                "text": "تواصل معنا"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " لمناقشة مشروعك."
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ],
+    "article": {
+      "excerpt": "تطوير الويب للشركات السعودية: دليل عملي يكاد الوجود الرقمي أن يكون شرط بقاء في السوق السعودي. بلغت نسبة استخدام الإنترنت في المملكة 99% من السكان وفق الهيئة العامة للإحصاء (GASTAT)، ويدخل 96.8% من المستخدمين إلى الإنترنت يومياً. عميلك المحتمل متصل الآن، ويبحث عن خدمتك من هاتفه. الموقع الإلكتروني لم يعد بطاقة تعريف رقمية فحسب. إنه …",
+      "dateLabel": "March 9, 2026",
+      "category": {
+        "label": "تطوير المواقع",
+        "href": "/category/website-development/"
+      },
+      "additionalCategories": [],
+      "featured": {
+        "type": "image",
+        "src": "/wp-content/uploads/2026/03/تطوير-الويب-للشركات-السعودية-دليل-عملي-5-scaled.png",
+        "alt": "تطوير الويب للشركات السعودية: دليل عملي",
+        "width": 2560,
+        "height": 1706,
+        "variants": [
+          {
+            "src": "/wp-content/uploads/2026/03/تطوير-الويب-للشركات-السعودية-دليل-عملي-5-scaled.png",
+            "width": 2560
+          },
+          {
+            "src": "/wp-content/uploads/2026/03/تطوير-الويب-للشركات-السعودية-دليل-عملي-5-300x200.png",
+            "width": 300
+          },
+          {
+            "src": "/wp-content/uploads/2026/03/تطوير-الويب-للشركات-السعودية-دليل-عملي-5-1024x683.png",
+            "width": 1024
+          },
+          {
+            "src": "/wp-content/uploads/2026/03/تطوير-الويب-للشركات-السعودية-دليل-عملي-5-768x512.png",
+            "width": 768
+          },
+          {
+            "src": "/wp-content/uploads/2026/03/تطوير-الويب-للشركات-السعودية-دليل-عملي-5-1536x1024.png",
+            "width": 1536
+          },
+          {
+            "src": "/wp-content/uploads/2026/03/تطوير-الويب-للشركات-السعودية-دليل-عملي-5-2048x1365.png",
+            "width": 2048
+          },
+          {
+            "src": "/wp-content/uploads/2026/03/تطوير-الويب-للشركات-السعودية-دليل-عملي-5-18x12.png",
+            "width": 18
+          },
+          {
+            "src": "/wp-content/uploads/2026/03/تطوير-الويب-للشركات-السعودية-دليل-عملي-5-450x300.png",
+            "width": 450
+          }
+        ],
+        "sizes": "(max-width: 2560px) 100vw, 2560px"
+      },
+      "adjacent": [
+        {
+          "label": "المقال السابق",
+          "title": "Finding the Best Digital Media Agency in Pakistan",
+          "href": "/finding-the-best-digital-media-agency-in-pakistan/",
+          "image": {
+            "type": "image",
+            "src": "/wp-content/uploads/2026/03/cover-10-150x150.png",
+            "alt": "e Best Digital Media Agency in Islamabad",
+            "width": 150,
+            "height": 150,
+            "variants": [
+              {
+                "src": "/wp-content/uploads/2026/03/cover-10-150x150.png",
+                "width": 150
+              },
+              {
+                "src": "/wp-content/uploads/2026/03/cover-10-260x260.png",
+                "width": 260
+              }
+            ],
+            "sizes": "(max-width: 150px) 100vw, 150px"
+          }
+        },
+        {
+          "label": "المقال التالي",
+          "title": "How Custom Web Apps Help Scaling Pakistani Startups",
+          "href": "/how-custom-web-apps-help-scaling-pakistani-startups/",
+          "image": {
+            "type": "image",
+            "src": "/wp-content/uploads/2026/03/blog-image-2-150x150.png",
+            "alt": "How Custom Web Apps Help Scaling Pakistani Startups",
+            "width": 150,
+            "height": 150,
+            "variants": [
+              {
+                "src": "/wp-content/uploads/2026/03/blog-image-2-150x150.png",
+                "width": 150
+              },
+              {
+                "src": "/wp-content/uploads/2026/03/blog-image-2-260x260.png",
+                "width": 260
+              }
+            ],
+            "sizes": "(max-width: 150px) 100vw, 150px"
+          }
+        }
+      ],
+      "related": [
+        {
+          "title": "Social Media Marketing Cost in Saudi Arabia (2026 Guide)",
+          "href": "/social-media-marketing-cost-in-saudi-arabia/",
+          "image": {
+            "type": "image",
+            "src": "/wp-content/uploads/2025/10/71-posts-placeholder-300x300.webp",
+            "alt": "",
+            "width": 300,
+            "height": 300,
+            "variants": [
+              {
+                "src": "/wp-content/uploads/2025/10/71-posts-placeholder-300x300.webp",
+                "width": 300
+              },
+              {
+                "src": "/wp-content/uploads/2025/10/71-posts-placeholder-100x100.webp",
+                "width": 100
+              },
+              {
+                "src": "/wp-content/uploads/2025/10/71-posts-placeholder-600x600.webp",
+                "width": 600
+              },
+              {
+                "src": "/wp-content/uploads/2025/10/71-posts-placeholder-150x150.webp",
+                "width": 150
+              },
+              {
+                "src": "/wp-content/uploads/2025/10/71-posts-placeholder-260x260.webp",
+                "width": 260
+              },
+              {
+                "src": "/wp-content/uploads/2025/10/71-posts-placeholder.webp",
+                "width": 768
+              }
+            ],
+            "sizes": "(max-width: 300px) 100vw, 300px"
+          },
+          "category": {
+            "label": "التسويق الرقمي",
+            "href": "/category/digital-marketing-strategy/"
+          },
+          "dateLabel": "September 21, 2026",
+          "actionLabel": "اقرأ المقال"
+        },
+        {
+          "title": "كيف يساعد الذكاء الاصطناعي الشركات في السعودية 2026 | نالك سوليوشنز",
+          "href": "/how-ai-helps-companies-in-saudi-arabia/",
+          "image": {
+            "type": "image",
+            "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-300x200.jpeg",
+            "alt": "كيف يساعد الذكاء الاصطناعي الشركات في السعودية 2026 | نالك سوليوشنز",
+            "width": 300,
+            "height": 200,
+            "variants": [
+              {
+                "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-300x200.jpeg",
+                "width": 300
+              },
+              {
+                "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-1024x683.jpeg",
+                "width": 1024
+              },
+              {
+                "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-768x512.jpeg",
+                "width": 768
+              },
+              {
+                "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-18x12.jpeg",
+                "width": 18
+              },
+              {
+                "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-450x300.jpeg",
+                "width": 450
+              },
+              {
+                "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg.jpeg",
+                "width": 1536
+              }
+            ],
+            "sizes": "(max-width: 300px) 100vw, 300px"
+          },
+          "category": {
+            "label": "البرمجيات وتطبيقات الجوال",
+            "href": "/category/custom-software-apps/"
+          },
+          "dateLabel": "September 2, 2026",
+          "actionLabel": "اقرأ المقال"
+        },
+        {
+          "title": "التسويق عبر سناب شات وتيك توك للشركات السعودية: الدليل الكامل 2026",
+          "href": "/snapchat-tiktok-marketing-saudi-businesses/",
+          "image": {
+            "type": "image",
+            "src": "/wp-content/uploads/2026/08/blog-two-300x200.png",
+            "alt": "التسويق عبر سناب شات وتيك توك للشركات السعودية: الدليل الكامل 2026",
+            "width": 300,
+            "height": 200,
+            "variants": [
+              {
+                "src": "/wp-content/uploads/2026/08/blog-two-300x200.png",
+                "width": 300
+              },
+              {
+                "src": "/wp-content/uploads/2026/08/blog-two-1024x683.png",
+                "width": 1024
+              },
+              {
+                "src": "/wp-content/uploads/2026/08/blog-two-768x512.png",
+                "width": 768
+              },
+              {
+                "src": "/wp-content/uploads/2026/08/blog-two-18x12.png",
+                "width": 18
+              },
+              {
+                "src": "/wp-content/uploads/2026/08/blog-two-450x300.png",
+                "width": 450
+              },
+              {
+                "src": "/wp-content/uploads/2026/08/blog-two.png",
+                "width": 1536
+              }
+            ],
+            "sizes": "(max-width: 300px) 100vw, 300px"
+          },
+          "category": {
+            "label": "التسويق الرقمي",
+            "href": "/category/digital-marketing-strategy/"
+          },
+          "dateLabel": "August 26, 2026",
+          "actionLabel": "اقرأ المقال"
+        }
+      ],
+      "footer": {
+        "owner": "NALK SOLUTIONS pvt Ltd",
+        "notice": "© 2026 - جميع الحقوق محفوظة"
+      }
+    }
+  },
+  "sourceSnapshot": {
+    "id": "R-5e053fd003b0e1cd",
+    "sourceRouteId": "R-5e053fd003b0e1cd",
+    "path": "/تطوير-الويب-للشركات-السعودية/",
+    "kind": "article",
+    "locale": "ar",
+    "status": "published",
+    "seo": {
+      "title": "تطوير الويب للشركات السعودية: دليل عملي شامل 2026",
+      "description": "تطوير المواقع الإلكترونية، تصميم المواقع في السعودية، تكلفة تطوير موقع شركة، شركة تطوير ويب، نظام حماية البيانات الشخصية PDPL، متجر إلكتروني السعودية، تحسين محركات البحث، التصميم المتجاوب",
+      "canonical": "https://nalksolutions.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%88%d9%8a%d8%a8-%d9%84%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9/",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "googlebot": null,
+      "social": [
+        {
+          "property": "og:locale",
+          "content": "en_US"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "تطوير الويب للشركات السعودية: دليل عملي شامل 2026"
+        },
+        {
+          "property": "og:description",
+          "content": "تطوير المواقع الإلكترونية، تصميم المواقع في السعودية، تكلفة تطوير موقع شركة، شركة تطوير ويب، نظام حماية البيانات الشخصية PDPL، متجر إلكتروني السعودية، تحسين محركات البحث، التصميم المتجاوب"
+        },
+        {
+          "property": "og:url",
+          "content": "https://nalksolutions.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%88%d9%8a%d8%a8-%d9%84%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Nalk Solutions"
+        },
+        {
+          "property": "og:updated_time",
+          "content": "2026-08-11T22:20:33+00:00"
+        },
+        {
+          "property": "og:image",
+          "content": "https://nalksolutions.com/wp-content/uploads/2026/03/تطوير-الويب-للشركات-السعودية-دليل-عملي-5-1024x683.png"
+        },
+        {
+          "property": "og:image:secure_url",
+          "content": "https://nalksolutions.com/wp-content/uploads/2026/03/تطوير-الويب-للشركات-السعودية-دليل-عملي-5-1024x683.png"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1024"
+        },
+        {
+          "property": "og:image:height",
+          "content": "683"
+        },
+        {
+          "property": "og:image:alt",
+          "content": "تطوير-الويب-للشركات-السعودية-دليل-عملي"
+        },
+        {
+          "property": "og:image:type",
+          "content": "image/png"
+        },
+        {
+          "property": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "property": "twitter:title",
+          "content": "تطوير الويب للشركات السعودية: دليل عملي شامل 2026"
+        },
+        {
+          "property": "twitter:description",
+          "content": "تطوير المواقع الإلكترونية، تصميم المواقع في السعودية، تكلفة تطوير موقع شركة، شركة تطوير ويب، نظام حماية البيانات الشخصية PDPL، متجر إلكتروني السعودية، تحسين محركات البحث، التصميم المتجاوب"
+        },
+        {
+          "property": "twitter:image",
+          "content": "https://nalksolutions.com/wp-content/uploads/2026/03/تطوير-الويب-للشركات-السعودية-دليل-عملي-5-1024x683.png"
+        },
+        {
+          "property": "twitter:label1",
+          "content": "Written by"
+        },
+        {
+          "property": "twitter:data1",
+          "content": "uhj1984@yahoo.com"
+        },
+        {
+          "property": "twitter:label2",
+          "content": "Time to read"
+        },
+        {
+          "property": "twitter:data2",
+          "content": "7 minutes"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Place",
+              "@id": "https://nalksolutions.com/#place",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              }
+            },
+            {
+              "@type": ["ProfessionalService", "Organization"],
+              "@id": "https://nalksolutions.com/#organization",
+              "name": "Nalk Solutions",
+              "url": "https://nalksolutions.com",
+              "email": "info@nalksolutions.com",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              },
+              "logo": {
+                "@type": "ImageObject",
+                "@id": "https://nalksolutions.com/#logo",
+                "url": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "contentUrl": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "caption": "Nalk Solutions",
+                "inLanguage": "en-US",
+                "width": "1563",
+                "height": "1563"
+              },
+              "openingHours": ["Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"],
+              "description": "Nalk provides Nalk Solutions is a technology company in Saudi Arabia; delivering digital marketing, web development, app development &amp; IT solutions across Riyadh, Jeddah and all major cities across the kingdom.",
+              "legalName": "uhj1984@yahoo.com",
+              "location": {
+                "@id": "https://nalksolutions.com/#place"
+              },
+              "image": {
+                "@id": "https://nalksolutions.com/#logo"
+              },
+              "telephone": "+966506000843"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://nalksolutions.com/#website",
+              "url": "https://nalksolutions.com",
+              "name": "Nalk Solutions",
+              "publisher": {
+                "@id": "https://nalksolutions.com/#organization"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "ImageObject",
+              "@id": "https://nalksolutions.com/wp-content/uploads/2026/03/تطوير-الويب-للشركات-السعودية-دليل-عملي-5-scaled.png",
+              "url": "https://nalksolutions.com/wp-content/uploads/2026/03/تطوير-الويب-للشركات-السعودية-دليل-عملي-5-scaled.png",
+              "width": "2560",
+              "height": "1706",
+              "caption": "تطوير-الويب-للشركات-السعودية-دليل-عملي",
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://nalksolutions.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%88%d9%8a%d8%a8-%d9%84%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": "1",
+                  "item": {
+                    "@id": "https://nalksolutions.com",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "position": "2",
+                  "item": {
+                    "@id": "https://nalksolutions.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%88%d9%8a%d8%a8-%d9%84%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9/",
+                    "name": "تطوير الويب للشركات السعودية: دليل عملي"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://nalksolutions.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%88%d9%8a%d8%a8-%d9%84%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9/#webpage",
+              "url": "https://nalksolutions.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%88%d9%8a%d8%a8-%d9%84%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9/",
+              "name": "تطوير الويب للشركات السعودية: دليل عملي شامل 2026",
+              "datePublished": "2026-03-09T02:08:39+00:00",
+              "dateModified": "2026-08-11T22:20:33+00:00",
+              "isPartOf": {
+                "@id": "https://nalksolutions.com/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://nalksolutions.com/wp-content/uploads/2026/03/تطوير-الويب-للشركات-السعودية-دليل-عملي-5-scaled.png"
+              },
+              "inLanguage": "en-US",
+              "breadcrumb": {
+                "@id": "https://nalksolutions.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%88%d9%8a%d8%a8-%d9%84%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9/#breadcrumb"
+              }
+            },
+            {
+              "@type": "Person",
+              "@id": "https://nalksolutions.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%88%d9%8a%d8%a8-%d9%84%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9/#author",
+              "name": "uhj1984@yahoo.com",
+              "image": {
+                "@type": "ImageObject",
+                "@id": "https://secure.gravatar.com/avatar/579a7bde0ace771a4bb782feeb83aba48d2b689bebee8d20b924c6b2991e04fa?s=96&amp;d=mm&amp;r=g",
+                "url": "https://secure.gravatar.com/avatar/579a7bde0ace771a4bb782feeb83aba48d2b689bebee8d20b924c6b2991e04fa?s=96&amp;d=mm&amp;r=g",
+                "caption": "uhj1984@yahoo.com",
+                "inLanguage": "en-US"
+              },
+              "sameAs": ["https://nalksolutions.com"],
+              "worksFor": {
+                "@id": "https://nalksolutions.com/#organization"
+              }
+            },
+            {
+              "@type": "BlogPosting",
+              "headline": "تطوير الويب للشركات السعودية: دليل عملي شامل 2026",
+              "keywords": "تطوير الويب للشركات",
+              "datePublished": "2026-03-09T02:08:39+00:00",
+              "dateModified": "2026-08-11T22:20:33+00:00",
+              "author": {
+                "@id": "https://nalksolutions.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%88%d9%8a%d8%a8-%d9%84%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9/#author",
+                "name": "uhj1984@yahoo.com"
+              },
+              "publisher": {
+                "@id": "https://nalksolutions.com/#organization"
+              },
+              "description": "تطوير المواقع الإلكترونية، تصميم المواقع في السعودية، تكلفة تطوير موقع شركة، شركة تطوير ويب، نظام حماية البيانات الشخصية PDPL، متجر إلكتروني السعودية، تحسين محركات البحث، التصميم المتجاوب",
+              "name": "تطوير الويب للشركات السعودية: دليل عملي شامل 2026",
+              "@id": "https://nalksolutions.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%88%d9%8a%d8%a8-%d9%84%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9/#richSnippet",
+              "isPartOf": {
+                "@id": "https://nalksolutions.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%88%d9%8a%d8%a8-%d9%84%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9/#webpage"
+              },
+              "image": {
+                "@id": "https://nalksolutions.com/wp-content/uploads/2026/03/تطوير-الويب-للشركات-السعودية-دليل-عملي-5-scaled.png"
+              },
+              "inLanguage": "en-US",
+              "mainEntityOfPage": {
+                "@id": "https://nalksolutions.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%88%d9%8a%d8%a8-%d9%84%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9/#webpage"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "content": {
+      "heading": "تطوير الويب للشركات السعودية: دليل عملي",
+      "paragraphs": ["تطوير الويب للشركات السعودية: دليل عملي"],
+      "documentId": "R-5e053fd003b0e1cd"
+    },
+    "provenance": {
+      "sourceHtml": "nalk-public-archive/html/source/home-5e053fd003b0e1cd.html",
+      "sourceSha256": "952c865b5b23ee3d5ce1fc4c4dde05b5ef24098b4958dbd7e8493e3fbde3f02e",
+      "pageRecord": "nalk-public-archive/pages/home-5e053fd003b0e1cd.json",
+      "pageRecordSha256": "dd88f0f78ed56139a49279360b36110f2c567d09238f62d6f947bd837abf9e2b",
+      "excerpt": false,
+      "headingFallback": false
+    }
+  }
+}

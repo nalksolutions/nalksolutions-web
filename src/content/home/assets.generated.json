@@ -1,0 +1,319 @@
+{
+  "schemaVersion": 1,
+  "roles": {
+    "logo": "/wp-content/uploads/2025/10/Nalk-solution-1-e1760980726789.png",
+    "footerLogo": "/wp-content/uploads/2025/10/23-e1760999812942.png",
+    "heroFrame": "/wp-content/uploads/2025/09/71-home-2-background-1.webp",
+    "hero": "/wp-content/uploads/2025/09/71-home-2-1.webp",
+    "intro": "/wp-content/uploads/2025/09/71-home-2-background-2.webp",
+    "ring": "/wp-content/uploads/2025/09/71-home-2-2-1024x1024.webp",
+    "benefits": "/wp-content/uploads/2025/09/71-home-2-3.webp",
+    "testimonials": "/wp-content/uploads/2025/09/71-home-2-background-4.webp",
+    "videoPoster": "/wp-content/uploads/2025/09/71-home-1-8.webp",
+    "stats": "/wp-content/uploads/2025/09/71-home-2-background-5.webp",
+    "cta": "/wp-content/uploads/2025/09/71-home-2-background-6.webp",
+    "footer": "/wp-content/uploads/2025/10/71-home-2-footer-background.webp",
+    "socialImage": "/wp-content/uploads/2026/02/cropped-Nalk-logo.png"
+  },
+  "logos": [
+    "/wp-content/uploads/2025/10/GoldenTrust-300x98.png",
+    "/wp-content/uploads/2025/10/Iftikhar-300x98.png",
+    "/wp-content/uploads/2025/10/Alghad-300x98.png",
+    "/wp-content/uploads/2025/10/HH-300x98.png",
+    "/wp-content/uploads/2025/10/Akyme-300x98.png",
+    "/wp-content/uploads/2025/10/Afnan-300x98.png",
+    "/wp-content/uploads/2025/10/KS-300x98.png",
+    "/wp-content/uploads/2025/10/Anas-Abdullah-300x98.png",
+    "/wp-content/uploads/2025/10/Momaiza-300x98.png",
+    "/wp-content/uploads/2026/06/Expo-white-logo-300x180.png",
+    "/wp-content/uploads/2026/06/arena-shield-300x180.png",
+    "/wp-content/uploads/2026/06/Peak-View-240x300.png"
+  ],
+  "images": [
+    {
+      "path": "/wp-content/uploads/2025/08/71-service-2-1024x781.webp",
+      "sha256": "c7dbcd35ae436babca72bc86010e30d6420219991d22bbb7374a233fbf982627",
+      "bytes": 65304,
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/2025/08/71-service-2-1024x781.webp",
+      "width": 1024,
+      "height": 781
+    },
+    {
+      "path": "/wp-content/uploads/2025/08/71-service-5-1024x781.webp",
+      "sha256": "79d7686374292521f3b11e367d8704cea4c9b7f8d07f6dc3f9420496df4cd24d",
+      "bytes": 35516,
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/2025/08/71-service-5-1024x781.webp",
+      "width": 1024,
+      "height": 781
+    },
+    {
+      "path": "/wp-content/uploads/2025/09/71-home-1-8.webp",
+      "sha256": "8500d8a3f6c30b61de7bb705f298f4e0c3b2f34dc5f8b21d2e04e1b85746c241",
+      "bytes": 47430,
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/2025/09/71-home-1-8.webp",
+      "width": 600,
+      "height": 750
+    },
+    {
+      "path": "/wp-content/uploads/2025/09/71-home-2-1.webp",
+      "sha256": "7aa49d4725ca8f17b1de7a2630962627c76ea41aba4d9ae652453d05142f317d",
+      "bytes": 30538,
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/2025/09/71-home-2-1.webp",
+      "width": 1900,
+      "height": 1060
+    },
+    {
+      "path": "/wp-content/uploads/2025/09/71-home-2-2-1024x1024.webp",
+      "sha256": "b61af246d76a477dec8751aaf4e7572605bb53271439379fc24682433c3d5898",
+      "bytes": 46306,
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/2025/09/71-home-2-2-1024x1024.webp",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "path": "/wp-content/uploads/2025/09/71-home-2-3.webp",
+      "sha256": "3cc27e31279cc8e2c146fe16a2b1d4cde789331d61e780d0024c25fde99eaf4d",
+      "bytes": 49812,
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/2025/09/71-home-2-3.webp",
+      "width": 500,
+      "height": 670
+    },
+    {
+      "path": "/wp-content/uploads/2025/09/71-home-2-background-1.webp",
+      "sha256": "e78a2c7a2fdaeb1413957688737b46a2543592c4346be713529dc4fd1a1f8af0",
+      "bytes": 58270,
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/2025/09/71-home-2-background-1.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "path": "/wp-content/uploads/2025/09/71-home-2-background-2.webp",
+      "sha256": "ecf276cdc5590069e546beaf3b919d985c7c2505ef76bed6f9fbd57ba8ef14d3",
+      "bytes": 115364,
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/2025/09/71-home-2-background-2.webp",
+      "width": 1920,
+      "height": 1260
+    },
+    {
+      "path": "/wp-content/uploads/2025/09/71-home-2-background-4.webp",
+      "sha256": "e36978f30a64e9c1143e1ff425dac50675aa73480bbc3f64f603b161bb18d75b",
+      "bytes": 53616,
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/2025/09/71-home-2-background-4.webp",
+      "width": 1920,
+      "height": 1460
+    },
+    {
+      "path": "/wp-content/uploads/2025/09/71-home-2-background-5.webp",
+      "sha256": "edc6b58ad0d229377278ebb0bfdd18c25f3097dc594712d701c53594e58228d7",
+      "bytes": 19284,
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/2025/09/71-home-2-background-5.webp",
+      "width": 1920,
+      "height": 324
+    },
+    {
+      "path": "/wp-content/uploads/2025/09/71-home-2-background-6.webp",
+      "sha256": "7067d18678424c34469b20c79bd65dddf4eee4abcf2a3d5a43fdd29091465ba4",
+      "bytes": 79602,
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/2025/09/71-home-2-background-6.webp",
+      "width": 1280,
+      "height": 614
+    },
+    {
+      "path": "/wp-content/uploads/2025/10/23-e1760999812942.png",
+      "sha256": "4a6567268bcda45096e954b833b99a48afaba4f79257f334b13d75d8fffabcd9",
+      "bytes": 188294,
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/2025/10/23-e1760999812942.png",
+      "width": 1563,
+      "height": 878
+    },
+    {
+      "path": "/wp-content/uploads/2025/10/71-home-2-footer-background.webp",
+      "sha256": "74b03eb69de8467276eaccb9b5072ab86eb0596d9eae2eb1bd0bb46a9e4786ff",
+      "bytes": 15270,
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/2025/10/71-home-2-footer-background.webp",
+      "width": 1920,
+      "height": 304
+    },
+    {
+      "path": "/wp-content/uploads/2025/10/Afnan-300x98.png",
+      "sha256": "1cad3b9631c9da1c9012089d114e6f1aa5c20f93cbe5e2663d4b75507bed3b9d",
+      "bytes": 2118,
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/2025/10/Afnan-300x98.png",
+      "width": 300,
+      "height": 98
+    },
+    {
+      "path": "/wp-content/uploads/2025/10/Akyme-300x98.png",
+      "sha256": "9ff0adbaed01826c8a25c6f6fd9b314cfa83b494314e438ce77cbb2d2e4b938d",
+      "bytes": 3462,
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/2025/10/Akyme-300x98.png",
+      "width": 300,
+      "height": 98
+    },
+    {
+      "path": "/wp-content/uploads/2025/10/Alghad-300x98.png",
+      "sha256": "06f7ed4e63de30ab0c9110bc366c442555f126d225f2b61604b7620e4bb3a914",
+      "bytes": 1793,
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/2025/10/Alghad-300x98.png",
+      "width": 300,
+      "height": 98
+    },
+    {
+      "path": "/wp-content/uploads/2025/10/Anas-Abdullah-300x98.png",
+      "sha256": "d97b94cbf5519ef6e250e4ddcd2633898e8fa1f9deee9c21426f3361f168bc73",
+      "bytes": 3272,
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/2025/10/Anas-Abdullah-300x98.png",
+      "width": 300,
+      "height": 98
+    },
+    {
+      "path": "/wp-content/uploads/2025/10/GoldenTrust-300x98.png",
+      "sha256": "79775a960f11ccb8fdcf3a00d77dd259849a80aafed745a9a2fd06523332d8bc",
+      "bytes": 5477,
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/2025/10/GoldenTrust-300x98.png",
+      "width": 300,
+      "height": 98
+    },
+    {
+      "path": "/wp-content/uploads/2025/10/HH-300x98.png",
+      "sha256": "31a8deb03a43b2707dcc57df99b52d7034e16b53f728d3849ed97a07caed1d55",
+      "bytes": 7736,
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/2025/10/HH-300x98.png",
+      "width": 300,
+      "height": 98
+    },
+    {
+      "path": "/wp-content/uploads/2025/10/Iftikhar-300x98.png",
+      "sha256": "b1597b47dd7d0a601f10004ee91d0fface2d45419cbfe87fafb8d2cd417fa271",
+      "bytes": 7151,
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/2025/10/Iftikhar-300x98.png",
+      "width": 300,
+      "height": 98
+    },
+    {
+      "path": "/wp-content/uploads/2025/10/KS-300x98.png",
+      "sha256": "1ce10497feb2559557b64a7e4184ff997186702097c5ffe6673908bcc3fdd603",
+      "bytes": 5141,
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/2025/10/KS-300x98.png",
+      "width": 300,
+      "height": 98
+    },
+    {
+      "path": "/wp-content/uploads/2025/10/Momaiza-300x98.png",
+      "sha256": "130d92bc0ea153e1f4a0268fc05f6a8024b65368217ca34f0ebfcf583ae8fb41",
+      "bytes": 7860,
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/2025/10/Momaiza-300x98.png",
+      "width": 300,
+      "height": 98
+    },
+    {
+      "path": "/wp-content/uploads/2025/10/Nalk-solution-1-e1760980726789.png",
+      "sha256": "04126d715a7363a93c90e909f4b86aa651f90cbb8708ff726aa68ef0e8f38e52",
+      "bytes": 180746,
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/2025/10/Nalk-solution-1-e1760980726789.png",
+      "width": 1563,
+      "height": 758
+    },
+    {
+      "path": "/wp-content/uploads/2025/10/SL-101820-36860-11-1024x683.jpg",
+      "sha256": "207180d6e3160e99c5186ae4619f388dfc2b98901be2a180d8e49e15f6a848f7",
+      "bytes": 93347,
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/2025/10/SL-101820-36860-11-1024x683.jpg",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "path": "/wp-content/uploads/2026/02/cropped-Nalk-logo.png",
+      "sha256": "1c4438ac81bdd794eab00db0f776a79aae9fd193c7f82621a6d8bd0255d72ad7",
+      "bytes": 23838,
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads3.zip",
+      "sourceMember": "uploads/2026/02/cropped-Nalk-logo.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "path": "/wp-content/uploads/2026/06/Expo-white-logo-300x180.png",
+      "sha256": "23925e7e443a8f9fc35334d51d04540e169b42dbf77baff3232d608067e680e3",
+      "bytes": 14276,
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads4.zip",
+      "sourceMember": "uploads/2026/06/Expo-white-logo-300x180.png",
+      "width": 300,
+      "height": 180
+    },
+    {
+      "path": "/wp-content/uploads/2026/06/Peak-View-240x300.png",
+      "sha256": "8c59813d1305102991569b1b75230f80c7c3c89d2ebd01813fd9bfb25e501cfa",
+      "bytes": 12228,
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads4.zip",
+      "sourceMember": "uploads/2026/06/Peak-View-240x300.png",
+      "width": 240,
+      "height": 300
+    },
+    {
+      "path": "/wp-content/uploads/2026/06/arena-shield-300x180.png",
+      "sha256": "19729145b07bd8bbd538073acea16f0b2d5d567126969b660073ee019d670bf8",
+      "bytes": 9643,
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads4.zip",
+      "sourceMember": "uploads/2026/06/arena-shield-300x180.png",
+      "width": 300,
+      "height": 180
+    }
+  ],
+  "fonts": [
+    {
+      "path": "/fonts/manrope-latin.woff2",
+      "sourceUrl": "https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSg.woff2",
+      "sha256": "a30ddcd349703aff7464c34bef3fffdff405ee50c113440d7c8693c02d210972",
+      "bytes": 24836
+    },
+    {
+      "path": "/fonts/space-grotesk-latin.woff2",
+      "sourceUrl": "https://fonts.gstatic.com/s/spacegrotesk/v22/V8mDoQDjQSkFtoMM3T6r8E7mPbF4Cw.woff2",
+      "sha256": "0640890476fc1198ab4de571fb658de443c4d85b66466ec09534a8737ab1ce9d",
+      "bytes": 22288
+    },
+    {
+      "path": "/fonts/Manrope-OFL.txt",
+      "sourceUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/OFL.txt",
+      "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b",
+      "bytes": 4387
+    },
+    {
+      "path": "/fonts/SpaceGrotesk-OFL.txt",
+      "sourceUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/spacegrotesk/OFL.txt",
+      "sha256": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72",
+      "bytes": 4495
+    },
+    {
+      "path": "/fonts/cmsmasters-demo-icons.woff",
+      "sha256": "9de7678ee7c1218ff101a0e9865a6bb9da1ff56e7288966a5a6fa9afba36bb32",
+      "bytes": 6532,
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/elementor/cmsmasters-local-icons/cmsmasters-demo-icons/fonts/cmsmasters-demo-icons.woff"
+    }
+  ]
+}

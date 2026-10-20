@@ -1,0 +1,102 @@
+@font-face {
+  font-family: 'Noto Sans Arabic';
+  src: url('/fonts/noto-sans-arabic.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+}
+.marketing-site:lang(ar) :is(.home-brand-track, .home-marquee-track) {
+  direction: ltr;
+}
+.marketing-site:lang(ar) .home-marquee-group > span {
+  direction: rtl;
+  unicode-bidi: isolate;
+}
+.marketing-site:lang(ar) {
+  --font-nalk-body: 'Noto Sans Arabic', 'Manrope', sans-serif;
+  --font-nalk-heading: 'Noto Sans Arabic', 'Space Grotesk', sans-serif;
+  font-family: var(--font-nalk-body);
+  line-height: 1.8;
+}
+.marketing-site:lang(ar) :is(h1, h2, h3, h4, h5, h6, .site-button, summary) {
+  letter-spacing: normal;
+}
+.marketing-site:lang(ar) h1 {
+  line-height: 1.4;
+}
+.marketing-site:lang(ar) :is(h2, h3, h4) {
+  line-height: 1.55;
+}
+.marketing-site:lang(ar) :is(p, li) {
+  line-height: 1.8;
+}
+.marketing-site:lang(ar) .site-button {
+  --button-hover-shift: -5px;
+  line-height: 1.8;
+}
+.marketing-site:lang(ar) .site-button :is(.site-icon[data-icon='arrow'], .site-button-icon),
+.marketing-site:lang(ar) .service-detail-link > svg {
+  transform: scaleX(-1);
+}
+.marketing-site:lang(ar) .service-detail-link:is(:hover, :focus-visible) > svg {
+  transform: scaleX(-1) translateX(3px);
+}
+.marketing-site:lang(ar) .home-hero-content {
+  padding-inline: 0;
+  text-align: start;
+}
+.marketing-site:lang(ar) .home-hero h1 {
+  font-size: clamp(40px, 5.2vw, 76px);
+  max-width: 19ch;
+}
+.marketing-site:lang(ar) .home-feature-copy {
+  text-align: start;
+}
+.marketing-site:lang(ar)
+  :is(.content-service-heading, .content-service-copy, .content-service-action-center) {
+  text-align: start;
+}
+.marketing-site:lang(ar) .contact-brief ol {
+  padding-inline-start: 28px;
+  padding-inline-end: 0;
+}
+.marketing-site:lang(ar) .content-listing-body {
+  display: block;
+}
+.marketing-site:lang(ar) .desktop-nav [lang='ar'] {
+  font-family: var(--font-nalk-body);
+}
+.marketing-site:lang(ar) :is(input[type='email'], input[type='tel'], pre, code) {
+  direction: ltr;
+  text-align: start;
+  unicode-bidi: isolate;
+}
+.language-trigger {
+  border: 0;
+  color: inherit;
+  background: transparent;
+  padding: 0;
+  font: inherit;
+}
+.language-dialog {
+  max-width: min(480px, calc(100vw - 32px));
+}
+.language-dialog a {
+  display: inline-block;
+  margin-block: 10px;
+  text-decoration: underline;
+}
+@media (max-width: 767px) {
+  .marketing-site:lang(ar) .home-hero h1 {
+    font-size: clamp(36px, 9vw, 52px);
+    line-height: 1.5;
+  }
+  .marketing-site:lang(ar) .home-hero {
+    min-height: 900px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .marketing-site:lang(ar) .service-detail-link:is(:hover, :focus-visible) > svg {
+    transform: scaleX(-1);
+  }
+}

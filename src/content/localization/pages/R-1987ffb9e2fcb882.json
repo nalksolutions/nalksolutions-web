@@ -1,0 +1,4531 @@
+{
+  "entityId": "R-1987ffb9e2fcb882",
+  "path": "/ar/b2b-portal-website-development-saudi-arabia/",
+  "publication": {
+    "ready": true,
+    "acceptance": "ownerManaged"
+  },
+  "review": {
+    "status": "inReview",
+    "reviewer": null,
+    "approvedAt": null,
+    "translationRevision": "arabic-content-1",
+    "sourceInputs": [
+      {
+        "path": "src/content/site/pages.generated.json",
+        "sha256": "7cd8249a8f5b73200fb4c39193dc5469fa0cc595cc493904a611272606512429"
+      },
+      {
+        "path": "src/content/site/documents/R-1987ffb9e2fcb882.json",
+        "sha256": "f99020d62407eb69e1d5387e70ab3fe6a7899f940a700ea7022427fcdd092fdf"
+      }
+    ]
+  },
+  "seo": {
+    "title": "خدمات تطوير بوابة B2B ومواقع B2B في المملكة العربية السعودية",
+    "description": "نطوّر بوابات مخصصة للتعامل بين الشركات (B2B)، وبوابات للعملاء ومواقع للأعمال في الرياض وجدة والدمام ومختلف مناطق السعودية. اطلب استشارة مجانية."
+  },
+  "heading": "تطوير بوابة B2B والمواقع الإلكترونية في المملكة العربية السعودية",
+  "blocks": {},
+  "imageAlts": {},
+  "issues": [
+    "Machine-assisted offline authoring; linguistic acceptance managed internally by the owner."
+  ],
+  "document": {
+    "nodes": [
+      {
+        "type": "text",
+        "text": " "
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-hero",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-100",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h1",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تطوير بوابة B2B والمواقع الإلكترونية في المملكة العربية السعودية"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {
+                          "dir": "ltr"
+                        },
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "في نالك سوليوشنز، نقوم ببناء منصات B2B التي تحرك الأعمال الحقيقية. باعتبارنا شركة متخصصة في تطوير مواقع B2B ومواقع الويب في المملكة العربية السعودية، فإننا نقدم خدمات تطوير مواقع B2B وتطوير بوابات B2B المخصصة للشركات التي تبيع لشركات أخرى، أو تدير شبكات الوكلاء، أو تحتاج إلى أنظمة خدمة ذاتية آمنة للعملاء والموردين. من الرياض وجدة إلى الدمام والمنطقة الشرقية على نطاق أوسع، نقوم بتصميم مواقع B2B وبوابات الويب التي تختصر دورات المبيعات وتختصر العمل اليدوي وتمنح شركائك مكانًا سريعًا وآمنًا للتعامل معك."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {
+                          "dir": "ltr"
+                        },
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "سواء كنت بحاجة إلى موقع ويب B2B لإنشاء عملاء محتملين، أو بوابة عملاء حيث يقوم العملاء بتقديم الطلبات وتتبعها، أو نظام تشغيلي مخصص يرتبط بتخطيط موارد المؤسسات (ERP) الخاص بك، فإننا نبني منصات B2B تتوافق مع أهداف التحول الرقمي لرؤية المملكة العربية السعودية 2030 وتوسيع نطاقها مع عملياتك."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {
+                          "dir": "ltr"
+                        },
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تقوم نالك سوليوشنز ببناء بوابات ومواقع B2B للقطاعات التي تدير اقتصاد المملكة العربية السعودية. نحن نعمل مع الشركات الصناعية والتصنيعية، وشركات البيع بالجملة والتوزيع، وشركات الخدمات اللوجستية وسلسلة التوريد، ومجموعات البناء والمقاولات، وموردي الرعاية الصحية والطبية، وخدمات الطاقة وحقول النفط، وفرق الخدمات المهنية والمالية في جميع أنحاء الرياض وجدة والدمام. مهما كان القطاع، فإن الحاجة هي نفسها: بوابات آمنة ومنصات B2B تربطك بعملائك وتجارك ومورديك، وتقلل من العمل اليدوي، وتحافظ على تقدم الأعمال."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {
+                          "dir": "ltr"
+                        },
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/contacts/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n\nاحصل على استشارتك المجانية اليوم\n\n"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-statistics",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-25",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-counter",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-title",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "سنوات الخبرة"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-number",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": []
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "15"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "+"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-25",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-counter",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-title",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "المشاريع التي تم تسليمها"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-number",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": []
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "200"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "+"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-25",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-counter",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-title",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "رضا العميل"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-counter-number",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": []
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "98"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-counter-part",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "%"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-25",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h5",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "نخدم الرياض وجدة والدمام"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-100",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "خدمات تطوير المواقع والبوابات الإلكترونية B2B في المملكة العربية السعودية"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {
+                          "dir": "ltr"
+                        },
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "B2B هي لعبة مختلفة عن شبكة الإنترنت الاستهلاكية. المشترون لديك هم فرق المشتريات والموزعون ومديرو الحسابات الذين يحتاجون إلى المعلومات بسرعة ويتوقعون أن تعمل الأنظمة. تم بناء موقع الويب B2B وخدمات تطوير البوابة الإلكترونية الخاصة بنا في المملكة العربية السعودية حول هذا الواقع، حيث تجمع بين مواقع التسويق التي تولد عملاء محتملين مؤهلين والبوابات التي تدير العمل خلفها."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تطوير موقع B2B"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {
+                          "dir": "ltr"
+                        },
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تم تصميم خدمات تطوير مواقع B2B الخاصة بنا في المملكة العربية السعودية لجذب المشترين من الشركات، وليس فقط لإثارة إعجابهم. نقوم بإنشاء مواقع تتمحور حول دورات مبيعات طويلة وصناع قرار متعددين وإشارات الثقة المهمة في B2B، بما في ذلك صفحات الخدمة التفصيلية ودراسات الحالة والمواصفات الفنية والمسارات الواضحة لمحادثة المبيعات. كل موقع B2B نقوم بإنشائه يكون جاهزًا ثنائي اللغة مع دعم مناسب باللغتين العربية والإنجليزية، وسريع على الهاتف المحمول، ومُحسّن حتى تتمكن فرق المشتريات من العثور عليك في البحث."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {
+                          "dir": "ltr"
+                        },
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/services-custom-website-development-saudi-arabia/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n\nتعرف على المزيد حول خدمات تطوير الويب المخصصة في المملكة العربية السعودية\n\n"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تطوير بوابة B2B المخصصة"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {
+                          "dir": "ltr"
+                        },
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "يمنح تطوير بوابة B2B المخصصة لعملائك وشركائك وموظفيك مكانًا آمنًا للعمل معك على مدار الساعة. نحن نبني بوابات B2B من خلال عمليات تسجيل الدخول المستندة إلى الأدوار، ولوحات المعلومات المخصصة، وإدارة الطلبات والحسابات، ومشاركة المستندات، وتتبع الحالة في الوقت الفعلي. تم تصميم كل بوابة وفقًا لسير العمل الخاص بك بدلاً من فرضها في قالب، ولهذا السبب تختار الشركات النامية في جميع أنحاء المملكة العربية السعودية تطوير بوابة B2B المخصصة بدلاً من الأدوات الجاهزة التي لا تناسبها تمامًا."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {
+                          "dir": "ltr"
+                        },
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/services-wordpress-development-saudi-arabia/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n\nاستكشف وكالة تطوير موقع WordPress الخاصة بنا\n\n"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تطوير بوابة الويب المخصصة"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {
+                          "dir": "ltr"
+                        },
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "باعتبارنا شركة بوابة ويب مخصصة في المملكة العربية السعودية، نقوم بتصميم وبناء بوابات ويب آمنة تعمل على مركزية الطريقة التي يتفاعل بها فريقك وعملائك والبائعين. تعمل بوابات الويب على تقليل المكالمات الهاتفية ورسائل البريد الإلكتروني وإدخال البيانات يدويًا من خلال السماح للمستخدمين بالخدمة الذاتية من خلال نظام أساسي واحد يتم التحكم فيه. بدءًا من بوابات الشركاء وأنظمة المشتريات ووصولاً إلى مراكز العمليات الداخلية، نقدم حلول بوابات الويب المصممة للشركات السعودية التي تجاوزت جداول البيانات وصناديق البريد الوارد المشتركة."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {
+                          "dir": "ltr"
+                        },
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/services-ecommerce-development-saudi-arabia/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n\nاكتشف خدمات تطوير مواقع التجارة الإلكترونية\n\n"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تطوير بوابة العملاء"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "يقوم مطورو بوابة العملاء لدينا ببناء بوابات تواجه العملاء حيث يقوم عملاؤك بعرض معلومات الحساب، ووضع المنتجات وإعادة طلبها، وتنزيل الفواتير، ورفع تذاكر الدعم، وتتبع عمليات التسليم. تعمل بوابة العملاء جيدة التصميم على تحويل حمل الدعم إلى خدمة ذاتية وتمنح العملاء سببًا للبقاء. نحن نتعامل مع المصادقة الآمنة ومستويات الأذونات والتكامل مع أنظمة الفوترة وإدارة علاقات العملاء الحالية لديك."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/services-pwa-development-in-saudi-arabia/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n\nتعرف على تطبيقات الويب التقدمية للشركات السعودية\n\n"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تطوير بوابة الموردين والموردين"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {
+                          "dir": "ltr"
+                        },
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تعمل بوابات البائعين والموردين على تبسيط عمليات الشراء وأوامر الشراء واتصالات الموردين في مساحة واحدة يمكن التحكم فيها. نحن نبني منصات حيث يقدم الموردون عروض الأسعار، ويحدثون حالة التسليم، ويديرون المستندات، مما يمنح فريق المشتريات لديك رؤية كاملة ومسار تدقيق نظيف. وهذا أمر ذو قيمة خاصة للشركات في القطاعات الصناعية واللوجستية في جميع أنحاء المنطقة الشرقية."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {
+                          "dir": "ltr"
+                        },
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/services-cloud-portal-development-saudi-arabia/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n\nاكتشف حلول البوابة السحابية\n\n"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "برامج تشغيلية مخصصة"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {
+                          "dir": "ltr"
+                        },
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "عندما يتم تشغيل عملياتك وفقًا لعمليات لا يفهمها أي منتج معبأ، فإننا نبني برامج تشغيلية مخصصة حولها. تتعامل منصاتنا المخصصة مع المخزون والعمليات الميدانية والموافقات وإعداد التقارير وأي سير عمل خاص بكيفية إدارة أعمالك. نقوم بربط هذه الأنظمة بأدوات تخطيط موارد المؤسسات (ERP) وإدارة علاقات العملاء (CRM) وأدوات المحاسبة الخاصة بك بحيث تتدفق البيانات في اتجاه واحد بدلاً من إعادة إدخالها يدويًا."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {
+                          "dir": "ltr"
+                        },
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/services-website-maintenance-saudi-arabia/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n\nتعرف على خدمات صيانة المواقع في السعودية\n\n"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-50",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-100",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "لماذا تختار الشركات السعودية حلول Nalk لمنصات B2B"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "section",
+                    "attributes": {},
+                    "variant": "service-inner",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-columns",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "div",
+                            "attributes": {},
+                            "variant": "service-column-33",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "element",
+                                "tag": "div",
+                                "attributes": {},
+                                "variant": "service-feature",
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "text": "\n"
+                                  },
+                                  {
+                                    "type": "element",
+                                    "tag": "div",
+                                    "attributes": {},
+                                    "variant": "service-feature-inner",
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "text": "\n"
+                                      },
+                                      {
+                                        "type": "element",
+                                        "tag": "div",
+                                        "attributes": {},
+                                        "variant": "service-feature-icon",
+                                        "children": [
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          },
+                                          {
+                                            "type": "element",
+                                            "tag": "svg",
+                                            "attributes": {
+                                              "viewbox": "0 0 512 512"
+                                            },
+                                            "variant": null,
+                                            "children": [
+                                              {
+                                                "type": "element",
+                                                "tag": "path",
+                                                "attributes": {
+                                                  "d": "M349.565 98.783C295.978 98.783 251.721 64 184.348 64c-24.955 0-47.309 4.384-68.045 12.013a55.947 55.947 0 0 0 3.586-23.562C118.117 24.015 94.806 1.206 66.338.048 34.345-1.254 8 24.296 8 56c0 19.026 9.497 35.825 24 45.945V488c0 13.255 10.745 24 24 24h16c13.255 0 24-10.745 24-24v-94.4c28.311-12.064 63.582-22.122 114.435-22.122 53.588 0 97.844 34.783 165.217 34.783 48.169 0 86.667-16.294 122.505-40.858C506.84 359.452 512 349.571 512 339.045v-243.1c0-23.393-24.269-38.87-45.485-29.016-34.338 15.948-76.454 31.854-116.95 31.854z"
+                                                },
+                                                "variant": null,
+                                                "children": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " "
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": "\n"
+                                      },
+                                      {
+                                        "type": "element",
+                                        "tag": "div",
+                                        "attributes": {},
+                                        "variant": "service-feature-copy",
+                                        "children": [
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          },
+                                          {
+                                            "type": "element",
+                                            "tag": "h3",
+                                            "attributes": {},
+                                            "variant": null,
+                                            "children": [
+                                              {
+                                                "type": "text",
+                                                "text": "الوصول الآمن القائم على الدور"
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          },
+                                          {
+                                            "type": "element",
+                                            "tag": "p",
+                                            "attributes": {},
+                                            "variant": null,
+                                            "children": [
+                                              {
+                                                "type": "text",
+                                                "text": "تأتي كل بوابة مزودة بأذونات قائمة على الأدوار ومصادقة آمنة، بحيث يرى كل مستخدم فقط ما ينبغي له رؤيته. تظل بياناتك محمية عبر العملاء والبائعين والموظفين."
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": "\n"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "\n"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "div",
+                            "attributes": {},
+                            "variant": "service-column-33",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "element",
+                                "tag": "div",
+                                "attributes": {},
+                                "variant": "service-feature",
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "text": "\n"
+                                  },
+                                  {
+                                    "type": "element",
+                                    "tag": "div",
+                                    "attributes": {},
+                                    "variant": "service-feature-inner",
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "text": "\n"
+                                      },
+                                      {
+                                        "type": "element",
+                                        "tag": "div",
+                                        "attributes": {},
+                                        "variant": "service-feature-icon",
+                                        "children": [
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          },
+                                          {
+                                            "type": "element",
+                                            "tag": "svg",
+                                            "attributes": {
+                                              "viewbox": "0 0 640 512"
+                                            },
+                                            "variant": null,
+                                            "children": [
+                                              {
+                                                "type": "element",
+                                                "tag": "path",
+                                                "attributes": {
+                                                  "d": "M152.1 236.2c-3.5-12.1-7.8-33.2-7.8-33.2h-.5s-4.3 21.1-7.8 33.2l-11.1 37.5H163zM616 96H336v320h280c13.3 0 24-10.7 24-24V120c0-13.3-10.7-24-24-24zm-24 120c0 6.6-5.4 12-12 12h-11.4c-6.9 23.6-21.7 47.4-42.7 69.9 8.4 6.4 17.1 12.5 26.1 18 5.5 3.4 7.3 10.5 4.1 16.2l-7.9 13.9c-3.4 5.9-10.9 7.8-16.7 4.3-12.6-7.8-24.5-16.1-35.4-24.9-10.9 8.7-22.7 17.1-35.4 24.9-5.8 3.5-13.3 1.6-16.7-4.3l-7.9-13.9c-3.2-5.6-1.4-12.8 4.2-16.2 9.3-5.7 18-11.7 26.1-18-7.9-8.4-14.9-17-21-25.7-4-5.7-2.2-13.6 3.7-17.1l6.5-3.9 7.3-4.3c5.4-3.2 12.4-1.7 16 3.4 5 7 10.8 14 17.4 20.9 13.5-14.2 23.8-28.9 30-43.2H412c-6.6 0-12-5.4-12-12v-16c0-6.6 5.4-12 12-12h64v-16c0-6.6 5.4-12 12-12h16c6.6 0 12 5.4 12 12v16h64c6.6 0 12 5.4 12 12zM0 120v272c0 13.3 10.7 24 24 24h280V96H24c-13.3 0-24 10.7-24 24zm58.9 216.1L116.4 167c1.7-4.9 6.2-8.1 11.4-8.1h32.5c5.1 0 9.7 3.3 11.4 8.1l57.5 169.1c2.6 7.8-3.1 15.9-11.4 15.9h-22.9a12 12 0 0 1-11.5-8.6l-9.4-31.9h-60.2l-9.1 31.8c-1.5 5.1-6.2 8.7-11.5 8.7H70.3c-8.2 0-14-8.1-11.4-15.9z"
+                                                },
+                                                "variant": null,
+                                                "children": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " "
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": "\n"
+                                      },
+                                      {
+                                        "type": "element",
+                                        "tag": "div",
+                                        "attributes": {},
+                                        "variant": "service-feature-copy",
+                                        "children": [
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          },
+                                          {
+                                            "type": "element",
+                                            "tag": "h3",
+                                            "attributes": {},
+                                            "variant": null,
+                                            "children": [
+                                              {
+                                                "type": "text",
+                                                "text": "تكامل تخطيط موارد المؤسسات (ERP) وإدارة علاقات العملاء (CRM)."
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          },
+                                          {
+                                            "type": "element",
+                                            "tag": "p",
+                                            "attributes": {},
+                                            "variant": null,
+                                            "children": [
+                                              {
+                                                "type": "text",
+                                                "text": "نقوم بربط بوابات B2B الخاصة بك بالأنظمة التي تقوم بتشغيلها بالفعل، بما في ذلك أدوات تخطيط موارد المؤسسات (ERP) وإدارة علاقات العملاء (CRM) وأدوات المخزون. تظل الطلبات والحسابات والمستندات متزامنة بدلاً من العيش في صوامع منفصلة."
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": "\n"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "\n"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "div",
+                            "attributes": {},
+                            "variant": "service-column-33",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "element",
+                                "tag": "div",
+                                "attributes": {},
+                                "variant": "service-feature",
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "text": "\n"
+                                  },
+                                  {
+                                    "type": "element",
+                                    "tag": "div",
+                                    "attributes": {},
+                                    "variant": "service-feature-inner",
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "text": "\n"
+                                      },
+                                      {
+                                        "type": "element",
+                                        "tag": "div",
+                                        "attributes": {},
+                                        "variant": "service-feature-icon",
+                                        "children": [
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          },
+                                          {
+                                            "type": "element",
+                                            "tag": "svg",
+                                            "attributes": {
+                                              "viewbox": "0 0 384 512"
+                                            },
+                                            "variant": null,
+                                            "children": [
+                                              {
+                                                "type": "element",
+                                                "tag": "path",
+                                                "attributes": {
+                                                  "d": "M377 105L279.1 7c-4.5-4.5-10.6-7-17-7H256v128h128v-6.1c0-6.3-2.5-12.4-7-16.9zm-153 31V0H24C10.7 0 0 10.7 0 24v464c0 13.3 10.7 24 24 24h336c13.3 0 24-10.7 24-24V160H248c-13.2 0-24-10.8-24-24zM64 72c0-4.42 3.58-8 8-8h80c4.42 0 8 3.58 8 8v16c0 4.42-3.58 8-8 8H72c-4.42 0-8-3.58-8-8V72zm0 80v-16c0-4.42 3.58-8 8-8h80c4.42 0 8 3.58 8 8v16c0 4.42-3.58 8-8 8H72c-4.42 0-8-3.58-8-8zm144 263.88V440c0 4.42-3.58 8-8 8h-16c-4.42 0-8-3.58-8-8v-24.29c-11.29-.58-22.27-4.52-31.37-11.35-3.9-2.93-4.1-8.77-.57-12.14l11.75-11.21c2.77-2.64 6.89-2.76 10.13-.73 3.87 2.42 8.26 3.72 12.82 3.72h28.11c6.5 0 11.8-5.92 11.8-13.19 0-5.95-3.61-11.19-8.77-12.73l-45-13.5c-18.59-5.58-31.58-23.42-31.58-43.39 0-24.52 19.05-44.44 42.67-45.07V232c0-4.42 3.58-8 8-8h16c4.42 0 8 3.58 8 8v24.29c11.29.58 22.27 4.51 31.37 11.35 3.9 2.93 4.1 8.77.57 12.14l-11.75 11.21c-2.77 2.64-6.89 2.76-10.13.73-3.87-2.43-8.26-3.72-12.82-3.72h-28.11c-6.5 0-11.8 5.92-11.8 13.19 0 5.95 3.61 11.19 8.77 12.73l45 13.5c18.59 5.58 31.58 23.42 31.58 43.39 0 24.53-19.05 44.44-42.67 45.07z"
+                                                },
+                                                "variant": null,
+                                                "children": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " "
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": "\n"
+                                      },
+                                      {
+                                        "type": "element",
+                                        "tag": "div",
+                                        "attributes": {},
+                                        "variant": "service-feature-copy",
+                                        "children": [
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          },
+                                          {
+                                            "type": "element",
+                                            "tag": "h3",
+                                            "attributes": {},
+                                            "variant": null,
+                                            "children": [
+                                              {
+                                                "type": "text",
+                                                "text": "بنيت على نطاق واسع"
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          },
+                                          {
+                                            "type": "element",
+                                            "tag": "p",
+                                            "attributes": {},
+                                            "variant": null,
+                                            "children": [
+                                              {
+                                                "type": "text",
+                                                "text": "تم تصميم بوابتك للتعامل مع المزيد من المستخدمين، والمزيد من المعاملات، والمزيد من المواقع مع نموك. نحن نبني على أطر عمل مستقرة ومثبتة تتوسع مع عملك."
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": "\n"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "\n"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "section",
+                    "attributes": {},
+                    "variant": "service-inner",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-columns",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "div",
+                            "attributes": {},
+                            "variant": "service-column-50",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "element",
+                                "tag": "div",
+                                "attributes": {},
+                                "variant": "service-feature",
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "text": "\n"
+                                  },
+                                  {
+                                    "type": "element",
+                                    "tag": "div",
+                                    "attributes": {},
+                                    "variant": "service-feature-inner",
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "text": "\n"
+                                      },
+                                      {
+                                        "type": "element",
+                                        "tag": "div",
+                                        "attributes": {},
+                                        "variant": "service-feature-icon",
+                                        "children": [
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          },
+                                          {
+                                            "type": "element",
+                                            "tag": "svg",
+                                            "attributes": {
+                                              "viewbox": "0 0 576 512"
+                                            },
+                                            "variant": null,
+                                            "children": [
+                                              {
+                                                "type": "element",
+                                                "tag": "path",
+                                                "attributes": {
+                                                  "d": "M0 432c0 26.5 21.5 48 48 48h480c26.5 0 48-21.5 48-48V256H0v176zm192-68c0-6.6 5.4-12 12-12h136c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H204c-6.6 0-12-5.4-12-12v-40zm-128 0c0-6.6 5.4-12 12-12h72c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40zM576 80v48H0V80c0-26.5 21.5-48 48-48h480c26.5 0 48 21.5 48 48z"
+                                                },
+                                                "variant": null,
+                                                "children": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " "
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": "\n"
+                                      },
+                                      {
+                                        "type": "element",
+                                        "tag": "div",
+                                        "attributes": {},
+                                        "variant": "service-feature-copy",
+                                        "children": [
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          },
+                                          {
+                                            "type": "element",
+                                            "tag": "h3",
+                                            "attributes": {},
+                                            "variant": null,
+                                            "children": [
+                                              {
+                                                "type": "text",
+                                                "text": "الخبرة ثنائية اللغة"
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          },
+                                          {
+                                            "type": "element",
+                                            "tag": "p",
+                                            "attributes": {},
+                                            "variant": null,
+                                            "children": [
+                                              {
+                                                "type": "text",
+                                                "text": "دعم RTL الكامل للغة العربية إلى جانب اللغة الإنجليزية، مع نسخة يمكن قراءتها بشكل طبيعي لمستخدمي الأعمال السعوديين. بوابتك تعمل لصالح كل فريق وشريك في جميع أنحاء المملكة."
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": "\n"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "\n"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "div",
+                            "attributes": {},
+                            "variant": "service-column-50",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "element",
+                                "tag": "div",
+                                "attributes": {},
+                                "variant": "service-feature",
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "text": "\n"
+                                  },
+                                  {
+                                    "type": "element",
+                                    "tag": "div",
+                                    "attributes": {},
+                                    "variant": "service-feature-inner",
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "text": "\n"
+                                      },
+                                      {
+                                        "type": "element",
+                                        "tag": "div",
+                                        "attributes": {},
+                                        "variant": "service-feature-icon",
+                                        "children": [
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          },
+                                          {
+                                            "type": "element",
+                                            "tag": "svg",
+                                            "attributes": {
+                                              "viewbox": "0 0 320 512"
+                                            },
+                                            "variant": null,
+                                            "children": [
+                                              {
+                                                "type": "element",
+                                                "tag": "path",
+                                                "attributes": {
+                                                  "d": "M272 0H48C21.5 0 0 21.5 0 48v416c0 26.5 21.5 48 48 48h224c26.5 0 48-21.5 48-48V48c0-26.5-21.5-48-48-48zM160 480c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32zm112-108c0 6.6-5.4 12-12 12H60c-6.6 0-12-5.4-12-12V60c0-6.6 5.4-12 12-12h200c6.6 0 12 5.4 12 12v312z"
+                                                },
+                                                "variant": null,
+                                                "children": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " "
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": "\n"
+                                      },
+                                      {
+                                        "type": "element",
+                                        "tag": "div",
+                                        "attributes": {},
+                                        "variant": "service-feature-copy",
+                                        "children": [
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          },
+                                          {
+                                            "type": "element",
+                                            "tag": "h3",
+                                            "attributes": {},
+                                            "variant": null,
+                                            "children": [
+                                              {
+                                                "type": "text",
+                                                "text": "ZATCA وفاتورة الامتثال"
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          },
+                                          {
+                                            "type": "element",
+                                            "tag": "p",
+                                            "attributes": {},
+                                            "variant": null,
+                                            "children": [
+                                              {
+                                                "type": "text",
+                                                "text": "المدمج في الفواتير الإلكترونية من البداية. تقوم منصة B2B الخاصة بك بإنشاء فواتير متوافقة وتحتفظ بسجلات مناسبة بما يتماشى مع المتطلبات التنظيمية السعودية."
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": "\n"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": "\n"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "\n"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-100",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "نخدم المدن الكبرى في جميع أنحاء المملكة العربية السعودية"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {
+                          "dir": "ltr"
+                        },
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "يمتد عملنا التطويري B2B في جميع أنحاء المملكة، مع التركيز على مراكز الأعمال حيث تعمل معظم الشركات B2B والشركات الصناعية."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h3",
+                        "attributes": {
+                          "dir": "ltr"
+                        },
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "section",
+                    "attributes": {},
+                    "variant": "service-inner",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "div",
+                        "attributes": {},
+                        "variant": "service-columns",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "div",
+                            "attributes": {},
+                            "variant": "service-column-33",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "element",
+                                "tag": "div",
+                                "attributes": {},
+                                "variant": "service-heading",
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "text": "\n"
+                                  },
+                                  {
+                                    "type": "element",
+                                    "tag": "h4",
+                                    "attributes": {},
+                                    "variant": null,
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "text": "تطوير بوابة B2B في الرياض"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "element",
+                                "tag": "div",
+                                "attributes": {},
+                                "variant": "service-copy",
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "text": "\n"
+                                  },
+                                  {
+                                    "type": "element",
+                                    "tag": "p",
+                                    "attributes": {
+                                      "dir": "ltr"
+                                    },
+                                    "variant": null,
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "text": "باعتبارها عاصمة وموطنًا للشركات الكبرى والموردين الحكوميين والشركات سريعة النمو، تعمل الرياض على زيادة الطلب على تطوير بوابات B2B المخصصة. نقوم ببناء بوابات ويب ومنصات B2B لشركات الرياض التي تحتاج إلى أنظمة آمنة ومتكاملة لإدارة العملاء والشركاء والعمليات الداخلية."
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "tag": "p",
+                                    "attributes": {
+                                      "dir": "ltr"
+                                    },
+                                    "variant": null,
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "text": " "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "element",
+                                "tag": "div",
+                                "attributes": {},
+                                "variant": "service-action-center",
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "a",
+                                    "attributes": {
+                                      "href": "/locations-website-development-riyadh/"
+                                    },
+                                    "variant": "service-button",
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "text": "\n\nاعرف المزيد عن تطوير الويب في الرياض\n\n"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "div",
+                            "attributes": {},
+                            "variant": "service-column-33",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "element",
+                                "tag": "div",
+                                "attributes": {},
+                                "variant": "service-heading",
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "text": "\n"
+                                  },
+                                  {
+                                    "type": "element",
+                                    "tag": "h4",
+                                    "attributes": {},
+                                    "variant": null,
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "text": "تطوير الويب B2B في جدة"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "element",
+                                "tag": "div",
+                                "attributes": {},
+                                "variant": "service-copy",
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "text": "\n"
+                                  },
+                                  {
+                                    "type": "element",
+                                    "tag": "p",
+                                    "attributes": {
+                                      "dir": "ltr"
+                                    },
+                                    "variant": null,
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "text": "إن دور جدة كبوابة تجارية للمملكة العربية السعودية يجعلها مركزًا للتجارة والخدمات اللوجستية والتوزيع التي تعتمد على البوابات للتواصل مع الشركاء. إن تطوير بوابة B2B وعملنا على بوابة العملاء في جدة يحافظ على سير سلاسل التوريد والعلاقات مع العملاء بسلاسة."
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "tag": "p",
+                                    "attributes": {
+                                      "dir": "ltr"
+                                    },
+                                    "variant": null,
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "text": " "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "element",
+                                "tag": "div",
+                                "attributes": {},
+                                "variant": "service-action-center",
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "a",
+                                    "attributes": {
+                                      "href": "/locations-website-development-jeddah/"
+                                    },
+                                    "variant": "service-button",
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "text": "\n\nاكتشف حلول الويب جدة\n\n"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "div",
+                            "attributes": {},
+                            "variant": "service-column-33",
+                            "children": [
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "element",
+                                "tag": "div",
+                                "attributes": {},
+                                "variant": "service-heading",
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "text": "\n"
+                                  },
+                                  {
+                                    "type": "element",
+                                    "tag": "h4",
+                                    "attributes": {},
+                                    "variant": null,
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "text": "بوابات B2B في الدمام"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "element",
+                                "tag": "div",
+                                "attributes": {},
+                                "variant": "service-copy",
+                                "children": [
+                                  {
+                                    "type": "text",
+                                    "text": "\n"
+                                  },
+                                  {
+                                    "type": "element",
+                                    "tag": "p",
+                                    "attributes": {
+                                      "dir": "ltr"
+                                    },
+                                    "variant": null,
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "text": "تعمل الدمام والمنطقة الشرقية على تزويد قطاعي الطاقة والصناعة في المملكة العربية السعودية بالطاقة، حيث تحتاج الشركات إلى بوابات ويب متطورة وبرامج تشغيلية. باعتبارنا شركة بوابة إلكترونية تخدم الدمام، فإننا نبني بوابات البائعين، وبوابات العملاء، وأنظمة مخصصة للشركات الصناعية في المنطقة."
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "tag": "p",
+                                    "attributes": {
+                                      "dir": "ltr"
+                                    },
+                                    "variant": null,
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "text": " "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "element",
+                                "tag": "div",
+                                "attributes": {},
+                                "variant": "service-action-center",
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "a",
+                                    "attributes": {
+                                      "href": "/locations-website-development-dammam-eastern-province/"
+                                    },
+                                    "variant": "service-button",
+                                    "children": [
+                                      {
+                                        "type": "text",
+                                        "text": "\n\nاكتشف تطوير الويب بالمنطقة الشرقية\n\n"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              },
+                              {
+                                "type": "text",
+                                "text": "\n"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-100",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "الأسئلة المتداولة"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "disclosure",
+                    "summary": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": "service-faq-icon",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-faq-closed-icon",
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "svg",
+                                "attributes": {
+                                  "viewbox": "0 0 448 512"
+                                },
+                                "variant": null,
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "path",
+                                    "attributes": {
+                                      "d": "M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                                    },
+                                    "variant": null,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-faq-open-icon",
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "svg",
+                                "attributes": {
+                                  "viewbox": "0 0 448 512"
+                                },
+                                "variant": null,
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "path",
+                                    "attributes": {
+                                      "d": "M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                                    },
+                                    "variant": null,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "ما الفرق بين موقع B2B وبوابة B2B؟"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "موقع B2B هو موقع تسويق عام يقدم خدماتك ويجذب العملاء المحتملين. بوابة B2B عبارة عن منصة آمنة تعتمد على تسجيل الدخول حيث يقوم العملاء أو البائعون أو الموظفون بتقديم الطلبات وإدارة الحسابات والوصول إلى المستندات. تحتاج العديد من الشركات إلى كليهما، ونحن نبنيهما للعمل معًا."
+                          }
+                        ]
+                      }
+                    ],
+                    "open": true
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "disclosure",
+                    "summary": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": "service-faq-icon",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-faq-closed-icon",
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "svg",
+                                "attributes": {
+                                  "viewbox": "0 0 448 512"
+                                },
+                                "variant": null,
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "path",
+                                    "attributes": {
+                                      "d": "M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                                    },
+                                    "variant": null,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-faq-open-icon",
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "svg",
+                                "attributes": {
+                                  "viewbox": "0 0 448 512"
+                                },
+                                "variant": null,
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "path",
+                                    "attributes": {
+                                      "d": "M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                                    },
+                                    "variant": null,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "ما هي تكلفة تطوير بوابة B2B في المملكة العربية السعودية؟"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "يتم اقتباس مشاريع البوابة الإلكترونية حسب النطاق، حيث تختلف الميزات والتكاملات وأدوار المستخدم بشكل كبير. تبدأ أسعار بوابات العملاء الأبسط بشكل عام من 25,000 ريال سعودي، في حين يتم تحديد نطاق المنصات الأكبر متعددة الأدوار مع تكامل تخطيط موارد المؤسسات (ERP) بعد جلسة الاكتشاف. نحن نقدم عرض أسعار مفصل بمجرد أن نفهم سير العمل والمتطلبات الخاصة بك."
+                          }
+                        ]
+                      }
+                    ],
+                    "open": false
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "disclosure",
+                    "summary": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": "service-faq-icon",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-faq-closed-icon",
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "svg",
+                                "attributes": {
+                                  "viewbox": "0 0 448 512"
+                                },
+                                "variant": null,
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "path",
+                                    "attributes": {
+                                      "d": "M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                                    },
+                                    "variant": null,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-faq-open-icon",
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "svg",
+                                "attributes": {
+                                  "viewbox": "0 0 448 512"
+                                },
+                                "variant": null,
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "path",
+                                    "attributes": {
+                                      "d": "M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                                    },
+                                    "variant": null,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "كم من الوقت يستغرق إنشاء بوابة B2B؟"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {
+                          "dir": "ltr"
+                        },
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "تعتمد الجداول الزمنية على النطاق والتكامل. عادةً ما تستغرق بوابة العملاء المركزة ذات الميزات الأساسية من 6 إلى 10 أسابيع. عادةً ما يتم تشغيل النظام الأساسي الأكبر متعدد الأدوار مع تكامل ERP ولوحات المعلومات المخصصة وأنواع المستخدمين المتعددة من 3 إلى 5 أشهر. أثناء الاكتشاف، نقدم لك جدولًا زمنيًا ثابتًا للمعالم الرئيسية حتى تعرف ما هي الأراضي ومتى، بدلاً من تقدير مفتوح."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {
+                          "dir": "ltr"
+                        },
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      }
+                    ],
+                    "open": false
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "disclosure",
+                    "summary": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": "service-faq-icon",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-faq-closed-icon",
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "svg",
+                                "attributes": {
+                                  "viewbox": "0 0 448 512"
+                                },
+                                "variant": null,
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "path",
+                                    "attributes": {
+                                      "d": "M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                                    },
+                                    "variant": null,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-faq-open-icon",
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "svg",
+                                "attributes": {
+                                  "viewbox": "0 0 448 512"
+                                },
+                                "variant": null,
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "path",
+                                    "attributes": {
+                                      "d": "M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                                    },
+                                    "variant": null,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "هل يمكنك دمج بوابتنا مع نظام تخطيط موارد المؤسسات (ERP) أو إدارة علاقات العملاء (CRM) الموجود لدينا؟"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {
+                          "dir": "ltr"
+                        },
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "نعم. نقوم بربط بوابات B2B بالأنظمة التي تقوم بتشغيلها بالفعل، بما في ذلك أدوات تخطيط موارد المؤسسات (ERP) وإدارة علاقات العملاء (CRM) والمحاسبة والمخزون، من خلال واجهات برمجة التطبيقات الآمنة. يؤدي ذلك إلى الحفاظ على مزامنة الطلبات والحسابات والمستندات عبر الأنظمة الأساسية بدلاً من إعادة إدخالها يدويًا. لدينا خبرة في التكامل مع أدوات المؤسسة شائعة الاستخدام عبر الشركات السعودية وسنقوم بتأكيد أنظمتك المحددة أثناء الاكتشاف."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {
+                          "dir": "ltr"
+                        },
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      }
+                    ],
+                    "open": false
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "disclosure",
+                    "summary": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": "service-faq-icon",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-faq-closed-icon",
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "svg",
+                                "attributes": {
+                                  "viewbox": "0 0 448 512"
+                                },
+                                "variant": null,
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "path",
+                                    "attributes": {
+                                      "d": "M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                                    },
+                                    "variant": null,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          },
+                          {
+                            "type": "element",
+                            "tag": "span",
+                            "attributes": {},
+                            "variant": "service-faq-open-icon",
+                            "children": [
+                              {
+                                "type": "element",
+                                "tag": "svg",
+                                "attributes": {
+                                  "viewbox": "0 0 448 512"
+                                },
+                                "variant": null,
+                                "children": [
+                                  {
+                                    "type": "element",
+                                    "tag": "path",
+                                    "attributes": {
+                                      "d": "M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                                    },
+                                    "variant": null,
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": "\n"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "span",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "هل ستدعم البوابة اللغتين العربية والإنجليزية؟"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {
+                          "dir": "ltr"
+                        },
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "نعم. تدعم كل بوابة نقوم بإنشائها اللغة العربية الكاملة من اليمين إلى اليسار إلى جانب اللغة الإنجليزية، مع التخطيط الصحيح والتنسيق واتجاه النص عبر الواجهة بأكملها. يتأكد المتخصصون العرب لدينا من قراءة الملصقات والرسائل والمحتوى بشكل طبيعي للمستخدمين السعوديين، بحيث يحصل فريقك وشركاؤك على تجربة ثنائية اللغة مناسبة بدلاً من الترجمة الآلية."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {
+                          "dir": "ltr"
+                        },
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": " "
+                          }
+                        ]
+                      }
+                    ],
+                    "open": false
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "element",
+        "tag": "section",
+        "attributes": {},
+        "variant": "service-section",
+        "children": [
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "div",
+            "attributes": {},
+            "variant": "service-columns",
+            "children": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "div",
+                "attributes": {},
+                "variant": "service-column-100",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-heading-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "h2",
+                        "attributes": {},
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "هل أنت مستعد لتبسيط عمليات B2B الخاصة بك؟"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-copy-center",
+                    "children": [
+                      {
+                        "type": "text",
+                        "text": "\n"
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {
+                          "dir": "ltr"
+                        },
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "يستحق شركاء العمل والعملاء وفرق العمل الخاصة بك منصات تجعل العمل معك أمرًا سهلاً. سواء كنت بحاجة إلى موقع ويب B2B لإنشاء عملاء محتملين، أو بوابة عملاء آمنة، أو برنامج تشغيلي مخصص، فإن نالك سوليوشنز لديها الخبرة اللازمة لإنشائه."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {
+                          "dir": "ltr"
+                        },
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "نحن نخدم شركات B2B في جميع أنحاء المملكة العربية السعودية، من الرياض إلى جدة إلى الدمام وخارجها. يفهم فريقنا عمليات التكامل ومتطلبات الامتثال وسير العمل التي تجعل منصات B2B تنجح في المملكة."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "p",
+                        "attributes": {
+                          "dir": "ltr"
+                        },
+                        "variant": null,
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "اتصل بنا اليوم للحصول على استشارة مجانية. شارك متطلباتك وسنقدم لك عرضًا تفصيليًا يتضمن جدولًا زمنيًا والاستثمار المطلوب."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "element",
+                    "tag": "div",
+                    "attributes": {},
+                    "variant": "service-action-center",
+                    "children": [
+                      {
+                        "type": "element",
+                        "tag": "a",
+                        "attributes": {
+                          "href": "/contacts/"
+                        },
+                        "variant": "service-button",
+                        "children": [
+                          {
+                            "type": "text",
+                            "text": "\n\nاتصل بنا الآن\n\n"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      },
+      {
+        "type": "text",
+        "text": "\n"
+      }
+    ]
+  },
+  "sourceSnapshot": {
+    "id": "R-1987ffb9e2fcb882",
+    "sourceRouteId": "R-1987ffb9e2fcb882",
+    "path": "/b2b-portal-website-development-saudi-arabia/",
+    "kind": "marketing",
+    "locale": "en",
+    "status": "published",
+    "seo": {
+      "title": "B2B Portal & B2B Website Development Services in Saudi Arabia",
+      "description": "Nalk Solutions builds custom B2B portals, customer portals, and B2B websites for companies in Riyadh, Jeddah, Dammam, and across KSA. Request a free consultation.",
+      "canonical": "https://nalksolutions.com/b2b-portal-website-development-saudi-arabia/",
+      "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "googlebot": null,
+      "social": [
+        {
+          "property": "og:locale",
+          "content": "en_US"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "B2B Portal & B2B Website Development Services in Saudi Arabia"
+        },
+        {
+          "property": "og:description",
+          "content": "Nalk Solutions builds custom B2B portals, customer portals, and B2B websites for companies in Riyadh, Jeddah, Dammam, and across KSA. Request a free consultation."
+        },
+        {
+          "property": "og:url",
+          "content": "https://nalksolutions.com/b2b-portal-website-development-saudi-arabia/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Nalk Solutions"
+        },
+        {
+          "property": "og:updated_time",
+          "content": "2026-08-05T11:35:28+00:00"
+        },
+        {
+          "property": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "property": "twitter:title",
+          "content": "B2B Portal & B2B Website Development Services in Saudi Arabia"
+        },
+        {
+          "property": "twitter:description",
+          "content": "Nalk Solutions builds custom B2B portals, customer portals, and B2B websites for companies in Riyadh, Jeddah, Dammam, and across KSA. Request a free consultation."
+        },
+        {
+          "property": "twitter:label1",
+          "content": "Time to read"
+        },
+        {
+          "property": "twitter:data1",
+          "content": "7 minutes"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Place",
+              "@id": "https://nalksolutions.com/#place",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              }
+            },
+            {
+              "@type": ["ProfessionalService", "Organization"],
+              "@id": "https://nalksolutions.com/#organization",
+              "name": "Nalk Solutions",
+              "url": "https://nalksolutions.com",
+              "email": "info@nalksolutions.com",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              },
+              "logo": {
+                "@type": "ImageObject",
+                "@id": "https://nalksolutions.com/#logo",
+                "url": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "contentUrl": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "caption": "Nalk Solutions",
+                "inLanguage": "en-US",
+                "width": "1563",
+                "height": "1563"
+              },
+              "openingHours": ["Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"],
+              "description": "Nalk provides Nalk Solutions is a technology company in Saudi Arabia; delivering digital marketing, web development, app development &amp; IT solutions across Riyadh, Jeddah and all major cities across the kingdom.",
+              "legalName": "uhj1984@yahoo.com",
+              "location": {
+                "@id": "https://nalksolutions.com/#place"
+              },
+              "image": {
+                "@id": "https://nalksolutions.com/#logo"
+              },
+              "telephone": "+966506000843"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://nalksolutions.com/#website",
+              "url": "https://nalksolutions.com",
+              "name": "Nalk Solutions",
+              "publisher": {
+                "@id": "https://nalksolutions.com/#organization"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://nalksolutions.com/b2b-portal-website-development-saudi-arabia/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": "1",
+                  "item": {
+                    "@id": "https://nalksolutions.com",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "position": "2",
+                  "item": {
+                    "@id": "https://nalksolutions.com/b2b-portal-website-development-saudi-arabia/",
+                    "name": "B2B Web and portal development"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://nalksolutions.com/b2b-portal-website-development-saudi-arabia/#webpage",
+              "url": "https://nalksolutions.com/b2b-portal-website-development-saudi-arabia/",
+              "name": "B2B Portal &amp; B2B Website Development Services in Saudi Arabia",
+              "datePublished": "2026-08-04T20:35:31+00:00",
+              "dateModified": "2026-08-05T11:35:28+00:00",
+              "isPartOf": {
+                "@id": "https://nalksolutions.com/#website"
+              },
+              "inLanguage": "en-US",
+              "breadcrumb": {
+                "@id": "https://nalksolutions.com/b2b-portal-website-development-saudi-arabia/#breadcrumb"
+              }
+            },
+            {
+              "@type": "Service",
+              "name": "Professional Website Development Company in Saudi Arabia",
+              "description": "Nalk Solutions provides professional website development services in Saudi Arabia, including custom web development, ecommerce websites, WordPress solution.",
+              "serviceType": "Website Development Company in Saudi Arabia",
+              "offers": {
+                "@type": "Offer",
+                "availability": "InStock"
+              },
+              "@id": "https://nalksolutions.com/b2b-portal-website-development-saudi-arabia/#schema-32457",
+              "mainEntityOfPage": {
+                "@id": "https://nalksolutions.com/b2b-portal-website-development-saudi-arabia/#webpage"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "content": {
+      "heading": "B2B Portal and Website Development in Saudi Arabia",
+      "paragraphs": ["B2B Portal and Website Development in Saudi Arabia"],
+      "documentId": "R-1987ffb9e2fcb882"
+    },
+    "provenance": {
+      "sourceHtml": "nalk-public-archive/html/source/b2b-portal-website-development-saudi-arabia-1987ffb9e2fcb882.html",
+      "sourceSha256": "3aa5c16ce29b3458f74b18321cdb7e8beec8b3b3b0859aac8da7b389b402c090",
+      "pageRecord": "nalk-public-archive/pages/b2b-portal-website-development-saudi-arabia-1987ffb9e2fcb882.json",
+      "pageRecordSha256": "9d6a6915c5817838f7640ab888d0f741adb5879b6853df9834e36cdd9e02a9b7",
+      "excerpt": false,
+      "headingFallback": false
+    }
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "entityId": "R-a0ac0f2631af30d8",
+  "path": "/ar/contacts/",
+  "review": {
+    "status": "inReview",
+    "reviewer": null,
+    "approvedAt": null,
+    "translationRevision": "pilot-2",
+    "sourceInputs": [
+      {
+        "path": "src/content/site/pages.generated.json",
+        "sha256": "7cd8249a8f5b73200fb4c39193dc5469fa0cc595cc493904a611272606512429"
+      },
+      {
+        "path": "src/content/localization/copy/en.json",
+        "sha256": "a01819f3ffeb1e7a86dbedc94e06be20f412ca876d80cb2401dfc83b26269109"
+      },
+      {
+        "path": "src/content/site/documents/R-a0ac0f2631af30d8.json",
+        "sha256": "22eeecbc53949167b31a1b4edb034ffbdc214e881dfc831a4aec6e9b1a85cf86"
+      }
+    ]
+  },
+  "seo": {
+    "title": "تواصل معنا | نالك سوليوشنز",
+    "description": "حدّثنا عن مشروعك أو التحدي الذي تريد حله في أعمالك. أرسل وصفًا مختصرًا بالبريد الإلكتروني، أو اتصل بنا عبر الأرقام أدناه."
+  },
+  "heading": "تواصل معنا",
+  "blocks": {},
+  "imageAlts": {
+    "/wp-content/uploads/2025/10/Contact-us-1024x640.png": "تواصل معنا",
+    "/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-00.45.53_d16cb6a1.jpg": "تواصل معنا",
+    "/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-01.09.23_5caa5997.jpg": "تواصل معنا",
+    "/wp-content/uploads/2025/08/71-contacts-3.webp": "تواصل معنا"
+  },
+  "issues": [],
+  "publication": {
+    "ready": true,
+    "acceptance": "ownerManaged"
+  },
+  "sourceSnapshot": {
+    "id": "R-a0ac0f2631af30d8",
+    "sourceRouteId": "R-a0ac0f2631af30d8",
+    "path": "/contacts/",
+    "kind": "marketing",
+    "locale": "en",
+    "status": "published",
+    "seo": {
+      "title": "Contacts - Nalk Solutions",
+      "description": "Have a project in mind or a question to ask?We’re here to listen, plan, and bring your ideas to life.",
+      "canonical": "https://nalksolutions.com/contacts/",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "googlebot": null,
+      "social": [
+        {
+          "property": "og:locale",
+          "content": "en_US"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Contacts - Nalk Solutions"
+        },
+        {
+          "property": "og:description",
+          "content": "Have a project in mind or a question to ask?We’re here to listen, plan, and bring your ideas to life."
+        },
+        {
+          "property": "og:url",
+          "content": "https://nalksolutions.com/contacts/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Nalk Solutions"
+        },
+        {
+          "property": "og:updated_time",
+          "content": "2026-05-16T21:36:26+00:00"
+        },
+        {
+          "property": "og:image",
+          "content": "https://nalksolutions.com/wp-content/uploads/2025/10/Contact-us.png"
+        },
+        {
+          "property": "og:image:secure_url",
+          "content": "https://nalksolutions.com/wp-content/uploads/2025/10/Contact-us.png"
+        },
+        {
+          "property": "og:image:width",
+          "content": "1280"
+        },
+        {
+          "property": "og:image:height",
+          "content": "800"
+        },
+        {
+          "property": "og:image:alt",
+          "content": "Contacts"
+        },
+        {
+          "property": "og:image:type",
+          "content": "image/png"
+        },
+        {
+          "property": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "property": "twitter:title",
+          "content": "Contacts - Nalk Solutions"
+        },
+        {
+          "property": "twitter:description",
+          "content": "Have a project in mind or a question to ask?We’re here to listen, plan, and bring your ideas to life."
+        },
+        {
+          "property": "twitter:image",
+          "content": "https://nalksolutions.com/wp-content/uploads/2025/10/Contact-us.png"
+        },
+        {
+          "property": "twitter:label1",
+          "content": "Time to read"
+        },
+        {
+          "property": "twitter:data1",
+          "content": "Less than a minute"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Place",
+              "@id": "https://nalksolutions.com/#place",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              }
+            },
+            {
+              "@type": ["ProfessionalService", "Organization"],
+              "@id": "https://nalksolutions.com/#organization",
+              "name": "Nalk Solutions",
+              "url": "https://nalksolutions.com",
+              "email": "info@nalksolutions.com",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              },
+              "logo": {
+                "@type": "ImageObject",
+                "@id": "https://nalksolutions.com/#logo",
+                "url": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "contentUrl": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "caption": "Nalk Solutions",
+                "inLanguage": "en-US",
+                "width": "1563",
+                "height": "1563"
+              },
+              "openingHours": ["Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"],
+              "description": "Nalk provides Nalk Solutions is a technology company in Saudi Arabia; delivering digital marketing, web development, app development &amp; IT solutions across Riyadh, Jeddah and all major cities across the kingdom.",
+              "legalName": "uhj1984@yahoo.com",
+              "location": {
+                "@id": "https://nalksolutions.com/#place"
+              },
+              "image": {
+                "@id": "https://nalksolutions.com/#logo"
+              },
+              "telephone": "+966506000843"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://nalksolutions.com/#website",
+              "url": "https://nalksolutions.com",
+              "name": "Nalk Solutions",
+              "publisher": {
+                "@id": "https://nalksolutions.com/#organization"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "ImageObject",
+              "@id": "https://nalksolutions.com/wp-content/uploads/2025/10/Contact-us-1024x640.png",
+              "url": "https://nalksolutions.com/wp-content/uploads/2025/10/Contact-us-1024x640.png",
+              "width": "200",
+              "height": "200",
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://nalksolutions.com/contacts/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": "1",
+                  "item": {
+                    "@id": "https://nalksolutions.com",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "position": "2",
+                  "item": {
+                    "@id": "https://nalksolutions.com/contacts/",
+                    "name": "Contacts"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "ContactPage",
+              "@id": "https://nalksolutions.com/contacts/#webpage",
+              "url": "https://nalksolutions.com/contacts/",
+              "name": "Contacts - Nalk Solutions",
+              "datePublished": "2023-02-02T16:03:41+00:00",
+              "dateModified": "2026-05-16T21:36:26+00:00",
+              "isPartOf": {
+                "@id": "https://nalksolutions.com/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://nalksolutions.com/wp-content/uploads/2025/10/Contact-us-1024x640.png"
+              },
+              "inLanguage": "en-US",
+              "breadcrumb": {
+                "@id": "https://nalksolutions.com/contacts/#breadcrumb"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "content": {
+      "heading": "Contacts - Nalk Solutions",
+      "paragraphs": ["Contacts - Nalk Solutions"],
+      "documentId": "R-a0ac0f2631af30d8"
+    },
+    "provenance": {
+      "sourceHtml": "nalk-public-archive/html/source/contacts-a0ac0f2631af30d8.html",
+      "sourceSha256": "9d1eeae61dae3a1e1aba850e8f18312e537f291cd12814a5fb5957e3c818794b",
+      "pageRecord": "nalk-public-archive/pages/contacts-a0ac0f2631af30d8.json",
+      "pageRecordSha256": "3d49bb77d54463cc0f446d29862d2dac8b74e9a532ecf8b6bf0c140d5123c5f4",
+      "excerpt": false,
+      "headingFallback": true
+    }
+  },
+  "document": {
+    "nodes": [
+      {
+        "type": "element",
+        "tag": "div",
+        "attributes": {},
+        "variant": "company-contacts-hero",
+        "children": [
+          {
+            "type": "element",
+            "tag": "img",
+            "attributes": {
+              "src": "/wp-content/uploads/2025/10/Contact-us-1024x640.png",
+              "alt": "تواصل معنا",
+              "width": "1024",
+              "height": "640",
+              "srcset": "/wp-content/uploads/2025/10/Contact-us-1024x640.png 1024w, /wp-content/uploads/2025/10/Contact-us-300x188.png 300w, /wp-content/uploads/2025/10/Contact-us-768x480.png 768w, /wp-content/uploads/2025/10/Contact-us-480x300.png 480w, /wp-content/uploads/2025/10/Contact-us-600x375.png 600w, /wp-content/uploads/2025/10/Contact-us.png 1280w",
+              "sizes": "(max-width: 1024px) 100vw, 1024px"
+            },
+            "variant": null,
+            "children": []
+          }
+        ]
+      },
+      {
+        "type": "element",
+        "tag": "div",
+        "attributes": {},
+        "variant": "company-locations",
+        "children": [
+          {
+            "type": "element",
+            "tag": "img",
+            "attributes": {
+              "src": "/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-00.45.53_d16cb6a1.jpg",
+              "alt": "تواصل معنا",
+              "width": "1280",
+              "height": "805",
+              "srcset": "/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-00.45.53_d16cb6a1.jpg 1280w, /wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-00.45.53_d16cb6a1-300x189.jpg 300w, /wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-00.45.53_d16cb6a1-1024x644.jpg 1024w, /wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-00.45.53_d16cb6a1-768x483.jpg 768w, /wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-00.45.53_d16cb6a1-477x300.jpg 477w, /wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-00.45.53_d16cb6a1-600x377.jpg 600w",
+              "sizes": "(max-width: 1280px) 100vw, 1280px"
+            },
+            "variant": null,
+            "children": []
+          },
+          {
+            "type": "element",
+            "tag": "img",
+            "attributes": {
+              "src": "/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-01.09.23_5caa5997.jpg",
+              "alt": "تواصل معنا",
+              "width": "1000",
+              "height": "800",
+              "srcset": "/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-01.09.23_5caa5997.jpg 1000w, /wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-01.09.23_5caa5997-300x240.jpg 300w, /wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-01.09.23_5caa5997-768x614.jpg 768w, /wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-01.09.23_5caa5997-375x300.jpg 375w, /wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-01.09.23_5caa5997-600x480.jpg 600w",
+              "sizes": "(max-width: 1000px) 100vw, 1000px"
+            },
+            "variant": null,
+            "children": []
+          }
+        ]
+      },
+      {
+        "type": "enquiry",
+        "fields": [
+          {
+            "label": "Name",
+            "name": "name-1",
+            "kind": "text",
+            "required": false,
+            "options": []
+          },
+          {
+            "label": "E-Mail",
+            "name": "email-1",
+            "kind": "email",
+            "required": false,
+            "options": []
+          },
+          {
+            "label": "Enter Phone Number",
+            "name": "phone-1",
+            "kind": "text",
+            "required": false,
+            "options": []
+          },
+          {
+            "label": "Your Message",
+            "name": "textarea-1",
+            "kind": "textarea",
+            "required": false,
+            "options": []
+          }
+        ],
+        "buttonLabel": "Send Message"
+      },
+      {
+        "type": "map",
+        "href": "https://maps.google.com/maps?q=Bahria%20Town%2C%20Rawalpindi&t=m&z=14&output=embed&iwloc=near",
+        "title": "Bahria Town, Rawalpindi"
+      }
+    ]
+  }
+}

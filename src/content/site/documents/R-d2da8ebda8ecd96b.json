@@ -1,0 +1,5614 @@
+{
+  "id": "R-d2da8ebda8ecd96b",
+  "path": "/how-web-development-and-digital-marketing/",
+  "locale": "en",
+  "family": "article",
+  "nodes": [
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Web development builds the site that holds your traffic. Digital marketing sends that traffic and measures what it does next. Run together, they share one plan: the build supports the campaigns, and the campaigns feed the build with real behaviour data. Saudi businesses that align both from day one launch faster, track leads accurately, and avoid paying twice to fix the same website."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Most companies treat the two as separate purchases with separate budgets, which is where the cost quietly appears. Teams handling "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/services-digital-marketing/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "digital marketing across Saudi Arabia"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " inherit sites they had no say in, then spend the first quarter fixing structural decisions made months earlier."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "What Web Development and Digital Marketing Actually Cover"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Web development"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " is the construction of the website: the pages, the code behind them, the content management system (CMS, the admin panel where your team edits pages without touching code), the hosting, the forms, the checkout, and the speed at which all of it loads."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Digital marketing"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " is everything that brings people to those pages and persuades them once they arrive: search engine optimisation (SEO), paid advertising, social media, email, and the analytics that show which of those channels produced revenue."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "The overlap is larger than most briefs assume. Page structure is an SEO decision. Load speed is an advertising cost. Form design is a conversion rate decision. The CMS determines how quickly a content team can publish. Each of these sits on the border, owned by whoever claims it first, and frequently owned by nobody."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Why the Two Belong Together"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Split the functions and the commercial damage shows up in four predictable places."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Campaign budget lands on pages built without a conversion goal, so clicks arrive and leave. Tracking gaps mean the reports show traffic while the sales team reports silence, and neither side can prove which is right. Slow pages burn media spend, because visitors abandon a page before it renders and you pay for the click regardless. Redesigns launched without a marketing review erase years of accumulated search rankings in a single afternoon."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "None of this comes from poor work by either party. It comes from two competent teams optimising for different scoreboards."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "blockquote",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "h4",
+          "attributes": {
+            "dir": "ltr"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "The Short Version"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "blockquote",
+      "attributes": {},
+      "variant": "plain-quote",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "attributes": {
+            "dir": "ltr"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "The website is the product. Marketing is the demand. Build the product to serve the demand you plan to create, and measure both with one set of numbers."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "How They Work Together, Stage by Stage"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "The standard sequence for a Saudi business launching or rebuilding a site:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "ol",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Discovery."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Agree the commercial goal, the audience, the languages, and the single metric that defines success. Marketing joins this stage, rather than waiting for a finished site."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Architecture and keyword mapping."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Research demand in Arabic and English first, then map pages to that demand. This decides the menu, the URL structure, and which pages exist at all."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Design and user experience."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Wireframes reflect the conversion path: what the visitor sees, what they click, and where the form or WhatsApp button sits. Strong "
+            },
+            {
+              "type": "element",
+              "tag": "a",
+              "attributes": {
+                "href": "/services-ui-ux-design-saudi-arabia/"
+              },
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "UI and UX design work"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " is where marketing intent becomes a visible layout."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Technical build."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Development happens against agreed SEO foundations: clean URLs, crawlable navigation, schema markup (structured code that tells search engines what a page is about), and Core Web Vitals targets (Google’s measures of loading speed, responsiveness, and visual stability)."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Content production."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Copy written to the keyword map, in both languages where relevant, before the design is locked."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Tracking installation."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Analytics, conversion events, and ad platform tags go live on staging and get tested there. This happens before launch day, rather than after."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Launch and migration."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Redirects mapped from every old URL to its new equivalent. Indexing rules verified within hours of going live."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Campaign activation."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Paid and organic activity begins against pages already proven to load fast and fire events correctly."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Measurement and iteration."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Weekly reads on the same dashboard. Development tickets and campaign changes come from the same evidence."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "The exceptions."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " A business with an urgent seasonal window can launch a single landing page with tracking and run campaigns to it while the full site is built. A company with an existing site ranking well should start with a technical audit and content work rather than a rebuild. A rebuild is the correct first move only when the current platform blocks growth structurally."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Before the first call, it helps to arrive with a view on what you are actually buying. Businesses working through the decision in Arabic can start with the "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%88%d9%8a%d8%a8-%d9%84%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Arabic guide to web development for Saudi companies"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", which covers the same ground for an Arabic-speaking team. If your requirement extends past a marketing site into portals, booking systems, or internal tools, the walkthrough on "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/custom-web-app-development-guide/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "building a custom web application"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " explains where scope and cost genuinely diverge from a standard build. And when you reach the shortlist stage, the criteria set out in this guide to "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/how-to-choose-a-web-design-company-in-2026/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "choosing a web design company in 2026"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " gives you a way to compare proposals on measurable factors rather than on the polish of the pitch deck."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Where the Handoff Usually Breaks"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "These are the specific failure points between a developer and a marketing team:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "ul",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Tracking absent at launch."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " The site goes live with zero analytics, and the first two weeks of data are gone permanently."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Staging rules carried to production."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " The "
+            },
+            {
+              "type": "element",
+              "tag": "code",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "noindex"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " tag or blocked "
+            },
+            {
+              "type": "element",
+              "tag": "code",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "robots.txt"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " used during the build stays live, and the site remains invisible to search engines for weeks."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Unmapped URLs."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Old pages that earned rankings redirect to the homepage or return errors, so the equity attached to them is lost."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Speed regression after handover."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Marketing adds tracking scripts, chat widgets, and pixels; each one adds weight, and the page slows month by month."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Forms that submit without firing an event."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " The lead reaches the inbox while the analytics platform records nothing, so every channel report understates performance."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Content added after the structure is locked."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " New pages get bolted into whichever menu slot is free, and the site architecture drifts away from the keyword map."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Split account ownership."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " The developer holds the analytics property, the agency holds the ad account, and the client holds neither."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Worked Examples"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Riyadh ecommerce store."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " The build ships with product schema, mada checkout, and purchase events wired to the ad platform. Campaigns launch reporting revenue by product from week one. Run apart, the same store launches with a working checkout and blind reporting, so the media budget spreads evenly across products instead of concentrating on the ones that sell."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Jeddah professional services firm."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Service pages are written to researched Arabic and English demand, each with a consultation form. The firm sees which service line generates enquiries. Run apart, the site ships with one generic “Services” page, and the marketing team pays to send traffic to a page that answers no specific question."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Clinic running lead generation."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Booking forms fire a conversion event, and call tracking separates campaign calls from walk-in enquiries. Spend shifts toward the treatments with genuine demand. Run apart, the clinic counts total enquiries only, and continues funding a campaign that produces volume with little revenue."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "B2B supplier with a long sales cycle."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " The site holds gated technical documents and a quote request path, with events at each step. Marketing can see that downloads precede quotes by several weeks. A "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/b2b-portal-website-development-saudi-arabia/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "B2B portal built for Saudi buyers"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " makes that sequence visible. Run apart, only closed deals get measured, and every upper-funnel activity looks like waste."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Restaurant group with multiple branches."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Each location gets its own page tied to its map listing, with a reservation link and menu in both languages. Local searches reach the correct branch. Run apart, one page lists all branches, so the group competes with itself in local results and diners land on the wrong location."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Business rebuilding an underperforming site."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Before the rebuild, the team exports every ranking URL and its traffic. The new site preserves those URLs or redirects them precisely, and the content that earned rankings is rewritten rather than deleted. Run apart, the rebuild launches with a fresh structure and cleaner design, and organic traffic drops sharply within a month."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Myths vs Facts"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "table",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "thead",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "th",
+                      "attributes": {
+                        "scope": "col"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "❌ Myth"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "th",
+                      "attributes": {
+                        "scope": "col"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "✅ Fact"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "th",
+                      "attributes": {
+                        "scope": "col"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Why"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tbody",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Launch first, market later"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Marketing setup belongs inside the build"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Tracking, page structure, and URL rules cost far less to install during development than to retrofit afterwards"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "A redesign always improves rankings"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "A redesign risks rankings unless URLs and content carry across"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Search engines rank specific URLs, so changing them without redirects discards the history attached to them"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Social media replaces a website"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Social platforms rent attention; a site owns it"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "You control the site’s data, checkout, and follow-up, while platform reach and rules shift without warning"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "SEO can be added at the end"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "SEO shapes site structure, so it starts at planning"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Page hierarchy, internal linking, and URL naming are structural choices that are expensive to reverse"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "A beautiful site converts on its own"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Design supports conversion; clarity and speed carry it"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Visitors judge relevance within seconds, before design detail registers"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Paid ads fix a weak site"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Ads amplify whatever the page already does"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "A page converting at one percent still converts at one percent with more traffic, so spend multiplies the leak"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Arabic content is a translation of the English"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Arabic needs its own keyword research and layout"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Saudi searchers use different phrasing and word order, so direct translation misses real demand"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "One agency for both costs more"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Split vendors often cost more once rework is counted"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Fixing tracking, redirects, and speed after handover is billed twice, once to build and once to repair"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Web Development and Digital Marketing in the Saudi Market"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Some of what follows applies anywhere. The points below are the ones where Saudi conditions genuinely change the decision."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Bilingual is the default, rather than an add-on."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Most Saudi businesses serve customers who search in Arabic and customers who search in English, often within the same company. The build has to hold two full content sets, two navigation labels, two sitemaps, and two keyword strategies. Treating Arabic as a later phase usually means it launches thin, ranks poorly, and gets blamed on the language rather than the sequencing."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Right to left layout affects the code, rather than only the design."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Arabic reads right to left, which reverses the visual hierarchy: menus, form labels, icons, progress steps, and button placement all mirror. This is a development decision made at the CSS and template level. Retrofitting RTL onto a left to right theme produces broken spacing, misaligned icons, and forms that read awkwardly to an Arabic speaker."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Mobile carries almost everything."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " The Communications, Space and Technology Commission reported internet penetration in Saudi Arabia at 99 percent for 2024, with mobile phones accounting for 99.4 percent of browsing. Its "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "https://www.cst.gov.sa/en/knowledge-center/reports/saudi-internet-report-25-dashboard",
+            "target": "_blank",
+            "rel": "noopener noreferrer"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Saudi Internet Report for 2025"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " recorded average mobile data consumption of 53 GB per person each month. Design and performance budgets should be set against a phone, with desktop treated as the secondary view."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "WhatsApp works as a conversion channel."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Many Saudi buyers prefer to open a chat rather than complete a form, particularly for services, clinics, and considered purchases. That changes the build: a click to chat button needs a tracked event, a pre-filled message, and a routing rule, so the enquiry counts as a conversion in reporting instead of vanishing into a phone."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Payment expectations are specific."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " The Saudi Central Bank reported that electronic payments made up 85 percent of retail payment transactions in 2025, up from 79 percent in 2024, driven largely by mada across point of sale and ecommerce. An ecommerce build that omits mada, Apple Pay, and a locally recognised buy now pay later option will show abandoned carts that look like a marketing problem and are actually a checkout problem."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Hosting location affects both speed and compliance."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Serving pages from a region far from the Kingdom adds latency that shows in Core Web Vitals and in ad quality scores. Local or regional hosting, or a content delivery network with Gulf presence, improves real load times. Certain record-keeping obligations also favour storing data inside the Kingdom, which makes hosting a joint technical and legal decision."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Vision 2030 raised the baseline expectation."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Saudi consumers now transact digitally with government services, banks, and delivery platforms daily. That experience sets the standard your site is measured against. A three-step booking flow feels slow when the same user renewed a licence on a national platform in under a minute."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Search behaviour differs by city and language."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Riyadh, Jeddah, and Dammam produce different demand patterns for the same service, and the Arabic query for a service is frequently shorter and more transactional than its English equivalent. This is why "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/locations-website-development-riyadh/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "website development in Riyadh"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " and the same work in the Eastern Province often produce different page maps for identical businesses."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Arabic and Bilingual Website Considerations"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "URL structure."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Use subfolders such as "
+        },
+        {
+          "type": "element",
+          "tag": "code",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "/ar/"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " and "
+        },
+        {
+          "type": "element",
+          "tag": "code",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "/en/"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " on a single domain. This keeps authority consolidated on one property, rather than dividing it across separate domains or subdomains."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Hreflang."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Hreflang is a tag that tells search engines which language version of a page to show to which user. Every Arabic page needs a tag pointing to its English counterpart, and the reverse, plus a self-referencing tag. Google Search Central documents the "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "https://developers.google.com/search/docs/specialty/international/localized-versions",
+            "target": "_blank",
+            "rel": "noopener noreferrer"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "correct hreflang implementation for localised pages"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", and the most common failure is a one-way declaration."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Arabic keyword research is separate work."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Saudi searchers mix Modern Standard Arabic, dialect, and transliterated English terms. Diacritics are usually omitted, plural forms vary, and search volume clusters around phrasing that differs from a literal translation. Research runs in Arabic, with Arabic tools and Arabic search results, before any copy is written."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Fonts and readability."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Arabic requires typefaces designed for it, with correct letter joining and adequate line height. Latin fonts with an auto-generated Arabic fallback produce cramped, hard-to-read text. Arabic text also runs shorter or longer than English at the same meaning, so containers need flexible height."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Content parity."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Both languages should cover the same services, with the same depth. A site with 40 English pages and 6 Arabic pages sends a clear signal to Arabic-speaking buyers about which audience matters, and it caps organic performance in the larger of the two markets."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Compliance and Local Requirements"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Treat this as an orientation rather than legal advice, and confirm specifics with a qualified adviser."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Ecommerce registration and Maroof."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Businesses selling online in the Kingdom operate under the E-Commerce Law and generally need a commercial registration covering ecommerce activity. Maroof, run by the Ministry of Commerce, is the platform where online stores are documented and verified. Payment gateways and marketplaces frequently ask for Maroof verification before enabling full payment features, which makes it a practical launch dependency rather than a badge."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Personal data handling."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " The Personal Data Protection Law, supervised by the Saudi Data and Artificial Intelligence Authority, governs how you collect and use customer data. Its published "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "https://sdaia.gov.sa/en/Research/Pages/DataProtection.aspx",
+            "target": "_blank",
+            "rel": "noopener noreferrer"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "guidance on data protection rights"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " confirms that individuals may withdraw consent to processing at any time. In build terms this means an accessible privacy notice, a lawful basis recorded for each form, consent captured before marketing communications go out, and a working route for deletion and access requests."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "ZATCA e-invoicing."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Where transactions run through your site, invoicing falls under the Zakat, Tax and Customs Authority’s Fatoora programme. Phase 2 rolls out in waves by revenue threshold; "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "https://zatca.gov.sa/en/Pages/news_1426.aspx",
+            "target": "_blank",
+            "rel": "noopener noreferrer"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "ZATCA’s Wave 24 criteria"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " covered taxpayers whose VAT-subject revenue exceeded SAR 375,000 in 2022, 2023, or 2024, with integration required by 30 June 2026. Confirm your own wave and deadline directly with ZATCA, since thresholds have moved downward with each announcement."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Accessibility."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Colour contrast, keyboard navigation, descriptive alt text, and correct heading order improve usability for everyone and reduce risk. These are development-stage decisions that become costly once the design system is finished."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Business Type Breakdown"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Ecommerce."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " The heaviest development load: catalogue structure, filtering, checkout, payment methods, and product schema. Marketing leans on shopping feeds and retargeting, both of which depend directly on clean product data from the build."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Lead generation."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Development effort concentrates on forms, call and chat tracking, and fast landing pages. The decisive work sits in conversion measurement rather than in page volume."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Local services."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " The map listing frequently outranks the website for branded searches, so the site’s job is to support it: location pages, consistent contact details, and service area clarity. This is where "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/locations-website-development-jeddah/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "website development in Jeddah"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " and equivalent city work earns its return."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "B2B."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Long cycles need gated content, multi-step nurture, and CRM integration built in from the start. Reporting has to attribute across months, which means persistent identifiers and event design agreed before launch."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "One Partner for Both, or Separate Vendors"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "table",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "thead",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "th",
+                      "attributes": {
+                        "scope": "col"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Feature"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "th",
+                      "attributes": {
+                        "scope": "col"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "One partner for both"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "th",
+                      "attributes": {
+                        "scope": "col"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Separate vendors"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tbody",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Accountability"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Single owner for the result, so problems get fixed rather than assigned"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Each side can attribute the issue to the other, and diagnosis takes weeks"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Launch speed"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Tracking, content, and campaigns prepared in parallel with the build"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Marketing work starts after handover, adding a gap of weeks to months"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Tracking integrity"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Events specified during development and tested on staging"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Tags added retrospectively, usually with gaps in historic data"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Cost predictability"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Rework absorbed inside one scope"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Fixes billed separately by whichever party is asked"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Risk"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Concentrated with one supplier, so vendor selection matters more"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Spread across two suppliers, with the coordination burden on you"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Separate vendors work well when you have an internal marketing lead with the authority to hold both to a shared specification. Without that role, one partner covering both usually costs less over a twelve-month view."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "What to Budget For"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "table",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "thead",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "th",
+                      "attributes": {
+                        "scope": "col"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Item"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "th",
+                      "attributes": {
+                        "scope": "col"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "What it covers"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "th",
+                      "attributes": {
+                        "scope": "col"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Who owns it"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "th",
+                      "attributes": {
+                        "scope": "col"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "When it happens"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "tbody",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Discovery and architecture"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Goals, audience, keyword map, sitemap"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Strategy lead with client input"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Before design"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Design and UX"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Wireframes, design system, RTL and LTR layouts"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Designer with marketing review"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "After architecture"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Build and CMS"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Templates, code, integrations, editor training"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Developer"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Core phase"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Technical SEO foundations"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "URLs, schema, hreflang, speed targets"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "SEO lead with developer"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "During build"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Content, both languages"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Service copy, blog, product descriptions"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Content team"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Before design lock"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Tracking and analytics"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Events, conversions, ad platform tags"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Marketing with developer"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Before launch"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Launch and migration"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Redirect map, indexing checks, monitoring"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Developer and SEO lead jointly"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Launch week"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "tr",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "Campaigns and iteration"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Paid media, SEO, content, reporting"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Marketing"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "td",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "After launch, ongoing"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "A share-of-effort split varies too widely by business type to publish honestly. The reliable planning rule is that ongoing marketing becomes the larger recurring cost within the first year, while the build is a concentrated upfront cost."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Rule of Thumb"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "If a proposed change to the website would alter what a campaign report says, the developer and the marketer belong in the same conversation before that change ships."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Applied consistently, this single test catches most of the failures listed earlier: URL changes, form edits, script additions, template rewrites, and menu restructures all fail it, and all of them routinely ship without a marketing review."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Real-Life Situations"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Scoping a new site."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Ask for the keyword map before the wireframes. If the proposal moves from brief to design with no research stage, the page list is a guess."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Planning a migration."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Export every URL with its traffic and rankings first. That export becomes the redirect map and the post-launch checklist."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Launching a campaign."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Verify that the conversion event fires by submitting a real test enquiry and confirming it appears in the analytics platform. Do this before the budget goes live, rather than in week two."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Diagnosing a drop in leads."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Check in order: is the form still submitting, is the event still firing, has page speed changed, has the campaign changed, has demand changed. Most drops resolve within the first two checks."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Reviewing monthly performance."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Read one dashboard with development and marketing present. Separate reports produce separate stories, and the disagreement consumes the meeting."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "How to Brief an Agency"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Prepare these before the first call:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "ol",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "The commercial goal"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", expressed as a number: leads per month, revenue, or qualified enquiries."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "The audience"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", including whether they search in Arabic, English, or both."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "The languages"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " you will publish and maintain, with an honest view of who writes the Arabic."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Current access"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ": analytics, ad accounts, search console, domain registrar, and hosting login. List what you hold and what a previous supplier holds."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Content ownership"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ": who writes it, who approves it, and how long approval takes."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Existing assets"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ": current site URLs, rankings, and any pages that generate business today."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Timeline and fixed dates"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ": exhibitions, seasonal peaks, or product launches the site must support."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Success metrics"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " and the reporting cadence you expect."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Expert Tips"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "ul",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Install tracking before launch day, on staging."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Testing a conversion event after go-live means the first days of data are already lost."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Keep the old URL map."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Export it before anything is deleted. It is the cheapest insurance in a migration."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Register the analytics property under a company email you control."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Agency-owned properties become hostage in a supplier change."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Brief the content ahead of the design."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Layouts built around real copy hold up; layouts built around placeholder text collapse when the real text arrives."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Set a page weight budget and enforce it after handover."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Every new pixel and widget spends against it, and the erosion is invisible until speed scores fall."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Publish social content that points to owned pages."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "element",
+              "tag": "a",
+              "attributes": {
+                "href": "/professional-website-development-company-in-saudi-arabia/"
+              },
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Website development paired with social media marketing"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " works when each post has a destination worth reaching, rather than ending at the platform."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Give the Arabic site the same editorial calendar as the English one."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Parity is a ranking factor in practice, even where it is absent from any documentation."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Quick Summary"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Web development and digital marketing solve one problem from two ends. The build creates the place where a decision happens, and marketing brings the person who makes it. Kept apart, the seams show up as untracked leads, wasted media spend, slow pages, and rankings lost during a redesign. Kept together, the site is planned around researched demand, tracking is live before launch, and every campaign runs on pages already proven to load fast and convert. For Saudi businesses the stakes rise further, because bilingual content, right to left layout, mobile-first usage, WhatsApp enquiries, mada payments, and compliance obligations all sit on the border between the two disciplines. Decide who owns that border before the project starts."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "FAQ"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Is web development a part of digital marketing?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "They are separate disciplines that share a large overlap. Development builds the site; marketing drives and measures demand. Site speed, page structure, URLs, and conversion tracking belong to both, which is why the two functions need one shared plan."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Is web development better than digital marketing?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Neither replaces the other. A well-built site with zero traffic produces zero revenue, and heavy traffic sent to a poorly built site produces cost. The correct question is which one is currently limiting your results, and that answer changes over time."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "How do I start digital marketing for a new Saudi business?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Begin with demand research in Arabic and English, then confirm your site can be measured. Install analytics, define what counts as a conversion, and test that it records correctly. Only then commit budget to paid channels, so the first month of spend produces usable data."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "How do I build a website for a digital marketing agency?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "The same rules apply, with one addition: the site is the proof. Publish service pages mapped to real search demand, show measurable outcomes with client permission, keep load times fast, and maintain an Arabic version at full depth if you serve Saudi clients."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "How long before a new site starts generating leads?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Paid campaigns can produce enquiries within days of launch. Organic search typically takes three to six months to show meaningful movement on competitive terms, and longer in categories with established players. Sites that carried across existing URLs and rankings move faster than sites rebuilt from scratch."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Should the Arabic version sit on a subfolder or a subdomain?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "A subfolder such as "
+        },
+        {
+          "type": "element",
+          "tag": "code",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "/ar/"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " on the main domain is the usual recommendation, because it keeps authority consolidated on one property. Subdomains are treated with more separation and require you to build authority twice."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Who should own the Google Analytics and Ads accounts?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Your company, under an email address you control, with agency users invited as administrators. This survives any supplier change and keeps your historical data intact."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Can I keep my current site and run marketing on it?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Frequently yes. Run a technical audit first covering speed, indexing, mobile usability, and conversion tracking. If the fixes are contained, marketing on the existing site is the faster and cheaper route. Rebuild when the platform itself blocks the fixes."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "What breaks most often during a website migration?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Redirects. Old URLs pointing to the homepage instead of their true equivalents, or returning errors. Second most common is the staging "
+        },
+        {
+          "type": "element",
+          "tag": "code",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "noindex"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " tag left live on the production site, which removes the site from search results entirely until someone notices."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Do I need separate sites for Riyadh, Jeddah, and Dammam?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "One site with dedicated location pages serves this better than multiple sites. Each page should carry its own address, contact details, service description, and map listing link. Multiple domains split your authority and create competing results for the same brand."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "How much content should launch on day one?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Every page a buyer needs to make a decision, in both languages: services, locations, pricing or a route to pricing, proof, and contact. Blog content can follow. Launching with placeholder service pages delays ranking on the terms that matter most."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "What does web development in digital marketing actually mean?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "It refers to the development work that exists specifically to serve marketing outcomes: landing pages, tracking installation, page speed work, schema markup, form and checkout optimisation, and the CMS structure that lets a marketing team publish without waiting on a developer."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    }
+  ],
+  "article": {
+    "excerpt": "Web development builds the site that holds your traffic. Digital marketing sends that traffic and measures what it does next. Run together, they share one plan: the build supports the campaigns, and the campaigns feed the build with real behaviour data. Saudi businesses that align both from day one launch faster, track leads accurately, and …",
+    "dateLabel": "August 12, 2026",
+    "category": {
+      "label": "Digital Marketing Strategy & Fundamentals",
+      "href": "/category/digital-marketing-strategy/"
+    },
+    "additionalCategories": [
+      {
+        "label": "Website Development",
+        "href": "/category/website-development/"
+      }
+    ],
+    "featured": {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/08/digital-marketing-blog.png",
+      "alt": "Web Development and Digital Marketing: Saudi Guide",
+      "width": 1536,
+      "height": 1024,
+      "variants": [
+        {
+          "src": "/wp-content/uploads/2026/08/digital-marketing-blog.png",
+          "width": 1536
+        },
+        {
+          "src": "/wp-content/uploads/2026/08/digital-marketing-blog-300x200.png",
+          "width": 300
+        },
+        {
+          "src": "/wp-content/uploads/2026/08/digital-marketing-blog-1024x683.png",
+          "width": 1024
+        },
+        {
+          "src": "/wp-content/uploads/2026/08/digital-marketing-blog-768x512.png",
+          "width": 768
+        },
+        {
+          "src": "/wp-content/uploads/2026/08/digital-marketing-blog-18x12.png",
+          "width": 18
+        },
+        {
+          "src": "/wp-content/uploads/2026/08/digital-marketing-blog-450x300.png",
+          "width": 450
+        }
+      ],
+      "sizes": "(max-width: 1536px) 100vw, 1536px"
+    },
+    "adjacent": [
+      {
+        "label": "Previous Post",
+        "title": "Best SEO Agencies in Saudi Arabia (2026): How to Compare Them",
+        "href": "/best-seo-agencies-in-saudi-arabia-2026-how-to-compare-them/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/08/best-SEO-agencies-blog-1-150x150.png",
+          "alt": "Best SEO Agencies in Saudi Arabia (2026): How to Compare Them",
+          "width": 150,
+          "height": 150,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/08/best-SEO-agencies-blog-1-150x150.png",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/best-SEO-agencies-blog-1-260x260.png",
+              "width": 260
+            }
+          ],
+          "sizes": "(max-width: 150px) 100vw, 150px"
+        }
+      },
+      {
+        "label": "Next Post",
+        "title": "دليل إنشاء وتصميم موقع إلكتروني احترافي في السعودية (2026)",
+        "href": "/%d8%af%d9%84%d9%8a%d9%84-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d9%88%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d9%85%d9%88%d9%82%d8%b9-%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a-%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/08/creating-and-design-blog-2-150x150.png",
+          "alt": "دليل إنشاء وتصميم موقع إلكتروني احترافي في السعودية",
+          "width": 150,
+          "height": 150,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/08/creating-and-design-blog-2-150x150.png",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/creating-and-design-blog-2-260x260.png",
+              "width": 260
+            }
+          ],
+          "sizes": "(max-width: 150px) 100vw, 150px"
+        }
+      }
+    ],
+    "related": [
+      {
+        "title": "Social Media Marketing Cost in Saudi Arabia (2026 Guide)",
+        "href": "/social-media-marketing-cost-in-saudi-arabia/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2025/10/71-posts-placeholder-300x300.webp",
+          "alt": "",
+          "width": 300,
+          "height": 300,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-300x300.webp",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-100x100.webp",
+              "width": 100
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-600x600.webp",
+              "width": 600
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-150x150.webp",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-260x260.webp",
+              "width": 260
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder.webp",
+              "width": 768
+            }
+          ],
+          "sizes": "(max-width: 300px) 100vw, 300px"
+        },
+        "category": {
+          "label": "Digital Marketing Strategy & Fundamentals",
+          "href": "/category/digital-marketing-strategy/"
+        },
+        "dateLabel": "September 21, 2026",
+        "actionLabel": "Read More"
+      },
+      {
+        "title": "كيف يساعد الذكاء الاصطناعي الشركات في السعودية 2026 | نالك سوليوشنز",
+        "href": "/how-ai-helps-companies-in-saudi-arabia/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-300x200.jpeg",
+          "alt": "كيف يساعد الذكاء الاصطناعي الشركات في السعودية 2026 | نالك سوليوشنز",
+          "width": 300,
+          "height": 200,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-300x200.jpeg",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-1024x683.jpeg",
+              "width": 1024
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-768x512.jpeg",
+              "width": 768
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-18x12.jpeg",
+              "width": 18
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-450x300.jpeg",
+              "width": 450
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg.jpeg",
+              "width": 1536
+            }
+          ],
+          "sizes": "(max-width: 300px) 100vw, 300px"
+        },
+        "category": {
+          "label": "Custom Software & Apps",
+          "href": "/category/custom-software-apps/"
+        },
+        "dateLabel": "September 2, 2026",
+        "actionLabel": "Read More"
+      },
+      {
+        "title": "التسويق عبر سناب شات وتيك توك للشركات السعودية: الدليل الكامل 2026",
+        "href": "/snapchat-tiktok-marketing-saudi-businesses/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/08/blog-two-300x200.png",
+          "alt": "التسويق عبر سناب شات وتيك توك للشركات السعودية: الدليل الكامل 2026",
+          "width": 300,
+          "height": 200,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-300x200.png",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-1024x683.png",
+              "width": 1024
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-768x512.png",
+              "width": 768
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-18x12.png",
+              "width": 18
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-450x300.png",
+              "width": 450
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two.png",
+              "width": 1536
+            }
+          ],
+          "sizes": "(max-width: 300px) 100vw, 300px"
+        },
+        "category": {
+          "label": "Digital Marketing Strategy & Fundamentals",
+          "href": "/category/digital-marketing-strategy/"
+        },
+        "dateLabel": "August 26, 2026",
+        "actionLabel": "Read More"
+      }
+    ],
+    "footer": {
+      "owner": "NALK SOLUTIONS pvt Ltd",
+      "notice": "© 2026 - All Rights Reserved"
+    }
+  }
+}

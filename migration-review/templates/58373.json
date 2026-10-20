@@ -1,0 +1,3757 @@
+[
+  {
+    "id": "5d9cd3d4",
+    "elType": "container",
+    "settings": {
+      "flex_gap": {
+        "column": "40",
+        "row": "40",
+        "isLinked": true,
+        "unit": "px",
+        "size": 40
+      },
+      "pa_condition_repeater": [],
+      "premium_tooltip_text": "Hi, I'm a global tooltip.",
+      "premium_tooltip_position": "top,bottom",
+      "background_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_slideshow_gallery": [],
+      "background_hover_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_hover_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_hover_slideshow_gallery": [],
+      "background_overlay_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_slideshow_gallery": [],
+      "background_overlay_hover_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_hover_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_hover_slideshow_gallery": [],
+      "premium_tooltip_icon": {
+        "value": "fas fa-star",
+        "library": "fa-solid"
+      },
+      "premium_tooltip_container_bg_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "37fc6da0",
+        "elType": "widget",
+        "settings": {
+          "title": "Custom Web Development Services in Saudi Arabia",
+          "header_size": "h2",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "3c40908c",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>Building software solutions that fit your business like a tailored suit requires expertise, planning, and deep technical knowledge. At Nalk Solutions, our custom web development services in Saudi Arabia create digital platforms designed specifically for your unique business requirements, operational workflows, and growth objectives.</p>",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "357bfb62",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>Unlike template-based websites that force you to adapt your processes to fit predetermined structures, custom development gives you complete control over functionality, design, and user experience. This approach is particularly valuable for businesses with specialised requirements, complex integrations, or competitive advantages that depend on proprietary systems.</p>",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "1d30559f",
+        "elType": "widget",
+        "settings": {
+          "text": "Request Custom Development Quote",
+          "link": {
+            "url": "/contact",
+            "is_external": "",
+            "nofollow": "",
+            "custom_attributes": ""
+          },
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "selected_icon": {
+            "value": "",
+            "library": ""
+          },
+          "background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_slideshow_gallery": [],
+          "button_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "button_background_hover_slideshow_gallery": [],
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "button"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "211e90f1",
+    "elType": "container",
+    "settings": {
+      "flex_gap": {
+        "column": "40",
+        "row": "40",
+        "isLinked": true,
+        "unit": "px",
+        "size": 40
+      },
+      "pa_condition_repeater": [],
+      "premium_tooltip_text": "Hi, I'm a global tooltip.",
+      "premium_tooltip_position": "top,bottom",
+      "background_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_slideshow_gallery": [],
+      "background_hover_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_hover_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_hover_slideshow_gallery": [],
+      "background_overlay_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_slideshow_gallery": [],
+      "background_overlay_hover_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_hover_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_hover_slideshow_gallery": [],
+      "premium_tooltip_icon": {
+        "value": "fas fa-star",
+        "library": "fa-solid"
+      },
+      "premium_tooltip_container_bg_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "71b51e0b",
+        "elType": "widget",
+        "settings": {
+          "title": "What Makes Custom Web Development Different",
+          "header_size": "h2",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "66e8794a",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>The fundamental difference between custom development and standard website builders lies in flexibility and ownership. When we build a custom web application for your business, every line of code is written specifically for you. There are no limitations imposed by themes, plugins, or platform restrictions.</p>",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "3e4041e",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>This matters most when your business operates in ways that standard software cannot accommodate. Perhaps you need a customer portal that integrates with your legacy ERP system. Maybe you require a booking platform with pricing logic unique to your industry. Or you might need a web application that automates complex workflows specific to your operations.</p>",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "74111ae5",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>Custom development solves these challenges by building exactly what you need, nothing more and nothing less.</p>",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "55b41c10",
+    "elType": "container",
+    "settings": {
+      "flex_gap": {
+        "column": "40",
+        "row": "40",
+        "isLinked": true,
+        "unit": "px",
+        "size": 40
+      },
+      "pa_condition_repeater": [],
+      "premium_tooltip_text": "Hi, I'm a global tooltip.",
+      "premium_tooltip_position": "top,bottom",
+      "background_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_slideshow_gallery": [],
+      "background_hover_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_hover_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_hover_slideshow_gallery": [],
+      "background_overlay_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_slideshow_gallery": [],
+      "background_overlay_hover_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_hover_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_hover_slideshow_gallery": [],
+      "premium_tooltip_icon": {
+        "value": "fas fa-star",
+        "library": "fa-solid"
+      },
+      "premium_tooltip_container_bg_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "280b30f1",
+        "elType": "widget",
+        "settings": {
+          "title": "Our Custom Development Capabilities",
+          "header_size": "h2",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "3a482c5b",
+        "elType": "widget",
+        "settings": {
+          "title": "Enterprise Web Applications",
+          "header_size": "h4",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "617312c6",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>Large organisations need robust applications that handle high transaction volumes, support thousands of concurrent users, and integrate with multiple backend systems. Our enterprise development uses scalable architectures deployed on cloud infrastructure, ensuring reliability and performance as your business grows. These applications include role-based access controls, audit trails for compliance, and sophisticated reporting tools that give stakeholders the data they need to make informed decisions.</p>",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "4d3c6b23",
+        "elType": "widget",
+        "settings": {
+          "title": "API Development and Integration",
+          "header_size": "h4",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "103ce200",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>Modern businesses use dozens of different software tools, from accounting systems to marketing platforms. Custom API development connects these disparate systems, enabling data flow between applications and eliminating manual data entry. We build RESTful APIs that allow your web platform to communicate with external services, internal databases, and third-party applications. This includes integration with Saudi-specific systems like ZATCA for e-invoicing, Mada for payments, and Absher for government services verification.</p>",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "7ad4e878",
+        "elType": "widget",
+        "settings": {
+          "text": "Discover our API integration services",
+          "link": {
+            "url": "/services/api-integration",
+            "is_external": "",
+            "nofollow": "",
+            "custom_attributes": ""
+          },
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "selected_icon": {
+            "value": "",
+            "library": ""
+          },
+          "background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_slideshow_gallery": [],
+          "button_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "button_background_hover_slideshow_gallery": [],
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "button"
+      },
+      {
+        "id": "19a187db",
+        "elType": "widget",
+        "settings": {
+          "title": "Database Architecture and Design",
+          "header_size": "h4",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "3fe966bc",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>The foundation of any robust web application is its database structure. We design database schemas that efficiently store and retrieve your data while maintaining integrity and supporting complex queries. Whether you need relational databases like MySQL and PostgreSQL or document-oriented systems like MongoDB, we select the right technology for your data patterns. Database design also considers future growth, implementing partitioning strategies and indexing approaches that keep your application performing well as data volumes increase.</p>",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "4e47db4f",
+        "elType": "widget",
+        "settings": {
+          "title": "Custom CMS Development",
+          "header_size": "h4",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "65a3da2b",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>While platforms like WordPress work well for many websites, some businesses need content management systems built specifically for their content types and workflows. We develop custom CMS solutions that give your team exactly the tools they need to manage content efficiently. This might include custom content types for product specifications, approval workflows for multi-author publishing, or integration with asset management systems for large media libraries.</p>",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "da9dad",
+        "elType": "widget",
+        "settings": {
+          "text": "Learn about WordPress development for standard CMS needs",
+          "link": {
+            "url": "/services/wordpress-development",
+            "is_external": "",
+            "nofollow": "",
+            "custom_attributes": ""
+          },
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "selected_icon": {
+            "value": "",
+            "library": ""
+          },
+          "background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_slideshow_gallery": [],
+          "button_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "button_background_hover_slideshow_gallery": [],
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "button"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "6f2f738d",
+    "elType": "container",
+    "settings": {
+      "flex_gap": {
+        "column": "40",
+        "row": "40",
+        "isLinked": true,
+        "unit": "px",
+        "size": 40
+      },
+      "pa_condition_repeater": [],
+      "premium_tooltip_text": "Hi, I'm a global tooltip.",
+      "premium_tooltip_position": "top,bottom",
+      "background_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_slideshow_gallery": [],
+      "background_hover_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_hover_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_hover_slideshow_gallery": [],
+      "background_overlay_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_slideshow_gallery": [],
+      "background_overlay_hover_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_hover_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_hover_slideshow_gallery": [],
+      "premium_tooltip_icon": {
+        "value": "fas fa-star",
+        "library": "fa-solid"
+      },
+      "premium_tooltip_container_bg_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "3e4bcda",
+        "elType": "widget",
+        "settings": {
+          "title": "Technology Stack for Custom Projects",
+          "header_size": "h2",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "4b8bb316",
+        "elType": "widget",
+        "settings": {
+          "title": "Backend Frameworks",
+          "header_size": "h4",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "606867a2",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>Our server-side development primarily uses Laravel for PHP projects, Node.js with Express for JavaScript applications, and ASP.NET for Microsoft environments. Framework selection depends on your existing technology investments, team capabilities, and specific project requirements. Laravel excels at building secure, maintainable applications with robust authentication, database migrations, and queue management. Node.js provides excellent performance for real-time features and high-concurrency scenarios. ASP.NET integrates seamlessly with Microsoft ecosystems common in Saudi enterprises.</p>",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "5eb3b5d3",
+        "elType": "widget",
+        "settings": {
+          "title": "Frontend Development",
+          "header_size": "h4",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "4d934b02",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>User interfaces for custom applications use React for complex, state-driven interfaces, Vue.js for progressive enhancement of existing pages, and Angular for enterprise applications requiring comprehensive frameworks. We also build Progressive Web Apps that deliver app-like experiences through web browsers.</p>",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "d2402d1",
+        "elType": "widget",
+        "settings": {
+          "text": "View our PWA development services",
+          "link": {
+            "url": "/services/pwa-development",
+            "is_external": "",
+            "nofollow": "",
+            "custom_attributes": ""
+          },
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "selected_icon": {
+            "value": "",
+            "library": ""
+          },
+          "background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_slideshow_gallery": [],
+          "button_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "button_background_hover_slideshow_gallery": [],
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "button"
+      },
+      {
+        "id": "7d7ca308",
+        "elType": "widget",
+        "settings": {
+          "title": "Cloud Infrastructure",
+          "header_size": "h4",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "12c5b90b",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>Custom applications typically deploy to cloud platforms rather than traditional hosting. We work extensively with AWS, Microsoft Azure, and Google Cloud Platform, selecting services like Lambda for serverless computing, RDS for managed databases, and CloudFront for content delivery. Cloud deployment provides scalability, allowing your application to handle traffic spikes automatically, and reliability through redundant infrastructure across multiple availability zones.</p>",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "68f32a37",
+    "elType": "container",
+    "settings": {
+      "flex_gap": {
+        "column": "40",
+        "row": "40",
+        "isLinked": true,
+        "unit": "px",
+        "size": 40
+      },
+      "pa_condition_repeater": [],
+      "premium_tooltip_text": "Hi, I'm a global tooltip.",
+      "premium_tooltip_position": "top,bottom",
+      "background_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_slideshow_gallery": [],
+      "background_hover_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_hover_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_hover_slideshow_gallery": [],
+      "background_overlay_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_slideshow_gallery": [],
+      "background_overlay_hover_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_hover_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_hover_slideshow_gallery": [],
+      "premium_tooltip_icon": {
+        "value": "fas fa-star",
+        "library": "fa-solid"
+      },
+      "premium_tooltip_container_bg_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "107b3a72",
+        "elType": "widget",
+        "settings": {
+          "title": "The Custom Development Process",
+          "header_size": "h2",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "4da984e",
+        "elType": "widget",
+        "settings": {
+          "title": "Requirements Gathering and Analysis",
+          "header_size": "h4",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "25cdd3c4",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>Custom projects begin with comprehensive requirements documentation. We conduct stakeholder interviews, map existing workflows, identify pain points in current systems, and define success criteria for the new platform. This phase produces detailed specifications that guide development and serve as the foundation for testing. Technical analysis during this phase identifies integration points with existing systems, data migration requirements, and any constraints imposed by your current infrastructure.</p>",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "6cd40b89",
+        "elType": "widget",
+        "settings": {
+          "title": "Architecture and Design",
+          "header_size": "h4",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "44f3c787",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>With requirements defined, our architects design the application structure, database schema, API endpoints, and integration approach. We create technical documentation including system diagrams, database entity-relationship diagrams, and API specifications. User experience design happens in parallel, producing wireframes and mockups that show how users will interact with the system. For complex applications, we often build clickable prototypes that stakeholders can review before development begins.</p>",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "32dd3149",
+        "elType": "widget",
+        "settings": {
+          "title": "Agile Development Sprints",
+          "header_size": "h4",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "6dd61f00",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>Development follows an agile methodology with two-week sprints. Each sprint delivers working features that you can review and provide feedback on. This iterative approach allows for course corrections during development rather than discovering issues after months of work. We maintain a product backlog that prioritises features based on business value, ensuring the most important capabilities are built first. This also allows for phased releases, where core functionality launches initially and additional features roll out over time.</p>",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "7e63bdaf",
+        "elType": "widget",
+        "settings": {
+          "title": "Quality Assurance and Testing",
+          "header_size": "h4",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "3bd71f38",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>Testing happens throughout development, not just at the end. Unit tests verify that individual components work correctly. Integration tests confirm that different parts of the system interact properly. User acceptance testing with actual users validates that the application meets business requirements. Performance testing ensures the application handles expected load levels. Security testing identifies vulnerabilities before deployment. We also conduct cross-browser and cross-device testing to ensure consistent experiences across platforms.</p>",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "37dc4480",
+        "elType": "widget",
+        "settings": {
+          "title": "Deployment and DevOps",
+          "header_size": "h4",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "29a031a7",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>Modern application deployment uses continuous integration and continuous deployment pipelines that automate testing and release processes. We set up monitoring and logging systems that provide visibility into application performance and alert us to issues before they impact users. Infrastructure-as-code tools like Terraform manage cloud resources, ensuring development, staging, and production environments remain consistent. This reduces deployment risks and makes scaling straightforward.</p>",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "33072e65",
+        "elType": "widget",
+        "settings": {
+          "title": "Ongoing Maintenance and Evolution",
+          "header_size": "h4",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "32b4766",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>Custom applications require ongoing maintenance to remain secure and performant. Our maintenance services include applying security patches, updating dependencies, optimizing performance, and adding features as your business needs evolve.</p>",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "3eabb3c",
+    "elType": "container",
+    "settings": {
+      "flex_gap": {
+        "column": "40",
+        "row": "40",
+        "isLinked": true,
+        "unit": "px",
+        "size": 40
+      },
+      "pa_condition_repeater": [],
+      "premium_tooltip_text": "Hi, I'm a global tooltip.",
+      "premium_tooltip_position": "top,bottom",
+      "background_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_slideshow_gallery": [],
+      "background_hover_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_hover_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_hover_slideshow_gallery": [],
+      "background_overlay_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_slideshow_gallery": [],
+      "background_overlay_hover_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_hover_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_hover_slideshow_gallery": [],
+      "premium_tooltip_icon": {
+        "value": "fas fa-star",
+        "library": "fa-solid"
+      },
+      "premium_tooltip_container_bg_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "695675e5",
+        "elType": "widget",
+        "settings": {
+          "title": "Integration with Saudi Business Systems",
+          "header_size": "h2",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "2bc220f",
+        "elType": "widget",
+        "settings": {
+          "title": "ZATCA E-Invoicing Compliance",
+          "header_size": "h4",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "3a13bd2d",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>Businesses operating in Saudi Arabia must comply with ZATCA e-invoicing requirements. We integrate e-invoicing functionality into custom applications, generating compliant XML invoices, cryptographically signing documents, and submitting to ZATCA systems through approved integration methods. This integration handles both simplified invoices for B2C transactions and tax invoices for B2B sales, maintaining audit trails and archiving invoices according to regulatory requirements.</p>",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "2d862db5",
+        "elType": "widget",
+        "settings": {
+          "title": "Saudi Payment Gateways",
+          "header_size": "h4",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "62b93033",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>Custom ecommerce applications and business portals need to accept payments through local and international methods. We integrate Mada for Saudi debit cards, STC Pay for mobile wallet payments, and instalment services like Tabby and Tamara.</p>",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "75abfd71",
+        "elType": "widget",
+        "settings": {
+          "text": "Learn about e-commerce development with payment integration",
+          "link": {
+            "url": "/services/ecommerce-development",
+            "is_external": "",
+            "nofollow": "",
+            "custom_attributes": ""
+          },
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "selected_icon": {
+            "value": "",
+            "library": ""
+          },
+          "background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_slideshow_gallery": [],
+          "button_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "button_background_hover_slideshow_gallery": [],
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "button"
+      },
+      {
+        "id": "1d13ead9",
+        "elType": "widget",
+        "settings": {
+          "title": "Government Services Integration",
+          "header_size": "h4",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "1beae883",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>Some business applications benefit from integration with government services. This includes Absher for identity verification, Ministry of Commerce systems for commercial registry data, and GOSI for employment verification. We navigate the technical requirements and approval processes for these integrations.</p>",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "32b87387",
+    "elType": "container",
+    "settings": {
+      "flex_gap": {
+        "column": "40",
+        "row": "40",
+        "isLinked": true,
+        "unit": "px",
+        "size": 40
+      },
+      "pa_condition_repeater": [],
+      "premium_tooltip_text": "Hi, I'm a global tooltip.",
+      "premium_tooltip_position": "top,bottom",
+      "background_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_slideshow_gallery": [],
+      "background_hover_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_hover_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_hover_slideshow_gallery": [],
+      "background_overlay_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_slideshow_gallery": [],
+      "background_overlay_hover_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_hover_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_hover_slideshow_gallery": [],
+      "premium_tooltip_icon": {
+        "value": "fas fa-star",
+        "library": "fa-solid"
+      },
+      "premium_tooltip_container_bg_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "29ff9c0b",
+        "elType": "widget",
+        "settings": {
+          "title": "Why Choose Nalk Solutions for Custom Development",
+          "header_size": "h2",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "7c518548",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>Our custom development team brings 15 years of experience building web applications for Saudi businesses. We understand local market requirements, regulatory compliance needs, and cultural considerations that affect user experience design.</p>",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "2e3be342",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>Unlike offshore development teams, we are available for in-person meetings in Riyadh, Jeddah, and Dammam. This proximity facilitates better communication, faster problem resolution, and stronger partnerships.</p>",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "4c0ee654",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>Our developers hold certifications in relevant technologies and participate in ongoing training to stay current with emerging tools and best practices. This ensures your application is built using modern approaches that will remain maintainable for years to come.</p>",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "1c29234",
+        "elType": "widget",
+        "settings": {
+          "text": "Explore our work in Riyadh, Jeddah, and Eastern Province",
+          "link": {
+            "url": "/portfolio",
+            "is_external": "",
+            "nofollow": "",
+            "custom_attributes": ""
+          },
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "selected_icon": {
+            "value": "",
+            "library": ""
+          },
+          "background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_slideshow_gallery": [],
+          "button_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "button_background_hover_slideshow_gallery": [],
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "button"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "4148954b",
+    "elType": "container",
+    "settings": {
+      "flex_gap": {
+        "column": "40",
+        "row": "40",
+        "isLinked": true,
+        "unit": "px",
+        "size": 40
+      },
+      "pa_condition_repeater": [],
+      "premium_tooltip_text": "Hi, I'm a global tooltip.",
+      "premium_tooltip_position": "top,bottom",
+      "background_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_slideshow_gallery": [],
+      "background_hover_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_hover_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_hover_slideshow_gallery": [],
+      "background_overlay_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_slideshow_gallery": [],
+      "background_overlay_hover_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_hover_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_hover_slideshow_gallery": [],
+      "premium_tooltip_icon": {
+        "value": "fas fa-star",
+        "library": "fa-solid"
+      },
+      "premium_tooltip_container_bg_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "79535e26",
+        "elType": "widget",
+        "settings": {
+          "title": "Getting Started with Your Custom Project",
+          "header_size": "h2",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "3b194e42",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>Custom development begins with a discovery conversation where we learn about your business, understand your challenges, and identify how technology can address your needs. This initial consultation is free and helps both of us determine if custom development is the right approach for your situation.</p>",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "7502e3e1",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>From there, we can provide a preliminary estimate and timeline. If you choose to proceed, we will move into detailed requirements gathering and create a comprehensive proposal that outlines scope, deliverables, timeline, and investment required.</p>",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "46359454",
+        "elType": "widget",
+        "settings": {
+          "text": "Schedule your free custom development consultation today.",
+          "link": {
+            "url": "/contact",
+            "is_external": "",
+            "nofollow": "",
+            "custom_attributes": ""
+          },
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "selected_icon": {
+            "value": "",
+            "library": ""
+          },
+          "background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_slideshow_gallery": [],
+          "button_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "button_background_hover_slideshow_gallery": [],
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "button"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "46c2df5f",
+    "elType": "container",
+    "settings": {
+      "flex_gap": {
+        "column": "40",
+        "row": "40",
+        "isLinked": true,
+        "unit": "px",
+        "size": 40
+      },
+      "pa_condition_repeater": [],
+      "premium_tooltip_text": "Hi, I'm a global tooltip.",
+      "premium_tooltip_position": "top,bottom",
+      "background_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_slideshow_gallery": [],
+      "background_hover_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_hover_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_hover_slideshow_gallery": [],
+      "background_overlay_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_slideshow_gallery": [],
+      "background_overlay_hover_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_hover_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_hover_slideshow_gallery": [],
+      "premium_tooltip_icon": {
+        "value": "fas fa-star",
+        "library": "fa-solid"
+      },
+      "premium_tooltip_container_bg_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "595f6209",
+        "elType": "widget",
+        "settings": {
+          "title": "Contact Information",
+          "header_size": "h2",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "821f7f8",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>Call: +966 XX XXX XXXX</p>",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "55513124",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>Email: info@nalksolutions.com</p>",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "247ca20a",
+        "elType": "widget",
+        "settings": {
+          "editor": "<p>Office: Riyadh, Saudi Arabia</p>",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom",
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  }
+]

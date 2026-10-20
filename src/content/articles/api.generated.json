@@ -1,0 +1,3788 @@
+{
+  "id": "wordpress-post-59034",
+  "sourceRouteId": "R-fbbead80b209e23c",
+  "path": "/how-to-build-an-api-from-scratch-a-step-by-step-guide/",
+  "locale": "en",
+  "title": "How to Build an API from Scratch: A Step-by-Step Guide",
+  "body": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "An API (Application Programming Interface) is a set of rules that lets two software applications communicate. To build an API from scratch, follow six steps:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "(1) Define its purpose and endpoints"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "(2) Choose a language such as Python, JavaScript, Java, or C#"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "(3) Set up your development environment"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "(4) Write your routes and business logic"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "(5) Test your endpoints"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "(6) Deploy and document it."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "The most common type is a REST API, which uses HTTP methods like GET, POST, PUT, and DELETE to move data, usually in JSON format."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Every time you tap “Pay Now” on an online store, stream a song, or log in with Google, an API is doing the work behind the scenes. APIs are the connective tissue of modern software. Yet for many developers and technical teams, building one from scratch still feels daunting."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Where do you start? Which language do you use? How do you keep it secure? This guide answers all of it, with dedicated walkthroughs for Python (FastAPI), JavaScript (Node.js + Express), Java (Spring Boot), and C# (ASP.NET Core). By the end, you will understand the fundamentals, know how to pick a tech stack, and be able to write, test, secure, deploy, and document a working REST API."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "What Is an API and How Does It Work?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "An API is a contract between a client and a server. The client sends a request in a defined format, and the server returns a predictable response. Think of it like a waiter at a restaurant: you (the client) place an order, the waiter (the API) carries it to the kitchen (the server), and brings back exactly what you asked for. You never need to know how the kitchen works, only how to place the order."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "REST (Representational State Transfer) APIs are by far the most widely used type. They are stateless, rely on standard HTTP methods, and return data in JSON, which makes them easy to build and consume across languages and platforms."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Two other types are worth knowing:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "SOAP (Simple Object Access Protocol):"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " An older, more rigid protocol built on XML. Still common in enterprise and financial systems that require strict standards."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "GraphQL:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " A query language from Meta that lets clients request exactly the data they need, no more and no less. Powerful for complex, nested data, but it carries a steeper learning curve."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "For most new projects, REST is the right starting point. It is well documented, supported by every major language, and easier to debug."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/07/what-is-an-api-and-how-does-it-work.webp.png",
+          "alt": "What is an API and how does it work? Diagram showing a client sending an HTTP request to an API, which communicates with a server and returns a JSON response.",
+          "width": 1254,
+          "height": 1254,
+          "sizes": "(max-width: 1254px) 100vw, 1254px",
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/07/what-is-an-api-and-how-does-it-work.webp.png",
+              "width": 1254
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/what-is-an-api-and-how-does-it-work.webp-300x300.png",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/what-is-an-api-and-how-does-it-work.webp-1024x1024.png",
+              "width": 1024
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/what-is-an-api-and-how-does-it-work.webp-150x150.png",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/what-is-an-api-and-how-does-it-work.webp-768x768.png",
+              "width": 768
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/what-is-an-api-and-how-does-it-work.webp-12x12.png",
+              "width": 12
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/what-is-an-api-and-how-does-it-work.webp-260x260.png",
+              "width": 260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Are APIs Easy to Build?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Yes, a basic API is easier to build than most people expect. With a modern framework, you can have a working endpoint running locally in under an hour. The difficulty scales with what you add on top: authentication, database integration, validation, testing, and production deployment each take more time and care."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "A useful way to think about it:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Easy (a few hours):"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " A REST API with a handful of endpoints returning sample data."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Moderate (a few days):"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " The same API connected to a real database, with input validation and basic authentication."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Advanced (weeks):"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " A production system with security hardening, automated tests, monitoring, rate limiting, and full documentation."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "The first endpoint is the hardest part. Once it works, the rest is repetition and refinement."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Can You Build Your Own API for Free?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Yes, you can build a REST API from scratch at zero cost using open-source frameworks and free hosting tiers."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "The most common free tools developers reach for:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "FastAPI (Python):"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Fast, modern, and beginner-friendly."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Express.js (Node.js):"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Minimal and highly flexible."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Spring Boot (Java):"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Feature-rich and built for enterprise use."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "ASP.NET Core (C#):"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " High-performance and fully open source across Windows, Linux, and macOS."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Free hosting platforms:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Railway, Render, and Vercel all offer free tiers suitable for development and small deployments."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Teams that need advanced API management, rate limiting at scale, or enterprise security features can move to paid platforms like AWS API Gateway, Apigee, or Kong. But for learning, prototyping, or a small production API, the free tools are more than enough."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "How to Build an API for Beginners"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "If you are building your first API, start with Python and FastAPI, and keep the scope small. The fastest path to a working result:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Install Python 3.9 or newer"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": ", then run "
+            },
+            {
+              "type": "inlineCode",
+              "language": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "pip install fastapi uvicorn"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Write one GET endpoint"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " that returns sample data, and run it locally."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Open the auto-generated docs"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " at "
+            },
+            {
+              "type": "inlineCode",
+              "language": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "/docs"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " to see and test your API in the browser."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Add a POST endpoint"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " once the first one works, so you can create data as well as read it."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Only then layer on"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " a database, validation, and authentication, one piece at a time."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "The reason FastAPI suits beginners is that it removes friction: clean syntax, helpful error messages, strong typing, and interactive documentation generated for free. You can see results immediately, which keeps the learning loop tight. The full beginner example is in the Python section below."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Choosing the Right Tech Stack for API Development"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/07/best-programming-language-to-build-an-api.webp.png",
+          "alt": "Best programming language to build an API comparison chart showing Python FastAPI, Node.js Express, Java Spring Boot, and C# ASP.NET Core with ideal use cases.",
+          "width": 1254,
+          "height": 1254,
+          "sizes": "(max-width: 1254px) 100vw, 1254px",
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/07/best-programming-language-to-build-an-api.webp.png",
+              "width": 1254
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/best-programming-language-to-build-an-api.webp-300x300.png",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/best-programming-language-to-build-an-api.webp-1024x1024.png",
+              "width": 1024
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/best-programming-language-to-build-an-api.webp-150x150.png",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/best-programming-language-to-build-an-api.webp-768x768.png",
+              "width": 768
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/best-programming-language-to-build-an-api.webp-12x12.png",
+              "width": 12
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/best-programming-language-to-build-an-api.webp-260x260.png",
+              "width": 260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "The best language for your API depends on your use case, your team’s existing skills, and your performance needs. Here are the four most popular options:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Python (FastAPI or Flask):"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Easiest to learn, strong performance, auto-generated docs. Best for data-heavy apps, beginners, and APIs that integrate machine learning."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "JavaScript (Node.js + Express):"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Very approachable, strong performance, huge package ecosystem. Best for real-time apps and high-concurrency workloads like chat and live feeds."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Java (Spring Boot):"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Steeper learning curve, top-tier performance, batteries included. Best for enterprise APIs and high-security environments."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "C# (ASP.NET Core):"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Moderate learning curve, top-tier performance, cross-platform. Best for teams already inside the .NET or Microsoft ecosystem."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Python with FastAPI is the recommended starting point for beginners thanks to its clean syntax, automatic documentation, and typing support. Node.js with Express fits naturally when you need real-time features. Java with Spring Boot is the enterprise default where scalability, security, and long-term maintainability come first. C# with ASP.NET Core is a strong choice for Microsoft-based teams and delivers excellent performance on any operating system."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "How to Build an API from Scratch: Step by Step"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/07/how-to-build-an-api-step-by-step.webp.png",
+          "alt": "How to build an API step by step infographic showing eight stages from planning and choosing a programming language to testing, documentation, security, and deployment.",
+          "width": 1254,
+          "height": 1254,
+          "sizes": "(max-width: 1254px) 100vw, 1254px",
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/07/how-to-build-an-api-step-by-step.webp.png",
+              "width": 1254
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/how-to-build-an-api-step-by-step.webp-300x300.png",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/how-to-build-an-api-step-by-step.webp-1024x1024.png",
+              "width": 1024
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/how-to-build-an-api-step-by-step.webp-150x150.png",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/how-to-build-an-api-step-by-step.webp-768x768.png",
+              "width": 768
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/how-to-build-an-api-step-by-step.webp-12x12.png",
+              "width": 12
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/how-to-build-an-api-step-by-step.webp-260x260.png",
+              "width": 260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "text",
+          "text": "Step 1: Plan Your API"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Before writing a single line of code, define what your API is supposed to do."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Who will use it?"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Internal teams, mobile apps, and external third-party developers each have different expectations."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "What resources does it expose?"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Common examples are users, products, orders, or articles."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "What endpoints do you need?"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Map out the operations each resource requires: list, create, update, delete."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "What authentication will you use?"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " API keys work for simple cases. JWT (JSON Web Tokens) or OAuth 2.0 suit APIs that need user-level security."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "JSON is the standard data format for REST APIs: lightweight, human-readable, and natively supported by every major language."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "text",
+          "text": "Step 2: Set Up Your Development Environment"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Setup depends on your chosen language."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Python:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Install Python 3.9 or newer, then run "
+            },
+            {
+              "type": "inlineCode",
+              "language": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "pip install fastapi uvicorn"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Node.js:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Install Node.js and npm, then run "
+            },
+            {
+              "type": "inlineCode",
+              "language": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "npm init -y"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " followed by "
+            },
+            {
+              "type": "inlineCode",
+              "language": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "npm install express"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Java:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Use Spring Initializr to scaffold a Spring Boot project with the Web dependency included."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "C#:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Install the .NET SDK, then run "
+            },
+            {
+              "type": "inlineCode",
+              "language": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "dotnet new web -o MyApi"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " to scaffold a minimal API project."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "VS Code works well for all four. Add Pylance for Python, ESLint and Prettier for JavaScript, the Extension Pack for Java, and the C# Dev Kit for .NET."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "text",
+          "text": "Step 3: Define Your Endpoints and Routes"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "REST APIs use four core HTTP methods:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "GET:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Retrieve data"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "POST:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Create new data"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "PUT or PATCH:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Update existing data"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "DELETE:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Remove data"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Follow RESTful naming conventions: use nouns, not verbs. For example, "
+        },
+        {
+          "type": "inlineCode",
+          "language": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "/api/users"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " is correct; "
+        },
+        {
+          "type": "inlineCode",
+          "language": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "/api/getUsers"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " is not."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "FastAPI (Python):"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "codeBlock",
+      "language": "python",
+      "text": "from fastapi import FastAPI\r\napp = FastAPI()\r\n\r\n@app.get(\"/users\")\r\ndef get_users():\r\n    return [{\"id\": 1, \"name\": \"Alice\"}]\r\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Express.js (Node.js):"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "codeBlock",
+      "language": "javascript",
+      "text": "const express = require('express');\r\nconst app = express();\r\n\r\napp.get('/users', (req, res) => {\r\n  res.json([{ id: 1, name: 'Alice' }]);\r\n});\r\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Spring Boot (Java):"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "codeBlock",
+      "language": "java",
+      "text": "@RestController\r\n@RequestMapping(\"/users\")\r\npublic class UserController {\r\n  @GetMapping\r\n  public List<User> getUsers() {\r\n    return List.of(new User(1, \"Alice\"));\r\n  }\r\n}\r\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "text",
+          "text": "Step 4: Write Your Business Logic"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "This is where your API becomes functional. Connect it to a database. PostgreSQL is a reliable choice for relational data, MongoDB suits flexible document-based data, and SQLite works well for development and lightweight use."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Always return the appropriate HTTP status codes:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "200 OK:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Request succeeded"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "201 Created:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " New resource created"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "400 Bad Request:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Client sent invalid data"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "404 Not Found:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Resource does not exist"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "500 Internal Server Error:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Something went wrong on the server"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Here is a POST endpoint in FastAPI that creates a new user:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "codeBlock",
+      "language": "python",
+      "text": "from pydantic import BaseModel\r\n\r\nclass User(BaseModel):\r\n    name: str\r\n    email: str\r\n\r\n@app.post(\"/users\", status_code=201)\r\ndef create_user(user: User):\r\n    return {\"message\": \"User created\", \"user\": user}\r\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "text",
+          "text": "Step 5: Add Authentication and Security"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "An API without security is a liability, even in development. JWT (JSON Web Tokens) is the most widely adopted authentication method for REST APIs. A JWT is issued when a user logs in and must be included in the header of later requests to reach protected endpoints."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Beyond authentication, follow these core practices:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Input validation:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Never trust raw user input. Validate and sanitize everything before processing."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Rate limiting:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Cap how many requests a client can make per minute to prevent abuse."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "HTTPS enforcement:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Always serve your API over HTTPS in production. Most hosts handle this automatically."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "CORS configuration:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Define which origins may access your API to block unauthorized cross-origin requests."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "text",
+          "text": "Step 6: Test Your API"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Postman is the most popular tool for manual API testing. It lets you send GET, POST, PUT, and DELETE requests, inspect responses, and save collections for reuse."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "For quick command-line checks, cURL works well:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "codeBlock",
+      "language": "bash",
+      "text": "curl -X GET http://localhost:8000/users\r\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "For production APIs, automated testing is essential. pytest is the standard for Python, and Jest with Supertest is the preferred combination for Node.js. Writing tests early saves significant debugging time later."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "text",
+          "text": "Step 7: Document Your API"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Documentation decides whether other developers can actually use what you built. Swagger and OpenAPI are the industry standard, producing interactive docs that let users explore and test endpoints from a browser."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "FastAPI has a standout advantage: it generates Swagger docs automatically at "
+        },
+        {
+          "type": "inlineCode",
+          "language": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "/docs"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " with zero configuration. For Express.js and Spring Boot, swagger-jsdoc and SpringDoc OpenAPI make documentation straightforward."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Good documentation includes endpoint descriptions, expected request formats, all possible response codes, and authentication requirements."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "text",
+          "text": "Step 8: Deploy Your API"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Deployment options scale with experience:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Beginners:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Railway and Render offer simple Git-based deployment with free tiers. Push your code and they handle the rest."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Production:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " AWS (Elastic Beanstalk or Lambda), Google Cloud Run, and Azure App Service provide enterprise-grade scale and control."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Store sensitive configuration such as database credentials and API keys in environment variables. Never hardcode them into your source. Tools like python-dotenv or dotenv for Node.js make this easy."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Learn Docker early. Containerizing your API keeps it running consistently across development, staging, and production, which eliminates the “it works on my machine” problem."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Once your API is running, the next step is usually the frontend that consumes it. If you are building the full product and not just the backend, our guide on "
+        },
+        {
+          "type": "link",
+          "href": "/how-to-build-a-web-app-from-scratch/",
+          "title": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "how to build a web app from scratch"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " walks through the client side that will call these endpoints, from planning the interface to connecting it to your API and deploying it."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "How to Build an API in Python (FastAPI)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "FastAPI is one of the fastest-growing Python frameworks, and for good reason. It is built on standard Python type hints, delivers performance comparable to Node.js, and auto-generates interactive documentation."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Here is a minimal working API:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "codeBlock",
+      "language": "python",
+      "text": "# Install: pip install fastapi uvicorn\r\nfrom fastapi import FastAPI\r\n\r\napp = FastAPI()\r\n\r\n@app.get(\"/\")\r\ndef read_root():\r\n    return {\"message\": \"Hello, World!\"}\r\n\r\n@app.get(\"/items/{item_id}\")\r\ndef read_item(item_id: int):\r\n    return {\"item_id\": item_id}\r\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Run it with "
+        },
+        {
+          "type": "inlineCode",
+          "language": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "uvicorn main:app --reload"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", then visit "
+        },
+        {
+          "type": "inlineCode",
+          "language": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "http://127.0.0.1:8000/docs"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " to see your auto-generated Swagger documentation. For deeper study, the official FastAPI documentation is thorough and beginner-friendly."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "How to Create an API in JavaScript (Node.js + Express)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Node.js is a natural fit for APIs that handle many simultaneous connections. Real-time applications, streaming services, and chat systems all benefit from its non-blocking, event-driven architecture."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "codeBlock",
+      "language": "javascript",
+      "text": "// Install: npm install express\r\nconst express = require('express');\r\nconst app = express();\r\n\r\napp.use(express.json());\r\n\r\nconst items = [{ id: 1, name: 'Widget' }];\r\n\r\napp.get('/items', (req, res) => {\r\n  res.json(items);\r\n});\r\n\r\napp.post('/items', (req, res) => {\r\n  const newItem = { id: items.length + 1, ...req.body };\r\n  items.push(newItem);\r\n  res.status(201).json(newItem);\r\n});\r\n\r\napp.listen(3000, () => console.log('API running on port 3000'));\r\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Express keeps things minimal by design. That makes it flexible, but it also means you bring in extra packages for features like authentication and validation."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "How to Build an API in Java (Spring Boot)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Spring Boot is the dominant framework for enterprise Java APIs. It handles dependency injection, security, and database integration out of the box, which makes it well suited to large teams building complex, long-lived systems."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Start by generating a project at start.spring.io with the “Spring Web” dependency selected. Then define your first controller:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "codeBlock",
+      "language": "java",
+      "text": "import org.springframework.web.bind.annotation.*;\r\nimport java.util.*;\r\n\r\n@RestController\r\n@RequestMapping(\"/api/products\")\r\npublic class ProductController {\r\n\r\n    private List<String> products = new ArrayList<>(List.of(\"Widget\", \"Gadget\"));\r\n\r\n    @GetMapping\r\n    public List<String> getProducts() {\r\n        return products;\r\n    }\r\n\r\n    @PostMapping\r\n    public String addProduct(@RequestBody String product) {\r\n        products.add(product);\r\n        return \"Product added: \" + product;\r\n    }\r\n}\r\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "How to Create an API in C# (ASP.NET Core)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "ASP.NET Core is Microsoft’s open-source, cross-platform framework for building high-performance APIs. Its minimal API model strips away the old boilerplate of controllers and attributes, so you can define a working endpoint in just a few lines. It runs on Windows, Linux, and macOS."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Scaffold a project with "
+        },
+        {
+          "type": "inlineCode",
+          "language": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "dotnet new web -o MyApi"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", then edit "
+        },
+        {
+          "type": "inlineCode",
+          "language": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Program.cs"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ":"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "codeBlock",
+      "language": "csharp",
+      "text": "// .NET 6 or newer minimal API\r\nvar builder = WebApplication.CreateBuilder(args);\r\nvar app = builder.Build();\r\n\r\nvar products = new List<string> { \"Widget\", \"Gadget\" };\r\n\r\napp.MapGet(\"/products\", () => products);\r\n\r\napp.MapPost(\"/products\", (string product) =>\r\n{\r\n    products.Add(product);\r\n    return Results.Created($\"/products/{product}\", product);\r\n});\r\n\r\napp.Run();\r\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Run it with "
+        },
+        {
+          "type": "inlineCode",
+          "language": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "dotnet run"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Independent framework benchmarks have consistently ranked ASP.NET Core among the fastest web frameworks available, with a clear JSON throughput advantage over Node.js in synthetic tests. That raw speed is real, though for most enterprise teams the deciding factors are existing skills and infrastructure rather than headline benchmark numbers."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Building an API and the app around it takes time and the right engineering team. If you would rather ship faster with experts handling the backend, security, and deployment, our "
+        },
+        {
+          "type": "link",
+          "href": "/services-custom-software-app-development-saudi-arabia/",
+          "title": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "custom software and app development services"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " cover the full build from scratch, tailored to businesses across Saudi Arabia."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "How to Create an API for a Website"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Creating an API for a website means building a backend service your site’s frontend calls to fetch or send data, usually over HTTPS and in JSON. The website is the client, and the API is the server that supplies dynamic content like product listings, user accounts, or search results."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "The workflow is the same REST process covered above, with three website-specific considerations:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Configure CORS correctly."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Your API must explicitly allow requests from your website’s domain, or the browser will block them. Set allowed origins to your production and staging domains only."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Return clean JSON your frontend can render."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Keep response shapes consistent so your JavaScript, React, or Vue code can map over them predictably."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Secure the connection and the data."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Serve over HTTPS, authenticate users with JWT or session tokens, and never expose secret keys in frontend code."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "A simple pattern: the website loads, its frontend sends a "
+        },
+        {
+          "type": "inlineCode",
+          "language": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "fetch"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " request to an endpoint like "
+        },
+        {
+          "type": "inlineCode",
+          "language": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "/api/products"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", your API queries the database and returns JSON, and the frontend renders that data into the page. Whether your API lives on the same domain or a separate subdomain, the contract stays identical: predictable requests in, predictable JSON out."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Start Building Your First API Today"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Building a REST API from scratch follows the same core process no matter which language you choose: plan your resources, set up your environment, define your endpoints, add security, test thoroughly, document clearly, and deploy with confidence."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Where to start depends on where you are now:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Beginners:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Start with Python and FastAPI. Clean syntax, auto-generated docs, gentle learning curve."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Intermediate developers:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Node.js with Express gives you speed, flexibility, and a massive npm ecosystem."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Microsoft-based teams:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " C# with ASP.NET Core delivers top-tier performance and cross-platform support."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "listItem",
+          "children": [
+            {
+              "type": "strong",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Enterprise teams:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Java with Spring Boot brings the security, scalability, and maintainability large systems demand."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Bookmark this guide, share it with your team, and return to it as your API grows. When you are ready to go deeper, the official documentation for FastAPI, Express.js, Spring Boot, and ASP.NET Core are all strong next steps, alongside free testing tools like Postman."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "The first endpoint is always the hardest. After that, it gets considerably more fun."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "APIs rarely live in isolation. They power the web apps, dashboards, and mobile products your users actually touch, which is why pairing this guide with our "
+        },
+        {
+          "type": "link",
+          "href": "/how-to-build-a-web-app-from-scratch/",
+          "title": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "web app build walkthrough"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " gives you both halves of the stack. For more engineering and SEO-focused guides like this one, explore the rest of "
+        },
+        {
+          "type": "link",
+          "href": "/",
+          "title": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "NALK Solutions"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [
+        {
+          "type": "text",
+          "text": "Frequently Asked Questions"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "What is an API and how does it work?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "An API (Application Programming Interface) is a set of rules that defines how two software applications communicate. In a REST API, a client sends an HTTP request to a server using methods like GET or POST, and the server returns a structured response, usually in JSON."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "What is an API and how do you build it?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "An API is a defined contract that lets applications exchange data. To build one, you plan your endpoints, pick a language and framework such as FastAPI, Express, Spring Boot, or ASP.NET Core, write your routes and logic, connect a database, add authentication, then test, document, and deploy it."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "How do you create an API step by step?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Follow eight steps: plan your resources and endpoints, set up your environment, define your routes, write your business logic, add authentication and security, test with Postman or cURL, document with Swagger, and deploy to a host like Railway, Render, or AWS."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Can I create my own API for free?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Yes. Open-source frameworks like FastAPI (Python), Express.js (Node.js), Spring Boot (Java), and ASP.NET Core (C#) are completely free. Free-tier hosts such as Render, Railway, and Vercel let you deploy and run small APIs at no cost."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "Are APIs easy to build?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "A basic API is easier than most people expect and can run locally within an hour using a modern framework. Difficulty rises as you add a database, authentication, validation, testing, and production deployment. Start small, then layer on complexity."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "How long does it take to build an API from scratch?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "A simple REST API with a few endpoints can be built in a few hours. A production-ready API with authentication, database integration, automated testing, and documentation typically takes several days to weeks, depending on complexity."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "What is the difference between a REST API and a GraphQL API?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "A REST API exposes fixed endpoints that return predefined data structures. A GraphQL API exposes a single endpoint and lets clients request exactly the data they need per query. REST is simpler to build and debug; GraphQL is more efficient for complex, nested data."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "How do I secure an API I build from scratch?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Use HTTPS for all traffic, implement JWT or OAuth 2.0 for authentication, validate all incoming data, configure CORS to restrict unauthorized origins, and apply rate limiting to prevent abuse. Even internal APIs benefit from these protections."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "What is the best programming language for building an API?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "For beginners, Python with FastAPI is the easiest starting point. For real-time apps, Node.js with Express is the most widely used. For enterprise systems, Java with Spring Boot leads, and for Microsoft-based teams, C# with ASP.NET Core is the natural choice."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "children": [
+        {
+          "type": "strong",
+          "children": [
+            {
+              "type": "text",
+              "text": "How do I test an API I built myself?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": "Use Postman for manual testing to send requests to each endpoint and inspect responses. For automated testing, use pytest with Python or Jest with Supertest for Node.js. Automated tests are essential for any API running in production."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    }
+  ],
+  "presentation": {
+    "excerpt": "An API (Application Programming Interface) is a set of rules that lets two software applications communicate. To build an API from scratch, follow six steps: (1) Define its purpose and endpoints (2) Choose a language such as Python, JavaScript, Java, or C# (3) Set up your development environment (4) Write your routes and business logic …",
+    "dateLabel": "July 7, 2026",
+    "category": {
+      "label": "Custom Software & Apps",
+      "href": "/category/custom-software-apps/"
+    },
+    "featured": {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/07/blog-image-API-6-scaled.png",
+      "alt": "",
+      "width": 2560,
+      "height": 1706,
+      "sizes": "(max-width: 2560px) 100vw, 2560px",
+      "variants": [
+        {
+          "src": "/wp-content/uploads/2026/07/blog-image-API-6-scaled.png",
+          "width": 2560
+        },
+        {
+          "src": "/wp-content/uploads/2026/07/blog-image-API-6-300x200.png",
+          "width": 300
+        },
+        {
+          "src": "/wp-content/uploads/2026/07/blog-image-API-6-1024x683.png",
+          "width": 1024
+        },
+        {
+          "src": "/wp-content/uploads/2026/07/blog-image-API-6-768x512.png",
+          "width": 768
+        },
+        {
+          "src": "/wp-content/uploads/2026/07/blog-image-API-6-1536x1024.png",
+          "width": 1536
+        },
+        {
+          "src": "/wp-content/uploads/2026/07/blog-image-API-6-2048x1365.png",
+          "width": 2048
+        },
+        {
+          "src": "/wp-content/uploads/2026/07/blog-image-API-6-18x12.png",
+          "width": 18
+        },
+        {
+          "src": "/wp-content/uploads/2026/07/blog-image-API-6-450x300.png",
+          "width": 450
+        }
+      ]
+    },
+    "adjacent": [
+      {
+        "label": "Previous Post",
+        "title": "How to Build a Web App from Scratch in 2026",
+        "href": "/how-to-build-a-web-app-from-scratch/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/07/blog-image-web-app-from-scratch-150x150.png",
+          "alt": "blog image - web app from scratch.png",
+          "width": 150,
+          "height": 150,
+          "sizes": "(max-width: 150px) 100vw, 150px",
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/07/blog-image-web-app-from-scratch-150x150.png",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/blog-image-web-app-from-scratch-260x260.png",
+              "width": 260
+            }
+          ]
+        }
+      },
+      {
+        "label": "Next Post",
+        "title": "How to Hire Developers for Your Startup in Saudi Arabia: A Practical 2026 Guide",
+        "href": "/how-to-hire-developers-for-your-startup/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/07/blog-image-4-1-150x150.png",
+          "alt": "How to Hire Developers for Your Startup in Saudi Arabia",
+          "width": 150,
+          "height": 150,
+          "sizes": "(max-width: 150px) 100vw, 150px",
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/07/blog-image-4-1-150x150.png",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/blog-image-4-1-260x260.png",
+              "width": 260
+            }
+          ]
+        }
+      }
+    ],
+    "related": [
+      {
+        "title": "Social Media Marketing Cost in Saudi Arabia (2026 Guide)",
+        "href": "/social-media-marketing-cost-in-saudi-arabia/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2025/10/71-posts-placeholder-300x300.webp",
+          "alt": "",
+          "width": 300,
+          "height": 300,
+          "sizes": "(max-width: 300px) 100vw, 300px",
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-300x300.webp",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-100x100.webp",
+              "width": 100
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-600x600.webp",
+              "width": 600
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-150x150.webp",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-260x260.webp",
+              "width": 260
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder.webp",
+              "width": 768
+            }
+          ]
+        },
+        "category": {
+          "label": "Digital Marketing Strategy & Fundamentals",
+          "href": "/category/digital-marketing-strategy/"
+        },
+        "dateLabel": "September 21, 2026",
+        "actionLabel": "Read More"
+      },
+      {
+        "title": "كيف يساعد الذكاء الاصطناعي الشركات في السعودية 2026 | نالك سوليوشنز",
+        "href": "/how-ai-helps-companies-in-saudi-arabia/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-300x200.jpeg",
+          "alt": "كيف يساعد الذكاء الاصطناعي الشركات في السعودية 2026 | نالك سوليوشنز",
+          "width": 300,
+          "height": 200,
+          "sizes": "(max-width: 300px) 100vw, 300px",
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-300x200.jpeg",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-1024x683.jpeg",
+              "width": 1024
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-768x512.jpeg",
+              "width": 768
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-18x12.jpeg",
+              "width": 18
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-450x300.jpeg",
+              "width": 450
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg.jpeg",
+              "width": 1536
+            }
+          ]
+        },
+        "category": {
+          "label": "Custom Software & Apps",
+          "href": "/category/custom-software-apps/"
+        },
+        "dateLabel": "September 2, 2026",
+        "actionLabel": "Read More"
+      },
+      {
+        "title": "التسويق عبر سناب شات وتيك توك للشركات السعودية: الدليل الكامل 2026",
+        "href": "/snapchat-tiktok-marketing-saudi-businesses/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/08/blog-two-300x200.png",
+          "alt": "التسويق عبر سناب شات وتيك توك للشركات السعودية: الدليل الكامل 2026",
+          "width": 300,
+          "height": 200,
+          "sizes": "(max-width: 300px) 100vw, 300px",
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-300x200.png",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-1024x683.png",
+              "width": 1024
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-768x512.png",
+              "width": 768
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-18x12.png",
+              "width": 18
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-450x300.png",
+              "width": 450
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two.png",
+              "width": 1536
+            }
+          ]
+        },
+        "category": {
+          "label": "Digital Marketing Strategy & Fundamentals",
+          "href": "/category/digital-marketing-strategy/"
+        },
+        "dateLabel": "August 26, 2026",
+        "actionLabel": "Read More"
+      }
+    ],
+    "footer": {
+      "owner": "NALK SOLUTIONS pvt Ltd",
+      "notice": "© 2026 - All Rights Reserved"
+    }
+  },
+  "seo": {
+    "title": "How to Build an API from Scratch: Step-by-Step Guide",
+    "description": "How to Build an API with Python, JavaScript, Java, or C#. A step-by-step guide covering planning, coding, testing, security, and deployment",
+    "canonical": "https://nalksolutions.com/how-to-build-an-api-from-scratch-a-step-by-step-guide/",
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "googlebot": null,
+    "social": [
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "How to Build an API from Scratch: Step-by-Step Guide"
+      },
+      {
+        "property": "og:description",
+        "content": "How to Build an API with Python, JavaScript, Java, or C#. A step-by-step guide covering planning, coding, testing, security, and deployment"
+      },
+      {
+        "property": "og:url",
+        "content": "https://nalksolutions.com/how-to-build-an-api-from-scratch-a-step-by-step-guide/"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Nalk Solutions"
+      },
+      {
+        "property": "og:updated_time",
+        "content": "2026-08-11T22:18:24+00:00"
+      },
+      {
+        "property": "og:image",
+        "content": "https://nalksolutions.com/wp-content/uploads/2026/07/blog-image-API-6-1024x683.png"
+      },
+      {
+        "property": "og:image:secure_url",
+        "content": "https://nalksolutions.com/wp-content/uploads/2026/07/blog-image-API-6-1024x683.png"
+      },
+      {
+        "property": "og:image:width",
+        "content": "1024"
+      },
+      {
+        "property": "og:image:height",
+        "content": "683"
+      },
+      {
+        "property": "og:image:alt",
+        "content": "How to Build an API"
+      },
+      {
+        "property": "og:image:type",
+        "content": "image/png"
+      },
+      {
+        "property": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "property": "twitter:title",
+        "content": "How to Build an API from Scratch: Step-by-Step Guide"
+      },
+      {
+        "property": "twitter:description",
+        "content": "How to Build an API with Python, JavaScript, Java, or C#. A step-by-step guide covering planning, coding, testing, security, and deployment"
+      },
+      {
+        "property": "twitter:image",
+        "content": "https://nalksolutions.com/wp-content/uploads/2026/07/blog-image-API-6-1024x683.png"
+      },
+      {
+        "property": "twitter:label1",
+        "content": "Written by"
+      },
+      {
+        "property": "twitter:data1",
+        "content": "uhj1984@yahoo.com"
+      },
+      {
+        "property": "twitter:label2",
+        "content": "Time to read"
+      },
+      {
+        "property": "twitter:data2",
+        "content": "17 minutes"
+      }
+    ],
+    "jsonLd": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Place",
+            "@id": "https://nalksolutions.com/#place",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+              "postalCode": "22230",
+              "addressCountry": "Pakistan"
+            }
+          },
+          {
+            "@type": [
+              "ProfessionalService",
+              "Organization"
+            ],
+            "@id": "https://nalksolutions.com/#organization",
+            "name": "Nalk Solutions",
+            "url": "https://nalksolutions.com",
+            "email": "info@nalksolutions.com",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+              "postalCode": "22230",
+              "addressCountry": "Pakistan"
+            },
+            "logo": {
+              "@type": "ImageObject",
+              "@id": "https://nalksolutions.com/#logo",
+              "url": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+              "contentUrl": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+              "caption": "Nalk Solutions",
+              "inLanguage": "en-US",
+              "width": "1563",
+              "height": "1563"
+            },
+            "openingHours": [
+              "Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"
+            ],
+            "description": "Nalk provides Nalk Solutions is a technology company in Saudi Arabia; delivering digital marketing, web development, app development &amp; IT solutions across Riyadh, Jeddah and all major cities across the kingdom.",
+            "legalName": "uhj1984@yahoo.com",
+            "location": {
+              "@id": "https://nalksolutions.com/#place"
+            },
+            "image": {
+              "@id": "https://nalksolutions.com/#logo"
+            },
+            "telephone": "+966506000843"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://nalksolutions.com/#website",
+            "url": "https://nalksolutions.com",
+            "name": "Nalk Solutions",
+            "publisher": {
+              "@id": "https://nalksolutions.com/#organization"
+            },
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "ImageObject",
+            "@id": "https://nalksolutions.com/wp-content/uploads/2026/07/blog-image-API-6-scaled.png",
+            "url": "https://nalksolutions.com/wp-content/uploads/2026/07/blog-image-API-6-scaled.png",
+            "width": "2560",
+            "height": "1706",
+            "inLanguage": "en-US"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://nalksolutions.com/how-to-build-an-api-from-scratch-a-step-by-step-guide/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                  "@id": "https://nalksolutions.com",
+                  "name": "Home"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                  "@id": "https://nalksolutions.com/how-to-build-an-api-from-scratch-a-step-by-step-guide/",
+                  "name": "How to Build an API from Scratch: A Step-by-Step Guide"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://nalksolutions.com/how-to-build-an-api-from-scratch-a-step-by-step-guide/#webpage",
+            "url": "https://nalksolutions.com/how-to-build-an-api-from-scratch-a-step-by-step-guide/",
+            "name": "How to Build an API from Scratch: Step-by-Step Guide",
+            "datePublished": "2026-07-07T14:22:20+00:00",
+            "dateModified": "2026-08-11T22:18:24+00:00",
+            "isPartOf": {
+              "@id": "https://nalksolutions.com/#website"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://nalksolutions.com/wp-content/uploads/2026/07/blog-image-API-6-scaled.png"
+            },
+            "inLanguage": "en-US",
+            "breadcrumb": {
+              "@id": "https://nalksolutions.com/how-to-build-an-api-from-scratch-a-step-by-step-guide/#breadcrumb"
+            }
+          },
+          {
+            "@type": "Person",
+            "@id": "https://nalksolutions.com/how-to-build-an-api-from-scratch-a-step-by-step-guide/#author",
+            "name": "uhj1984@yahoo.com",
+            "image": {
+              "@type": "ImageObject",
+              "@id": "https://secure.gravatar.com/avatar/579a7bde0ace771a4bb782feeb83aba48d2b689bebee8d20b924c6b2991e04fa?s=96&amp;d=mm&amp;r=g",
+              "url": "https://secure.gravatar.com/avatar/579a7bde0ace771a4bb782feeb83aba48d2b689bebee8d20b924c6b2991e04fa?s=96&amp;d=mm&amp;r=g",
+              "caption": "uhj1984@yahoo.com",
+              "inLanguage": "en-US"
+            },
+            "sameAs": [
+              "https://nalksolutions.com"
+            ],
+            "worksFor": {
+              "@id": "https://nalksolutions.com/#organization"
+            }
+          },
+          {
+            "@type": "BlogPosting",
+            "headline": "How to Build an API from Scratch: Step-by-Step Guide",
+            "keywords": "How to Build an API",
+            "datePublished": "2026-07-07T14:22:20+00:00",
+            "dateModified": "2026-08-11T22:18:24+00:00",
+            "author": {
+              "@id": "https://nalksolutions.com/how-to-build-an-api-from-scratch-a-step-by-step-guide/#author",
+              "name": "uhj1984@yahoo.com"
+            },
+            "publisher": {
+              "@id": "https://nalksolutions.com/#organization"
+            },
+            "description": "How to Build an API with Python, JavaScript, Java, or C#. A step-by-step guide covering planning, coding, testing, security, and deployment",
+            "name": "How to Build an API from Scratch: Step-by-Step Guide",
+            "@id": "https://nalksolutions.com/how-to-build-an-api-from-scratch-a-step-by-step-guide/#richSnippet",
+            "isPartOf": {
+              "@id": "https://nalksolutions.com/how-to-build-an-api-from-scratch-a-step-by-step-guide/#webpage"
+            },
+            "image": {
+              "@id": "https://nalksolutions.com/wp-content/uploads/2026/07/blog-image-API-6-scaled.png"
+            },
+            "inLanguage": "en-US",
+            "mainEntityOfPage": {
+              "@id": "https://nalksolutions.com/how-to-build-an-api-from-scratch-a-step-by-step-guide/#webpage"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

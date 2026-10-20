@@ -1,0 +1,148 @@
+[
+  {
+    "id": "32ce78f7",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "content_width": "full",
+      "background_background": "classic",
+      "background_color": "#02010100",
+      "background_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_slideshow_gallery": [],
+      "background_hover_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_hover_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_hover_slideshow_gallery": [],
+      "background_overlay_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_slideshow_gallery": [],
+      "background_overlay_hover_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_hover_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_hover_slideshow_gallery": []
+    },
+    "elements": [
+      {
+        "id": "572e9072",
+        "elType": "widget",
+        "settings": {
+          "popup_trigger_label": "Search",
+          "popup_description_text": "Your description...",
+          "submit_button_view": "link",
+          "submit_button_icon": {
+            "value": "cmsmsdemo-icon- cmsms-demo-icon-search",
+            "library": "cmsmasters-demo-icons"
+          },
+          "input_field_padding": {
+            "unit": "px",
+            "top": "30",
+            "right": "40",
+            "bottom": "30",
+            "left": "40",
+            "isLinked": false
+          },
+          "submit_button_link_side_gap": {
+            "unit": "px",
+            "size": 38,
+            "sizes": []
+          },
+          "submit_button_icon_size": {
+            "unit": "px",
+            "size": 32,
+            "sizes": []
+          },
+          "cmsmasters_ribbon_title": "New",
+          "__globals__": {
+            "input_field_typography_typography": "globals/typography?id=h4",
+            "input_field_color": "globals/colors?id=secondary",
+            "input_field_border_color": "globals/colors?id=border",
+            "input_field_border_color_focus": "globals/colors?id=border",
+            "submit_button_color": "globals/colors?id=secondary",
+            "submit_button_color_hover": "globals/colors?id=accent"
+          },
+          "input_field_border_radius": {
+            "unit": "px",
+            "top": "20",
+            "right": "20",
+            "bottom": "20",
+            "left": "20",
+            "isLinked": true
+          },
+          "popup_trigger_icon": {
+            "value": "",
+            "library": ""
+          },
+          "popup_close_icon": {
+            "value": "",
+            "library": ""
+          },
+          "form_input_icon": {
+            "value": "",
+            "library": ""
+          },
+          "_background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_slideshow_gallery": [],
+          "_background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "_background_hover_slideshow_gallery": [],
+          "_mask_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "cmsmasters-search"
+      }
+    ],
+    "isInner": false
+  }
+]

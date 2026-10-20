@@ -1,0 +1,1233 @@
+{
+  "id": "R-c417ce86b30e2d17",
+  "path": "/search-ads-vs-display-ads/",
+  "locale": "en",
+  "family": "article",
+  "nodes": [
+    {
+      "type": "element",
+      "tag": "h1",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Search Ads vs Display Ads: The Differences and When to Use Each"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "img",
+          "attributes": {
+            "src": "/wp-content/uploads/2026/03/search-ads-vs-display-ads-difference.png.png",
+            "alt": "Search Ads vs Display Ads conversion rate, click-through rate and cost per click comparison chart.",
+            "width": "1254",
+            "height": "1254",
+            "srcset": "/wp-content/uploads/2026/03/search-ads-vs-display-ads-difference.png.png 1254w, /wp-content/uploads/2026/03/search-ads-vs-display-ads-difference.png-300x300.png 300w, /wp-content/uploads/2026/03/search-ads-vs-display-ads-difference.png-1024x1024.png 1024w, /wp-content/uploads/2026/03/search-ads-vs-display-ads-difference.png-150x150.png 150w, /wp-content/uploads/2026/03/search-ads-vs-display-ads-difference.png-768x768.png 768w, /wp-content/uploads/2026/03/search-ads-vs-display-ads-difference.png-12x12.png 12w, /wp-content/uploads/2026/03/search-ads-vs-display-ads-difference.png-260x260.png 260w",
+            "sizes": "(max-width: 1254px) 100vw, 1254px"
+          },
+          "variant": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Search ads are text placements that appear on search results pages when someone searches a keyword. Display ads are visual placements (images, banners, video) that appear on websites, apps, and YouTube. The core difference is intent: search ads capture people who are already looking; display ads reach people who are browsing."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "What search ads are"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Search ads show as “Sponsored” results above and below organic listings on Google or Bing. Each ad has a headline, a display URL, and a description, plus optional extensions like call buttons and sitelinks. Placement is decided by an auction that weighs your bid against your Quality Score, which scores ad relevance, expected click-through rate, and landing page experience. Example: a Boston locksmith bids on “locksmith Boston” and appears the moment someone locked out of their car is searching for help."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "img",
+          "attributes": {
+            "src": "/wp-content/uploads/2026/03/search-ads-vs-display-ads-performance-chart.png.png",
+            "alt": "What is the difference between Search Ads vs Display Ads? Comparison showing search ads appearing on Google search results and display ads appearing on websites and apps.",
+            "width": "1254",
+            "height": "1254",
+            "srcset": "/wp-content/uploads/2026/03/search-ads-vs-display-ads-performance-chart.png.png 1254w, /wp-content/uploads/2026/03/search-ads-vs-display-ads-performance-chart.png-300x300.png 300w, /wp-content/uploads/2026/03/search-ads-vs-display-ads-performance-chart.png-1024x1024.png 1024w, /wp-content/uploads/2026/03/search-ads-vs-display-ads-performance-chart.png-150x150.png 150w, /wp-content/uploads/2026/03/search-ads-vs-display-ads-performance-chart.png-768x768.png 768w, /wp-content/uploads/2026/03/search-ads-vs-display-ads-performance-chart.png-12x12.png 12w, /wp-content/uploads/2026/03/search-ads-vs-display-ads-performance-chart.png-260x260.png 260w",
+            "sizes": "(max-width: 1254px) 100vw, 1254px"
+          },
+          "variant": "inline-image",
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "What display ads are"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Display ads run across the Google Display Network, which covers more than 2 million websites, videos, and apps and reaches over 90% of internet users worldwide. They come as banners, responsive ads, and video, and usually bill on a cost-per-thousand-impressions (CPM) basis. Search is a pull strategy that answers existing demand. Display is a push strategy that creates new demand."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "The numbers that separate them"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Conversion rate: search averages about 4.4%, while display sits under 1%, around 0.59%. Cost per click: search runs roughly $2.41 to $2.69, and display around $0.63. Click-through rate: search averages 3.17% versus 0.46% for display."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Search converts roughly eight times better because the user already wants the thing. Display costs far less because you pay for exposure, not intent. LocaliQ’s Cliff Sizemore frames the current market plainly, noting that “costs are rising, but so is performance” across most industries. Averages also hide big spread: high-intent categories like automotive repair convert near 14.67%, while finance sits closer to 2.55%."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "When to use search ads"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Use search when people already search for what you sell, when you need conversions fast on a short sales cycle, when you run urgent or local services (locksmiths, plumbers, emergency clinics) where mobile call extensions close the deal, or when your budget is tight and you need qualified leads per dollar."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "When to use display ads"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Use display when your product is visual (apparel, travel, home goods), when few people know you exist and you need awareness, when your sales cycle is long (cars, software, education) and needs repeated exposure, or when you want to retarget people who visited but did not buy."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Why most brands should run both"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Display creates demand, search captures it. After seeing a display ad, about 27% of consumers search for the business, which leads to a 59% increase in conversions when they do."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Search alone has a ceiling. Viant CEO Tim Vanderhook calls paid search “generally navigational”, meaning by the time someone types your name, the decision is mostly made. Lean only on search and you keep paying to win back people who already know you, while ignoring everyone who does not."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Real results from the full-funnel loop:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "ul",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "BustedTees: shoppers shown retargeted display ads purchased at four times the rate of customers who did not see the ads, earning nearly a 400% return on investment."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "ASOS: cart-abandonment retargeting drove a 3x increase in conversions and a 34% decrease in cost per acquisition."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Topshop: Facebook retargeting produced a 6% increase in sales and a 60% decrease in cost per acquisition."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "A combined example: a B2B software brand runs display ads on industry blogs to build recognition, then its search ads convert those same readers when they later search for a solution."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "How to choose"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Start with search if people already search for your product and you need sales now. Start with display if your product is unknown or your buying cycle is long. Run both if you want compounding growth, using display to build demand and search to close it."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Quick answers"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Which is cheaper?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Display, on a per-click basis, but search often wins on cost per actual customer because it converts better."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Which converts better?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Search, by roughly eight times on average, because of buyer intent."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Are display ads worth it for small businesses?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Mostly for retargeting; search usually delivers faster returns on a small budget."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Can you run both together?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Yes, and for longer buying cycles that combination is usually the strongest setup."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {},
+      "variant": "prose",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "h3",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "What is the difference between a search ad and a display ad?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Search ads are text ads that appear on search results pages when someone types a keyword, so they capture people actively looking (a pull strategy). Display ads are visual ads (images, banners, video) that appear on websites, apps, and YouTube, so they reach people while browsing (a push strategy). Search ads convert far better because of intent, averaging about 4.4% versus under 1% for display, while display is cheaper per click and built for awareness. "
+            },
+            {
+              "type": "element",
+              "tag": "a",
+              "attributes": {
+                "href": "https://www.uproas.io/blog/google-ads-benchmarks",
+                "target": "_blank",
+                "rel": "noopener noreferrer"
+              },
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Uproas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "h3",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "What are the 4 types of digital marketing?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "The four most commonly cited types are search engine optimization (SEO), pay-per-click advertising (PPC), social media marketing, and content marketing. Email marketing is often listed as a fifth core type. SEO and content build long-term organic visibility, while PPC and social drive faster, targeted reach."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "h3",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Is PPC better than SEO?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Neither is better in absolute terms; they solve different problems. PPC delivers immediate, targeted traffic but stops the moment you stop paying, while SEO builds slowly and compounds into free, lasting traffic. The strongest approach runs both, using PPC for short-term conversions and SEO for long-term authority and full-funnel coverage."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "h3",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Are Google search ads display ads?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "No. They are two separate networks inside Google Ads. Search ads run on the Search Network and appear as text on search results pages, while display ads run on the Google Display Network and appear as visual ads across more than 2 million websites, videos, and apps that reach over 90% of internet users worldwide. Same platform, different formats and intent."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "h3",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "When should you use display ads?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Use display ads to build awareness among people who do not know your brand yet, to promote visual products like apparel or travel, to support long sales cycles such as cars or software that need repeated exposure, and to retarget visitors who left without buying. Display is the demand-creation layer; pair it with search to capture that demand later."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "h3",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "What are the 4 classifications of advertising?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "p",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "By objective, advertising is classified as informative (introducing a new product or building category awareness), persuasive (convincing buyers to choose you over competitors), reminder (keeping an established brand top of mind), and reinforcement (reassuring existing customers they made the right choice). Advertising is also classified other ways, such as by audience (consumer, business, trade, professional) or by medium (print, broadcast, digital, outdoor)."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    }
+  ],
+  "article": {
+    "excerpt": "Search Ads vs Display Ads: The Differences and When to Use Each   Search ads are text placements that appear on search results pages when someone searches a keyword. Display ads are visual placements (images, banners, video) that appear on websites, apps, and YouTube. The core difference is intent: search ads capture people who are …",
+    "dateLabel": "March 31, 2026",
+    "category": {
+      "label": "Google Ads & Paid Advertising",
+      "href": "/category/digital-marketing-strategy/google-ads-paid-advertising/"
+    },
+    "additionalCategories": [],
+    "featured": {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/03/Blog-image-Display-Ads-vs-Search-Ads-scaled.png",
+      "alt": "Blog image; Display Ads vs Search",
+      "width": 2560,
+      "height": 1280,
+      "variants": [
+        {
+          "src": "/wp-content/uploads/2026/03/Blog-image-Display-Ads-vs-Search-Ads-scaled.png",
+          "width": 2560
+        },
+        {
+          "src": "/wp-content/uploads/2026/03/Blog-image-Display-Ads-vs-Search-Ads-300x150.png",
+          "width": 300
+        },
+        {
+          "src": "/wp-content/uploads/2026/03/Blog-image-Display-Ads-vs-Search-Ads-1024x512.png",
+          "width": 1024
+        },
+        {
+          "src": "/wp-content/uploads/2026/03/Blog-image-Display-Ads-vs-Search-Ads-768x384.png",
+          "width": 768
+        },
+        {
+          "src": "/wp-content/uploads/2026/03/Blog-image-Display-Ads-vs-Search-Ads-1536x768.png",
+          "width": 1536
+        },
+        {
+          "src": "/wp-content/uploads/2026/03/Blog-image-Display-Ads-vs-Search-Ads-2048x1024.png",
+          "width": 2048
+        },
+        {
+          "src": "/wp-content/uploads/2026/03/Blog-image-Display-Ads-vs-Search-Ads-18x9.png",
+          "width": 18
+        },
+        {
+          "src": "/wp-content/uploads/2026/03/Blog-image-Display-Ads-vs-Search-Ads-600x300.png",
+          "width": 600
+        }
+      ],
+      "sizes": "(max-width: 2560px) 100vw, 2560px"
+    },
+    "adjacent": [
+      {
+        "label": "Previous Post",
+        "title": "How to Master Your Email Marketing Goals and Objectives",
+        "href": "/email-marketing-goals-and-objectives/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/03/email-marketing.jpg-150x150.jpeg",
+          "alt": "email-marketing",
+          "width": 150,
+          "height": 150,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/03/email-marketing.jpg-150x150.jpeg",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2026/03/email-marketing.jpg-260x260.jpeg",
+              "width": 260
+            }
+          ],
+          "sizes": "(max-width: 150px) 100vw, 150px"
+        }
+      },
+      {
+        "label": "Next Post",
+        "title": "12 Types of Digital Ads That Drive Sales (2026)",
+        "href": "/12-types-of-digital-ads-that-drive-sales-2026/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/04/Blog-image-12-Types-of-Digital-Ads-2-150x150.png",
+          "alt": "Blog image 12 Types of Digital Ads",
+          "width": 150,
+          "height": 150,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/04/Blog-image-12-Types-of-Digital-Ads-2-150x150.png",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2026/04/Blog-image-12-Types-of-Digital-Ads-2-260x260.png",
+              "width": 260
+            }
+          ],
+          "sizes": "(max-width: 150px) 100vw, 150px"
+        }
+      }
+    ],
+    "related": [
+      {
+        "title": "Social Media Marketing Cost in Saudi Arabia (2026 Guide)",
+        "href": "/social-media-marketing-cost-in-saudi-arabia/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2025/10/71-posts-placeholder-300x300.webp",
+          "alt": "",
+          "width": 300,
+          "height": 300,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-300x300.webp",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-100x100.webp",
+              "width": 100
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-600x600.webp",
+              "width": 600
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-150x150.webp",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-260x260.webp",
+              "width": 260
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder.webp",
+              "width": 768
+            }
+          ],
+          "sizes": "(max-width: 300px) 100vw, 300px"
+        },
+        "category": {
+          "label": "Digital Marketing Strategy & Fundamentals",
+          "href": "/category/digital-marketing-strategy/"
+        },
+        "dateLabel": "September 21, 2026",
+        "actionLabel": "Read More"
+      },
+      {
+        "title": "كيف يساعد الذكاء الاصطناعي الشركات في السعودية 2026 | نالك سوليوشنز",
+        "href": "/how-ai-helps-companies-in-saudi-arabia/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-300x200.jpeg",
+          "alt": "كيف يساعد الذكاء الاصطناعي الشركات في السعودية 2026 | نالك سوليوشنز",
+          "width": 300,
+          "height": 200,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-300x200.jpeg",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-1024x683.jpeg",
+              "width": 1024
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-768x512.jpeg",
+              "width": 768
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-18x12.jpeg",
+              "width": 18
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-450x300.jpeg",
+              "width": 450
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg.jpeg",
+              "width": 1536
+            }
+          ],
+          "sizes": "(max-width: 300px) 100vw, 300px"
+        },
+        "category": {
+          "label": "Custom Software & Apps",
+          "href": "/category/custom-software-apps/"
+        },
+        "dateLabel": "September 2, 2026",
+        "actionLabel": "Read More"
+      },
+      {
+        "title": "التسويق عبر سناب شات وتيك توك للشركات السعودية: الدليل الكامل 2026",
+        "href": "/snapchat-tiktok-marketing-saudi-businesses/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/08/blog-two-300x200.png",
+          "alt": "التسويق عبر سناب شات وتيك توك للشركات السعودية: الدليل الكامل 2026",
+          "width": 300,
+          "height": 200,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-300x200.png",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-1024x683.png",
+              "width": 1024
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-768x512.png",
+              "width": 768
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-18x12.png",
+              "width": 18
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-450x300.png",
+              "width": 450
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two.png",
+              "width": 1536
+            }
+          ],
+          "sizes": "(max-width: 300px) 100vw, 300px"
+        },
+        "category": {
+          "label": "Digital Marketing Strategy & Fundamentals",
+          "href": "/category/digital-marketing-strategy/"
+        },
+        "dateLabel": "August 26, 2026",
+        "actionLabel": "Read More"
+      }
+    ],
+    "footer": {
+      "owner": "NALK SOLUTIONS pvt Ltd",
+      "notice": "© 2026 - All Rights Reserved"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "headings": {
+    "desktop": {
+      "h1": 82,
+      "h2": 62,
+      "h3": 48,
+      "h4": 32,
+      "h5": 24,
+      "h6": 17
+    },
+    "tablet": {
+      "h1": 60,
+      "h2": 48,
+      "h3": 36,
+      "h4": 28,
+      "h5": 22,
+      "h6": 16
+    },
+    "mobile": {
+      "h1": 42,
+      "h2": 36,
+      "h3": 28,
+      "h4": 24,
+      "h5": 18,
+      "h6": 15
+    }
+  },
+  "small": {
+    "desktop": 14,
+    "tablet": 14,
+    "mobile": 13
+  },
+  "quote": {
+    "desktop": 30,
+    "tablet": 28,
+    "mobile": 22
+  },
+  "tableCellPadding": "20px 30px",
+  "quotePadding": "60px",
+  "tableHeadingAlignment": "inherit",
+  "tableHeadingFirstLeftBorder": "0px",
+  "tableHeadingLastRightBorder": "0px",
+  "sourceStylesheets": [
+    {
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/elementor/css/softy-solutions-frontend.min.css",
+      "sha256": "81e9a2c7e7a6d1a7cb43d2811f69fbbbe8d9ade47b33e80a42605e4f92720e65"
+    },
+    {
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-themes.zip",
+      "sourceMember": "themes/softy-solutions/theme-config/assets/css/default-vars.min.css",
+      "sha256": "95a98729f05581510d3413861484e1317404117be2cf8126ffd670b7be2367d3"
+    },
+    {
+      "sourceArchive": "backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-uploads.zip",
+      "sourceMember": "uploads/elementor/css/post-7.css",
+      "sha256": "0cf05ed20365526d8c233a5536e1a14dcfeaa9a3691913144b8a03dd1b6128cf"
+    }
+  ]
+}

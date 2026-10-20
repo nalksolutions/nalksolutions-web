@@ -1,0 +1,20 @@
+{
+  "note": "Original PNG variants copied without modification on 2026-10-20.",
+  "assets": [
+    {
+      "path": "public\\brand\\nalk-mark-32.png",
+      "source": "https://nalksolutions.com/wp-content/uploads/2026/02/cropped-Nalk-logo-32x32.png",
+      "sha256": "924bfd0088b5143b6c6c7892c4438966ae87b0dbcd4b26ae243828e40f414b83"
+    },
+    {
+      "path": "public\\brand\\nalk-mark-192.png",
+      "source": "https://nalksolutions.com/wp-content/uploads/2026/02/cropped-Nalk-logo-192x192.png",
+      "sha256": "97a1a4106b2ed1afba5e1cdbf405811d8d3461508ab0c3ddc73cc58f4520caba"
+    },
+    {
+      "path": "public\\brand\\nalk-mark-180.png",
+      "source": "https://nalksolutions.com/wp-content/uploads/2026/02/cropped-Nalk-logo-180x180.png",
+      "sha256": "899a9b41c7e9de88fa244bd98e1b270432ff6ded85c04a4da82ce8e136642457"
+    }
+  ]
+}

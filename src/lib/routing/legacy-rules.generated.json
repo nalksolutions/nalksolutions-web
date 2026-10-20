@@ -1,0 +1,733 @@
+{
+  "generated": "tooling/generate-routing.mjs; do not edit",
+  "baselineId": "nalk-wordpress-2026-10-15",
+  "provenance": {
+    "registerSha256": "aadac05d525d43219e66d1474b14c0debf36d5f064848e431e50d8e806436f82",
+    "settingsSha256": "636f4223bbe69953f2095b1b7a1b415a89974f74855e64c99a6012a8a15edcd0",
+    "routesSha256": "04de15a8ef12edee5c4409b81ce1d3bc8a45134805e7842c813cbf2ed8d4ec88"
+  },
+  "rules": [
+    {
+      "id": "L-rank-math-redirections-1",
+      "source": "/author-page",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-2",
+      "source": "/cart",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-3",
+      "source": "/checkout",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-4",
+      "source": "/my-account",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-5",
+      "source": "/product-tag/sport/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-6",
+      "source": "/blog-page",
+      "status": 301,
+      "location": "https://nalksolutions.com/blog",
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-7",
+      "source": "/product/cms-notebook/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-8",
+      "source": "/product-tag/cotton/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-9",
+      "source": "/product-tag/ceramics/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-10",
+      "source": "/product-tag/sale/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-11",
+      "source": "/product-tag/bracelet/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-12",
+      "source": "/product-tag/print/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-13",
+      "source": "/product-tag/drink/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-14",
+      "source": "/product-category/accessories/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-15",
+      "source": "/surgical-instruments/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-16",
+      "source": "/product/training-t-shirt/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-17",
+      "source": "/product/mug-with-cms-print/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-18",
+      "source": "/product-category/clothes/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-19",
+      "source": "/product/cms-baseball-cap/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-20",
+      "source": "/wp-content/themes/softy-solutions/*",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-21",
+      "source": "/product-tag/energy/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-22",
+      "source": "/product/cms-silicone-bracelet/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-23",
+      "source": "/product-tag/office/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-24",
+      "source": "/product-tag/silicone/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-25",
+      "source": "/cmsms_profile/sara-thompson/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-26",
+      "source": "/cmsms_profile/ryan-chen/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-27",
+      "source": "/cmsms_profile_category/back-end-engineer/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-28",
+      "source": "/cmsms_profile_category/front-end-developer/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-29",
+      "source": "/cmsms_profile_category/full-stack-developer/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-30",
+      "source": "/cmsms_profile_category/ai-solutions-architect/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-31",
+      "source": "/cmsms_project_category/legaltech/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-32",
+      "source": "/cmsms_project_category/retail/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-33",
+      "source": "/cmsms_project_category/healthcare/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-34",
+      "source": "/cmsms_project_category/workplace-tech/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-35",
+      "source": "/cmsms_project_category/technology/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-36",
+      "source": "/cmsms_project_category/logistics-tech/",
+      "status": 410,
+      "location": null,
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-37",
+      "source": "/choosing-the-right-tech-stack-for-your-software-project/",
+      "status": 301,
+      "location": "https://nalksolutions.com/email-marketing-goals-and-objectives/",
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-38",
+      "source": "/services-digital-marketing-saudi-arabia/",
+      "status": 301,
+      "location": "https://nalksolutions.com/services-digital-marketing/",
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-39",
+      "source": "/how-cloud-portals-are-revolutionizing-office-management/",
+      "status": 301,
+      "location": "https://nalksolutions.com/b2c-marketing-automation-software/",
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-40",
+      "source": "/the-future-of-it-solutions-automating-local-industry/",
+      "status": 301,
+      "location": "https://nalksolutions.com/edm-marketing-for-saudi-businesses/",
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-41",
+      "source": "/why-your-business-needs-a-professional-website-in-2026/",
+      "status": 301,
+      "location": "https://nalksolutions.com/content-framework-template-2026/",
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-42",
+      "source": "/5-essential-features-for-modern-e-commerce-portals/",
+      "status": 301,
+      "location": "https://nalksolutions.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%88%d9%8a%d8%a8-%d9%84%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9/",
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-43",
+      "source": "/how-to-build-a-web-app-from-scratch-in-2026/",
+      "status": 301,
+      "location": "https://nalksolutions.com/how-to-build-a-web-app-from-scratch/",
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-rank-math-redirections-44",
+      "source": "/ما-هو-التسويق-الرقمي؟-الدليل-الشامل-لل/",
+      "status": 301,
+      "location": "https://nalksolutions.com/%d9%85%d8%a7-%d9%87%d9%88-%d8%a7%d9%84%d8%aa%d8%b3%d9%88%d9%8a%d9%82-%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%8a/",
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-redirection-items-1",
+      "source": "/contact-us/",
+      "status": 301,
+      "location": "https://nalksolutions.com/contacts/",
+      "plugin": "redirection",
+      "ignoreCase": true,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-redirection-items-2",
+      "source": "/digital-marketing-services/",
+      "status": 301,
+      "location": "https://nalksolutions.com/services/digital-marketing/",
+      "plugin": "redirection",
+      "ignoreCase": true,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-redirection-items-3",
+      "source": "/services-custom-web-development-saudi-arabia/",
+      "status": 301,
+      "location": "https://nalksolutions.com/services-custom-website-development-saudi-arabia/",
+      "plugin": "redirection",
+      "ignoreCase": true,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-redirection-items-4",
+      "source": "/services/ai-accelerated-digital-solutions/",
+      "status": 301,
+      "location": "https://nalksolutions.com/services-ai-automation-saudi-arabia/",
+      "plugin": "redirection",
+      "ignoreCase": true,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-redirection-items-5",
+      "source": "/services/cloud-architecture-devops/",
+      "status": 301,
+      "location": "https://nalksolutions.com/services-cloud-portal-development-saudi-arabia/",
+      "plugin": "redirection",
+      "ignoreCase": true,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-redirection-items-6",
+      "source": "/services/custom-software-app-development/",
+      "status": 301,
+      "location": "https://nalksolutions.com/services-custom-software-app-development-saudi-arabia/",
+      "plugin": "redirection",
+      "ignoreCase": true,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-redirection-items-7",
+      "source": "/services/web-development/",
+      "status": 301,
+      "location": "https://nalksolutions.com/professional-website-development-company-in-saudi-arabia/",
+      "plugin": "redirection",
+      "ignoreCase": true,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-redirection-items-8",
+      "source": "/services/prototyping-ui-ux-design/",
+      "status": 301,
+      "location": "https://nalksolutions.com/services-ui-ux-design-saudi-arabia/",
+      "plugin": "redirection",
+      "ignoreCase": true,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-redirection-items-9",
+      "source": "/services-google-ads-saudi-arabia/",
+      "status": 301,
+      "location": "https://nalksolutions.com/social-media-marketing-services-in-saudi-arabia/",
+      "plugin": "redirection",
+      "ignoreCase": true,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-redirection-items-10",
+      "source": "/services/smm/",
+      "status": 301,
+      "location": "https://nalksolutions.com/social-media-marketing-services-in-saudi-arabia/",
+      "plugin": "redirection",
+      "ignoreCase": true,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-redirection-items-11",
+      "source": "/services/digital-marketing/",
+      "status": 301,
+      "location": "https://nalksolutions.com/services-digital-marketing-saudi-arabia/",
+      "plugin": "redirection",
+      "ignoreCase": true,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-redirection-items-12",
+      "source": "/services/startup-growth-consulting/",
+      "status": 301,
+      "location": "https://nalksolutions.com/",
+      "plugin": "redirection",
+      "ignoreCase": true,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-redirection-items-13",
+      "source": "/services/graphic-designing/",
+      "status": 301,
+      "location": "https://nalksolutions.com/services-digital-marketing-saudi-arabia/",
+      "plugin": "redirection",
+      "ignoreCase": true,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-redirection-items-14",
+      "source": "/arbic/",
+      "status": 301,
+      "location": "https://nalksolutions.com/arabic/",
+      "plugin": "redirection",
+      "ignoreCase": true,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-redirection-items-15",
+      "source": "/impact-of-digital-marketing-on-business-success/",
+      "status": 301,
+      "location": "https://nalksolutions.com/digital-marketing-for-professional-services/",
+      "plugin": "redirection",
+      "ignoreCase": true,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-redirection-items-16",
+      "source": "/overcoming-busin…th-digital-tools/",
+      "status": 301,
+      "location": "https://nalksolutions.com/digital-channel-strategy-secrets-2026/",
+      "plugin": "redirection",
+      "ignoreCase": true,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-redirection-items-17",
+      "source": "/services-google-ads-saudi-arabia-2/",
+      "status": 301,
+      "location": "https://nalksolutions.com/services-google-ads-saudi-arabia-2026/",
+      "plugin": "redirection",
+      "ignoreCase": true,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-redirection-items-18",
+      "source": "/content-marketing-vs-paid-ads-which-is-better/",
+      "status": 301,
+      "location": "https://nalksolutions.com/virtual-marketing-2026-strategies/",
+      "plugin": "redirection",
+      "ignoreCase": true,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-redirection-items-19",
+      "source": "/building-customer-trust-via-social-media-branding/",
+      "status": 301,
+      "location": "https://nalksolutions.com/12-types-of-digital-ads-that-drive-sales-2026/",
+      "plugin": "redirection",
+      "ignoreCase": true,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-redirection-items-20",
+      "source": "/common-cybersecu…small-businesses/ ‎",
+      "status": 301,
+      "location": "https://nalksolutions.com/12-types-of-digital-ads-that-drive-sales-2026/",
+      "plugin": "redirection",
+      "ignoreCase": true,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-redirection-items-21",
+      "source": "/cloud-based-applications-as-the-new-normal/",
+      "status": 301,
+      "location": "https://nalksolutions.com/services-cloud-portal-development-saudi-arabia/",
+      "plugin": "redirection",
+      "ignoreCase": true,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-redirection-items-22",
+      "source": "/how-mobile-apps-improve-customer-loyalty-and-brand-trust/",
+      "status": 301,
+      "location": "https://nalksolutions.com/services-custom-software-app-development-saudi-arabia/",
+      "plugin": "redirection",
+      "ignoreCase": true,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    {
+      "id": "L-redirection-items-23",
+      "source": "/what-is-digital-marketing-a-complete-guide-for-beginners-businesses/",
+      "status": 301,
+      "location": "https://nalksolutions.com/digital-marketing-for-professional-services/",
+      "plugin": "redirection",
+      "ignoreCase": true,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    }
+  ],
+  "observedRules": [
+    {
+      "id": "R-195cc72218083500",
+      "plugin": "observed",
+      "source": "/arabic/",
+      "status": 410,
+      "location": null,
+      "ignoreCase": false,
+      "ignoreTrailingSlash": false,
+      "query": "exact"
+    },
+    {
+      "id": "R-3c7ac05483355df7",
+      "plugin": "observed",
+      "source": "/arabic/contacts/",
+      "status": 301,
+      "location": "https://nalksolutions.com/contacts/",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": false,
+      "query": "exact"
+    },
+    {
+      "id": "R-612659dd316a967a",
+      "plugin": "observed",
+      "source": "/arabic/professional-website-development-company-in-saudi-arabia/",
+      "status": 301,
+      "location": "https://nalksolutions.com/professional-website-development-company-in-saudi-arabia/",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": false,
+      "query": "exact"
+    },
+    {
+      "id": "R-17e051a1a50041db",
+      "plugin": "observed",
+      "source": "/arabic/services-digital-marketing/",
+      "status": 301,
+      "location": "https://nalksolutions.com/services-digital-marketing/",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": false,
+      "query": "exact"
+    },
+    {
+      "id": "R-ac2f10e31e343b76",
+      "plugin": "observed",
+      "source": "/mastering-social-media-management-for-local-audiences/",
+      "status": 301,
+      "location": "https://nalksolutions.com/content-marketing-ideas-for-saudi-businesses/",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": false,
+      "query": "exact"
+    }
+  ]
+}

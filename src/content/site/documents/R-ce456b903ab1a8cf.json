@@ -1,0 +1,378 @@
+{
+  "id": "R-ce456b903ab1a8cf",
+  "path": "/cmsms_project_category/ai-learning/",
+  "locale": "en",
+  "family": "project-taxonomy",
+  "nodes": [
+    {
+      "type": "text",
+      "text": " "
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {},
+      "variant": "section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "h1",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Project Category: "
+            },
+            {
+              "type": "text",
+              "text": "AI Learning"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "metadata",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "a",
+              "attributes": {
+                "href": "/"
+              },
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Home"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "/"
+            },
+            {
+              "type": "text",
+              "text": "AI Learning"
+            },
+            {
+              "type": "text",
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {},
+      "variant": "section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "pagination",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "cards",
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "article",
+                  "attributes": {
+                    "id": "post-48203"
+                  },
+                  "variant": "card",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "section",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "metadata",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "a",
+                              "attributes": {
+                                "href": "/cmsms_project_category/ai-learning/",
+                                "rel": "category tag"
+                              },
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "AI Learning"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " "
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "media",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "a",
+                              "attributes": {
+                                "href": "/projects/edumind-personalized-learning-hub/",
+                                "aria-label": "Featured Image"
+                              },
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "img",
+                                  "attributes": {
+                                    "src": "/wp-content/uploads/2025/08/71-project-5-1024x673.webp",
+                                    "alt": "",
+                                    "width": "1024",
+                                    "height": "673",
+                                    "srcset": "/wp-content/uploads/2025/08/71-project-5-1024x673.webp 1024w, /wp-content/uploads/2025/08/71-project-5-300x197.webp 300w, /wp-content/uploads/2025/08/71-project-5-768x505.webp 768w, /wp-content/uploads/2025/08/71-project-5-456x300.webp 456w, /wp-content/uploads/2025/08/71-project-5-600x395.webp 600w, /wp-content/uploads/2025/08/71-project-5.webp 1180w",
+                                    "sizes": "(max-width: 1024px) 100vw, 1024px"
+                                  },
+                                  "variant": null,
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "h4",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "a",
+                              "attributes": {
+                                "href": "/projects/edumind-personalized-learning-hub/"
+                              },
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "EduMind – Personalized Learning Hub"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "excerpt",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "EduMind leverages AI to create tailored learning paths for students, offering real-time progress tracking."
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": " "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    }
+  ]
+}

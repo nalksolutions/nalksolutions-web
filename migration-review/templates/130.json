@@ -1,0 +1,276 @@
+[
+  {
+    "id": "634c58a3",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "flex_gap": {
+        "unit": "px",
+        "size": 0,
+        "column": "0",
+        "row": "0",
+        "isLinked": true
+      },
+      "content_width": "full",
+      "width": {
+        "unit": "%",
+        "size": 100,
+        "sizes": []
+      },
+      "width_widescreen": {
+        "unit": "%",
+        "size": "",
+        "sizes": []
+      },
+      "width_tablet": {
+        "unit": "%",
+        "size": "",
+        "sizes": []
+      },
+      "width_mobile": {
+        "unit": "%",
+        "size": "",
+        "sizes": []
+      },
+      "min_height": {
+        "unit": "px",
+        "size": 800,
+        "sizes": []
+      },
+      "min_height_widescreen": {
+        "unit": "vh",
+        "size": 90,
+        "sizes": []
+      },
+      "min_height_tablet": {
+        "unit": "custom",
+        "size": "",
+        "sizes": []
+      },
+      "min_height_mobile": {
+        "unit": "custom",
+        "size": "",
+        "sizes": []
+      },
+      "background_background": "classic",
+      "border_radius": {
+        "unit": "px",
+        "top": "20",
+        "right": "20",
+        "bottom": "20",
+        "left": "20",
+        "isLinked": true
+      },
+      "box_shadow_box_shadow": {
+        "horizontal": 0,
+        "vertical": 4,
+        "blur": 50,
+        "spread": 0,
+        "color": ""
+      },
+      "__globals__": {
+        "background_color": "globals/colors?id=alternate"
+      },
+      "pa_condition_repeater": [],
+      "premium_tooltip_text": "Hi, I'm a global tooltip.",
+      "premium_tooltip_position": "top,bottom"
+    },
+    "elements": [
+      {
+        "id": "558a2f34",
+        "elType": "container",
+        "settings": {
+          "flex_direction": "column",
+          "content_width": "full",
+          "width": {
+            "unit": "%",
+            "size": 40
+          },
+          "min_height": {
+            "unit": "px",
+            "size": 800,
+            "sizes": []
+          },
+          "background_background": "classic",
+          "background_image": {
+            "id": 58036,
+            "url": "https://nalksolutions.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-22-at-17.48.08_94e76cf5.jpg",
+            "alt": "",
+            "source": "library",
+            "size": ""
+          },
+          "background_position": "center center",
+          "background_repeat": "no-repeat",
+          "background_size": "cover",
+          "hide_tablet": "hidden-tablet",
+          "hide_mobile": "hidden-mobile",
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom"
+        },
+        "elements": [],
+        "isInner": true
+      },
+      {
+        "id": "7e772abb",
+        "elType": "container",
+        "settings": {
+          "flex_direction": "column",
+          "content_width": "full",
+          "width": {
+            "unit": "%",
+            "size": 60
+          },
+          "width_tablet": {
+            "unit": "%",
+            "size": 100,
+            "sizes": []
+          },
+          "width_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "flex_justify_content": "center",
+          "flex_align_items": "center",
+          "flex_gap": {
+            "column": "40",
+            "row": "40",
+            "isLinked": true,
+            "unit": "px",
+            "size": 40
+          },
+          "padding": {
+            "unit": "px",
+            "top": "70",
+            "right": "55",
+            "bottom": "70",
+            "left": "55",
+            "isLinked": false
+          },
+          "padding_tablet": {
+            "unit": "px",
+            "top": "50",
+            "right": "15",
+            "bottom": "50",
+            "left": "15",
+            "isLinked": false
+          },
+          "padding_mobile": {
+            "unit": "px",
+            "top": "30",
+            "right": "5",
+            "bottom": "30",
+            "left": "5",
+            "isLinked": false
+          },
+          "pa_condition_repeater": [],
+          "premium_tooltip_text": "Hi, I'm a global tooltip.",
+          "premium_tooltip_position": "top,bottom"
+        },
+        "elements": [
+          {
+            "id": "6398e284",
+            "elType": "container",
+            "settings": {
+              "boxed_width": {
+                "unit": "px",
+                "size": 500,
+                "sizes": []
+              },
+              "flex_gap": {
+                "column": "15",
+                "row": "15",
+                "isLinked": true,
+                "unit": "px",
+                "size": 15
+              },
+              "pa_condition_repeater": [],
+              "premium_tooltip_text": "Hi, I'm a global tooltip.",
+              "premium_tooltip_position": "top,bottom"
+            },
+            "elements": [
+              {
+                "id": "7d7f84bd",
+                "elType": "widget",
+                "settings": {
+                  "title": "Your Next Project Starts Here",
+                  "align": "center",
+                  "cmsmasters_ribbon_title": "New",
+                  "__globals__": {
+                    "typography_typography": "globals/typography?id=h3"
+                  },
+                  "pa_condition_repeater": [],
+                  "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                  "premium_tooltip_position": "top,bottom"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              },
+              {
+                "id": "74b70571",
+                "elType": "widget",
+                "settings": {
+                  "title": "Tell us a bit about your idea, and we’ll get back to you with a clear path forward.",
+                  "header_size": "p",
+                  "align": "center",
+                  "cmsmasters_ribbon_title": "New",
+                  "__globals__": {
+                    "typography_typography": "globals/typography?id=text"
+                  },
+                  "pa_condition_repeater": [],
+                  "premium_tooltip_text": "Hi, I'm a global tooltip.",
+                  "premium_tooltip_position": "top,bottom"
+                },
+                "elements": [],
+                "widgetType": "heading"
+              }
+            ],
+            "isInner": true
+          },
+          {
+            "id": "106e1e9f",
+            "elType": "widget",
+            "settings": {
+              "form_list": "38",
+              "fields_row_gap": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              },
+              "_element_width": "inherit",
+              "cmsmasters_ribbon_title": "New",
+              "__globals__": {
+                "typography_labels_typography": "globals/typography?id=taxonomy",
+                "select_dropdown_option_color_hover": "globals/colors?id=secondary",
+                "select_dropdown_option_bg_color_hover": "globals/colors?id=primary",
+                "select_dropdown_option_color_selected": "globals/colors?id=secondary",
+                "select_dropdown_option_bg_color_selected": "globals/colors?id=primary"
+              },
+              "textarea_min_h": {
+                "unit": "px",
+                "size": 130,
+                "sizes": []
+              },
+              "submit_background_color_normal_background": "gradient",
+              "submit_background_color_normal_color": "#6D2785",
+              "submit_background_color_normal_color_b": "#F94C2D",
+              "submit_background_color_normal_gradient_angle": {
+                "unit": "deg",
+                "size": 230,
+                "sizes": []
+              },
+              "pa_condition_repeater": [],
+              "premium_tooltip_text": "Hi, I'm a global tooltip.",
+              "premium_tooltip_position": "top,bottom"
+            },
+            "elements": [],
+            "widgetType": "cmsmasters-forminator"
+          }
+        ],
+        "isInner": true
+      }
+    ],
+    "isInner": false
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "siteurl": "https://nalksolutions.com",
+  "home": "https://nalksolutions.com",
+  "permalink_structure": "/%postname%/",
+  "active_plugins": [
+    "advanced-custom-fields-pro/acf.php",
+    "attachment-pages-redirect/attachment-pages-redirect.php",
+    "classic-editor/classic-editor.php",
+    "cmsmasters-elementor-addon/cmsmasters-elementor-addon.php",
+    "cmsmasters-framework/cmsmasters-framework.php",
+    "custom-post-type-ui/custom-post-type-ui.php",
+    "elementor/elementor.php",
+    "forminator/forminator.php",
+    "google-site-kit/google-site-kit.php",
+    "insert-headers-and-footers/ihaf.php",
+    "jetpack/jetpack.php",
+    "novamira/novamira.php",
+    "premium-addons-for-elementor/premium-addons-for-elementor.php",
+    "redirection/redirection.php",
+    "revslider/revslider.php",
+    "seo-by-rank-math/rank-math.php",
+    "two-factor/two-factor.php",
+    "updraftplus/updraftplus.php",
+    "wp-rocket/wp-rocket.php"
+  ],
+  "category_base": "",
+  "gmt_offset": "0",
+  "template": "softy-solutions",
+  "stylesheet": "softy-solutions-child",
+  "blog_public": "1",
+  "show_on_front": "page",
+  "tag_base": "",
+  "timezone_string": "",
+  "page_for_posts": "0",
+  "page_on_front": "55734",
+  "elementor_active_kit": "7",
+  "translatepress_language_codes": [
+    "en_US"
+  ]
+}

@@ -1,0 +1,4137 @@
+{
+  "id": "R-fc74bede9cf4692d",
+  "path": "/projects/greentrack-sustainable-supply-chain-monitor/",
+  "locale": "en",
+  "family": "project-detail",
+  "nodes": [
+    {
+      "type": "text",
+      "text": " "
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {},
+      "variant": "section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "group",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "metadata",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attributes": {
+                    "href": "/cmsms_project_category/logistics-tech/",
+                    "rel": "category tag"
+                  },
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Logistics Tech"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "h1",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "GreenTrack – Sustainable Supply Chain Monitor"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "excerpt",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "GreenTrack empowers businesses to monitor their supply chains with AI-driven analytics."
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "group",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {},
+      "variant": "section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "prose",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "section",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "group",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h3",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Project Description"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "prose",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "p",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar, their pronunciation and their most common words. Everyone realizes why a new common language would be desirable: one could refuse to pay expensive translators. To achieve this, it would be necessary to have uniform grammar, pronunciation and more common words. If several languages coalesce, the grammar of the resulting language is more simple and regular than that of the individual languages."
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "p",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "The new common language will be more simple and regular than the existing European languages. It will be as simple as Occidental; in fact, it will be Occidental. To an English person, it will seem like simplified English, as a skeptical Cambridge friend of mine told me what Occidental is. The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary."
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "p",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "The languages only differ in their grammar, their pronunciation and their most common words. Everyone realizes why a new common language would be desirable: one could refuse to pay expensive translators."
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {
+                        "id": "cmsmasters-slider-4f6c8cd"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "cards",
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "figure",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "img",
+                                  "attributes": {
+                                    "src": "/wp-content/uploads/2025/08/71-project-gallery-1.webp",
+                                    "alt": "",
+                                    "width": "1180",
+                                    "height": "775",
+                                    "srcset": "/wp-content/uploads/2025/08/71-project-gallery-1.webp 1180w, /wp-content/uploads/2025/08/71-project-gallery-1-300x197.webp 300w, /wp-content/uploads/2025/08/71-project-gallery-1-1024x673.webp 1024w, /wp-content/uploads/2025/08/71-project-gallery-1-768x504.webp 768w, /wp-content/uploads/2025/08/71-project-gallery-1-457x300.webp 457w, /wp-content/uploads/2025/08/71-project-gallery-1-600x394.webp 600w",
+                                    "sizes": "(max-width: 1180px) 100vw, 1180px"
+                                  },
+                                  "variant": null,
+                                  "children": []
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "tag": "figure",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "img",
+                                  "attributes": {
+                                    "src": "/wp-content/uploads/2025/08/71-project-gallery-2.webp",
+                                    "alt": "",
+                                    "width": "1180",
+                                    "height": "775",
+                                    "srcset": "/wp-content/uploads/2025/08/71-project-gallery-2.webp 1180w, /wp-content/uploads/2025/08/71-project-gallery-2-300x197.webp 300w, /wp-content/uploads/2025/08/71-project-gallery-2-1024x673.webp 1024w, /wp-content/uploads/2025/08/71-project-gallery-2-768x504.webp 768w, /wp-content/uploads/2025/08/71-project-gallery-2-457x300.webp 457w, /wp-content/uploads/2025/08/71-project-gallery-2-600x394.webp 600w",
+                                    "sizes": "(max-width: 1180px) 100vw, 1180px"
+                                  },
+                                  "variant": null,
+                                  "children": []
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "tag": "figure",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "img",
+                                  "attributes": {
+                                    "src": "/wp-content/uploads/2025/08/71-project-gallery-3.webp",
+                                    "alt": "",
+                                    "width": "1180",
+                                    "height": "775",
+                                    "srcset": "/wp-content/uploads/2025/08/71-project-gallery-3.webp 1180w, /wp-content/uploads/2025/08/71-project-gallery-3-300x197.webp 300w, /wp-content/uploads/2025/08/71-project-gallery-3-1024x673.webp 1024w, /wp-content/uploads/2025/08/71-project-gallery-3-768x504.webp 768w, /wp-content/uploads/2025/08/71-project-gallery-3-457x300.webp 457w, /wp-content/uploads/2025/08/71-project-gallery-3-600x394.webp 600w",
+                                    "sizes": "(max-width: 1180px) 100vw, 1180px"
+                                  },
+                                  "variant": null,
+                                  "children": []
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "pagination",
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "pagination",
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "div",
+                                  "attributes": {},
+                                  "variant": "pagination",
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 448 512"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M257.5 445.1l-22.2 22.2c-9.4 9.4-24.6 9.4-33.9 0L7 273c-9.4-9.4-9.4-24.6 0-33.9L201.4 44.7c9.4-9.4 24.6-9.4 33.9 0l22.2 22.2c9.5 9.5 9.3 25-.4 34.3L136.6 216H424c13.3 0 24 10.7 24 24v32c0 13.3-10.7 24-24 24H136.6l120.5 114.8c9.8 9.3 10 24.8.4 34.3z"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 448 512"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "prose",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "p",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Everyone realizes why a new common language would be desirable: one could refuse to pay expensive translators. To achieve this, it would be necessary to have uniform grammar, pronunciation and more common words. If several languages coalesce, the grammar of the resulting language is more simple and regular than that of the individual languages."
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "p",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "The new common language will be more simple and regular than the existing European languages. It will be as simple as Occidental; in fact, it will be Occidental. To an English person, it will seem like simplified English, as a skeptical Cambridge friend of mine told me what Occidental is.The European languages are members of the same family. "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "group",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "group",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "h4",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Start Date / End Date"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "group",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "h2",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "Start: "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " "
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "prose",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n\t\t\t\t\t\t\t\t\tMonday, 12:30pm – 3:00pm\t\t\t\t\t\t\t\t"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "group",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "h2",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "End:"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " "
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "prose",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n\t\t\t\t\t\t\t\t\tTuesday, 9:00am – 11:00am\t\t\t\t\t\t\t\t"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "a",
+                          "attributes": {
+                            "href": "#"
+                          },
+                          "variant": "button",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "Ongoing"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "h4",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Project Author"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "img",
+                          "attributes": {
+                            "src": "/wp-content/uploads/2025/08/71-profile-6-150x150.webp",
+                            "alt": "Sara Thompson"
+                          },
+                          "variant": null,
+                          "children": []
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "h5",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Sara Thompson"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "p",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Startup Growth Strategist"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "h4",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Contact Links"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "a",
+                          "attributes": {
+                            "href": "https://www.facebook.com/cmsmasters-133637440033420",
+                            "target": "_blank",
+                            "rel": "noopener noreferrer"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "Facebook-f"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "svg",
+                              "attributes": {
+                                "viewbox": "0 0 320 512"
+                              },
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "path",
+                                  "attributes": {
+                                    "d": "M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"
+                                  },
+                                  "variant": null,
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "a",
+                          "attributes": {
+                            "href": "https://twitter.com/dev_cmsmasters?lang=en",
+                            "target": "_blank",
+                            "rel": "noopener noreferrer"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "X-twitter"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "svg",
+                              "attributes": {
+                                "viewbox": "0 0 512 512"
+                              },
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "path",
+                                  "attributes": {
+                                    "d": "M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"
+                                  },
+                                  "variant": null,
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "a",
+                          "attributes": {
+                            "href": "https://www.pinterest.com/hcmsmasters/",
+                            "target": "_blank",
+                            "rel": "noopener noreferrer"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "Pinterest"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "svg",
+                              "attributes": {
+                                "viewbox": "0 0 496 512"
+                              },
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "path",
+                                  "attributes": {
+                                    "d": "M496 256c0 137-111 248-248 248-25.6 0-50.2-3.9-73.4-11.1 10.1-16.5 25.2-43.5 30.8-65 3-11.6 15.4-59 15.4-59 8.1 15.4 31.7 28.5 56.8 28.5 74.8 0 128.7-68.8 128.7-154.3 0-81.9-66.9-143.2-152.9-143.2-107 0-163.9 71.8-163.9 150.1 0 36.4 19.4 81.7 50.3 96.1 4.7 2.2 7.2 1.2 8.3-3.3.8-3.4 5-20.3 6.9-28.1.6-2.5.3-4.7-1.7-7.1-10.1-12.5-18.3-35.3-18.3-56.6 0-54.7 41.4-107.6 112-107.6 60.9 0 103.6 41.5 103.6 100.9 0 67.1-33.9 113.6-78 113.6-24.3 0-42.6-20.1-36.7-44.8 7-29.5 20.5-61.3 20.5-82.6 0-19-10.2-34.9-31.4-34.9-24.9 0-44.9 25.7-44.9 60.2 0 22 7.4 36.8 7.4 36.8s-24.5 103.8-29 123.2c-5 21.4-3 51.6-.9 71.2C65.4 450.9 0 361.1 0 256 0 119 111 8 248 8s248 111 248 248z"
+                                  },
+                                  "variant": null,
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "a",
+                          "attributes": {
+                            "href": "https://www.instagram.com/cmsmasters/",
+                            "target": "_blank",
+                            "rel": "noopener noreferrer"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "Instagram"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "svg",
+                              "attributes": {
+                                "viewbox": "0 0 448 512"
+                              },
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "path",
+                                  "attributes": {
+                                    "d": "M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"
+                                  },
+                                  "variant": null,
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "section",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "group",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h6",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Find Out What to Expect "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h2",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Why This Project Matters"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "group",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h5",
+                      "attributes": {
+                        "id": "elementor-tab-title-1351"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "a",
+                          "attributes": {
+                            "href": "#"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "What is GreenTrack?"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 448 512"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 448 512"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {
+                        "id": "elementor-widget-cmsmasters-toggles__content-1351"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "GreenTrack is a platform that helps businesses monitor, analyze, and optimize their supply chains with a focus on sustainability. It provides real-time insights into environmental impact, carbon footprint, and resource efficiency across all stages of the supply chain."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h5",
+                      "attributes": {
+                        "id": "elementor-tab-title-1352"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "a",
+                          "attributes": {
+                            "href": "#"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "How does GreenTrack improve supply chain sustainability?"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 448 512"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 448 512"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {
+                        "id": "elementor-widget-cmsmasters-toggles__content-1352"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "The platform tracks emissions, waste, and energy usage, then highlights areas where companies can reduce their environmental impact. It also offers recommendations for eco-friendly sourcing, transportation, and production methods."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h5",
+                      "attributes": {
+                        "id": "elementor-tab-title-1353"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "a",
+                          "attributes": {
+                            "href": "#"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Who can benefit from using GreenTrack?"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 448 512"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 448 512"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {
+                        "id": "elementor-widget-cmsmasters-toggles__content-1353"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "GreenTrack is designed for manufacturers, retailers, logistics providers, and any organization that wants to make its supply chain more transparent, cost-efficient, and environmentally responsible."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h5",
+                      "attributes": {
+                        "id": "elementor-tab-title-1354"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "a",
+                          "attributes": {
+                            "href": "#"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Does GreenTrack integrate with existing systems?"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 448 512"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 448 512"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {
+                        "id": "elementor-widget-cmsmasters-toggles__content-1354"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Yes. GreenTrack easily integrates with ERP, CRM, and logistics management software, enabling seamless data collection and reporting without disrupting existing workflows."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h5",
+                      "attributes": {
+                        "id": "elementor-tab-title-1355"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "a",
+                          "attributes": {
+                            "href": "#"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "What makes GreenTrack different from traditional supply chain tools?"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 448 512"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 448 512"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {
+                        "id": "elementor-widget-cmsmasters-toggles__content-1355"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Unlike traditional tools that focus only on cost and efficiency, GreenTrack places equal emphasis on sustainability. It empowers businesses to balance profitability with environmental responsibility, helping them meet ESG goals and comply with green regulations."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "section",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "h2",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Testimonials"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "Featured Endorsements & Contributor Spotlights"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {
+                    "id": "cmsmasters-slider-7a2d5a9"
+                  },
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "cards",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "5/5"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "p",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "“Softy Solutions took our rough concept and turned it into a polished SaaS product in just 8 weeks. The speed and quality blew us away!”"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "— Alex Carter, Founder of Taskify"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "4/5"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "p",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "“Their AI-powered workflow is a game-changer. We launched ahead of schedule and under budget.”"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "— Lena Torres, CEO of BrightFinance"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "5/5"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "p",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "“Softy Solutions turned our scattered idea into a polished MVP in under two months. The AI-driven workflow saved us months of trial and error.”"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "— Sofia Patel, Co-Founder at EcoLink"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 22 20",
+                            "width": "22",
+                            "height": "20",
+                            "fill": "none"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M11 0L14.2328 6.55041L21.4616 7.60081L16.2308 12.6996L17.4656 19.8992L11 16.5L4.53436 19.8992L5.76919 12.6996L0.538379 7.60081L7.76718 6.55041L11 0Z",
+                                "fill": "currentColor"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "5/5"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "p",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "“They didn’t just build our product — they challenged our thinking and made it better. Their AI prototypes nailed 90% of our vision on the first try.”"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "— Daniel Wright, CEO of FlowPilot"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "pagination",
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "pagination",
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "pagination",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "text",
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {},
+      "variant": "section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "h2",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Related Projects"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "cards",
+          "children": [
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {
+                "id": "cmsmasters-slider-33cd76d8"
+              },
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "cards",
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "article",
+                      "attributes": {
+                        "id": "post-48218"
+                      },
+                      "variant": "card",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": " "
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "section",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "metadata",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/cmsms_project_category/technology/",
+                                    "rel": "category tag"
+                                  },
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Technology"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "media",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/projects/novahire-ai-recruitment-platform/",
+                                    "aria-label": "Featured Image"
+                                  },
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "element",
+                                      "tag": "img",
+                                      "attributes": {
+                                        "src": "/wp-content/uploads/2025/08/71-project-1-1024x673.webp",
+                                        "alt": "",
+                                        "width": "1024",
+                                        "height": "673",
+                                        "srcset": "/wp-content/uploads/2025/08/71-project-1-1024x673.webp 1024w, /wp-content/uploads/2025/08/71-project-1-300x197.webp 300w, /wp-content/uploads/2025/08/71-project-1-768x505.webp 768w, /wp-content/uploads/2025/08/71-project-1-456x300.webp 456w, /wp-content/uploads/2025/08/71-project-1-600x395.webp 600w, /wp-content/uploads/2025/08/71-project-1.webp 1180w",
+                                        "sizes": "(max-width: 1024px) 100vw, 1024px"
+                                      },
+                                      "variant": null,
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "h4",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/projects/novahire-ai-recruitment-platform/"
+                                  },
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "NovaHire – AI Recruitment Platform"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " "
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "excerpt",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "p",
+                                  "attributes": {},
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Automated candidate screening, matching, and outreach using machine learning."
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "article",
+                      "attributes": {
+                        "id": "post-48213"
+                      },
+                      "variant": "card",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": " "
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "section",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "metadata",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/cmsms_project_category/retail/",
+                                    "rel": "category tag"
+                                  },
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Retail"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "media",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/projects/retailsense-smart-store-analytics/",
+                                    "aria-label": "Featured Image"
+                                  },
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "element",
+                                      "tag": "img",
+                                      "attributes": {
+                                        "src": "/wp-content/uploads/2025/08/71-project-2-1024x673.webp",
+                                        "alt": "",
+                                        "width": "1024",
+                                        "height": "673",
+                                        "srcset": "/wp-content/uploads/2025/08/71-project-2-1024x673.webp 1024w, /wp-content/uploads/2025/08/71-project-2-300x197.webp 300w, /wp-content/uploads/2025/08/71-project-2-768x505.webp 768w, /wp-content/uploads/2025/08/71-project-2-456x300.webp 456w, /wp-content/uploads/2025/08/71-project-2-600x395.webp 600w, /wp-content/uploads/2025/08/71-project-2.webp 1180w",
+                                        "sizes": "(max-width: 1024px) 100vw, 1024px"
+                                      },
+                                      "variant": null,
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "h4",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/projects/retailsense-smart-store-analytics/"
+                                  },
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "RetailSense – Smart Store Analytics"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " "
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "excerpt",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "p",
+                                  "attributes": {},
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "AI-powered shopper insights and predictive inventory management for global retail chains."
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "article",
+                      "attributes": {
+                        "id": "post-48210"
+                      },
+                      "variant": "card",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": " "
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "section",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "metadata",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/cmsms_project_category/technology/",
+                                    "rel": "category tag"
+                                  },
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Technology"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "media",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/projects/finvision-predictive-finance-dashboard/",
+                                    "aria-label": "Featured Image"
+                                  },
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "element",
+                                      "tag": "img",
+                                      "attributes": {
+                                        "src": "/wp-content/uploads/2025/08/71-project-3-1024x673.webp",
+                                        "alt": "",
+                                        "width": "1024",
+                                        "height": "673",
+                                        "srcset": "/wp-content/uploads/2025/08/71-project-3-1024x673.webp 1024w, /wp-content/uploads/2025/08/71-project-3-300x197.webp 300w, /wp-content/uploads/2025/08/71-project-3-768x505.webp 768w, /wp-content/uploads/2025/08/71-project-3-456x300.webp 456w, /wp-content/uploads/2025/08/71-project-3-600x395.webp 600w, /wp-content/uploads/2025/08/71-project-3.webp 1180w",
+                                        "sizes": "(max-width: 1024px) 100vw, 1024px"
+                                      },
+                                      "variant": null,
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "h4",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/projects/finvision-predictive-finance-dashboard/"
+                                  },
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "FinVision – Predictive Finance Dashboard"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " "
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "excerpt",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "p",
+                                  "attributes": {},
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Real-time forecasting and personalized investment insights using data modeling."
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "article",
+                      "attributes": {
+                        "id": "post-48204"
+                      },
+                      "variant": "card",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": " "
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "section",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "metadata",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/cmsms_project_category/healthcare/",
+                                    "rel": "category tag"
+                                  },
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Healthcare"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "media",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/projects/medassist-virtual-health-companion/",
+                                    "aria-label": "Featured Image"
+                                  },
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "element",
+                                      "tag": "img",
+                                      "attributes": {
+                                        "src": "/wp-content/uploads/2025/08/71-project-4-1024x673.webp",
+                                        "alt": "",
+                                        "width": "1024",
+                                        "height": "673",
+                                        "srcset": "/wp-content/uploads/2025/08/71-project-4-1024x673.webp 1024w, /wp-content/uploads/2025/08/71-project-4-300x197.webp 300w, /wp-content/uploads/2025/08/71-project-4-768x505.webp 768w, /wp-content/uploads/2025/08/71-project-4-456x300.webp 456w, /wp-content/uploads/2025/08/71-project-4-600x395.webp 600w, /wp-content/uploads/2025/08/71-project-4.webp 1180w",
+                                        "sizes": "(max-width: 1024px) 100vw, 1024px"
+                                      },
+                                      "variant": null,
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "h4",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/projects/medassist-virtual-health-companion/"
+                                  },
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "MedAssist – Virtual Health Companion"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " "
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "excerpt",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "p",
+                                  "attributes": {},
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "AI chatbot and patient tracking platform, improving appointment adherence by 35%."
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "article",
+                      "attributes": {
+                        "id": "post-48203"
+                      },
+                      "variant": "card",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": " "
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "section",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "metadata",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/cmsms_project_category/ai-learning/",
+                                    "rel": "category tag"
+                                  },
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "AI Learning"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "media",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/projects/edumind-personalized-learning-hub/",
+                                    "aria-label": "Featured Image"
+                                  },
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "element",
+                                      "tag": "img",
+                                      "attributes": {
+                                        "src": "/wp-content/uploads/2025/08/71-project-5-1024x673.webp",
+                                        "alt": "",
+                                        "width": "1024",
+                                        "height": "673",
+                                        "srcset": "/wp-content/uploads/2025/08/71-project-5-1024x673.webp 1024w, /wp-content/uploads/2025/08/71-project-5-300x197.webp 300w, /wp-content/uploads/2025/08/71-project-5-768x505.webp 768w, /wp-content/uploads/2025/08/71-project-5-456x300.webp 456w, /wp-content/uploads/2025/08/71-project-5-600x395.webp 600w, /wp-content/uploads/2025/08/71-project-5.webp 1180w",
+                                        "sizes": "(max-width: 1024px) 100vw, 1024px"
+                                      },
+                                      "variant": null,
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "h4",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "element",
+                                  "tag": "a",
+                                  "attributes": {
+                                    "href": "/projects/edumind-personalized-learning-hub/"
+                                  },
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "EduMind – Personalized Learning Hub"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " "
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "excerpt",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "p",
+                                  "attributes": {},
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "EduMind leverages AI to create tailored learning paths for students, offering real-time progress tracking."
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {},
+      "variant": "section",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/projects/travelmate-intelligent-trip-planner/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "svg",
+              "attributes": {
+                "viewbox": "0 0 448 512"
+              },
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "path",
+                  "attributes": {
+                    "d": "M257.5 445.1l-22.2 22.2c-9.4 9.4-24.6 9.4-33.9 0L7 273c-9.4-9.4-9.4-24.6 0-33.9L201.4 44.7c9.4-9.4 24.6-9.4 33.9 0l22.2 22.2c9.5 9.5 9.3 25-.4 34.3L136.6 216H424c13.3 0 24 10.7 24 24v32c0 13.3-10.7 24-24 24H136.6l120.5 114.8c9.8 9.3 10 24.8.4 34.3z"
+                  },
+                  "variant": null,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "Prev"
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "text",
+              "text": "TravelMate – Intelligent Trip Planner"
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/projects/worksync-ai-powered-team-collaboration-tool/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "text",
+              "text": "WorkSync – AI-Powered Team Collaboration Tool"
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "svg",
+              "attributes": {
+                "viewbox": "0 0 448 512"
+              },
+              "variant": null,
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "path",
+                  "attributes": {
+                    "d": "M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"
+                  },
+                  "variant": null,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "Next"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    }
+  ]
+}

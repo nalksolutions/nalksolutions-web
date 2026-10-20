@@ -1,0 +1,2663 @@
+{
+  "id": "R-1ca4c50f71a6a456",
+  "path": "/image-credits/",
+  "locale": "en",
+  "family": "corporate-or-special",
+  "nodes": [
+    {
+      "type": "text",
+      "text": " "
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {},
+      "variant": "secondary-hero",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "secondary-heading",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "h1",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Image Credits"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "secondary-breadcrumbs",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "a",
+              "attributes": {
+                "href": "/"
+              },
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Home"
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "secondary-breadcrumb-separator",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "/"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "Image Credits"
+            },
+            {
+              "type": "text",
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {},
+      "variant": "secondary-credits-body",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "secondary-inner",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "secondary-heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "h4",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Blog:"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "secondary-credit-copy",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.pexels.com/photo/5838215",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.pexels.com/photo/5838215"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.pexels.com/photo/10313412",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.pexels.com/photo/10313412"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.pexels.com/photo/5244025",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.pexels.com/photo/5244025"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/happy-female-entrepreneurs-reading-email-computer-while-working-together-office-focus-is-redhead-woman_25630343.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/happy-female-entrepreneurs-reading-email-computer-while-working-together-office-focus-is-redhead-woman_25630343.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/people-hangout-together-coffee-shop_3533264.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/people-hangout-together-coffee-shop_3533264.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://unsplash.com/photos/D5bISElmYZQ",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://unsplash.com/photos/D5bISElmYZQ"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://unsplash.com/photos/g1Kr4Ozfoac",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://unsplash.com/photos/g1Kr4Ozfoac"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://unsplash.com/photos/r0saAQNjEjQ",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://unsplash.com/photos/r0saAQNjEjQ"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://unsplash.com/photos/c3tNiAb098I",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://unsplash.com/photos/c3tNiAb098I"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "secondary-heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "h4",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Open Post:"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "secondary-credit-copy",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://unsplash.com/photos/ZKBzlifgkgw",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://unsplash.com/photos/ZKBzlifgkgw"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://unsplash.com/photos/agUC-v_D1iI",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://unsplash.com/photos/agUC-v_D1iI"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://unsplash.com/photos/4wOkqiXNP7M",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://unsplash.com/photos/4wOkqiXNP7M"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://unsplash.com/photos/z8DcWATjs1w",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://unsplash.com/photos/z8DcWATjs1w"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://unsplash.com/photos/e_MdMMKrgdY",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://unsplash.com/photos/e_MdMMKrgdY"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://unsplash.com/photos/n0mabeJj6_s",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://unsplash.com/photos/n0mabeJj6_s"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://unsplash.com/photos/oR4iUH0cxjs",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://unsplash.com/photos/oR4iUH0cxjs"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://unsplash.com/photos/rMILC1PIwM0",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://unsplash.com/photos/rMILC1PIwM0"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://unsplash.com/photos/KHpjeuaWOec",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://unsplash.com/photos/KHpjeuaWOec"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://unsplash.com/photos/pKRNxEguRgM",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://unsplash.com/photos/pKRNxEguRgM"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://unsplash.com/photos/DS1hZ4xzD7M",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://unsplash.com/photos/DS1hZ4xzD7M"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://unsplash.com/photos/TjROipvPS5g",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://unsplash.com/photos/TjROipvPS5g"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://unsplash.com/photos/OoQuQwoyw9M",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://unsplash.com/photos/OoQuQwoyw9M"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.pexels.com/photo/3747140",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.pexels.com/photo/3747140"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.pexels.com/photo/7414109",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.pexels.com/photo/7414109"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "secondary-heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "h4",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Default Blog:"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "secondary-credit-copy",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://unsplash.com/photos/mEawZ3YloK4",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://unsplash.com/photos/mEawZ3YloK4"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://unsplash.com/photos/bAsGj7yV7_8",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://unsplash.com/photos/bAsGj7yV7_8"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://unsplash.com/photos/ryxY5haw8xg",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://unsplash.com/photos/ryxY5haw8xg"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/corporate-employee-planning-financial-investment-strategy-usinh-hologram_143489049.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/corporate-employee-planning-financial-investment-strategy-usinh-hologram_143489049.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/office-employee-examining-performance-metrics-numbers-workplace_417798770.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/office-employee-examining-performance-metrics-numbers-workplace_417798770.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/working-space-interior-design_18420943.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/working-space-interior-design_18420943.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/consulting-cafe_5402794.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/consulting-cafe_5402794.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/hipster-attractive-man-using-devices-working-laptop-tablet-computer_9699468.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/hipster-attractive-man-using-devices-working-laptop-tablet-computer_9699468.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/pretty-young-stylish-happy-people-co-working-office_9699636.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/pretty-young-stylish-happy-people-co-working-office_9699636.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/employee-putting-sticky-notes-laptop-screen-as-work-reminder-company-office-manager-using-adhesive-post-it-paper-display-remember-business-schedule-presentation-close-up_22558903.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/employee-putting-sticky-notes-laptop-screen-as-work-reminder-company-office-manager-using-adhesive-post-it-paper-display-remember-business-schedule-presentation-close-up_22558903.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/employees-working-together-side-view_37881258.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/employees-working-together-side-view_37881258.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.pexels.com/photo/6976933",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.pexels.com/photo/6976933"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "secondary-heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "h4",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Contacts / About:"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "secondary-credit-copy",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/view-modern-office_1006070.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/view-modern-office_1006070.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/3d-rendering-business-meeting-working-room-office-building_16830666.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/3d-rendering-business-meeting-working-room-office-building_16830666.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/vertical-shot-smiling-asian-businesswoman-waitress-standing-front-cafe-entrance-inviting-gu_35354039.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/vertical-shot-smiling-asian-businesswoman-waitress-standing-front-cafe-entrance-inviting-gu_35354039.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/team-working-together-project_22633315.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/team-working-together-project_22633315.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "secondary-heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "h4",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Profiles:"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "secondary-credit-copy",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/young-man-with-beard-round-glasses_9661025.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/young-man-with-beard-round-glasses_9661025.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/young-blonde-woman-red-shirt_11013453.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/young-blonde-woman-red-shirt_11013453.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/young-adult-man-wearing-hoodie-beanie_25961549.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/young-adult-man-wearing-hoodie-beanie_25961549.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/handsome-positive-young-male-with-stylish-voluminous-hairdo-clean-smoothly-shaven-face-having-shy-look-posing-isolated-against-blank-wall-with-copy-space-your-text_11033482.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/handsome-positive-young-male-with-stylish-voluminous-hairdo-clean-smoothly-shaven-face-having-shy-look-posing-isolated-against-blank-wall-with-copy-space-your-text_11033482.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/confident-blond-handsome-young-man-glasses-wearing-casual-plaid-shirt-with-hands-crossed-chest-grey-wall_7515507.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/confident-blond-handsome-young-man-glasses-wearing-casual-plaid-shirt-with-hands-crossed-chest-grey-wall_7515507.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/indoor-shot-attractive-young-woman-with-glasses-posing-against-white-wall_11136577.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/indoor-shot-attractive-young-woman-with-glasses-posing-against-white-wall_11136577.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/young-colleagues-office-using-tablet-computer_7336272.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/young-colleagues-office-using-tablet-computer_7336272.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "secondary-heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "h4",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Services:"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "secondary-credit-copy",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/smiley-coworkers-posing-together_12142781.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/smiley-coworkers-posing-together_12142781.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/representation-user-experience-interface-design_94963716.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/representation-user-experience-interface-design_94963716.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/trans-person-working-office-with-colleagues_22894945.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/trans-person-working-office-with-colleagues_22894945.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/attractive-couple-man-woman-talking-sitting-stairs-urban-city-center-working-together-laptop_17247871.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/attractive-couple-man-woman-talking-sitting-stairs-urban-city-center-working-together-laptop_17247871.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-ai-image/futurism-perspective-digital-nomads-lifestyle_138709447.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-ai-image/futurism-perspective-digital-nomads-lifestyle_138709447.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/face-recognition-personal-identification-collage_96364017.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/face-recognition-personal-identification-collage_96364017.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-ai-image/3d-shapes-glowing-with-bright-holographic-colors_151971594.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-ai-image/3d-shapes-glowing-with-bright-holographic-colors_151971594.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/young-scholar-focuses-intently-her-exam-preparations-campus-library_416753950.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/young-scholar-focuses-intently-her-exam-preparations-campus-library_416753950.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-ai-image/3d-shapes-glowing-with-bright-holographic-colors_151971609.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-ai-image/3d-shapes-glowing-with-bright-holographic-colors_151971609.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/man-with-bear-using-tablet-modern-building-chilling-sofa_10047564.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/man-with-bear-using-tablet-modern-building-chilling-sofa_10047564.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "secondary-heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "h4",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Peojects:"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "secondary-credit-copy",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.pexels.com/photo/17483906",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.pexels.com/photo/17483906"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.pexels.com/photo/6457549",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.pexels.com/photo/6457549"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/corporate-workers-brainstorming-together_11762400.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/corporate-workers-brainstorming-together_11762400.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/co-working-people-working-together_23988356.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/co-working-people-working-together_23988356.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-ai-image/futuristic-business-scene-with-ultra-modern-ambiance_94952548.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-ai-image/futuristic-business-scene-with-ultra-modern-ambiance_94952548.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/representation-user-experience-interface-design_94963707.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/representation-user-experience-interface-design_94963707.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/group-people-with-smartphones-tablets_10037850.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/group-people-with-smartphones-tablets_10037850.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/man-touching-virtual-screen-futuristic-technology-digital-remix_15667670.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/man-touching-virtual-screen-futuristic-technology-digital-remix_15667670.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "secondary-heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "h4",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Open Project:"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "secondary-credit-copy",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-ai-image/beauty-digital-art-through-immersive-experiences_138695993.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-ai-image/beauty-digital-art-through-immersive-experiences_138695993.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/business-teammates-working-late-office_14958886.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/business-teammates-working-late-office_14958886.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/teamwork-colleagues_5401652.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/teamwork-colleagues_5401652.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/focused-group-men-sitting-front-laptop_12374848.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/focused-group-men-sitting-front-laptop_12374848.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/social-network-connection-with-woman-video-chatting-smiling_13463126.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/social-network-connection-with-woman-video-chatting-smiling_13463126.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/representation-user-experience-interface-design_94963715.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/representation-user-experience-interface-design_94963715.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/happy-woman-outdoors_8294994.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/happy-woman-outdoors_8294994.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/gorgeous-young-woman-smiling-camera-turning-smiling_13871764.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/gorgeous-young-woman-smiling-camera-turning-smiling_13871764.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/close-up-portrait-beautiful-young-woman-with-ginger-hair-clean-healthy-skin_9956703.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/close-up-portrait-beautiful-young-woman-with-ginger-hair-clean-healthy-skin_9956703.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/front-view-smiley-woman-reading-book_36300071.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/front-view-smiley-woman-reading-book_36300071.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "secondary-heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "h4",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Home 1"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "secondary-credit-copy",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.pexels.com/video/video-of-a-person-typing-on-the-laptop-7821812/",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.pexels.com/video/video-of-a-person-typing-on-the-laptop-7821812/"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.pexels.com/photo/woman-using-macbook-laptop-computer-1181740/",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.pexels.com/photo/woman-using-macbook-laptop-computer-1181740/"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.pexels.com/photo/selective-focus-photo-of-smiling-man-looking-at-his-phone-while-holding-cup-3206080/",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.pexels.com/photo/selective-focus-photo-of-smiling-man-looking-at-his-phone-while-holding-cup-3206080/"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/middle-aged-hispanic-business-people_150837923.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/middle-aged-hispanic-business-people_150837923.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "secondary-heading",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "h4",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Home 2"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "secondary-credit-copy",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.pexels.com/video/video-of-a-person-typing-on-the-laptop-7821812/",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.pexels.com/video/video-of-a-person-typing-on-the-laptop-7821812/"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.pexels.com/photo/woman-using-macbook-laptop-computer-1181740/",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.pexels.com/photo/woman-using-macbook-laptop-computer-1181740/"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.pexels.com/photo/selective-focus-photo-of-smiling-man-looking-at-his-phone-while-holding-cup-3206080/",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.pexels.com/photo/selective-focus-photo-of-smiling-man-looking-at-his-phone-while-holding-cup-3206080/"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "p",
+                  "attributes": {},
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.freepik.com/free-photo/middle-aged-hispanic-business-people_150837923.htm",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "https://www.freepik.com/free-photo/middle-aged-hispanic-business-people_150837923.htm"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    }
+  ],
+  "secondaryLayout": "credits"
+}

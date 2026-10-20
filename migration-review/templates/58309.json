@@ -1,0 +1,301 @@
+[
+  {
+    "id": "67e58e54",
+    "elType": "section",
+    "settings": {
+      "structure": "10",
+      "background_background": "classic",
+      "background_color": "#F8FAFC",
+      "padding": {
+        "unit": "px",
+        "top": "80",
+        "bottom": "80",
+        "isLinked": false
+      },
+      "premium_tooltip_icon": {
+        "value": "fas fa-star",
+        "library": "fa-solid"
+      },
+      "premium_tooltip_container_bg_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_slideshow_gallery": [],
+      "background_hover_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_hover_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_hover_slideshow_gallery": [],
+      "background_overlay_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_slideshow_gallery": [],
+      "background_overlay_hover_image": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_hover_video_fallback": {
+        "url": "",
+        "id": "",
+        "size": ""
+      },
+      "background_overlay_hover_slideshow_gallery": [],
+      "pa_condition_repeater": []
+    },
+    "elements": [
+      {
+        "id": "29fce185",
+        "elType": "column",
+        "settings": {
+          "_column_size": 100,
+          "background_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_slideshow_gallery": [],
+          "background_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_hover_slideshow_gallery": [],
+          "background_overlay_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_overlay_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_overlay_slideshow_gallery": [],
+          "background_overlay_hover_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_overlay_hover_video_fallback": {
+            "url": "",
+            "id": "",
+            "size": ""
+          },
+          "background_overlay_hover_slideshow_gallery": [],
+          "pa_condition_repeater": [],
+          "premium_tooltip_icon": {
+            "value": "fas fa-star",
+            "library": "fa-solid"
+          },
+          "premium_tooltip_container_bg_image": {
+            "url": "",
+            "id": "",
+            "size": ""
+          }
+        },
+        "elements": [
+          {
+            "id": "40de70be",
+            "elType": "widget",
+            "settings": {
+              "title": "Frequently Asked Questions",
+              "align": "center",
+              "header_size": "h2",
+              "pa_condition_repeater": [],
+              "premium_tooltip_icon": {
+                "value": "fas fa-star",
+                "library": "fa-solid"
+              },
+              "premium_tooltip_container_bg_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_slideshow_gallery": [],
+              "_background_hover_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_hover_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_hover_slideshow_gallery": [],
+              "_mask_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              }
+            },
+            "elements": [],
+            "widgetType": "heading"
+          },
+          {
+            "id": "4f523f39",
+            "elType": "widget",
+            "settings": {
+              "tabs": [
+                {
+                  "tab_title": "What is the typical cost of website development in Saudi Arabia?",
+                  "tab_content": "Website development costs vary based on complexity, features, and design requirements. A basic business website with 5 to 8 pages typically ranges from SAR 8,000 to SAR 15,000. E-commerce websites start around SAR 15,000 for small catalogues and can reach SAR 50,000 or more for comprehensive online stores with hundreds of products. Custom web applications are quoted based on specific requirements, generally starting from SAR 25,000. We provide detailed quotes after understanding your needs during the discovery phase.",
+                  "_id": ""
+                },
+                {
+                  "tab_title": "How long does it take to develop a website?",
+                  "tab_content": "Timeline depends on project scope. A standard business website takes approximately 6 to 8 weeks from kickoff to launch. This includes design, development, content creation, and testing. E-commerce websites typically require 10 to 14 weeks due to additional complexity in product setup, payment integration, and checkout process development. Custom web applications can take 3 to 6 months, depending on features and integrations. We provide a detailed timeline in our project proposal.",
+                  "_id": ""
+                },
+                {
+                  "tab_title": "Do you provide website hosting and domain registration?",
+                  "tab_content": "Yes, we offer complete website hosting solutions optimised for performance and security. Our hosting packages include SSL certificates, daily backups, security monitoring, and technical support. We can also handle domain registration for your business or work with your existing domain name. For businesses with specific hosting requirements, we can deploy your website to your preferred hosting provider.",
+                  "_id": ""
+                },
+                {
+                  "tab_title": "Can you integrate our website with ZATCA for e-invoicing compliance?",
+                  "tab_content": "Absolutely. ZATCA compliance is essential for businesses operating in Saudi Arabia. We build ecommerce platforms and business portals with ZATCA e-invoicing integration from the start. This includes generating compliant invoices, maintaining proper records, and connecting to approved e-invoicing solutions. Our developers stay current with Saudi tax authority requirements to ensure your website remains compliant as regulations evolve.",
+                  "_id": ""
+                },
+                {
+                  "tab_title": "Will our website support both Arabic and English?",
+                  "tab_content": "Yes, we specialise in bilingual website development for the Saudi market. Our websites include proper right-to-left support for Arabic content, appropriate Arabic font selection, and layout adjustments that ensure both languages are presented optimally. We can also develop content in Arabic or work with your existing Arabic copy, ensuring natural language that resonates with Saudi audiences.",
+                  "_id": ""
+                },
+                {
+                  "tab_title": "What payment gateways do you integrate for Saudi customers?",
+                  "tab_content": "We integrate all major payment options used in Saudi Arabia. This includes Mada for local debit card payments, STC Pay for mobile wallet transactions, Tabby and Tamara for buy-now-pay-later options, and international card processors like Visa and Mastercard. We handle the technical integration, security requirements, and testing to ensure smooth payment processing.",
+                  "_id": ""
+                },
+                {
+                  "tab_title": "Do you offer ongoing support after the website launches?",
+                  "tab_content": "Yes, ongoing support is essential for maintaining website performance and security. Our maintenance packages include security updates, plugin and framework updates, content changes, performance monitoring, backup management, and technical support. We offer different levels of support based on your needs, from basic monthly maintenance to comprehensive managed services.",
+                  "_id": ""
+                },
+                {
+                  "tab_title": "Can you redesign our existing website?",
+                  "tab_content": "We provide complete website redesign services for businesses whose current sites no longer meet their needs. Our redesign process includes analysis of your current website, identification of performance and user experience issues, development of improved design and functionality, content migration to the new platform, and URL structure preservation to maintain search rankings. We ensure your new website performs better while retaining the SEO value of your existing site.",
+                  "_id": ""
+                },
+                {
+                  "tab_title": "What industries do you have experience working with?",
+                  "tab_content": "We have developed websites for businesses across multiple sectors in Saudi Arabia. Our experience includes healthcare and medical facilities, educational institutions and e-learning platforms, real estate developers and agencies, hospitality and tourism businesses, retail and e-commerce companies, professional services firms, government and municipal entities, and manufacturing and industrial companies. This diverse experience allows us to understand industry-specific requirements and create websites that address sector challenges.",
+                  "_id": ""
+                },
+                {
+                  "tab_title": "How do you ensure our website ranks well in search engines?",
+                  "tab_content": "SEO is built into our development process from the start. We implement clean, search-engine-friendly code, optimise page load speeds, create mobile-responsive designs, implement proper heading structure and meta tags, generate XML sitemaps, and set up Google Analytics and Search Console. For businesses targeting local customers, we optimise for local search by including location information, creating location-specific content, and implementing local business schema markup. Ongoing SEO requires content updates and link building, which we can handle through our digital marketing services.",
+                  "_id": ""
+                },
+                {
+                  "tab_title": "Can you help with content creation for our website?",
+                  "tab_content": "Yes, we offer content development services for both Arabic and English websites. Our content team includes writers who understand Saudi business culture and can create copy that resonates with local audiences. This includes service descriptions, product information, blog articles, and other website content. We work with you to understand your brand voice and messaging, then develop content that communicates effectively with your target customers.",
+                  "_id": ""
+                },
+                {
+                  "tab_title": "What happens if we need changes after the website launches?",
+                  "tab_content": "Websites evolve with your business, and we expect you will need updates over time. Minor changes are typically included in maintenance packages. Larger updates like new page sections, additional features, or design changes are quoted separately. We maintain detailed documentation of your website's architecture, making it straightforward to implement changes efficiently. Our ongoing relationship means we understand your site and can respond quickly to update requests.",
+                  "_id": ""
+                }
+              ],
+              "selected_icon": {
+                "value": "fas fa-plus",
+                "library": "fa-solid"
+              },
+              "selected_active_icon": {
+                "value": "fas fa-minus",
+                "library": "fa-solid"
+              },
+              "pa_condition_repeater": [],
+              "premium_tooltip_icon": {
+                "value": "fas fa-star",
+                "library": "fa-solid"
+              },
+              "premium_tooltip_container_bg_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_slideshow_gallery": [],
+              "_background_hover_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_hover_video_fallback": {
+                "url": "",
+                "id": "",
+                "size": ""
+              },
+              "_background_hover_slideshow_gallery": [],
+              "_mask_image": {
+                "url": "",
+                "id": "",
+                "size": ""
+              }
+            },
+            "elements": [],
+            "widgetType": "accordion"
+          }
+        ],
+        "isInner": false
+      }
+    ],
+    "isInner": false
+  }
+]

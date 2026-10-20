@@ -1,0 +1,272 @@
+{
+  "entityId": "R-e83c0ad06ef3deb6",
+  "path": "/ar/our-services/",
+  "publication": {
+    "ready": true,
+    "acceptance": "ownerManaged"
+  },
+  "review": {
+    "status": "inReview",
+    "reviewer": null,
+    "approvedAt": null,
+    "translationRevision": "core-1",
+    "sourceInputs": [
+      {
+        "path": "src/content/site/pages.generated.json",
+        "sha256": "7cd8249a8f5b73200fb4c39193dc5469fa0cc595cc493904a611272606512429"
+      },
+      {
+        "path": "src/content/site/documents/R-e83c0ad06ef3deb6.json",
+        "sha256": "8fc2da00563b5238a6efe97529b6ebf4b75ce09ec35c9f7852b860ab3d1ad812"
+      },
+      {
+        "path": "src/content/journey/pages.ts",
+        "sha256": "c667fe3d86c3cea36a79bb89342798f10780d1ae7e291e33489396f8d705d25d"
+      }
+    ]
+  },
+  "seo": {
+    "title": "خدماتنا | نالك سوليوشنز",
+    "description": "ابدأ باحتياج عملك. اختر من أربعة مجالات مترابطة، واستفد من الخدمات المتخصصة عندما يتطلب مشروعك ذلك."
+  },
+  "heading": "خدماتنا",
+  "blocks": {},
+  "imageAlts": {},
+  "issues": [],
+  "document": {
+    "nodes": [
+      {
+        "type": "text",
+        "text": ""
+      }
+    ]
+  },
+  "sourceSnapshot": {
+    "id": "R-e83c0ad06ef3deb6",
+    "sourceRouteId": "R-e83c0ad06ef3deb6",
+    "path": "/our-services/",
+    "kind": "marketing",
+    "locale": "en",
+    "status": "published",
+    "seo": {
+      "title": "Our Services - Nalk Solutions",
+      "description": "We build bold ideas, powered by AI and human creativity, that push boundaries and spark growth.",
+      "canonical": "https://nalksolutions.com/our-services/",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "googlebot": null,
+      "social": [
+        {
+          "property": "og:locale",
+          "content": "en_US"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Our Services - Nalk Solutions"
+        },
+        {
+          "property": "og:description",
+          "content": "We build bold ideas, powered by AI and human creativity, that push boundaries and spark growth."
+        },
+        {
+          "property": "og:url",
+          "content": "https://nalksolutions.com/our-services/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Nalk Solutions"
+        },
+        {
+          "property": "og:updated_time",
+          "content": "2025-10-19T16:53:11+00:00"
+        },
+        {
+          "property": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "property": "twitter:title",
+          "content": "Our Services - Nalk Solutions"
+        },
+        {
+          "property": "twitter:description",
+          "content": "We build bold ideas, powered by AI and human creativity, that push boundaries and spark growth."
+        },
+        {
+          "property": "twitter:label1",
+          "content": "Time to read"
+        },
+        {
+          "property": "twitter:data1",
+          "content": "Less than a minute"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Place",
+              "@id": "https://nalksolutions.com/#place",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              }
+            },
+            {
+              "@type": ["ProfessionalService", "Organization"],
+              "@id": "https://nalksolutions.com/#organization",
+              "name": "Nalk Solutions",
+              "url": "https://nalksolutions.com",
+              "email": "info@nalksolutions.com",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              },
+              "logo": {
+                "@type": "ImageObject",
+                "@id": "https://nalksolutions.com/#logo",
+                "url": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "contentUrl": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "caption": "Nalk Solutions",
+                "inLanguage": "en-US",
+                "width": "1563",
+                "height": "1563"
+              },
+              "openingHours": ["Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"],
+              "description": "Nalk provides Nalk Solutions is a technology company in Saudi Arabia; delivering digital marketing, web development, app development &amp; IT solutions across Riyadh, Jeddah and all major cities across the kingdom.",
+              "legalName": "uhj1984@yahoo.com",
+              "location": {
+                "@id": "https://nalksolutions.com/#place"
+              },
+              "image": {
+                "@id": "https://nalksolutions.com/#logo"
+              },
+              "telephone": "+966506000843"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://nalksolutions.com/#website",
+              "url": "https://nalksolutions.com",
+              "name": "Nalk Solutions",
+              "publisher": {
+                "@id": "https://nalksolutions.com/#organization"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "ImageObject",
+              "@id": "https://softy-solutions.cmsmasters.net/dark-demo/wp-content/uploads/sites/2/2025/08/71-services-1-1024x833.webp",
+              "url": "https://softy-solutions.cmsmasters.net/dark-demo/wp-content/uploads/sites/2/2025/08/71-services-1-1024x833.webp",
+              "width": "200",
+              "height": "200",
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://nalksolutions.com/our-services/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": "1",
+                  "item": {
+                    "@id": "https://nalksolutions.com",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "position": "2",
+                  "item": {
+                    "@id": "https://nalksolutions.com/our-services/",
+                    "name": "Our Services"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://nalksolutions.com/our-services/#webpage",
+              "url": "https://nalksolutions.com/our-services/",
+              "name": "Our Services - Nalk Solutions",
+              "datePublished": "2025-08-30T21:28:47+00:00",
+              "dateModified": "2025-10-19T16:53:11+00:00",
+              "isPartOf": {
+                "@id": "https://nalksolutions.com/#website"
+              },
+              "primaryImageOfPage": {
+                "@id": "https://softy-solutions.cmsmasters.net/dark-demo/wp-content/uploads/sites/2/2025/08/71-services-1-1024x833.webp"
+              },
+              "inLanguage": "en-US",
+              "breadcrumb": {
+                "@id": "https://nalksolutions.com/our-services/#breadcrumb"
+              }
+            },
+            {
+              "@type": "Person",
+              "@id": "https://nalksolutions.com/our-services/#author",
+              "name": "uhj1984@yahoo.com",
+              "image": {
+                "@type": "ImageObject",
+                "@id": "https://secure.gravatar.com/avatar/579a7bde0ace771a4bb782feeb83aba48d2b689bebee8d20b924c6b2991e04fa?s=96&amp;d=mm&amp;r=g",
+                "url": "https://secure.gravatar.com/avatar/579a7bde0ace771a4bb782feeb83aba48d2b689bebee8d20b924c6b2991e04fa?s=96&amp;d=mm&amp;r=g",
+                "caption": "uhj1984@yahoo.com",
+                "inLanguage": "en-US"
+              },
+              "sameAs": ["https://nalksolutions.com"],
+              "worksFor": {
+                "@id": "https://nalksolutions.com/#organization"
+              }
+            },
+            {
+              "@type": "Article",
+              "headline": "Our Services - Nalk Solutions",
+              "datePublished": "2025-08-30T21:28:47+00:00",
+              "dateModified": "2025-10-19T16:53:11+00:00",
+              "author": {
+                "@id": "https://nalksolutions.com/our-services/#author",
+                "name": "uhj1984@yahoo.com"
+              },
+              "publisher": {
+                "@id": "https://nalksolutions.com/#organization"
+              },
+              "description": "We build bold ideas, powered by AI and human creativity, that push boundaries and spark growth.",
+              "name": "Our Services - Nalk Solutions",
+              "@id": "https://nalksolutions.com/our-services/#richSnippet",
+              "isPartOf": {
+                "@id": "https://nalksolutions.com/our-services/#webpage"
+              },
+              "image": {
+                "@id": "https://softy-solutions.cmsmasters.net/dark-demo/wp-content/uploads/sites/2/2025/08/71-services-1-1024x833.webp"
+              },
+              "inLanguage": "en-US",
+              "mainEntityOfPage": {
+                "@id": "https://nalksolutions.com/our-services/#webpage"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "content": {
+      "heading": "Our Services",
+      "paragraphs": ["Our Services"],
+      "documentId": "R-e83c0ad06ef3deb6"
+    },
+    "provenance": {
+      "sourceHtml": "nalk-public-archive/html/source/our-services-e83c0ad06ef3deb6.html",
+      "sourceSha256": "19485708c3db518cfdd26a881dcbb6de8eb607c76c3fc9bc257c8a2a6dabbe70",
+      "pageRecord": "nalk-public-archive/pages/our-services-e83c0ad06ef3deb6.json",
+      "pageRecordSha256": "b3159fd86d3567b00028d3d891aac17c4f908110287ea6da74a05fef5ef9140d",
+      "excerpt": false,
+      "headingFallback": false
+    }
+  }
+}

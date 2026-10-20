@@ -1,0 +1,2713 @@
+{
+  "id": "R-5b73d2c286b38347",
+  "path": "/cmsms_profile/liam-carter/",
+  "locale": "en",
+  "family": "profile-detail",
+  "nodes": [
+    {
+      "type": "text",
+      "text": " "
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {},
+      "variant": "secondary-profile-hero",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "secondary-inner",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "secondary-profile-intro",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "secondary-profile-taxonomy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "/cmsms_profile_category/front-end-developer/",
+                        "rel": "category tag"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Front-End Developer"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "secondary-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h1",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Liam Carter"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "secondary-profile-contacts",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "ul",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "li",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n\t\t\t\t\t\t\tPhone:\t\t\t\t\t\t"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "a",
+                              "attributes": {
+                                "href": "tel:+(012)%204680-396"
+                              },
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "+(012) 4680-396"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "li",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n\t\t\t\t\t\t\tOffice: \t\t\t\t\t\t"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "a",
+                              "attributes": {
+                                "href": "tel:+(012)%205943-347"
+                              },
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "+(012) 5943-347"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "li",
+                          "attributes": {},
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n\t\t\t\t\t\t\tEmail:\t\t\t\t\t\t"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "a",
+                              "attributes": {
+                                "href": "mailto:example@ex.com"
+                              },
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "example@ex.com"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "secondary-socials",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.facebook.com/cmsmasters.wpstudio",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "secondary-sr-only",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Facebook-f"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 320 512"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://twitter.com/dev_cmsmasters",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "secondary-sr-only",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "X-twitter"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 512 512"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "a",
+                      "attributes": {
+                        "href": "https://www.linkedin.com/in/cmsmasters-wordpress-team-44b35940",
+                        "target": "_blank",
+                        "rel": "noopener noreferrer"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "span",
+                          "attributes": {},
+                          "variant": "secondary-sr-only",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "Linkedin-in"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "svg",
+                          "attributes": {
+                            "viewbox": "0 0 448 512"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "path",
+                              "attributes": {
+                                "d": "M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"
+                              },
+                              "variant": null,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "secondary-portrait",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {},
+      "variant": "secondary-profile-body",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "secondary-inner",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "secondary-appointment",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "secondary-appointment-card",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "secondary-inner",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "secondary-heading",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "h6",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "Schedule a Meeting:"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {
+                            "id": "cmsmasters-widget-form-7b523305"
+                          },
+                          "variant": null,
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "br",
+                              "attributes": {},
+                              "variant": null,
+                              "children": []
+                            },
+                            {
+                              "type": "enquiry",
+                              "fields": [
+                                {
+                                  "label": "Your Full Name",
+                                  "name": "name-1",
+                                  "kind": "text",
+                                  "required": true,
+                                  "options": []
+                                },
+                                {
+                                  "label": "Your Phone",
+                                  "name": "phone-1",
+                                  "kind": "text",
+                                  "required": false,
+                                  "options": []
+                                },
+                                {
+                                  "label": "Select Date",
+                                  "name": "date-1",
+                                  "kind": "text",
+                                  "required": false,
+                                  "options": []
+                                },
+                                {
+                                  "label": "hours",
+                                  "name": "time-1-hours",
+                                  "kind": "select",
+                                  "required": false,
+                                  "options": [
+                                    "08",
+                                    "09",
+                                    "10",
+                                    "11",
+                                    "12",
+                                    "13",
+                                    "14",
+                                    "15",
+                                    "16",
+                                    "17",
+                                    "18",
+                                    "19"
+                                  ],
+                                  "defaultValue": "08"
+                                },
+                                {
+                                  "label": "minutes",
+                                  "name": "time-1-minutes",
+                                  "kind": "select",
+                                  "required": false,
+                                  "options": [
+                                    "00",
+                                    "10",
+                                    "20",
+                                    "30",
+                                    "40",
+                                    "50"
+                                  ],
+                                  "defaultValue": "30"
+                                }
+                              ],
+                              "buttonLabel": "Request a Consultation"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " "
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "secondary-profile-content",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "secondary-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h3",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Short Biography"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "secondary-copy",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "secondary-inner",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "secondary-copy",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "With a passion for innovation and problem-solving, this professional has dedicated years to advancing expertise in technology and strategy. Their journey began with a strong educational foundation and has grown into a career marked by creativity, precision, and impact. Skilled in bridging ideas with execution, they thrive in environments that demand both technical excellence and visionary thinking. Over the years, they have honed their ability to collaborate across disciplines, ensuring projects are both effective and user-centered. A commitment to continuous learning drives them to stay at the forefront of industry trends and best practices."
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "tag": "p",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "Whether building solutions, designing experiences, or shaping growth strategies, they approach every task with dedication and purpose. They believe in teamwork as a cornerstone of success and value the diversity of ideas that collaboration brings. Resilient and adaptable, they see challenges as opportunities to innovate and grow. Their work is not only a profession but also a calling to create meaningful change. Every project is guided by the principle of making technology and strategy serve people in powerful, lasting ways."
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "secondary-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h3",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Education & Experience"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "secondary-education",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "secondary-inner",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "secondary-education-row",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "secondary-heading",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "h6",
+                                  "attributes": {},
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Education"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "secondary-heading",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "University of California, Berkeley, B.S. in Software Engineering"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "secondary-education-row",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "secondary-heading",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "h6",
+                                  "attributes": {},
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Board certification"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "secondary-heading",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "Certified Front-End Developer (CFED)"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "secondary-education-row",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "secondary-heading",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "h6",
+                                  "attributes": {},
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Field of expertise"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "secondary-heading",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "Web Development, Responsive Design, JavaScript Frameworks"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "secondary-education-row",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "secondary-heading",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "h6",
+                                  "attributes": {},
+                                  "variant": null,
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "Years of practice\n"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "secondary-heading",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "10"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "secondary-shifts",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {},
+                      "variant": "secondary-inner",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "secondary-heading",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "h3",
+                              "attributes": {},
+                              "variant": null,
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "Working Shifts"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "secondary-shift-grid",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "secondary-inner",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "div",
+                                  "attributes": {},
+                                  "variant": "secondary-shift",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "element",
+                                      "tag": "h6",
+                                      "attributes": {},
+                                      "variant": null,
+                                      "children": [
+                                        {
+                                          "type": "text",
+                                          "text": "Monday"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "element",
+                                      "tag": "div",
+                                      "attributes": {},
+                                      "variant": "secondary-shift-description",
+                                      "children": [
+                                        {
+                                          "type": "text",
+                                          "text": "-"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": " "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "div",
+                                  "attributes": {},
+                                  "variant": "secondary-shift",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "element",
+                                      "tag": "h6",
+                                      "attributes": {},
+                                      "variant": null,
+                                      "children": [
+                                        {
+                                          "type": "text",
+                                          "text": "Tuesday"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "element",
+                                      "tag": "div",
+                                      "attributes": {},
+                                      "variant": "secondary-shift-description",
+                                      "children": [
+                                        {
+                                          "type": "text",
+                                          "text": "9:00-14:00"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": " "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "div",
+                                  "attributes": {},
+                                  "variant": "secondary-shift",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "element",
+                                      "tag": "h6",
+                                      "attributes": {},
+                                      "variant": null,
+                                      "children": [
+                                        {
+                                          "type": "text",
+                                          "text": "Wednesday"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "element",
+                                      "tag": "div",
+                                      "attributes": {},
+                                      "variant": "secondary-shift-description",
+                                      "children": [
+                                        {
+                                          "type": "text",
+                                          "text": "-"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": " "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        },
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "secondary-shift-grid",
+                          "children": [
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            },
+                            {
+                              "type": "element",
+                              "tag": "div",
+                              "attributes": {},
+                              "variant": "secondary-inner",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "div",
+                                  "attributes": {},
+                                  "variant": "secondary-shift",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "element",
+                                      "tag": "h6",
+                                      "attributes": {},
+                                      "variant": null,
+                                      "children": [
+                                        {
+                                          "type": "text",
+                                          "text": "Thursday"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "element",
+                                      "tag": "div",
+                                      "attributes": {},
+                                      "variant": "secondary-shift-description",
+                                      "children": [
+                                        {
+                                          "type": "text",
+                                          "text": "9:00-14:00"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": " "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "div",
+                                  "attributes": {},
+                                  "variant": "secondary-shift",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "element",
+                                      "tag": "h6",
+                                      "attributes": {},
+                                      "variant": null,
+                                      "children": [
+                                        {
+                                          "type": "text",
+                                          "text": "Friday"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "element",
+                                      "tag": "div",
+                                      "attributes": {},
+                                      "variant": "secondary-shift-description",
+                                      "children": [
+                                        {
+                                          "type": "text",
+                                          "text": "-"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": " "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "div",
+                                  "attributes": {},
+                                  "variant": "secondary-shift",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "element",
+                                      "tag": "h6",
+                                      "attributes": {},
+                                      "variant": null,
+                                      "children": [
+                                        {
+                                          "type": "text",
+                                          "text": "Saturday"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "element",
+                                      "tag": "div",
+                                      "attributes": {},
+                                      "variant": "secondary-shift-description",
+                                      "children": [
+                                        {
+                                          "type": "text",
+                                          "text": "9:00-14:00"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": " "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "\n"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "\n"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "secondary-heading",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "h3",
+                      "attributes": {},
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Author’s Articles"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "element",
+                  "tag": "div",
+                  "attributes": {},
+                  "variant": "secondary-articles",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "div",
+                      "attributes": {
+                        "id": "cmsmasters-slider-b1b1115"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "div",
+                          "attributes": {},
+                          "variant": "secondary-article-carousel",
+                          "children": [
+                            {
+                              "type": "element",
+                              "tag": "article",
+                              "attributes": {
+                                "id": "post-58179"
+                              },
+                              "variant": "listing-blog-card",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "div",
+                                  "attributes": {},
+                                  "variant": "listing-blog-image",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "element",
+                                      "tag": "a",
+                                      "attributes": {
+                                        "href": "/nalk-solution-provides-best-web-development-services-in-islamabad/",
+                                        "aria-label": "Featured Image"
+                                      },
+                                      "variant": null,
+                                      "children": [
+                                        {
+                                          "type": "element",
+                                          "tag": "img",
+                                          "attributes": {
+                                            "src": "/wp-content/uploads/2026/02/Best-Web-Development-Services-in-Islamabad.jpg-300x157.jpeg",
+                                            "alt": "",
+                                            "width": "300",
+                                            "height": "157",
+                                            "srcset": "/wp-content/uploads/2026/02/Best-Web-Development-Services-in-Islamabad.jpg-300x157.jpeg 300w, /wp-content/uploads/2026/02/Best-Web-Development-Services-in-Islamabad.jpg-1024x536.jpeg 1024w, /wp-content/uploads/2026/02/Best-Web-Development-Services-in-Islamabad.jpg-768x402.jpeg 768w, /wp-content/uploads/2026/02/Best-Web-Development-Services-in-Islamabad.jpg-1536x804.jpeg 1536w, /wp-content/uploads/2026/02/Best-Web-Development-Services-in-Islamabad.jpg-2048x1072.jpeg 2048w, /wp-content/uploads/2026/02/Best-Web-Development-Services-in-Islamabad.jpg-573x300.jpeg 573w",
+                                            "sizes": "(max-width: 300px) 100vw, 300px"
+                                          },
+                                          "variant": null,
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": " "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "div",
+                                  "attributes": {},
+                                  "variant": "listing-blog-copy",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "element",
+                                      "tag": "div",
+                                      "attributes": {},
+                                      "variant": "listing-blog-meta",
+                                      "children": [
+                                        {
+                                          "type": "text",
+                                          "text": "\n"
+                                        },
+                                        {
+                                          "type": "element",
+                                          "tag": "div",
+                                          "attributes": {},
+                                          "variant": "listing-taxonomy",
+                                          "children": [
+                                            {
+                                              "type": "text",
+                                              "text": "\n"
+                                            },
+                                            {
+                                              "type": "text",
+                                              "text": "\n"
+                                            },
+                                            {
+                                              "type": "text",
+                                              "text": "\n"
+                                            },
+                                            {
+                                              "type": "element",
+                                              "tag": "a",
+                                              "attributes": {
+                                                "href": "/category/uncategorized/",
+                                                "rel": "category tag"
+                                              },
+                                              "variant": null,
+                                              "children": [
+                                                {
+                                                  "type": "text",
+                                                  "text": "Uncategorized"
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "type": "text",
+                                              "text": " "
+                                            },
+                                            {
+                                              "type": "text",
+                                              "text": "\n"
+                                            },
+                                            {
+                                              "type": "text",
+                                              "text": "\n"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "type": "text",
+                                          "text": "\n"
+                                        },
+                                        {
+                                          "type": "element",
+                                          "tag": "div",
+                                          "attributes": {},
+                                          "variant": "listing-date",
+                                          "children": [
+                                            {
+                                              "type": "text",
+                                              "text": "\n"
+                                            },
+                                            {
+                                              "type": "text",
+                                              "text": "\n"
+                                            },
+                                            {
+                                              "type": "text",
+                                              "text": "\n"
+                                            },
+                                            {
+                                              "type": "text",
+                                              "text": "February 20, 2026"
+                                            },
+                                            {
+                                              "type": "text",
+                                              "text": " "
+                                            },
+                                            {
+                                              "type": "text",
+                                              "text": "\n"
+                                            },
+                                            {
+                                              "type": "text",
+                                              "text": "\n"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "type": "text",
+                                          "text": "\n"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "element",
+                                      "tag": "div",
+                                      "attributes": {},
+                                      "variant": "listing-divider",
+                                      "children": [
+                                        {
+                                          "type": "text",
+                                          "text": "\n"
+                                        },
+                                        {
+                                          "type": "text",
+                                          "text": "\n"
+                                        },
+                                        {
+                                          "type": "text",
+                                          "text": "\n"
+                                        },
+                                        {
+                                          "type": "text",
+                                          "text": "\n"
+                                        },
+                                        {
+                                          "type": "text",
+                                          "text": "\n"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "element",
+                                      "tag": "div",
+                                      "attributes": {},
+                                      "variant": "listing-card-title",
+                                      "children": [
+                                        {
+                                          "type": "text",
+                                          "text": "\n"
+                                        },
+                                        {
+                                          "type": "element",
+                                          "tag": "h4",
+                                          "attributes": {},
+                                          "variant": null,
+                                          "children": [
+                                            {
+                                              "type": "element",
+                                              "tag": "a",
+                                              "attributes": {
+                                                "href": "/nalk-solution-provides-best-web-development-services-in-islamabad/"
+                                              },
+                                              "variant": null,
+                                              "children": [
+                                                {
+                                                  "type": "text",
+                                                  "text": "Nalk Solutions Provides Best Web Development Services in Islamabad"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "type": "text",
+                                          "text": " "
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "element",
+                                      "tag": "div",
+                                      "attributes": {},
+                                      "variant": "listing-action",
+                                      "children": [
+                                        {
+                                          "type": "text",
+                                          "text": "\n"
+                                        },
+                                        {
+                                          "type": "element",
+                                          "tag": "a",
+                                          "attributes": {
+                                            "href": "/nalk-solution-provides-best-web-development-services-in-islamabad/"
+                                          },
+                                          "variant": "listing-read-more",
+                                          "children": [
+                                            {
+                                              "type": "element",
+                                              "tag": "span",
+                                              "attributes": {},
+                                              "variant": "listing-arrow",
+                                              "children": []
+                                            },
+                                            {
+                                              "type": "text",
+                                              "text": "Read More"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "type": "text",
+                                          "text": " "
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "tag": "article",
+                              "attributes": {
+                                "id": "post-58191"
+                              },
+                              "variant": "listing-blog-card",
+                              "children": [
+                                {
+                                  "type": "text",
+                                  "text": " "
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "div",
+                                  "attributes": {},
+                                  "variant": "listing-blog-image",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "element",
+                                      "tag": "a",
+                                      "attributes": {
+                                        "href": "/nalk-solution-offers-smart-business-portals-in-islamabad/",
+                                        "aria-label": "Featured Image"
+                                      },
+                                      "variant": null,
+                                      "children": [
+                                        {
+                                          "type": "element",
+                                          "tag": "img",
+                                          "attributes": {
+                                            "src": "/wp-content/uploads/2026/02/cover1-300x157.png",
+                                            "alt": "",
+                                            "width": "300",
+                                            "height": "157",
+                                            "srcset": "/wp-content/uploads/2026/02/cover1-300x157.png 300w, /wp-content/uploads/2026/02/cover1-1024x536.png 1024w, /wp-content/uploads/2026/02/cover1-768x402.png 768w, /wp-content/uploads/2026/02/cover1-573x300.png 573w, /wp-content/uploads/2026/02/cover1.png 1200w",
+                                            "sizes": "(max-width: 300px) 100vw, 300px"
+                                          },
+                                          "variant": null,
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": " "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "element",
+                                  "tag": "div",
+                                  "attributes": {},
+                                  "variant": "listing-blog-copy",
+                                  "children": [
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "element",
+                                      "tag": "div",
+                                      "attributes": {},
+                                      "variant": "listing-blog-meta",
+                                      "children": [
+                                        {
+                                          "type": "text",
+                                          "text": "\n"
+                                        },
+                                        {
+                                          "type": "element",
+                                          "tag": "div",
+                                          "attributes": {},
+                                          "variant": "listing-taxonomy",
+                                          "children": [
+                                            {
+                                              "type": "text",
+                                              "text": "\n"
+                                            },
+                                            {
+                                              "type": "text",
+                                              "text": "\n"
+                                            },
+                                            {
+                                              "type": "text",
+                                              "text": "\n"
+                                            },
+                                            {
+                                              "type": "element",
+                                              "tag": "a",
+                                              "attributes": {
+                                                "href": "/category/uncategorized/",
+                                                "rel": "category tag"
+                                              },
+                                              "variant": null,
+                                              "children": [
+                                                {
+                                                  "type": "text",
+                                                  "text": "Uncategorized"
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "type": "text",
+                                              "text": " "
+                                            },
+                                            {
+                                              "type": "text",
+                                              "text": "\n"
+                                            },
+                                            {
+                                              "type": "text",
+                                              "text": "\n"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "type": "text",
+                                          "text": "\n"
+                                        },
+                                        {
+                                          "type": "element",
+                                          "tag": "div",
+                                          "attributes": {},
+                                          "variant": "listing-date",
+                                          "children": [
+                                            {
+                                              "type": "text",
+                                              "text": "\n"
+                                            },
+                                            {
+                                              "type": "text",
+                                              "text": "\n"
+                                            },
+                                            {
+                                              "type": "text",
+                                              "text": "\n"
+                                            },
+                                            {
+                                              "type": "text",
+                                              "text": "February 23, 2026"
+                                            },
+                                            {
+                                              "type": "text",
+                                              "text": " "
+                                            },
+                                            {
+                                              "type": "text",
+                                              "text": "\n"
+                                            },
+                                            {
+                                              "type": "text",
+                                              "text": "\n"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "type": "text",
+                                          "text": "\n"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "element",
+                                      "tag": "div",
+                                      "attributes": {},
+                                      "variant": "listing-divider",
+                                      "children": [
+                                        {
+                                          "type": "text",
+                                          "text": "\n"
+                                        },
+                                        {
+                                          "type": "text",
+                                          "text": "\n"
+                                        },
+                                        {
+                                          "type": "text",
+                                          "text": "\n"
+                                        },
+                                        {
+                                          "type": "text",
+                                          "text": "\n"
+                                        },
+                                        {
+                                          "type": "text",
+                                          "text": "\n"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "element",
+                                      "tag": "div",
+                                      "attributes": {},
+                                      "variant": "listing-card-title",
+                                      "children": [
+                                        {
+                                          "type": "text",
+                                          "text": "\n"
+                                        },
+                                        {
+                                          "type": "element",
+                                          "tag": "h4",
+                                          "attributes": {},
+                                          "variant": null,
+                                          "children": [
+                                            {
+                                              "type": "element",
+                                              "tag": "a",
+                                              "attributes": {
+                                                "href": "/nalk-solution-offers-smart-business-portals-in-islamabad/"
+                                              },
+                                              "variant": null,
+                                              "children": [
+                                                {
+                                                  "type": "text",
+                                                  "text": "Nalk Solutions Offers Smart Business Portals in Islamabad"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "type": "text",
+                                          "text": " "
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    },
+                                    {
+                                      "type": "element",
+                                      "tag": "div",
+                                      "attributes": {},
+                                      "variant": "listing-action",
+                                      "children": [
+                                        {
+                                          "type": "text",
+                                          "text": "\n"
+                                        },
+                                        {
+                                          "type": "element",
+                                          "tag": "a",
+                                          "attributes": {
+                                            "href": "/nalk-solution-offers-smart-business-portals-in-islamabad/"
+                                          },
+                                          "variant": "listing-read-more",
+                                          "children": [
+                                            {
+                                              "type": "element",
+                                              "tag": "span",
+                                              "attributes": {},
+                                              "variant": "listing-arrow",
+                                              "children": []
+                                            },
+                                            {
+                                              "type": "text",
+                                              "text": "Read More"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "type": "text",
+                                          "text": " "
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "\n"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "\n"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "div",
+      "attributes": {},
+      "variant": "secondary-adjacent",
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "div",
+          "attributes": {},
+          "variant": "secondary-inner",
+          "children": [
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            },
+            {
+              "type": "element",
+              "tag": "div",
+              "attributes": {},
+              "variant": "secondary-navigation",
+              "children": [
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attributes": {
+                    "href": "/cmsms_profile/daniel-foster/"
+                  },
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "element",
+                      "tag": "svg",
+                      "attributes": {
+                        "viewbox": "0 0 448 512"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "path",
+                          "attributes": {
+                            "d": "M257.5 445.1l-22.2 22.2c-9.4 9.4-24.6 9.4-33.9 0L7 273c-9.4-9.4-9.4-24.6 0-33.9L201.4 44.7c9.4-9.4 24.6-9.4 33.9 0l22.2 22.2c9.5 9.5 9.3 25-.4 34.3L136.6 216H424c13.3 0 24 10.7 24 24v32c0 13.3-10.7 24-24 24H136.6l120.5 114.8c9.8 9.3 10 24.8.4 34.3z"
+                          },
+                          "variant": null,
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "attributes": {},
+                      "variant": "secondary-sr-only",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Prev"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Daniel Foster"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "tag": "a",
+                  "attributes": {
+                    "href": "/cmsms_profile/ryan-chen/"
+                  },
+                  "variant": null,
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Ryan Chen"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "element",
+                      "tag": "svg",
+                      "attributes": {
+                        "viewbox": "0 0 448 512"
+                      },
+                      "variant": null,
+                      "children": [
+                        {
+                          "type": "element",
+                          "tag": "path",
+                          "attributes": {
+                            "d": "M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"
+                          },
+                          "variant": null,
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "tag": "span",
+                      "attributes": {},
+                      "variant": "secondary-sr-only",
+                      "children": [
+                        {
+                          "type": "text",
+                          "text": "Next"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "text",
+              "text": "\n"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    }
+  ],
+  "secondaryLayout": "profile"
+}

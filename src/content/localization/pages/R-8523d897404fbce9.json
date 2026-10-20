@@ -1,0 +1,263 @@
+{
+  "entityId": "R-8523d897404fbce9",
+  "path": "/ar/blog/",
+  "publication": {
+    "ready": true,
+    "acceptance": "ownerManaged"
+  },
+  "listing": {
+    "family": "blog",
+    "basePath": "/blog/",
+    "number": 1
+  },
+  "review": {
+    "status": "inReview",
+    "reviewer": null,
+    "approvedAt": null,
+    "translationRevision": "generated-listings-1",
+    "sourceInputs": [
+      {
+        "path": "src/content/site/pages.generated.json",
+        "sha256": "7cd8249a8f5b73200fb4c39193dc5469fa0cc595cc493904a611272606512429"
+      },
+      {
+        "path": "src/content/site/documents/R-8523d897404fbce9.json",
+        "sha256": "48f7670e48646b434ee5739e8c6dcba7b5a01ab7f49892616217b885947e2c93"
+      },
+      {
+        "path": "src/content/localization/listing-index.json",
+        "sha256": "9566dd2c16042f2dca2ed29001b2330e0a0aa8322ec23f272d18ea91ab4e8c05"
+      }
+    ]
+  },
+  "seo": {
+    "title": "المدونة | نالك سوليوشنز",
+    "description": "تصفّح مقالات نالك سوليوشنز بالعربية في التقنية وتطوير الأعمال والتسويق الرقمي."
+  },
+  "heading": "المدونة",
+  "blocks": {},
+  "imageAlts": {},
+  "issues": [],
+  "document": {
+    "nodes": [
+      {
+        "type": "text",
+        "text": ""
+      }
+    ]
+  },
+  "sourceSnapshot": {
+    "id": "R-8523d897404fbce9",
+    "sourceRouteId": "R-8523d897404fbce9",
+    "path": "/blog/",
+    "kind": "archive",
+    "locale": "en",
+    "status": "published",
+    "seo": {
+      "title": "Blog - Nalk Solutions",
+      "description": "Home/No breadcrumbs",
+      "canonical": "https://nalksolutions.com/blog/",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "googlebot": null,
+      "social": [
+        {
+          "property": "og:locale",
+          "content": "en_US"
+        },
+        {
+          "property": "og:type",
+          "content": "article"
+        },
+        {
+          "property": "og:title",
+          "content": "Blog - Nalk Solutions"
+        },
+        {
+          "property": "og:description",
+          "content": "Home/No breadcrumbs"
+        },
+        {
+          "property": "og:url",
+          "content": "https://nalksolutions.com/blog/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Nalk Solutions"
+        },
+        {
+          "property": "og:updated_time",
+          "content": "2026-03-25T07:02:04+00:00"
+        },
+        {
+          "property": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "property": "twitter:title",
+          "content": "Blog - Nalk Solutions"
+        },
+        {
+          "property": "twitter:description",
+          "content": "Home/No breadcrumbs"
+        },
+        {
+          "property": "twitter:label1",
+          "content": "Time to read"
+        },
+        {
+          "property": "twitter:data1",
+          "content": "Less than a minute"
+        }
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "Place",
+              "@id": "https://nalksolutions.com/#place",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              }
+            },
+            {
+              "@type": ["ProfessionalService", "Organization"],
+              "@id": "https://nalksolutions.com/#organization",
+              "name": "Nalk Solutions",
+              "url": "https://nalksolutions.com",
+              "email": "info@nalksolutions.com",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Jeddah, Makkah, Saudi Arabia",
+                "postalCode": "22230",
+                "addressCountry": "Pakistan"
+              },
+              "logo": {
+                "@type": "ImageObject",
+                "@id": "https://nalksolutions.com/#logo",
+                "url": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "contentUrl": "https://nalksolutions.com/wp-content/uploads/2026/07/Nalk-solutions-logo-in-black.png",
+                "caption": "Nalk Solutions",
+                "inLanguage": "en-US",
+                "width": "1563",
+                "height": "1563"
+              },
+              "openingHours": ["Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"],
+              "description": "Nalk provides Nalk Solutions is a technology company in Saudi Arabia; delivering digital marketing, web development, app development &amp; IT solutions across Riyadh, Jeddah and all major cities across the kingdom.",
+              "legalName": "uhj1984@yahoo.com",
+              "location": {
+                "@id": "https://nalksolutions.com/#place"
+              },
+              "image": {
+                "@id": "https://nalksolutions.com/#logo"
+              },
+              "telephone": "+966506000843"
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://nalksolutions.com/#website",
+              "url": "https://nalksolutions.com",
+              "name": "Nalk Solutions",
+              "publisher": {
+                "@id": "https://nalksolutions.com/#organization"
+              },
+              "inLanguage": "en-US"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://nalksolutions.com/blog/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": "1",
+                  "item": {
+                    "@id": "https://nalksolutions.com",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@type": "ListItem",
+                  "position": "2",
+                  "item": {
+                    "@id": "https://nalksolutions.com/blog/",
+                    "name": "Blog"
+                  }
+                }
+              ]
+            },
+            {
+              "@type": "WebPage",
+              "@id": "https://nalksolutions.com/blog/#webpage",
+              "url": "https://nalksolutions.com/blog/",
+              "name": "Blog - Nalk Solutions",
+              "datePublished": "2025-08-26T11:49:14+00:00",
+              "dateModified": "2026-03-25T07:02:04+00:00",
+              "isPartOf": {
+                "@id": "https://nalksolutions.com/#website"
+              },
+              "inLanguage": "en-US",
+              "breadcrumb": {
+                "@id": "https://nalksolutions.com/blog/#breadcrumb"
+              }
+            },
+            {
+              "@type": "Person",
+              "@id": "https://nalksolutions.com/blog/#author",
+              "name": "uhj1984@yahoo.com",
+              "image": {
+                "@type": "ImageObject",
+                "@id": "https://secure.gravatar.com/avatar/579a7bde0ace771a4bb782feeb83aba48d2b689bebee8d20b924c6b2991e04fa?s=96&amp;d=mm&amp;r=g",
+                "url": "https://secure.gravatar.com/avatar/579a7bde0ace771a4bb782feeb83aba48d2b689bebee8d20b924c6b2991e04fa?s=96&amp;d=mm&amp;r=g",
+                "caption": "uhj1984@yahoo.com",
+                "inLanguage": "en-US"
+              },
+              "sameAs": ["https://nalksolutions.com"],
+              "worksFor": {
+                "@id": "https://nalksolutions.com/#organization"
+              }
+            },
+            {
+              "@type": "Article",
+              "headline": "Blog - Nalk Solutions",
+              "datePublished": "2025-08-26T11:49:14+00:00",
+              "dateModified": "2026-03-25T07:02:04+00:00",
+              "author": {
+                "@id": "https://nalksolutions.com/blog/#author",
+                "name": "uhj1984@yahoo.com"
+              },
+              "publisher": {
+                "@id": "https://nalksolutions.com/#organization"
+              },
+              "description": "Home/No breadcrumbs",
+              "name": "Blog - Nalk Solutions",
+              "@id": "https://nalksolutions.com/blog/#richSnippet",
+              "isPartOf": {
+                "@id": "https://nalksolutions.com/blog/#webpage"
+              },
+              "inLanguage": "en-US",
+              "mainEntityOfPage": {
+                "@id": "https://nalksolutions.com/blog/#webpage"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "content": {
+      "heading": "Blog",
+      "paragraphs": ["Blog"],
+      "documentId": "R-8523d897404fbce9"
+    },
+    "provenance": {
+      "sourceHtml": "nalk-public-archive/html/source/blog-8523d897404fbce9.html",
+      "sourceSha256": "2585eccf53ba3100493bff0f5cac535b92f54f62b491e7c867c440456452906a",
+      "pageRecord": "nalk-public-archive/pages/blog-8523d897404fbce9.json",
+      "pageRecordSha256": "9e1c3e3f9703877ebdb2cec433336cddc5ed530330072dc7cbeec7c857662d1c",
+      "excerpt": false,
+      "headingFallback": false
+    }
+  }
+}

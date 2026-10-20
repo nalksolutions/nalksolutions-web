@@ -1,0 +1,630 @@
+[
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "1",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:11:\"author-page\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "2",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:4:\"cart\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "3",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:8:\"checkout\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "4",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:10:\"my-account\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "5",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:18:\"product-tag/sport/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "6",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:9:\"blog-page\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "https://nalksolutions.com/blog",
+    "header_code": "301",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "7",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:21:\"product/cms-notebook/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "8",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:19:\"product-tag/cotton/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "9",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:21:\"product-tag/ceramics/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "10",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:17:\"product-tag/sale/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "11",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:21:\"product-tag/bracelet/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "12",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:18:\"product-tag/print/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "13",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:18:\"product-tag/drink/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "14",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:29:\"product-category/accessories/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "15",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:21:\"surgical-instruments/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "16",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:25:\"product/training-t-shirt/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "17",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:27:\"product/mug-with-cms-print/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "18",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:25:\"product-category/clothes/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "19",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:25:\"product/cms-baseball-cap/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "20",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:35:\"wp-content/themes/softy-solutions/*\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "21",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:19:\"product-tag/energy/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "22",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:30:\"product/cms-silicone-bracelet/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "23",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:19:\"product-tag/office/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "24",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:21:\"product-tag/silicone/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "25",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:28:\"cmsms_profile/sara-thompson/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "26",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:24:\"cmsms_profile/ryan-chen/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "27",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:41:\"cmsms_profile_category/back-end-engineer/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "28",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:43:\"cmsms_profile_category/front-end-developer/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "29",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:44:\"cmsms_profile_category/full-stack-developer/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "30",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:46:\"cmsms_profile_category/ai-solutions-architect/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "31",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:33:\"cmsms_project_category/legaltech/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "32",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:30:\"cmsms_project_category/retail/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "33",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:34:\"cmsms_project_category/healthcare/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "34",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:38:\"cmsms_project_category/workplace-tech/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "35",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:34:\"cmsms_project_category/technology/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "36",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:38:\"cmsms_project_category/logistics-tech/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "",
+    "header_code": "410",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "37",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:56:\"choosing-the-right-tech-stack-for-your-software-project/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "https://nalksolutions.com/email-marketing-goals-and-objectives/",
+    "header_code": "301",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "38",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:40:\"services-digital-marketing-saudi-arabia/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "https://nalksolutions.com/services-digital-marketing/",
+    "header_code": "301",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "39",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:56:\"how-cloud-portals-are-revolutionizing-office-management/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "https://nalksolutions.com/b2c-marketing-automation-software/",
+    "header_code": "301",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "40",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:53:\"the-future-of-it-solutions-automating-local-industry/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "https://nalksolutions.com/edm-marketing-for-saudi-businesses/",
+    "header_code": "301",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "41",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:55:\"why-your-business-needs-a-professional-website-in-2026/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "https://nalksolutions.com/content-framework-template-2026/",
+    "header_code": "301",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "42",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:51:\"5-essential-features-for-modern-e-commerce-portals/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "https://nalksolutions.com/%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7%d9%84%d9%88%d9%8a%d8%a8-%d9%84%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9/",
+    "header_code": "301",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "43",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:44:\"how-to-build-a-web-app-from-scratch-in-2026/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "https://nalksolutions.com/how-to-build-a-web-app-from-scratch/",
+    "header_code": "301",
+    "status": "active"
+  },
+  {
+    "table": "wp_rank_math_redirections",
+    "id": "44",
+    "sources": "a:1:{i:0;a:3:{s:6:\"ignore\";s:0:\"\";s:7:\"pattern\";s:71:\"ما-هو-التسويق-الرقمي؟-الدليل-الشامل-لل/\";s:10:\"comparison\";s:5:\"exact\";}}",
+    "url_to": "https://nalksolutions.com/%d9%85%d8%a7-%d9%87%d9%88-%d8%a7%d9%84%d8%aa%d8%b3%d9%88%d9%8a%d9%82-%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%8a/",
+    "header_code": "301",
+    "status": "active"
+  },
+  {
+    "table": "wp_redirection_items",
+    "id": "1",
+    "url": "/contact-us/",
+    "action_data": "https://nalksolutions.com/contacts/",
+    "action_type": "url",
+    "action_code": "301",
+    "status": "enabled",
+    "regex": "0",
+    "match_type": "url",
+    "match_data": null
+  },
+  {
+    "table": "wp_redirection_items",
+    "id": "2",
+    "url": "/digital-marketing-services/",
+    "action_data": "https://nalksolutions.com/services/digital-marketing/",
+    "action_type": "url",
+    "action_code": "301",
+    "status": "enabled",
+    "regex": "0",
+    "match_type": "url",
+    "match_data": null
+  },
+  {
+    "table": "wp_redirection_items",
+    "id": "3",
+    "url": "/services-custom-web-development-saudi-arabia/",
+    "action_data": "https://nalksolutions.com/services-custom-website-development-saudi-arabia/",
+    "action_type": "url",
+    "action_code": "301",
+    "status": "enabled",
+    "regex": "0",
+    "match_type": "url",
+    "match_data": null
+  },
+  {
+    "table": "wp_redirection_items",
+    "id": "4",
+    "url": "/services/ai-accelerated-digital-solutions/",
+    "action_data": "https://nalksolutions.com/services-ai-automation-saudi-arabia/",
+    "action_type": "url",
+    "action_code": "301",
+    "status": "enabled",
+    "regex": "0",
+    "match_type": "url",
+    "match_data": null
+  },
+  {
+    "table": "wp_redirection_items",
+    "id": "5",
+    "url": "/services/cloud-architecture-devops/",
+    "action_data": "https://nalksolutions.com/services-cloud-portal-development-saudi-arabia/",
+    "action_type": "url",
+    "action_code": "301",
+    "status": "enabled",
+    "regex": "0",
+    "match_type": "url",
+    "match_data": null
+  },
+  {
+    "table": "wp_redirection_items",
+    "id": "6",
+    "url": "/services/custom-software-app-development/",
+    "action_data": "https://nalksolutions.com/services-custom-software-app-development-saudi-arabia/",
+    "action_type": "url",
+    "action_code": "301",
+    "status": "enabled",
+    "regex": "0",
+    "match_type": "url",
+    "match_data": null
+  },
+  {
+    "table": "wp_redirection_items",
+    "id": "7",
+    "url": "/services/web-development/",
+    "action_data": "https://nalksolutions.com/professional-website-development-company-in-saudi-arabia/",
+    "action_type": "url",
+    "action_code": "301",
+    "status": "enabled",
+    "regex": "0",
+    "match_type": "url",
+    "match_data": null
+  },
+  {
+    "table": "wp_redirection_items",
+    "id": "8",
+    "url": "/services/prototyping-ui-ux-design/",
+    "action_data": "https://nalksolutions.com/services-ui-ux-design-saudi-arabia/",
+    "action_type": "url",
+    "action_code": "301",
+    "status": "enabled",
+    "regex": "0",
+    "match_type": "url",
+    "match_data": null
+  },
+  {
+    "table": "wp_redirection_items",
+    "id": "9",
+    "url": "/services-google-ads-saudi-arabia/",
+    "action_data": "https://nalksolutions.com/social-media-marketing-services-in-saudi-arabia/",
+    "action_type": "url",
+    "action_code": "301",
+    "status": "enabled",
+    "regex": "0",
+    "match_type": "url",
+    "match_data": null
+  },
+  {
+    "table": "wp_redirection_items",
+    "id": "10",
+    "url": "/services/smm/",
+    "action_data": "https://nalksolutions.com/social-media-marketing-services-in-saudi-arabia/",
+    "action_type": "url",
+    "action_code": "301",
+    "status": "enabled",
+    "regex": "0",
+    "match_type": "url",
+    "match_data": null
+  },
+  {
+    "table": "wp_redirection_items",
+    "id": "11",
+    "url": "/services/digital-marketing/",
+    "action_data": "https://nalksolutions.com/services-digital-marketing-saudi-arabia/",
+    "action_type": "url",
+    "action_code": "301",
+    "status": "enabled",
+    "regex": "0",
+    "match_type": "url",
+    "match_data": null
+  },
+  {
+    "table": "wp_redirection_items",
+    "id": "12",
+    "url": "/services/startup-growth-consulting/",
+    "action_data": "https://nalksolutions.com/",
+    "action_type": "url",
+    "action_code": "301",
+    "status": "enabled",
+    "regex": "0",
+    "match_type": "url",
+    "match_data": null
+  },
+  {
+    "table": "wp_redirection_items",
+    "id": "13",
+    "url": "/services/graphic-designing/",
+    "action_data": "https://nalksolutions.com/services-digital-marketing-saudi-arabia/",
+    "action_type": "url",
+    "action_code": "301",
+    "status": "enabled",
+    "regex": "0",
+    "match_type": "url",
+    "match_data": null
+  },
+  {
+    "table": "wp_redirection_items",
+    "id": "14",
+    "url": "/arbic/",
+    "action_data": "https://nalksolutions.com/arabic/",
+    "action_type": "url",
+    "action_code": "301",
+    "status": "enabled",
+    "regex": "0",
+    "match_type": "url",
+    "match_data": null
+  },
+  {
+    "table": "wp_redirection_items",
+    "id": "15",
+    "url": "/impact-of-digital-marketing-on-business-success/",
+    "action_data": "https://nalksolutions.com/digital-marketing-for-professional-services/",
+    "action_type": "url",
+    "action_code": "301",
+    "status": "enabled",
+    "regex": "0",
+    "match_type": "url",
+    "match_data": null
+  },
+  {
+    "table": "wp_redirection_items",
+    "id": "16",
+    "url": "/overcoming-busin…th-digital-tools/",
+    "action_data": "https://nalksolutions.com/digital-channel-strategy-secrets-2026/",
+    "action_type": "url",
+    "action_code": "301",
+    "status": "enabled",
+    "regex": "0",
+    "match_type": "url",
+    "match_data": null
+  },
+  {
+    "table": "wp_redirection_items",
+    "id": "17",
+    "url": "/services-google-ads-saudi-arabia-2/",
+    "action_data": "https://nalksolutions.com/services-google-ads-saudi-arabia-2026/",
+    "action_type": "url",
+    "action_code": "301",
+    "status": "enabled",
+    "regex": "0",
+    "match_type": "url",
+    "match_data": null
+  },
+  {
+    "table": "wp_redirection_items",
+    "id": "18",
+    "url": "/content-marketing-vs-paid-ads-which-is-better/",
+    "action_data": "https://nalksolutions.com/virtual-marketing-2026-strategies/",
+    "action_type": "url",
+    "action_code": "301",
+    "status": "enabled",
+    "regex": "0",
+    "match_type": "url",
+    "match_data": null
+  },
+  {
+    "table": "wp_redirection_items",
+    "id": "19",
+    "url": "/building-customer-trust-via-social-media-branding/",
+    "action_data": "https://nalksolutions.com/12-types-of-digital-ads-that-drive-sales-2026/",
+    "action_type": "url",
+    "action_code": "301",
+    "status": "enabled",
+    "regex": "0",
+    "match_type": "url",
+    "match_data": null
+  },
+  {
+    "table": "wp_redirection_items",
+    "id": "20",
+    "url": "/common-cybersecu…small-businesses/ ‎",
+    "action_data": "https://nalksolutions.com/12-types-of-digital-ads-that-drive-sales-2026/",
+    "action_type": "url",
+    "action_code": "301",
+    "status": "enabled",
+    "regex": "0",
+    "match_type": "url",
+    "match_data": null
+  },
+  {
+    "table": "wp_redirection_items",
+    "id": "21",
+    "url": "/cloud-based-applications-as-the-new-normal/",
+    "action_data": "https://nalksolutions.com/services-cloud-portal-development-saudi-arabia/",
+    "action_type": "url",
+    "action_code": "301",
+    "status": "enabled",
+    "regex": "0",
+    "match_type": "url",
+    "match_data": null
+  },
+  {
+    "table": "wp_redirection_items",
+    "id": "22",
+    "url": "/how-mobile-apps-improve-customer-loyalty-and-brand-trust/",
+    "action_data": "https://nalksolutions.com/services-custom-software-app-development-saudi-arabia/",
+    "action_type": "url",
+    "action_code": "301",
+    "status": "enabled",
+    "regex": "0",
+    "match_type": "url",
+    "match_data": null
+  },
+  {
+    "table": "wp_redirection_items",
+    "id": "23",
+    "url": "/what-is-digital-marketing-a-complete-guide-for-beginners-businesses/",
+    "action_data": "https://nalksolutions.com/digital-marketing-for-professional-services/",
+    "action_type": "url",
+    "action_code": "301",
+    "status": "enabled",
+    "regex": "0",
+    "match_type": "url",
+    "match_data": null
+  }
+]

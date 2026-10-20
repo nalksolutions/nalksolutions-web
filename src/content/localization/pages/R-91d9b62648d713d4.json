@@ -1,0 +1,152 @@
+{
+  "entityId": "R-91d9b62648d713d4",
+  "path": "/ar/",
+  "review": {
+    "status": "inReview",
+    "reviewer": null,
+    "approvedAt": null,
+    "translationRevision": "pilot-1",
+    "sourceInputs": [
+      {
+        "path": "src/content/site/pages.generated.json",
+        "sha256": "7cd8249a8f5b73200fb4c39193dc5469fa0cc595cc493904a611272606512429"
+      },
+      {
+        "path": "src/content/localization/copy/en.json",
+        "sha256": "a01819f3ffeb1e7a86dbedc94e06be20f412ca876d80cb2401dfc83b26269109"
+      }
+    ]
+  },
+  "seo": {
+    "title": "التقنية والتصميم والتسويق لأعمالك في السعودية | نالك سوليوشنز",
+    "description": "نحن نالك سوليوشنز، شركة تقنية وإبداعية تعمل مع الشركات في مختلف مناطق المملكة العربية السعودية."
+  },
+  "heading": "التقنية والتصميم والتسويق لأعمالك في السعودية",
+  "blocks": {},
+  "imageAlts": {},
+  "issues": [
+    "Rebuilt the legacy Arabic landing around the accepted current English Home composition; repeated offer/company summaries consolidated into their existing sections."
+  ],
+  "publication": {
+    "ready": true,
+    "acceptance": "ownerManaged"
+  },
+  "sourceSnapshot": {
+    "id": "R-91d9b62648d713d4",
+    "sourceRouteId": "R-91d9b62648d713d4",
+    "path": "/",
+    "kind": "marketing",
+    "locale": "en",
+    "status": "published",
+    "seo": {
+      "title": "Nalk Solutions | Technology, Design & Marketing in Saudi Arabia",
+      "description": "Nalk Solutions is a Saudi technology and creative company offering web and app development, digital marketing, SEO, and AI solutions across Riyadh, Jeddah and Dammam.",
+      "canonical": "https://nalksolutions.com/",
+      "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+      "googlebot": null,
+      "social": [
+        {
+          "property": "og:locale",
+          "content": "en_US"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:title",
+          "content": "Nalk Solutions: Homepage"
+        },
+        {
+          "property": "og:description",
+          "content": "We're Nalk Solution — a next-gen IT and creative company that blends technology, design, and strategy to build smarter digital experiences and stronger brands."
+        },
+        {
+          "property": "og:url",
+          "content": "https://nalksolutions.com/"
+        },
+        {
+          "property": "og:site_name",
+          "content": "Nalk Solutions"
+        },
+        {
+          "property": "og:updated_time",
+          "content": "2026-10-11T09:10:15+00:00"
+        },
+        {
+          "property": "og:image",
+          "content": "https://nalksolutions.com/wp-content/uploads/2026/02/cropped-Nalk-logo.png"
+        },
+        {
+          "property": "og:image:secure_url",
+          "content": "https://nalksolutions.com/wp-content/uploads/2026/02/cropped-Nalk-logo.png"
+        },
+        {
+          "property": "og:image:width",
+          "content": "512"
+        },
+        {
+          "property": "og:image:height",
+          "content": "512"
+        },
+        {
+          "property": "og:image:alt",
+          "content": "nalk solutions"
+        },
+        {
+          "property": "og:image:type",
+          "content": "image/png"
+        },
+        {
+          "property": "twitter:card",
+          "content": "summary_large_image"
+        },
+        {
+          "property": "twitter:title",
+          "content": "Nalk Solutions: Homepage"
+        },
+        {
+          "property": "twitter:description",
+          "content": "We're Nalk Solution — a next-gen IT and creative company that blends technology, design, and strategy to build smarter digital experiences and stronger brands."
+        },
+        {
+          "property": "twitter:image",
+          "content": "https://nalksolutions.com/wp-content/uploads/2026/02/cropped-Nalk-logo.png"
+        },
+        {
+          "property": "twitter:label1",
+          "content": "Written by"
+        },
+        {
+          "property": "twitter:data1",
+          "content": "uhj1984@yahoo.com"
+        },
+        {
+          "property": "twitter:label2",
+          "content": "Time to read"
+        },
+        {
+          "property": "twitter:data2",
+          "content": "5 minutes"
+        }
+      ],
+      "jsonLd": []
+    },
+    "content": {
+      "heading": "Technology, Design, and Marketing for Saudi Business",
+      "paragraphs": [
+        "We are Nalk Solutions, a technology and creative company that builds, grows, and scales businesses across the Kingdom. We bring together digital marketing, custom web and app development, and AI and automation so the whole of your digital presence is handled in one place rather than stitched together from five different vendors. We work with companies in Riyadh, Jeddah, and Dammam and the Eastern Province, building work that fits the local market and supports the wider push of Vision 2030.",
+        "Serving businesses in Riyadh, Jeddah, Dammam & across KSA — aligned with Vision 2030.",
+        "We are Nalk Solutions, a technology and creative company that builds, grows, and scales businesses across the Kingdom. We bring together digital marketing, custom web and app development, and AI and automation so your whole digital presence is handled in one place."
+      ]
+    },
+    "provenance": {
+      "sourceHtml": "nalk-public-archive/html/source/home-91d9b62648d713d4.html",
+      "sourceSha256": "8789da8393a2581c3d895bab3f51a765d627450dd9ce402867b9718fcd8cc3c3",
+      "pageRecord": "nalk-public-archive/pages/home-91d9b62648d713d4.json",
+      "pageRecordSha256": "7916beb1fee19cf40a5bdc0e0c68fb8cb8f64fdbdbd577fb7e801edce80d5019",
+      "excerpt": true,
+      "headingFallback": false
+    }
+  }
+}

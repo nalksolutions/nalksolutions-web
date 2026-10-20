@@ -1,0 +1,2571 @@
+{
+  "id": "R-b862c0c7f35eda96",
+  "path": "/how-process-automation-services-cut-operating-costs-in-saudi-arabia/",
+  "locale": "en",
+  "family": "article",
+  "nodes": [
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Process automation cuts operating costs by removing manual labour hours, eliminating error and rework, shortening cycle times, and consolidating software licences. Robotic process automation typically runs from $5,000 to $15,000 USD per bot for small and mid-sized businesses according to Deloitte, roughly SAR 19,000 to SAR 56,000 at the pegged exchange rate, with platform subscriptions starting around $420 to $750 USD per month. McKinsey estimates cost savings of 20% to 25% and a 200% return within the first year of deployment. Most Saudi businesses see payback within 12 months when they start with one high-volume process rather than automating everything at once."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Every business carries a quiet tax on its operations. Staff rekeying invoice data between systems. Approvals sitting in an inbox for three days. A finance team reconciling spreadsheets on the last Thursday of every month. Each task feels small. Added together across a year, they consume a significant share of your payroll and slow everything down."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Process automation removes that tax. This guide explains exactly how it cuts operating costs, what it costs to implement in Saudi Arabia, how to calculate your own return before you commit, and where the savings actually come from in manufacturing, services, construction, and customer operations."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "What is process automation, and how does it reduce operating costs?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Process automation is the use of software to execute business processes with minimal human intervention. Instead of a person moving work from one step to the next, the system routes it, validates it, records it, and escalates only the cases that genuinely need a decision."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "The cost reduction comes from four places. Labour hours return to higher-value work. Errors and the rework they cause disappear. Processes complete in minutes rather than days, which improves cash flow and capacity. And the software sprawl that accumulates around manual workarounds gets consolidated."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "There are three layers worth distinguishing, because they carry very different price tags. "
+        },
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Basic workflow automation"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " moves tasks between people and systems using fixed rules. "
+        },
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Robotic process automation (RPA)"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " mimics human actions across applications that lack proper integration. "
+        },
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Intelligent automation"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " adds AI so the system reads unstructured documents, makes judgment calls, and handles exceptions. Matching the layer to the problem is the single largest factor in whether automation pays for itself."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "How does business process automation contribute to cost reduction in an organisation?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Five mechanisms account for nearly all documented savings. Understanding which ones apply to you determines whether your business case holds."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Labour cost reduction and staff redeployment"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "The most direct saving. A process consuming 40 hours a month of staff time at a loaded cost of SAR 100 per hour represents SAR 48,000 a year. Automate 80% of it and that capacity returns to the business."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Worth framing honestly: in most Saudi implementations this means redeployment rather than redundancy. Your team stops rekeying data and starts handling the work that actually requires a person, which raises output without raising headcount."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Error elimination and the cost of rework"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Manual data entry carries an error rate. Every error triggers a correction cycle: someone notices it, someone investigates it, someone fixes it, and occasionally a customer is affected. The rework cost usually exceeds the original task cost by several times, and it rarely appears in any budget line, which is why it stays invisible until you measure it."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Automated processes execute identically every time. The error rate on structured, rule-based work approaches zero."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Faster cycle times and higher throughput"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "An invoice approved in two hours instead of four days improves supplier relationships and unlocks early payment discounts. An order processed immediately rather than the next morning ships a day sooner. Cycle time compression converts directly into working capital and capacity, and it costs nothing extra once the automation runs."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Software consolidation and licence elimination"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "This saving surprises most businesses. Manual processes accumulate tools around them: a spreadsheet here, a standalone tracker there, a subscription somebody bought to solve one problem three years ago. When you map a process properly before automating it, you routinely discover overlapping software that can be retired."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Consolidating onto a properly integrated system, connected through "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/services-api-integration-saudi-arabia/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "API integrations"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " rather than manual copy and paste, frequently eliminates several recurring subscriptions at once. Those licence savings often cover a meaningful share of the automation investment by themselves."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Compliance, audit, and reporting costs"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "For Saudi businesses this matters more than elsewhere. ZATCA e-invoicing and Fatoora compliance require accurate, traceable records. Manual compliance work is expensive and risky. Automated processes generate an audit trail as a by-product, which reduces both the labour of preparing for an audit and the exposure if something goes wrong."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "How much does process automation cost?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Costs vary by the layer of automation, the number of processes, and whether you build custom or licence a platform. Here are the current market benchmarks, with sources, followed by what actually drives your number."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "How much does robotic process automation cost?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "According to Deloitte, small and mid-sized businesses typically spend "
+        },
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "$5,000 to $15,000 USD per bot"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", roughly SAR 19,000 to SAR 56,000 at the pegged rate of 3.75. Enterprise programmes scale far beyond this: a full deployment of 500 or more bots can reach $20 million USD, though such programmes are also reported to generate savings in the region of $100 million."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Other market analysis puts simple bots handling basic tasks at "
+        },
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "$10,000 to $50,000 USD"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", with advanced bots carrying AI and machine learning capabilities ranging from "
+        },
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "$50,000 to $150,000 USD"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ". Process analysis and consulting before development typically adds "
+        },
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "$30,000 to $100,000 USD"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " on larger programmes."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "The spread is wide because “a bot” describes anything from a script that moves three fields between two systems to an intelligent agent handling an entire claims process."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Process automation cost per month"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Platform subscriptions give you the recurring picture:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "ul",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Microsoft Power Automate:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " around $15 USD per user per month for attended automation, rising to about $150 USD per month for the package including unattended automation"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "UiPath Pro:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " starting from approximately $420 USD per month"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Automation Anywhere cloud starter:"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " around $750 USD per month, with each additional attended bot at roughly $125 USD per month and each unattended bot at roughly $500 USD per month"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Implementation labour sits on top. RPA developers and consultants generally charge "
+        },
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "$150 to $250 USD per hour"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", with large consulting firms charging considerably more."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "One structural point worth knowing before you sign anything: licensing typically represents only about 30% of total automation cost. The remainder goes to implementation, integration, and ongoing operation. Budgets built on the licence quote alone consistently run over."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Pricing models are also shifting. Gartner expects 40% of enterprise software spend to move to usage or outcome-based models by 2030, which means a fixed per-bot quote increasingly fails to describe your actual bill. Ask any vendor how the price behaves at ten times your current volume."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "What drives process automation cost up or down"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Process complexity."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " A linear, rule-based process with structured data sits at the bottom of the range. A process spanning six systems with unstructured documents and frequent exceptions sits at the top."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Integration quality."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " If your systems expose clean APIs, integration is straightforward. If they require screen-level automation, cost and fragility both rise sharply. This is usually the largest hidden variable, and understanding "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/how-to-build-an-api-from-scratch-a-step-by-step-guide/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "how APIs work"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " helps you assess it before you commit."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Data quality."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Automation acting on messy data produces messy results at speed. Data cleanup is often a prerequisite rather than an optional extra."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Bilingual requirements."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Saudi processes frequently handle Arabic and English documents. Systems that read both correctly, including right-to-left text and Arabic OCR, require more capable tooling."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Build versus licence."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Off-the-shelf platforms carry recurring licence costs indefinitely. "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/services-custom-software-app-development-saudi-arabia/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Custom software"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " built around your specific process carries higher upfront cost and lower ongoing cost, and it makes sense where your process is genuinely distinctive."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Scale."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Infrastructure and access control become significant once automation spans departments, which is where a properly engineered "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/services-cloud-portal-development-saudi-arabia/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "cloud portal"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " keeps performance and permissions manageable."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "How to build your own process automation cost calculator"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "You can estimate your return before spending anything. Work through these five figures for one process:"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "ol",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Current annual cost."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Hours the process consumes per month, multiplied by the loaded hourly cost of the staff doing it, multiplied by 12."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Error and rework cost."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Estimated error rate, multiplied by the average cost of correcting one, multiplied by annual volume."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Software elimination."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Annual cost of any tools the automation makes redundant."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Implementation cost."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Setup, development, and integration, quoted as a one-off."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        },
+        {
+          "type": "element",
+          "tag": "li",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "element",
+              "tag": "strong",
+              "attributes": {},
+              "variant": null,
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Annual running cost."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " Licences, hosting, monitoring, and maintenance."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Then: "
+        },
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "annual saving equals items 1 to 3 combined, multiplied by the percentage of the process being automated, minus item 5."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Payback period equals item 4 divided by that annual saving."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "If the payback runs beyond 18 months on your first process, choose a different process. The first automation should prove value quickly enough to justify the second."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Process automation across Saudi industries"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Automation of production processes in manufacturing"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Manufacturing automation extends past the production line itself into everything surrounding it: quality inspection reporting, inventory reconciliation, supplier order processing, maintenance scheduling based on predicted failure rather than a fixed calendar, and production reporting that currently consumes supervisor hours. In Saudi manufacturing, where Vision 2030 industrial expansion is driving output, these surrounding processes frequently limit throughput more than machine capacity does."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Process automation strategy in services"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Service businesses automate the workflows that consume professional time without generating revenue: client onboarding, document collection, approval routing, timesheet and billing reconciliation, and reporting. The economics are compelling because the labour being freed is expensive. An hour returned to a consultant, engineer, or accountant carries a high hourly value."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Process automation in construction"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Construction carries heavy documentation and approval loads: subcontractor onboarding, permit and compliance tracking, progress reporting, variation orders, and payment certification. Each involves multiple parties and document handoffs. Automating the routing and record-keeping removes weeks of cumulative delay across a project, and delay in construction converts directly into cost."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Customer process automation"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Customer-facing processes offer the fastest visible return. A form submitted at midnight receives an immediate acknowledgement. Enquiries are classified and routed by intent rather than sitting in a shared inbox. Follow-up sequences run reliably instead of depending on someone remembering. This overlaps with "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/services-marketing-automation-saudi-arabia/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "marketing automation"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": ", and the two are usually built together because they share the same underlying data."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "How to build a process automation strategy that actually cuts costs"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Map the process as it truly runs."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Talk to the people doing the work, including the workarounds they never documented. Automating the policy version of a process rather than the real one is the most common cause of failure."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Measure the baseline before you start."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Hours, error rate, cycle time, and cost. Without these numbers, your saving remains an assertion rather than a result."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Simplify before automating."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Remove redundant approvals and unnecessary steps first. Automating a wasteful process simply produces waste faster."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Start with one high-volume, rule-heavy process."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Something measurable, where success is obvious in numbers. Invoice processing, approval routing, and onboarding are reliable starting points."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Define what stays human."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " High-value, regulated, or customer-sensitive decisions belong with a person reviewing them. Everything else can run autonomously."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Prove the return, then extend."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " One documented win builds more internal support than any presentation, and it earns the budget for the next process."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Plan for maintenance."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Systems change and integrations break. Automation is infrastructure requiring an owner, rather than a project with an end date."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Common mistakes that destroy automation ROI"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Automating a broken process."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Fix it first, otherwise you scale the dysfunction."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Starting with the hardest process."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Ambition here produces long timelines and no proof of value. Begin with the most winnable."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Skipping the baseline measurement."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Without before-numbers, you can never demonstrate the saving, which makes funding the next phase difficult."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Budgeting from the licence quote alone."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Licensing accounts for roughly 30% of total cost. The rest arrives regardless of whether you planned for it."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Treating it as an IT project."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Automation succeeds when the business owns the outcome and IT enables it."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Buying a platform before mapping a single process."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " This is how organisations end up with expensive software that nobody uses."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Frequently asked questions"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "How much does automation cost?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " It depends on the layer. Basic workflow automation can start in the low thousands of riyals. Robotic process automation typically runs $5,000 to $15,000 USD per bot for SMEs according to Deloitte, roughly SAR 19,000 to SAR 56,000. Intelligent automation with AI capabilities ranges considerably higher. Platform subscriptions start from about $15 USD per user per month for basic tools, rising to $420 to $750 USD per month for enterprise platforms."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "How much does robotic process automation cost?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Deloitte reports SMEs spending $5,000 to $15,000 USD per bot. Broader market analysis places simple bots at $10,000 to $50,000 USD and AI-enabled bots at $50,000 to $150,000 USD. Enterprise programmes of 500 or more bots can reach $20 million USD. Implementation labour typically adds $150 to $250 USD per hour of developer or consultant time."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "How much does robotic automation cost per month?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Recurring costs depend on the platform and bot count. Microsoft Power Automate starts around $15 USD per user per month, UiPath Pro from approximately $420 USD per month, and Automation Anywhere’s cloud starter around $750 USD per month, with additional bots at roughly $125 to $500 USD each per month. Remember that licensing represents only about 30% of total cost."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "How does business process automation contribute to cost reduction in an organisation?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Through five mechanisms: reducing labour hours spent on repetitive work, eliminating errors and the rework they cause, compressing cycle times to improve capacity and cash flow, consolidating redundant software licences, and lowering compliance and audit costs by generating automatic records."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "What is the ROI of process automation?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " McKinsey estimates cost savings of 20% to 25% with a 200% return in the first year of deployment. Deloitte research found the median payback period for RPA projects falls under 12 months. Results vary considerably by process selection, which is why choosing the right first process matters more than choosing the right platform."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Which processes should we automate first?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " High-volume, rule-based processes with structured data and a measurable cost. Invoice processing, approval routing, employee onboarding, and report generation are common starting points because the baseline is easy to measure and the saving is easy to prove."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Is process automation only for large enterprises?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " Small and mid-sized businesses often see proportionally larger gains, because automation gives a small team the capacity of a larger one without additional hiring. The difference lies in scope rather than suitability."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "strong",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "How long does implementation take?"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " A single well-scoped process typically takes from four to twelve weeks depending on complexity and integration requirements. Enterprise-wide programmes run considerably longer and should be delivered in stages, each proving its own return."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Ready to find out what automation would save your business?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Every business has processes quietly consuming hours that could be spent elsewhere. The first step is finding out which ones, and what they actually cost you today."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": "Our "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/services-ai-automation-saudi-arabia/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "AI and automation services"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " begin with exactly that: mapping the processes costing you time and money, calculating the realistic return, and building only what pays for itself. Whether that turns out to be a workflow, an integration, or "
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/services-custom-software-app-development-saudi-arabia/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "custom software"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " built around how you operate, the recommendation follows the numbers."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {
+        "dir": "ltr"
+      },
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/contacts/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Book a free consultation"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": " and we will map one process with you and show you what it costs to run manually today."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    }
+  ],
+  "article": {
+    "excerpt": "Process automation cuts operating costs by removing manual labour hours, eliminating error and rework, shortening cycle times, and consolidating software licences. Robotic process automation typically runs from $5,000 to $15,000 USD per bot for small and mid-sized businesses according to Deloitte, roughly SAR 19,000 to SAR 56,000 at the pegged exchange rate, with platform subscriptions …",
+    "dateLabel": "July 23, 2026",
+    "category": {
+      "label": "Custom Software & Apps",
+      "href": "/category/custom-software-apps/"
+    },
+    "additionalCategories": [],
+    "featured": {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/07/Blog-image-6-scaled.png",
+      "alt": "How Process Automation Services Cut Operating Costs",
+      "width": 2560,
+      "height": 1706,
+      "variants": [
+        {
+          "src": "/wp-content/uploads/2026/07/Blog-image-6-scaled.png",
+          "width": 2560
+        },
+        {
+          "src": "/wp-content/uploads/2026/07/Blog-image-6-300x200.png",
+          "width": 300
+        },
+        {
+          "src": "/wp-content/uploads/2026/07/Blog-image-6-1024x683.png",
+          "width": 1024
+        },
+        {
+          "src": "/wp-content/uploads/2026/07/Blog-image-6-768x512.png",
+          "width": 768
+        },
+        {
+          "src": "/wp-content/uploads/2026/07/Blog-image-6-1536x1024.png",
+          "width": 1536
+        },
+        {
+          "src": "/wp-content/uploads/2026/07/Blog-image-6-2048x1365.png",
+          "width": 2048
+        },
+        {
+          "src": "/wp-content/uploads/2026/07/Blog-image-6-18x12.png",
+          "width": 18
+        },
+        {
+          "src": "/wp-content/uploads/2026/07/Blog-image-6-450x300.png",
+          "width": 450
+        }
+      ],
+      "sizes": "(max-width: 2560px) 100vw, 2560px"
+    },
+    "adjacent": [
+      {
+        "label": "Previous Post",
+        "title": "What Is Intelligent Workflow Automation? A 2026 Guide",
+        "href": "/what-is-intelligent-workflow-automation/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/07/blog-image-2-1-150x150.png",
+          "alt": "What Is Intelligent Workflow Automation? A 2026 Guide",
+          "width": 150,
+          "height": 150,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/07/blog-image-2-1-150x150.png",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/blog-image-2-1-260x260.png",
+              "width": 260
+            }
+          ],
+          "sizes": "(max-width: 150px) 100vw, 150px"
+        }
+      },
+      {
+        "label": "Next Post",
+        "title": "تحسين جودة الفيديو لحملاتك التسويقية",
+        "href": "/%d8%aa%d8%ad%d8%b3%d9%8a%d9%86-%d8%ac%d9%88%d8%af%d8%a9-%d8%a7%d9%84%d9%81%d9%8a%d8%af%d9%8a%d9%88-%d9%84%d8%ad%d9%85%d9%84%d8%a7%d8%aa%d9%83-%d8%a7%d9%84%d8%aa%d8%b3%d9%88%d9%8a%d9%82%d9%8a%d8%a9/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/07/BLOG-IMAGE-9-150x150.png",
+          "alt": "تحسين جودة الفيديو لحملاتك التسويقية",
+          "width": 150,
+          "height": 150,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/07/BLOG-IMAGE-9-150x150.png",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/BLOG-IMAGE-9-260x260.png",
+              "width": 260
+            }
+          ],
+          "sizes": "(max-width: 150px) 100vw, 150px"
+        }
+      }
+    ],
+    "related": [
+      {
+        "title": "Social Media Marketing Cost in Saudi Arabia (2026 Guide)",
+        "href": "/social-media-marketing-cost-in-saudi-arabia/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2025/10/71-posts-placeholder-300x300.webp",
+          "alt": "",
+          "width": 300,
+          "height": 300,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-300x300.webp",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-100x100.webp",
+              "width": 100
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-600x600.webp",
+              "width": 600
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-150x150.webp",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-260x260.webp",
+              "width": 260
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder.webp",
+              "width": 768
+            }
+          ],
+          "sizes": "(max-width: 300px) 100vw, 300px"
+        },
+        "category": {
+          "label": "Digital Marketing Strategy & Fundamentals",
+          "href": "/category/digital-marketing-strategy/"
+        },
+        "dateLabel": "September 21, 2026",
+        "actionLabel": "Read More"
+      },
+      {
+        "title": "كيف يساعد الذكاء الاصطناعي الشركات في السعودية 2026 | نالك سوليوشنز",
+        "href": "/how-ai-helps-companies-in-saudi-arabia/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-300x200.jpeg",
+          "alt": "كيف يساعد الذكاء الاصطناعي الشركات في السعودية 2026 | نالك سوليوشنز",
+          "width": 300,
+          "height": 200,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-300x200.jpeg",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-1024x683.jpeg",
+              "width": 1024
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-768x512.jpeg",
+              "width": 768
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-18x12.jpeg",
+              "width": 18
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-450x300.jpeg",
+              "width": 450
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg.jpeg",
+              "width": 1536
+            }
+          ],
+          "sizes": "(max-width: 300px) 100vw, 300px"
+        },
+        "category": {
+          "label": "Custom Software & Apps",
+          "href": "/category/custom-software-apps/"
+        },
+        "dateLabel": "September 2, 2026",
+        "actionLabel": "Read More"
+      },
+      {
+        "title": "التسويق عبر سناب شات وتيك توك للشركات السعودية: الدليل الكامل 2026",
+        "href": "/snapchat-tiktok-marketing-saudi-businesses/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/08/blog-two-300x200.png",
+          "alt": "التسويق عبر سناب شات وتيك توك للشركات السعودية: الدليل الكامل 2026",
+          "width": 300,
+          "height": 200,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-300x200.png",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-1024x683.png",
+              "width": 1024
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-768x512.png",
+              "width": 768
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-18x12.png",
+              "width": 18
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-450x300.png",
+              "width": 450
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two.png",
+              "width": 1536
+            }
+          ],
+          "sizes": "(max-width: 300px) 100vw, 300px"
+        },
+        "category": {
+          "label": "Digital Marketing Strategy & Fundamentals",
+          "href": "/category/digital-marketing-strategy/"
+        },
+        "dateLabel": "August 26, 2026",
+        "actionLabel": "Read More"
+      }
+    ],
+    "footer": {
+      "owner": "NALK SOLUTIONS pvt Ltd",
+      "notice": "© 2026 - All Rights Reserved"
+    }
+  }
+}

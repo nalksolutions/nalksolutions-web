@@ -1,0 +1,2622 @@
+{
+  "id": "R-0e1cd105cb263493",
+  "path": "/how-to-hire-developers-for-your-startup/",
+  "locale": "en",
+  "family": "article",
+  "nodes": [
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "Hiring your first developers is one of the highest-stakes decisions a startup makes. Get it right and you ship fast, adapt quickly, and build something people want. Get it wrong and you burn months of runway on code you eventually throw away. In Saudi Arabia, that decision comes with its own set of factors that founders elsewhere never think about, from Saudization rules to a tech talent market that Vision 2030 has made both more exciting and more competitive."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "This guide walks through your real options, how to choose between them, what skills your startup actually needs, and how to evaluate developers so you don’t learn the hard way. It’s written for founders building in the Kingdom, whether you’re a first-time entrepreneur or scaling a funded startup."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "What are your options for hiring developers?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "There are three real paths, and most startups end up using a mix of them at different stages."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Hiring in-house employees."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " Full-time developers on your payroll. Maximum control and commitment, highest cost and commitment on your side too."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Working with freelancers."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " Individual contractors hired per project or per hour. Flexible and often cheaper up front, but harder to manage and less reliable for long-term work."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Partnering with a development agency."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " An external team that builds your product for you. Predictable, experienced, and fast to start, without the overhead of building a team yourself."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "None of these is universally best. The right choice depends on your stage, your budget, your timeline, and how technical your founding team already is. Let’s go through each."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Should you hire in-house developers?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "In-house hiring makes sense when software is the core of your business and you’ll be building continuously for years. A fintech or SaaS startup whose product is the code needs people who live inside it every day."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "The advantages are real: full control, deep product knowledge that compounds over time, and a team fully committed to your mission. But the costs are just as real, and in Saudi Arabia they include factors beyond salary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Total cost is higher than the salary suggests."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " Beyond pay, you carry benefits, equipment, recruitment costs, and the management time to lead a team. For an early startup, that’s a heavy fixed cost before you’ve validated the product."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Saudization applies."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " Saudi Arabia’s Saudization policies, known as Nitaqat, set targets for hiring Saudi nationals depending on your company size and sector. This shapes who you can hire and in what mix, so factor it into your hiring plan from the start rather than discovering it later."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "The talent market is competitive."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " Vision 2030 has driven enormous demand for developers, and demand has outpaced local supply. Strong engineers have options, which means recruiting and retaining them takes real effort and compensation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Hiring is slow."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " Building an in-house team of good developers can take months, which is time a startup racing to launch often doesn’t have."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "In-house is the right long-term answer for a software-first company, but it’s rarely the fastest or cheapest way to get your first version built."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Should you use freelancers?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "Freelancers fit well for specific, well-defined tasks, or for extending a team you already have. If you need one screen built, a bug fixed, or a short piece of work done, a good freelancer is efficient and affordable."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "Where freelancers struggle is ownership and continuity. A freelancer juggling several clients may not prioritize you, may disappear mid-project, and rarely takes responsibility for the product as a whole. Quality varies enormously, and vetting is entirely on you. For a core product that needs to be maintained and evolved for years, relying on a rotating cast of freelancers usually creates more problems than it solves."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "Use freelancers for defined, short-term work. Be cautious about building your entire product on them."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Should you work with a development agency?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "For most early-stage startups in Saudi Arabia, partnering with a development agency is the fastest way to get a real, functional product built without the cost and delay of hiring a team. You get an experienced group who have shipped products before, a predictable project scope and cost, and the ability to start almost immediately."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "A good agency brings more than code. It brings the judgment around what to build, how to build it safely, and how to keep it running, which is exactly the experience a first-time founder is missing. It also scales up and down with your needs, so you’re not carrying fixed salaries during quiet periods."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "This is where a team like"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Nalk Solutions"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " fits. We build"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/services-custom-software-app-development-saudi-arabia/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "custom software and mobile apps for businesses in Saudi Arabia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": ", handling everything from the initial architecture through launch and support, with the bilingual Arabic and English capability the local market needs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "The tradeoff to understand: an agency is a partner, not an employee, so you need a clear brief and good communication to get the best out of it. But for going from idea to launched product quickly and predictably, it’s often the smartest first move, with in-house hiring coming later once the product is proven and you’re building continuously."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "What skills and roles does your startup actually need?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "Before you hire anyone, know what you’re hiring for. Founders often ask for “a developer” when they actually need three different specialties. The core roles:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Frontend developers"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " build what users see and interact with: the screens, the design, the responsiveness. If you want to understand what this work involves, our guide on"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/how-to-build-a-web-app-from-scratch/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "how to build a web app from scratch"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " walks through the full process."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Backend developers"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " build the engine underneath: the database, the server logic, and the API that connects everything. The API is the backbone of almost every modern product, and our"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/how-to-build-an-api-from-scratch-a-step-by-step-guide/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "step-by-step guide to building an API from scratch"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " explains exactly what that layer does and why it matters."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Full-stack developers"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " handle both frontend and backend. For an early startup on a tight budget, a strong full-stack developer or a small full-stack team can cover a lot of ground efficiently."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Mobile developers"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " build iOS and Android apps. Worth noting: if your budget is tight, a"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/services-pwa-development-in-saudi-arabia/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Progressive Web App"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " can deliver an app-like experience across devices at a fraction of the cost of separate native apps, which is often the right first step for a startup testing the market."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Infrastructure and cloud"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " becomes important as you grow. If your product needs authenticated portals, dashboards, or systems that scale,"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/services-cloud-portal-development-saudi-arabia/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "cloud portal development"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " is the layer that keeps it fast and reliable under real usage."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "Match your hires to what you’re actually building. A simple mobile-first product needs different people than a data-heavy enterprise platform."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "How do you evaluate a developer’s technical skill?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "This is where non-technical founders feel most exposed, because it’s hard to judge something you don’t do yourself. A few reliable checks work regardless of your own technical depth."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Review real work, not just a CV."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " Ask for a portfolio of shipped products or a code repository. Visit the live products. Are they fast, clean, and working? Screenshots aren’t enough."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Check references from recent clients or employers."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " Ask specifically about reliability, communication, and how they handled problems, not just whether the work got done."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Use a practical technical test."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " A small, paid, real-world task tells you more than any interview. How they approach it, communicate, and deliver reveals how they’ll work with you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Watch how they communicate."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " A developer who can explain a technical decision in plain language, and who asks good questions about your business, is worth more than one who is brilliant but impossible to talk to."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "If you have no technical co-founder, consider bringing in a trusted technical advisor for the hiring decision, or lean toward an agency whose track record you can verify, rather than betting your runway on a judgment you can’t fully make."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Saudi-specific considerations"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "Hiring in the Kingdom carries factors that generic hiring advice ignores."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Saudization and Nitaqat"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " shape your in-house hiring mix, as covered above. Plan for it early."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Arabic and English matter."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " A product for the Saudi market needs to work in both languages, including right-to-left Arabic done properly. Developers and teams who understand this from the start save you painful rework later."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Local versus remote."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " Remote and nearshore developers can widen your talent pool and lower costs, but time zone overlap and communication discipline matter more than location. A remote team with strong async workflows often beats a local one without them."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "The Vision 2030 ecosystem"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " has created accelerators, funding, and government support for tech startups. Tapping into that ecosystem can help with both talent and growth, so it’s worth exploring alongside your hiring decision."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "What are the red flags when hiring developers?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "Some warning signs predict trouble more reliably than anything on a CV."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "No verifiable past work."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " If they can’t show you products they’ve shipped, be cautious."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Vague timelines or promises that sound too fast."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " Realistic developers give realistic estimates and explain their assumptions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Poor communication during hiring."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " How someone communicates while trying to win your business is the best version of how they’ll communicate once they have it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Unwillingness to do a small paid test."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " A confident developer will happily prove their skill on a real task."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Reluctance to discuss maintenance and support."
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " Building the product is half the job. Anyone who only wants to build and disappear is planning to leave you stranded."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "How much does it cost to hire developers in Saudi Arabia?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "Costs vary widely by seniority, specialization, and whether you hire locally, remotely, or through an agency, and market rates shift over time, so rather than quote figures that go stale, here’s how to think about the tradeoffs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "In-house"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " carries the highest total cost once you add salary, benefits, equipment, recruitment, and management time, plus the fixed commitment regardless of workload. "
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Freelancers"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " are variable and can be cheaper for defined tasks, but the hidden cost is management overhead and the risk of rework when quality is inconsistent. "
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Agencies"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " offer a predictable project cost with no ongoing salary burden, which for many early startups is the best value because you pay for a finished product, not a permanent overhead."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "Whatever path you choose, budget separately for maintenance and support after launch, since that is frequently left out of early plans and always arrives."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Frequently asked questions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "What is the best way to hire developers for a startup in Saudi Arabia?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " It depends on your stage. For getting a first product built quickly and predictably, a development agency is usually the smartest start. For a software-first company building continuously, in-house hiring becomes worth the cost and effort over time. Many startups use an agency first, then build in-house once the product is proven."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Should I hire local or remote developers?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "Both work. Local hiring helps with Saudization and in-person collaboration, while remote widens your talent pool and can lower cost. What matters most is communication discipline and time zone overlap, not location alone."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "What roles do I need for my first product?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " Most early products need frontend, backend, and often mobile skills. A strong full-stack developer or small full-stack team can cover a lot on a tight budget. Match the hires to what you’re actually building."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "How do I evaluate a developer if I’m not technical?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " Review shipped work on live products, check recent references, use a small paid technical test, and judge how clearly they communicate. If needed, bring in a technical advisor or choose an agency with a verifiable track record."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h3",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "Is it cheaper to build a web app or native mobile apps?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": " For a startup testing the market, a Progressive Web App often delivers an app-like experience across devices at a fraction of the cost of separate native iOS and Android apps, making it a smart first step."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h2",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "b",
+          "attributes": {},
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": "The bottom line"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "Hiring developers in Saudi Arabia is a strategic decision, not just a staffing one. Know what you’re building, match the hiring model to your stage, evaluate skill on real work rather than promises, and factor in the local realities of Saudization, language, and a competitive talent market."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": "For most early startups, the fastest and most predictable path from idea to launched product is partnering with an experienced team rather than racing to build one from scratch. If you’re at that stage and want a team that understands both the technology and the Saudi market,"
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "a",
+          "attributes": {
+            "href": "/services-custom-software-app-development-saudi-arabia/"
+          },
+          "variant": null,
+          "children": [
+            {
+              "type": "text",
+              "text": " "
+            },
+            {
+              "type": "element",
+              "tag": "span",
+              "attributes": {},
+              "variant": "regular",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "talk to us about your product"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "tag": "span",
+          "attributes": {},
+          "variant": "regular",
+          "children": [
+            {
+              "type": "text",
+              "text": ". We’ll help you figure out what to build, how to build it, and how to keep it running as you grow."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "h5",
+      "attributes": {},
+      "variant": null,
+      "children": []
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    },
+    {
+      "type": "element",
+      "tag": "p",
+      "attributes": {},
+      "variant": null,
+      "children": [
+        {
+          "type": "text",
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "text": "\n"
+    }
+  ],
+  "article": {
+    "excerpt": "Hiring your first developers is one of the highest-stakes decisions a startup makes. Get it right and you ship fast, adapt quickly, and build something people want. Get it wrong and you burn months of runway on code you eventually throw away. In Saudi Arabia, that decision comes with its own set of factors that …",
+    "dateLabel": "July 11, 2026",
+    "category": {
+      "label": "Custom Software & Apps",
+      "href": "/category/custom-software-apps/"
+    },
+    "additionalCategories": [],
+    "featured": {
+      "type": "image",
+      "src": "/wp-content/uploads/2026/07/blog-image-4-1-scaled.png",
+      "alt": "How to Hire Developers for Your Startup in Saudi Arabia",
+      "width": 2560,
+      "height": 1706,
+      "variants": [
+        {
+          "src": "/wp-content/uploads/2026/07/blog-image-4-1-scaled.png",
+          "width": 2560
+        },
+        {
+          "src": "/wp-content/uploads/2026/07/blog-image-4-1-300x200.png",
+          "width": 300
+        },
+        {
+          "src": "/wp-content/uploads/2026/07/blog-image-4-1-1024x682.png",
+          "width": 1024
+        },
+        {
+          "src": "/wp-content/uploads/2026/07/blog-image-4-1-768x512.png",
+          "width": 768
+        },
+        {
+          "src": "/wp-content/uploads/2026/07/blog-image-4-1-1536x1024.png",
+          "width": 1536
+        },
+        {
+          "src": "/wp-content/uploads/2026/07/blog-image-4-1-2048x1365.png",
+          "width": 2048
+        },
+        {
+          "src": "/wp-content/uploads/2026/07/blog-image-4-1-18x12.png",
+          "width": 18
+        },
+        {
+          "src": "/wp-content/uploads/2026/07/blog-image-4-1-450x300.png",
+          "width": 450
+        }
+      ],
+      "sizes": "(max-width: 2560px) 100vw, 2560px"
+    },
+    "adjacent": [
+      {
+        "label": "Previous Post",
+        "title": "How to Build an API from Scratch: A Step-by-Step Guide",
+        "href": "/how-to-build-an-api-from-scratch-a-step-by-step-guide/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/07/blog-image-API-6-150x150.png",
+          "alt": "",
+          "width": 150,
+          "height": 150,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/07/blog-image-API-6-150x150.png",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/blog-image-API-6-260x260.png",
+              "width": 260
+            }
+          ],
+          "sizes": "(max-width: 150px) 100vw, 150px"
+        }
+      },
+      {
+        "label": "Next Post",
+        "title": "ما هو التسويق الرقمي؟ الدليل الشامل للمبتدئين 2026",
+        "href": "/%d9%85%d8%a7-%d9%87%d9%88-%d8%a7%d9%84%d8%aa%d8%b3%d9%88%d9%8a%d9%82-%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%8a/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/07/ma-huwa-altasweeq-alraqami.webp-150x150.png",
+          "alt": "ما هو التسويق الرقمي؟ شرح مفهوم التسويق الرقمي مع القنوات الرقمية الرئيسية مثل SEO ووسائل التواصل الاجتماعي والإعلانات والبريد الإلكتروني.",
+          "width": 150,
+          "height": 150,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/07/ma-huwa-altasweeq-alraqami.webp-150x150.png",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/ma-huwa-altasweeq-alraqami.webp-300x300.png",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/ma-huwa-altasweeq-alraqami.webp-1024x1024.png",
+              "width": 1024
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/ma-huwa-altasweeq-alraqami.webp-768x768.png",
+              "width": 768
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/ma-huwa-altasweeq-alraqami.webp-12x12.png",
+              "width": 12
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/ma-huwa-altasweeq-alraqami.webp-260x260.png",
+              "width": 260
+            },
+            {
+              "src": "/wp-content/uploads/2026/07/ma-huwa-altasweeq-alraqami.webp.png",
+              "width": 1254
+            }
+          ],
+          "sizes": "(max-width: 150px) 100vw, 150px"
+        }
+      }
+    ],
+    "related": [
+      {
+        "title": "Social Media Marketing Cost in Saudi Arabia (2026 Guide)",
+        "href": "/social-media-marketing-cost-in-saudi-arabia/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2025/10/71-posts-placeholder-300x300.webp",
+          "alt": "",
+          "width": 300,
+          "height": 300,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-300x300.webp",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-100x100.webp",
+              "width": 100
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-600x600.webp",
+              "width": 600
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-150x150.webp",
+              "width": 150
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder-260x260.webp",
+              "width": 260
+            },
+            {
+              "src": "/wp-content/uploads/2025/10/71-posts-placeholder.webp",
+              "width": 768
+            }
+          ],
+          "sizes": "(max-width: 300px) 100vw, 300px"
+        },
+        "category": {
+          "label": "Digital Marketing Strategy & Fundamentals",
+          "href": "/category/digital-marketing-strategy/"
+        },
+        "dateLabel": "September 21, 2026",
+        "actionLabel": "Read More"
+      },
+      {
+        "title": "كيف يساعد الذكاء الاصطناعي الشركات في السعودية 2026 | نالك سوليوشنز",
+        "href": "/how-ai-helps-companies-in-saudi-arabia/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-300x200.jpeg",
+          "alt": "كيف يساعد الذكاء الاصطناعي الشركات في السعودية 2026 | نالك سوليوشنز",
+          "width": 300,
+          "height": 200,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-300x200.jpeg",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-1024x683.jpeg",
+              "width": 1024
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-768x512.jpeg",
+              "width": 768
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-18x12.jpeg",
+              "width": 18
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg-450x300.jpeg",
+              "width": 450
+            },
+            {
+              "src": "/wp-content/uploads/2026/09/blog-Image-Ai-.jpg.jpeg",
+              "width": 1536
+            }
+          ],
+          "sizes": "(max-width: 300px) 100vw, 300px"
+        },
+        "category": {
+          "label": "Custom Software & Apps",
+          "href": "/category/custom-software-apps/"
+        },
+        "dateLabel": "September 2, 2026",
+        "actionLabel": "Read More"
+      },
+      {
+        "title": "التسويق عبر سناب شات وتيك توك للشركات السعودية: الدليل الكامل 2026",
+        "href": "/snapchat-tiktok-marketing-saudi-businesses/",
+        "image": {
+          "type": "image",
+          "src": "/wp-content/uploads/2026/08/blog-two-300x200.png",
+          "alt": "التسويق عبر سناب شات وتيك توك للشركات السعودية: الدليل الكامل 2026",
+          "width": 300,
+          "height": 200,
+          "variants": [
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-300x200.png",
+              "width": 300
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-1024x683.png",
+              "width": 1024
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-768x512.png",
+              "width": 768
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-18x12.png",
+              "width": 18
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two-450x300.png",
+              "width": 450
+            },
+            {
+              "src": "/wp-content/uploads/2026/08/blog-two.png",
+              "width": 1536
+            }
+          ],
+          "sizes": "(max-width: 300px) 100vw, 300px"
+        },
+        "category": {
+          "label": "Digital Marketing Strategy & Fundamentals",
+          "href": "/category/digital-marketing-strategy/"
+        },
+        "dateLabel": "August 26, 2026",
+        "actionLabel": "Read More"
+      }
+    ],
+    "footer": {
+      "owner": "NALK SOLUTIONS pvt Ltd",
+      "notice": "© 2026 - All Rights Reserved"
+    }
+  }
+}

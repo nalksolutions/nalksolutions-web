@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "id": "AR-ca7dc49dbe42712a",
+      "sourceId": "R-ca7dc49dbe42712a",
+      "source": "/تحسين-جودة-الفيديو-لحملاتك-التسويقية/",
+      "entityId": "R-ca7dc49dbe42712a",
+      "target": "/ar/تحسين-جودة-الفيديو-لحملاتك-التسويقية/",
+      "status": 301,
+      "preserveQuery": true
+    },
+    {
+      "id": "AR-6bb40d0b6be521cf",
+      "sourceId": "R-6bb40d0b6be521cf",
+      "source": "/تسويق-رقمي/",
+      "entityId": "R-661faf9de8b4a219",
+      "target": "/ar/تسويق-رقمي/",
+      "status": 301,
+      "preserveQuery": true
+    },
+    {
+      "id": "AR-38a23850594a47d4",
+      "sourceId": "R-38a23850594a47d4",
+      "source": "/تصميم-وتطوير-المواقع/",
+      "entityId": "R-d37935eb53a2a5dd",
+      "target": "/ar/تصميم-وتطوير-المواقع/",
+      "status": 301,
+      "preserveQuery": true
+    },
+    {
+      "id": "AR-5e053fd003b0e1cd",
+      "sourceId": "R-5e053fd003b0e1cd",
+      "source": "/تطوير-الويب-للشركات-السعودية/",
+      "entityId": "R-5e053fd003b0e1cd",
+      "target": "/ar/تطوير-الويب-للشركات-السعودية/",
+      "status": 301,
+      "preserveQuery": true
+    },
+    {
+      "id": "AR-dbe0adc51c0b8222",
+      "sourceId": "R-dbe0adc51c0b8222",
+      "source": "/تطوير-تطبيقات-الجوال/",
+      "entityId": "R-dbe0adc51c0b8222",
+      "target": "/ar/تطوير-تطبيقات-الجوال/",
+      "status": 301,
+      "preserveQuery": true
+    },
+    {
+      "id": "AR-c8d9e9811ccf1b44",
+      "sourceId": "R-c8d9e9811ccf1b44",
+      "source": "/حلول-الذكاء-الاصطناعي/",
+      "entityId": "R-2ea04bcf8b41b11f",
+      "target": "/ar/حلول-الذكاء-الاصطناعي/",
+      "status": 301,
+      "preserveQuery": true
+    },
+    {
+      "id": "AR-6192607faaa0163f",
+      "sourceId": "R-6192607faaa0163f",
+      "source": "/خدمات-سيو/",
+      "entityId": "R-5246187dfd3b778b",
+      "target": "/ar/خدمات-سيو/",
+      "status": 301,
+      "preserveQuery": true
+    },
+    {
+      "id": "AR-0228afc3da0b3fbc",
+      "sourceId": "R-0228afc3da0b3fbc",
+      "source": "/دليل-إنشاء-وتصميم-موقع-إلكتروني-احترا/",
+      "entityId": "R-0228afc3da0b3fbc",
+      "target": "/ar/دليل-إنشاء-وتصميم-موقع-إلكتروني-احترا/",
+      "status": 301,
+      "preserveQuery": true
+    },
+    {
+      "id": "AR-56afdad51c5c96c4",
+      "sourceId": "R-56afdad51c5c96c4",
+      "source": "/شركة-تقنية/",
+      "entityId": "R-91d9b62648d713d4",
+      "target": "/ar/",
+      "status": 301,
+      "preserveQuery": true
+    },
+    {
+      "id": "AR-a7d871258750bc2a",
+      "sourceId": "R-a7d871258750bc2a",
+      "source": "/ما-هو-التسويق-الرقمي/",
+      "entityId": "R-a7d871258750bc2a",
+      "target": "/ar/ما-هو-التسويق-الرقمي/",
+      "status": 301,
+      "preserveQuery": true
+    },
+    {
+      "id": "AR-28383f03a97f634a",
+      "sourceId": "R-28383f03a97f634a",
+      "source": "/معنى-سيو-وأهميته-في-تحسين-محركات-البحث-2/",
+      "entityId": "R-28383f03a97f634a",
+      "target": "/ar/معنى-سيو-وأهميته-في-تحسين-محركات-البحث-2/",
+      "status": 301,
+      "preserveQuery": true
+    },
+    {
+      "id": "AR-50eccd34cb224821",
+      "sourceId": "R-50eccd34cb224821",
+      "source": "/how-ai-helps-companies-in-saudi-arabia/",
+      "entityId": "R-50eccd34cb224821",
+      "target": "/ar/how-ai-helps-companies-in-saudi-arabia/",
+      "status": 301,
+      "preserveQuery": true
+    },
+    {
+      "id": "AR-ce0d0de6c0b5a3c9",
+      "sourceId": "R-ce0d0de6c0b5a3c9",
+      "source": "/how-to-choose-mobile-app-development-company-saudi-arabia/",
+      "entityId": "R-ce0d0de6c0b5a3c9",
+      "target": "/ar/how-to-choose-mobile-app-development-company-saudi-arabia/",
+      "status": 301,
+      "preserveQuery": true
+    },
+    {
+      "id": "AR-36fc73d73032160c",
+      "sourceId": "R-36fc73d73032160c",
+      "source": "/snapchat-tiktok-marketing-saudi-businesses/",
+      "entityId": "R-36fc73d73032160c",
+      "target": "/ar/snapchat-tiktok-marketing-saudi-businesses/",
+      "status": 301,
+      "preserveQuery": true
+    }
+  ]
+}

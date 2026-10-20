@@ -1,0 +1,486 @@
+[
+  {
+    "id": "1c47626e",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "flex_gap": {
+        "unit": "px",
+        "size": 100,
+        "column": "100",
+        "row": "100",
+        "isLinked": true
+      },
+      "content_width": "full",
+      "flex_direction_tablet": "column",
+      "flex_gap_tablet": {
+        "column": "50",
+        "row": "50",
+        "isLinked": true,
+        "unit": "px",
+        "size": 50
+      },
+      "flex_gap_mobile": {
+        "column": "40",
+        "row": "40",
+        "isLinked": true,
+        "unit": "px",
+        "size": 40
+      },
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "40",
+        "isLinked": false
+      },
+      "padding_widescreen": {
+        "unit": "%",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "10",
+        "isLinked": false
+      },
+      "padding_tablet": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "30",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "20",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "4fcad879",
+        "elType": "container",
+        "settings": {
+          "flex_direction": "column",
+          "content_width": "full",
+          "width": {
+            "unit": "%",
+            "size": 35
+          },
+          "width_tablet": {
+            "unit": "%",
+            "size": 100,
+            "sizes": []
+          },
+          "width_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "flex_gap": {
+            "column": "39",
+            "row": "39",
+            "isLinked": true,
+            "unit": "px",
+            "size": 39
+          },
+          "flex_gap_tablet": {
+            "column": "30",
+            "row": "30",
+            "isLinked": true,
+            "unit": "px",
+            "size": 30
+          },
+          "padding": {
+            "unit": "px",
+            "top": "190",
+            "right": "0",
+            "bottom": "190",
+            "left": "0",
+            "isLinked": false
+          },
+          "padding_tablet": {
+            "unit": "px",
+            "top": "0",
+            "right": "30",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "20",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [
+          {
+            "id": "c7a0e16",
+            "elType": "widget",
+            "settings": {
+              "meta_fields": [
+                {
+                  "group_type_standard": "date",
+                  "_id": "e224480",
+                  "date_date_format_custom": "F j, Y",
+                  "time_time_format_custom": "g:i a",
+                  "group": "taxonomy",
+                  "group_type_taxonomy": "cmsms_project_category"
+                }
+              ],
+              "cmsmasters_ribbon_title": "New",
+              "__globals__": {
+                "typography_typography": "globals/typography?id=taxonomy",
+                "color_text_normal": "",
+                "taxonomy_bg_normal": "globals/colors?id=accent",
+                "taxonomy_bg_hover": "globals/colors?id=91278c9",
+                "color_link_hover": "globals/colors?id=secondary",
+                "typography_link_typography": "globals/typography?id=taxonomy",
+                "color_link_normal": "globals/colors?id=alternate",
+                "taxonomy_color_normal": "",
+                "taxonomy_color_hover": "",
+                "_background_color": "",
+                "_background_color_b": "globals/colors?id=accent",
+                "_background_hover_color": "globals/colors?id=ce4aeac",
+                "_background_hover_color_b": "globals/colors?id=91278c9"
+              },
+              "alignment": "left",
+              "separator_space_between": {
+                "unit": "px",
+                "size": 15,
+                "sizes": []
+              },
+              "separator_space_between_y": {
+                "unit": "px",
+                "size": 5,
+                "sizes": []
+              },
+              "_title": "Meta Data",
+              "typography_typography": "custom",
+              "typography_font_family": "Space Grotesk",
+              "typography_font_size": {
+                "unit": "px",
+                "size": "13",
+                "sizes": []
+              },
+              "typography_font_weight": "700",
+              "typography_text_transform": "uppercase",
+              "typography_font_style": "normal",
+              "typography_text_decoration": "none",
+              "typography_line_height": {
+                "unit": "em",
+                "size": "1.55",
+                "sizes": []
+              },
+              "typography_letter_spacing": {
+                "unit": "px",
+                "size": "0",
+                "sizes": []
+              },
+              "typography_word_spacing": {
+                "unit": "px",
+                "size": "0",
+                "sizes": []
+              },
+              "typography_link_typography": "custom",
+              "typography_link_font_family": "Space Grotesk",
+              "typography_link_font_size": {
+                "unit": "px",
+                "size": "13",
+                "sizes": []
+              },
+              "typography_link_font_weight": "700",
+              "typography_link_text_transform": "uppercase",
+              "typography_link_font_style": "normal",
+              "typography_link_text_decoration": "none",
+              "typography_link_line_height": {
+                "unit": "em",
+                "size": "1.55",
+                "sizes": []
+              },
+              "typography_link_letter_spacing": {
+                "unit": "px",
+                "size": "0",
+                "sizes": []
+              },
+              "typography_link_word_spacing": {
+                "unit": "px",
+                "size": "0",
+                "sizes": []
+              },
+              "alignment_tablet": "left",
+              "alignment_mobile": "left",
+              "_offset_x": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              },
+              "_offset_y": {
+                "unit": "px",
+                "size": 20,
+                "sizes": []
+              },
+              "_element_custom_width": {
+                "unit": "px",
+                "size": "",
+                "sizes": []
+              },
+              "_element_custom_width_widescreen": {
+                "unit": "px",
+                "size": ""
+              },
+              "_transform_scale_effect_hover": {
+                "unit": "px",
+                "size": 0.95,
+                "sizes": []
+              },
+              "_flex_align_self": "flex-start",
+              "_background_gradient_angle": {
+                "unit": "deg",
+                "size": 70,
+                "sizes": []
+              },
+              "_background_hover_background": "gradient",
+              "_background_hover_gradient_angle": {
+                "unit": "deg",
+                "size": 70,
+                "sizes": []
+              },
+              "_border_radius": {
+                "unit": "px",
+                "top": "30",
+                "right": "30",
+                "bottom": "30",
+                "left": "30",
+                "isLinked": true
+              },
+              "color_link_normal": "#101010",
+              "color_link_hover": "#FFFFFF",
+              "taxonomy_terms_border_radius": {
+                "unit": "px",
+                "size": 30,
+                "sizes": []
+              },
+              "taxonomy_padding": {
+                "unit": "px",
+                "top": "2",
+                "right": "10",
+                "bottom": "2",
+                "left": "10",
+                "isLinked": false
+              },
+              "_background_color_b": "#FFFBBD",
+              "_background_color_b_stop": {
+                "unit": "%",
+                "size": 70,
+                "sizes": []
+              },
+              "_background_hover_color": "#DD8716",
+              "_background_hover_color_b": "#FF4800",
+              "_background_hover_color_b_stop": {
+                "unit": "%",
+                "size": 70,
+                "sizes": []
+              },
+              "_animation": "cmsmasters-pop-in",
+              "pa_condition_repeater": [],
+              "premium_tooltip_text": "Hi, I'm a global tooltip.",
+              "premium_tooltip_position": "top,bottom"
+            },
+            "elements": [],
+            "widgetType": "cmsmasters-meta-data"
+          },
+          {
+            "id": "1c52b9ad",
+            "elType": "widget",
+            "settings": {
+              "__dynamic__": {
+                "title": "[elementor-tag id=\"\" name=\"cmsmasters-post-title\" settings=\"%7B%22before%22%3A%22%22%2C%22after%22%3A%22%22%2C%22fallback%22%3A%22%22%7D\"]",
+                "link": "[elementor-tag id=\"\" name=\"cmsmasters-post-url\" settings=\"%7B%7D\"]"
+              },
+              "title_tag": "h4",
+              "cmsmasters_ribbon_title": "New",
+              "__globals__": {
+                "title_typography_typography": "globals/typography?id=h3",
+                "title_color_hover": "globals/colors?id=accent",
+                "title_color_normal": "globals/colors?id=secondary"
+              },
+              "_animation": "cmsmasters-fade-in-up",
+              "_animation_delay": 100,
+              "title_link_switcher": "yes",
+              "pa_condition_repeater": [],
+              "premium_tooltip_text": "Hi, I'm a global tooltip.",
+              "premium_tooltip_position": "top,bottom"
+            },
+            "elements": [],
+            "widgetType": "cmsmasters-post-title"
+          },
+          {
+            "id": "731b8490",
+            "elType": "widget",
+            "settings": {
+              "__dynamic__": {
+                "content": "[elementor-tag id=\"\" name=\"cmsmasters-post-excerpt\" settings=\"%7B%22excerpt_length%22%3A250%2C%22full_excerpt%22%3A%22yes%22%2C%22use_content%22%3A%22yes%22%2C%22excerpt_more%22%3Afalse%2C%22excerpt_wrap%22%3Afalse%2C%22before%22%3A%22%22%2C%22after%22%3A%22%22%2C%22fallback%22%3A%22%22%7D\"]",
+                "no_content_excerpt": "[elementor-tag id=\"\" name=\"cmsmasters-post-excerpt\" settings=\"%7B%22excerpt_length%22%3A250%2C%22full_excerpt%22%3A%22yes%22%2C%22use_content%22%3Afalse%2C%22excerpt_more%22%3Afalse%2C%22excerpt_wrap%22%3Afalse%2C%22before%22%3A%22%22%2C%22after%22%3A%22%22%2C%22fallback%22%3A%22%22%7D\"]"
+              },
+              "line_clamp": "yes",
+              "line_clamp_count": 2,
+              "cmsmasters_ribbon_title": "New",
+              "__globals__": {
+                "color": "globals/colors?id=text",
+                "typography_typography": "globals/typography?id=tertiary"
+              },
+              "_animation": "cmsmasters-fade-in-up",
+              "_animation_delay": 200,
+              "pa_condition_repeater": [],
+              "premium_tooltip_text": "Hi, I'm a global tooltip.",
+              "premium_tooltip_position": "top,bottom"
+            },
+            "elements": [],
+            "widgetType": "cmsmasters-post-excerpt"
+          },
+          {
+            "id": "5578e576",
+            "elType": "widget",
+            "settings": {
+              "text": "See Project",
+              "link": {
+                "url": "#",
+                "is_external": "",
+                "nofollow": "",
+                "custom_attributes": ""
+              },
+              "selected_icon": {
+                "value": "cmsmsdemo-icon- cmsms-demo-icon-arrow-right",
+                "library": "cmsmasters-demo-icons"
+              },
+              "button_box_shadow_box_shadow_type": "yes",
+              "button_box_shadow_box_shadow": {
+                "horizontal": 0,
+                "vertical": 4,
+                "blur": 30,
+                "spread": 0,
+                "color": "rgba(255, 255, 255, 0.2)"
+              },
+              "button_border_border": "solid",
+              "button_border_width": {
+                "unit": "px",
+                "top": "1",
+                "right": "1",
+                "bottom": "1",
+                "left": "1",
+                "isLinked": true
+              },
+              "icon_size": {
+                "unit": "px",
+                "size": 12,
+                "sizes": []
+              },
+              "cmsmasters_ribbon_title": "New",
+              "__globals__": {
+                "button_border_color": "globals/colors?id=secondary",
+                "background_color": "",
+                "button_background_hover_color": "globals/colors?id=accent",
+                "button_hover_border_color": "globals/colors?id=accent"
+              },
+              "__dynamic__": {
+                "link": "[elementor-tag id=\"511a3f1\" name=\"cmsmasters-post-url\" settings=\"%7B%7D\"]"
+              },
+              "background_color": "#02020200",
+              "button_border_color": "#FFFFFF",
+              "button_background_hover_color": "#FFFBBD",
+              "_flex_align_self": "flex-start",
+              "_animation": "cmsmasters-pop-in",
+              "_animation_delay": 300,
+              "_transform_translate_popover_hover": "transform",
+              "_transform_translateX_effect_hover": {
+                "unit": "px",
+                "size": 5,
+                "sizes": []
+              },
+              "_transform_transition_hover": {
+                "unit": "px",
+                "size": 400,
+                "sizes": []
+              }
+            },
+            "elements": [],
+            "widgetType": "cmsmasters-button"
+          }
+        ],
+        "isInner": true
+      },
+      {
+        "id": "25bf2d07",
+        "elType": "container",
+        "settings": {
+          "flex_direction": "column",
+          "content_width": "full",
+          "width": {
+            "unit": "%",
+            "size": 65
+          },
+          "width_tablet": {
+            "unit": "%",
+            "size": 100,
+            "sizes": []
+          },
+          "width_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "min_height_tablet": {
+            "unit": "px",
+            "size": 470,
+            "sizes": []
+          },
+          "min_height_mobile": {
+            "unit": "px",
+            "size": 220,
+            "sizes": []
+          },
+          "html_tag": "a",
+          "background_background": "classic",
+          "background_position": "center center",
+          "background_repeat": "no-repeat",
+          "background_size": "cover",
+          "border_radius": {
+            "unit": "px",
+            "top": "20",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "__globals__": {
+            "background_color": "globals/colors?id=alternate"
+          },
+          "__dynamic__": {
+            "background_image": "[elementor-tag id=\"bfc6a87\" name=\"cmsmasters-post-featured-image\" settings=\"%7B%22fallback%22%3A%7B%22url%22%3A%22https%3A%2F%2Fsofty-solutions.cmsmasters.net%2Fdark-demo%2Fwp-content%2Fuploads%2Fsites%2F2%2F2025%2F08%2F71-posts-placeholder.webp%22%2C%22id%22%3A178%2C%22size%22%3A%22%22%2C%22alt%22%3A%22%22%2C%22source%22%3A%22library%22%7D%7D\"]",
+            "link": "[elementor-tag id=\"ea22916\" name=\"cmsmasters-post-url\" settings=\"%7B%7D\"]"
+          },
+          "box_shadow_hover_box_shadow_type": "yes",
+          "box_shadow_hover_box_shadow": {
+            "horizontal": 0,
+            "vertical": 4,
+            "blur": 50,
+            "spread": 0,
+            "color": "rgba(255, 255, 255, 0.2)"
+          },
+          "animation": "cmsmasters-fade-in-up"
+        },
+        "elements": [],
+        "isInner": true
+      }
+    ],
+    "isInner": false
+  }
+]

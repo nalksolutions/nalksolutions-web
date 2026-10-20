@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "provenance": {
+    "sqlFile": "nalksolutions.com_wordpress_backup/backup_2026-10-15-0738_Nalk_Solutions_0e754e1cbf1c-db.gz",
+    "sqlSha256": "8c6d92ea0a190810a14ae565c05f5b6984841e6fd825aaeeb6d3761922005d83",
+    "exportFile": "migration-review/redirect_rules.json",
+    "exportSha256": "4ef768cef5d68bcf4690f2ea3b0e53e9e3c81bb22bdc20fa0d6090e5660efacd",
+    "pluginSourceSha256": {
+      "plugins/seo-by-rank-math/includes/modules/redirections/class-redirection.php": "831721e800e47c9f2fab42c398143d89819ae6d0c97a577584f9fe8d0f7bf5ac",
+      "plugins/seo-by-rank-math/includes/modules/redirections/class-db.php": "b7215d9a732d3a952eb129cd72f183f6043c4b92afe397de085acb373166c7b9",
+      "plugins/redirection/includes/url/class-source-flags.php": "b835de1af3c367ee2a4a6d9875d321da297fdbe0f2547f5994436920cb4050b9",
+      "plugins/redirection/includes/url/class-path.php": "c13e6a7346fc7f92530134d6b002bcb105bcb38fbdaf6a5e551aa8a08cacab8c",
+      "plugins/redirection/includes/url/class-query.php": "a8de98408b63eecb54f65975364100f1348e990cfc7950c4912f9859f7e2e697"
+    }
+  },
+  "plugins": {
+    "wp_rank_math_redirections": {
+      "plugin": "rank-math",
+      "ignoreCase": false,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    },
+    "wp_redirection_items": {
+      "plugin": "redirection",
+      "ignoreCase": true,
+      "ignoreTrailingSlash": true,
+      "query": "exact"
+    }
+  }
+}

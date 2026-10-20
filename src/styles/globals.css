@@ -1,0 +1,57 @@
+@import 'tailwindcss' source(none);
+@import './marketing.css';
+@import './floating-shell.css';
+@import './header.css';
+@import './article.css';
+@import './content.css';
+@import './services.css';
+@import './company.css';
+@import './listings.css';
+@import './secondary.css';
+@import './interactions.css';
+@import './entrances.css';
+@import './journey.css';
+@import './layout.css';
+@import './contact.css';
+@import './topics.css';
+@import './footer.css';
+@import './service-layout.css';
+@import './arabic.css';
+@source '../app';
+@source '../components';
+
+@layer base {
+  body {
+    margin: 0;
+    background: #f8fafc;
+    color: #172033;
+    font-family: system-ui, sans-serif;
+    overflow-wrap: anywhere;
+  }
+  a {
+    color: #174bbb;
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+  }
+  :focus-visible {
+    outline: 3px solid #174bbb;
+    outline-offset: 4px;
+  }
+}
+
+.skip-link {
+  position: absolute;
+  top: 0.5rem;
+  inset-inline-start: 0.5rem;
+  padding: 0.75rem;
+  background: white;
+  transform: translateY(-200%);
+}
+.skip-link:focus {
+  transform: translateY(0);
+  z-index: 10;
+}
+
+[data-disclosure-body] {
+  display: flow-root;
+}
