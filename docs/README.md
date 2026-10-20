@@ -8,7 +8,9 @@ The owner's latest scope clarification is the active visitor-facing site reached
 
 Current work: [Arabic foundations and first content batches](page-reviews/arabic-foundation.md). The [service layout revision](page-reviews/service-layout-redesign.md), [service-area cards and accordion motion](page-reviews/service-cards-disclosures.md), [brand icon, Contact image and footer](page-reviews/brand-contact-footer.md), [section consistency, Contact and topic selection](page-reviews/ui-consistency-contact.md) and [unified-header engineering result](page-reviews/unified-header.md) remain historical design evidence. Arabic delivery uses focused checks before the final bilingual gate.
 
-Arabic phase: [implementation contract](14-arabic-localization.md), [ADR-0005](adr/0005-arabic-localization.md) and [current editorial/delivery record](page-reviews/arabic-foundation.md). Sanity, real form delivery and deployment remain separate; no native approval or whole-phase completion is claimed.
+Arabic phase: [implementation contract](14-arabic-localization.md), [ADR-0005](adr/0005-arabic-localization.md) and [current editorial/delivery record](page-reviews/arabic-foundation.md). No native approval or whole-phase completion is claimed.
+
+Contact delivery: [direct email implementation and setup](15-contact-email.md), requested October 21, 2026 for Vercel with Resend and no database. English/Arabic Contact now share a submission handler; real inbox delivery requires provider credentials/domain configuration. Sanity and deployment remain separate.
 
 ## Read in this order
 

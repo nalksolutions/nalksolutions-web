@@ -12,6 +12,11 @@ specialists, English article translations, utilities and final bilingual gate ar
 Language acceptance is handled internally without public review banners or a reviewer-nomination
 gate. See the [current delivery/editorial record](docs/page-reviews/arabic-foundation.md).
 
+The English and Arabic Contact pages now submit through a shared server email handler, using
+Resend and no database. Configure the verified sender, server key and Turnstile as described
+in [Contact email setup](docs/15-contact-email.md). Missing configuration returns a clear
+failure rather than simulated delivery; automated tests use an isolated local test transport.
+
 The approved reconstruction scope is the active visitor-facing site reached through the
 header/footer and their linked pages/subpages. The [scope audit](docs/chunks/12-active-navigation-scope.md)
 identifies 107 active content pages: 99 ordinary journeys and eight reached only through the

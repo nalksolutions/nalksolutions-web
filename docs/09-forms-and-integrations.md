@@ -2,6 +2,11 @@
 
 Status: implementation contracts. Real account configuration and delivery acceptance remain pending.
 
+October 21, 2026: the owner selected Vercel and direct Resend email delivery without a database.
+The English/Arabic Contact form implementation is documented in [Contact email](15-contact-email.md).
+That record governs this form's current fields, safeguards and setup; older unavailable-state
+records remain historical. Real provider/domain connection and inbox acceptance are still open.
+
 ## Integration inventory
 
 | Capability | Source evidence | Work required |
