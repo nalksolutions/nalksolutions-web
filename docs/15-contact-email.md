@@ -5,6 +5,12 @@ without a database. D-27 supersedes the earlier unavailable Contact form state. 
 content work continues independently; this change does not accept the entire bilingual site
 or authorize deployment.
 
+Subsequent owner direction, October 21: disable Turnstile for now. It defaults off on local
+and Vercel deployments. Existing Turnstile keys alone cannot activate it; no widget/script
+is rendered and no Cloudflare verification request is made while disabled. Email delivery
+requires only its Resend configuration. Origin checks, validation, honeypot and attempt limits
+remain enabled.
+
 ## Implemented flow
 
 The English `/contacts/` and Arabic `/ar/contacts/` pages share one form and one Node.js
@@ -19,7 +25,7 @@ new operation. Resend receives that UUID as an idempotency key. No automatic ret
 confirmation email is sent. A confirmed provider response produces the success state and
 clears the form. This confirms transport acceptance, not final inbox delivery.
 
-The Turnstile widget uses compact mode below its documented 300px flexible-width minimum.
+If explicitly re-enabled, the Turnstile widget uses compact mode below its documented 300px flexible-width minimum.
 Changing across that size boundary clears the old token and recreates the widget. Ordinary
 resizes within one mode retain it; navigation cleanup removes the widget and observer.
 
@@ -30,9 +36,9 @@ two-character minimum; message has a ten-character minimum. Arabic text, factual
 and meaningful message line breaks are preserved. Phone numbers are not restricted to one
 country. All email content is plaintext; client data cannot select recipients or sender.
 
-The API accepts only approved origins, checks the honeypot and verifies Turnstile on the
-server when configured. Hosted Vercel delivery requires both real Turnstile keys; partial
-configuration and hosted test transport fail closed. Origin matching is independent of Host
+The API accepts only approved origins and checks the honeypot. Optional Turnstile verification
+runs only with `CONTACT_TURNSTILE_ENABLED=true`, which requires both keys. Incomplete explicit
+opt-in and hosted test transport fail closed. Origin matching is independent of Host
 and forwarded-host headers. Only the exact authored API path bypasses page resolution;
 other reserved API paths stay unavailable. The endpoint has noindex/no-store responses.
 
@@ -67,15 +73,16 @@ Never commit credentials or expose the Resend/Turnstile secret using a public va
 | `RESEND_API_KEY`                 | Sending key from the owner's Resend account                                                      |
 | `CONTACT_EMAIL_FROM`             | A single raw email address on the verified sending domain, e.g. `forms@notify.nalksolutions.com` |
 | `CONTACT_EMAIL_TO`               | Intended inbox; defaults to `info@nalksolutions.com`                                             |
-| `NEXT_PUBLIC_TURNSTILE_SITE_KEY` | Public widget key, required with its secret on Vercel                                            |
-| `TURNSTILE_SECRET_KEY`           | Server verification secret                                                                       |
+| `CONTACT_TURNSTILE_ENABLED`      | `false` by default, including Vercel; set `true` only to explicitly restore Turnstile            |
+| `NEXT_PUBLIC_TURNSTILE_SITE_KEY` | Public widget key, used only with explicit Turnstile opt-in                                      |
+| `TURNSTILE_SECRET_KEY`           | Server verification secret, used only with explicit Turnstile opt-in                             |
 | `CONTACT_ALLOWED_ORIGINS`        | Optional comma-separated exact HTTPS origins without trailing slashes                            |
 
 The public root and www origins are allowed. The current deployment's `VERCEL_URL` is also
 allowed; arbitrary `*.vercel.app` origins are not. Add an owned branch alias explicitly when
-needed. Configure Turnstile hostnames to match each allowed form origin. Local HTTP loopback
-origins are allowed only outside hosted execution. Both Turnstile keys can be omitted locally
-for development; production verification cannot be bypassed this way on Vercel.
+needed. Local HTTP loopback origins are allowed only outside hosted execution. Turnstile keys
+are not needed while it is off. To restore it later, set the flag to `true`, configure both keys
+and configure widget hostnames to match each allowed form origin.
 
 Create and verify the sending domain in Resend, apply its supplied DNS records, then configure
 the sender and recipient. Visitor addresses are Reply-To addresses, never sending identities.
@@ -92,7 +99,7 @@ The application allows five attempts per ten minutes per observed client IP, wit
 1,000-entry in-memory map. This is a per-process safeguard and resets on cold starts. It is
 not a distributed Vercel quota. Before public launch, configure a Vercel Firewall rate-limit
 rule for `POST /api/contact/` (and the slashless equivalent if used), using the account's
-available controls. Turnstile remains the shared server-verified abuse check. Outside a
+available controls. Turnstile is currently disabled by owner direction. Outside a
 trusted hosting proxy, forwarded IP headers are not authoritative.
 
 Provider redirects are rejected and both upstream calls have explicit timeouts. Server events
@@ -121,8 +128,8 @@ and sets `APP_ENV=test`. This mode cannot operate on Vercel or under `APP_ENV=pr
 It performs no network email delivery and stores no submissions. Failure-state browser cases
 intercept only their intended API response; they do not mark a failed delivery as successful.
 
-Actual inbox delivery and the live Turnstile challenge still require the owner's account
-credentials and domain setup. No real email was sent during automated verification. Once
+Actual inbox delivery still requires the owner's Resend credentials and sending-domain
+setup. Turnstile setup is optional and currently disabled. No real email was sent during automated verification. Once
 configured, submit a controlled English and Arabic enquiry to the agreed inbox, verify the
 content and Reply-To, and record the result before public release. Test provider failures
 without sending repeated business notifications.
@@ -143,13 +150,19 @@ node tooling/run-browser-tests.mjs browser '--grep=Contact delivery:' --project=
 The bounded checks are recorded with actual outcomes in the ignored handoff manifest. The
 complete historic site suite was not rerun for this focused feature.
 
-October 21 verification: 93 unit tests in twelve files passed; lint, formatting, strict types
+Initial October 21 verification: 93 unit tests in twelve files passed; lint, formatting, strict types
 and the Webpack production build passed. The final HTTP selection passed seventy tests,
 including the actual Contact API, English/Arabic Contact content/SEO and all 67 original
 legacy rules. All sixteen Contact browser cases passed across Chromium desktop/320px,
 Firefox and WebKit, including the no-JavaScript fallback. The existing Home/Contact/Blog
 UI-polish smoke also passed. Frozen-evidence and build-trace checks passed; no real email
 or live Turnstile verification was performed. Reports remain under `tmp/contact-email/`.
+
+The subsequent Turnstile-off change passed 95 unit tests, strict types, lint, formatting,
+evidence validation and a production build. Two focused English/Arabic Chromium submission
+flows passed with an explicit assertion that no Cloudflare script is loaded. A hosted-handler
+unit test proves leftover keys do not require a token or cause a Cloudflare network call.
+These follow-up reports are under `tmp/contact-email/turnstile-off/`.
 
 ## Git history
 

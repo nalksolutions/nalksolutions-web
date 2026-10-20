@@ -40,7 +40,7 @@ export async function handleContact(request: Request): Promise<Response> {
     );
     return reply({ ok: false, code: 'invalid', fields }, 422);
   }
-  if (parsed.data.website) return reply({ ok: false, code: 'verification' }, 403);
+  if (parsed.data.website) return reply({ ok: false, code: 'invalid' }, 403);
   const config = contactConfig();
   if (!config) {
     console.error(JSON.stringify({ event: 'contact_unavailable', reference }));

@@ -107,6 +107,7 @@ test('Contact delivery: no-JavaScript fallback keeps email accessible and person
     for (const path of ['/contacts/', '/ar/contacts/']) {
       await page.goto(path);
       const form = page.locator('[data-contact-form]');
+      await expect(page.locator('script[src*="challenges.cloudflare.com"]')).toHaveCount(0);
       await expect(form.locator('fieldset')).toBeHidden();
       await expect(form.locator('.contact-email-alternative a')).toHaveAttribute(
         'href',

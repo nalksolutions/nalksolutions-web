@@ -12,7 +12,9 @@ export function isContactTest(env: Environment) {
 
 /** Return only the public widget key to the form; transport secrets stay on the server. */
 export function contactSiteKey(env: Environment = process.env): string | null {
-  return isContactTest(env) ? null : env.NEXT_PUBLIC_TURNSTILE_SITE_KEY?.trim() || null;
+  return env.CONTACT_TURNSTILE_ENABLED !== 'true' || isContactTest(env)
+    ? null
+    : env.NEXT_PUBLIC_TURNSTILE_SITE_KEY?.trim() || null;
 }
 
 export function allowedContactOrigin(origin: string | null, env: Environment): boolean {
@@ -52,6 +54,8 @@ const configSchema = z.object({
   to: mailbox,
 });
 export function contactConfig(env: Environment = process.env) {
+  if (env.CONTACT_TURNSTILE_ENABLED && !['true', 'false'].includes(env.CONTACT_TURNSTILE_ENABLED))
+    return null;
   if (env.CONTACT_EMAIL_MODE && !['resend', 'test'].includes(env.CONTACT_EMAIL_MODE)) return null;
   if (env.CONTACT_EMAIL_MODE === 'test')
     return isContactTest(env) ? { mode: 'test' as const, secret: null } : null;
@@ -61,10 +65,11 @@ export function contactConfig(env: Environment = process.env) {
     to: env.CONTACT_EMAIL_TO ?? 'info@nalksolutions.com',
   });
   if (!parsed.success) return null;
-  const secret = env.TURNSTILE_SECRET_KEY?.trim() || null;
+  const enabled = env.CONTACT_TURNSTILE_ENABLED === 'true';
+  const secret = enabled ? env.TURNSTILE_SECRET_KEY?.trim() || null : null;
   const siteKey = contactSiteKey(env);
-  // A partial widget setup cannot silently bypass server verification.
-  if (Boolean(secret) !== Boolean(siteKey) || (isHosted(env) && !secret)) return null;
+  // Disabled by owner direction. Explicit opt-in requires both keys in every environment.
+  if (enabled && (!secret || !siteKey)) return null;
   if (
     isHosted(env) &&
     (siteKey?.startsWith('1x') || siteKey?.startsWith('2x') || siteKey?.startsWith('3x'))

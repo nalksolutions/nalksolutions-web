@@ -13,7 +13,7 @@ Language acceptance is handled internally without public review banners or a rev
 gate. See the [current delivery/editorial record](docs/page-reviews/arabic-foundation.md).
 
 The English and Arabic Contact pages now submit through a shared server email handler, using
-Resend and no database. Configure the verified sender, server key and Turnstile as described
+Resend and no database. Turnstile is disabled by default. Configure the verified sender and server key as described
 in [Contact email setup](docs/15-contact-email.md). Missing configuration returns a clear
 failure rather than simulated delivery; automated tests use an isolated local test transport.
 

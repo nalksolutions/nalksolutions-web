@@ -1,7 +1,7 @@
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
 vi.mock('server-only', () => ({}));
 import { contactSubmission, readContactBody } from '../../src/lib/contact/validation';
-import { allowedContactOrigin, contactConfig } from '../../src/lib/contact/config';
+import { allowedContactOrigin, contactConfig, contactSiteKey } from '../../src/lib/contact/config';
 import { deliverContact, verifyContactChallenge } from '../../src/lib/contact/delivery';
 import { handleContact } from '../../src/lib/contact/handler';
 import { allowContactAttempt } from '../../src/lib/contact/rate-limit';
@@ -45,6 +45,7 @@ beforeEach(() => {
     'VERCEL',
     'VERCEL_URL',
     'CONTACT_ALLOWED_ORIGINS',
+    'CONTACT_TURNSTILE_ENABLED',
   ])
     vi.stubEnv(name, '');
   vi.spyOn(console, 'info').mockImplementation(() => {});
@@ -112,10 +113,37 @@ describe('contact validation and trust boundary', () => {
       expect(allowedContactOrigin(origin, hosted)).toBe(false);
     expect(allowedContactOrigin('http://127.0.0.1:3000', {})).toBe(true);
   });
-  it('fails closed for missing/partial hosted credentials and forbids hosted fake delivery', () => {
+  it('defaults Turnstile off even when hosted keys remain configured', () => {
+    const env = {
+      ...settings,
+      VERCEL: '1',
+      NEXT_PUBLIC_TURNSTILE_SITE_KEY: '0x_real_key',
+      TURNSTILE_SECRET_KEY: 'secret',
+    };
+    expect(contactConfig(env)).toMatchObject({ mode: 'resend', secret: null });
+    expect(contactSiteKey(env)).toBeNull();
+    expect(contactSiteKey({ ...env, CONTACT_TURNSTILE_ENABLED: 'false' })).toBeNull();
+    expect(contactConfig({ ...settings, VERCEL: '1' })).toMatchObject({
+      mode: 'resend',
+      secret: null,
+    });
+    expect(contactConfig({ ...env, CONTACT_TURNSTILE_ENABLED: 'true' })).toMatchObject({
+      secret: 'secret',
+    });
+    expect(contactSiteKey({ ...env, CONTACT_TURNSTILE_ENABLED: 'true' })).toBe('0x_real_key');
+  });
+  it('fails closed for missing email credentials or incomplete captcha opt-in and forbids hosted fake delivery', () => {
     expect(contactConfig({})).toBeNull();
-    expect(contactConfig({ ...settings, TURNSTILE_SECRET_KEY: 'secret' })).toBeNull();
-    expect(contactConfig({ ...settings, VERCEL: '1' })).toBeNull();
+    expect(
+      contactConfig({
+        ...settings,
+        CONTACT_TURNSTILE_ENABLED: 'true',
+        TURNSTILE_SECRET_KEY: 'secret',
+      }),
+    ).toBeNull();
+    expect(
+      contactConfig({ ...settings, CONTACT_TURNSTILE_ENABLED: 'true', VERCEL: '1' }),
+    ).toBeNull();
     expect(contactConfig({ ...settings, CONTACT_EMAIL_MODE: 'test', APP_ENV: 'local' })).toBeNull();
     expect(contactConfig({ ...settings, CONTACT_EMAIL_MODE: 'test', APP_ENV: 'test' })?.mode).toBe(
       'test',
@@ -127,6 +155,7 @@ describe('contact validation and trust boundary', () => {
       contactConfig({
         ...settings,
         VERCEL: '1',
+        CONTACT_TURNSTILE_ENABLED: 'true',
         NEXT_PUBLIC_TURNSTILE_SITE_KEY: '1x00000000000000000000AA',
         TURNSTILE_SECRET_KEY: 'secret',
       }),
@@ -193,6 +222,7 @@ describe('contact transport and response outcomes', () => {
   it('requires a successful, exact-host and contact-action Turnstile result', async () => {
     const config = contactConfig({
       ...settings,
+      CONTACT_TURNSTILE_ENABLED: 'true',
       NEXT_PUBLIC_TURNSTILE_SITE_KEY: '0x_real_key',
       TURNSTILE_SECRET_KEY: 'secret',
     })!;
@@ -245,6 +275,17 @@ describe('contact transport and response outcomes', () => {
       expect(result).not.toContain(value);
       expect(JSON.stringify(vi.mocked(console.info).mock.calls)).not.toContain(value);
     }
+  });
+  it('sends hosted enquiries without a challenge or Cloudflare call when Turnstile is off', async () => {
+    vi.stubEnv('VERCEL', '1');
+    vi.stubEnv('NEXT_PUBLIC_TURNSTILE_SITE_KEY', '0x_leftover_key');
+    vi.stubEnv('TURNSTILE_SECRET_KEY', 'leftover_secret');
+    const fetcher = vi.fn().mockResolvedValue(Response.json({ id: 'accepted' }));
+    vi.stubGlobal('fetch', fetcher);
+    const response = await handleContact(request(payload, { origin: 'https://nalksolutions.com' }));
+    expect(response.status).toBe(200);
+    expect(fetcher).toHaveBeenCalledTimes(1);
+    expect(fetcher.mock.calls[0]![0]).toBe('https://api.resend.com/emails');
   });
   it('returns controlled unavailable and delivery-failed outcomes without leaking provider secrets', async () => {
     vi.stubEnv('RESEND_API_KEY', '');
