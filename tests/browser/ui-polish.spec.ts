@@ -64,11 +64,11 @@ test('UI polish: quick smoke for layout, card actions, Contact and topics', asyn
   const image = (await page.locator('.contact-hero-media img').boundingBox())!;
   expect(image.height).toBeLessThanOrEqual(media.height);
 
-  await expect(page.locator('.contact-form-note input')).toHaveCount(3);
+  await expect(page.locator('.contact-form-note input:not([name=website])')).toHaveCount(3);
   await expect(page.locator('.contact-form-note textarea')).toBeVisible();
-  await expect(page.locator('.contact-form-note input').first()).toBeVisible();
+  await expect(page.locator('.contact-form-note input:not([name=website])').first()).toBeVisible();
   await page.screenshot({ path: info.outputPath('contact-top.png'), caret: 'initial' });
-  await expect(page.getByRole('button', { name: 'Send Message', exact: true })).toBeDisabled();
+  await expect(page.getByRole('button', { name: 'Send Message', exact: true })).toBeEnabled();
   await page.goto('/blog/');
   const trigger = page.getByRole('button', { name: 'All Topics', exact: true });
   await expect(trigger).toBeEnabled();

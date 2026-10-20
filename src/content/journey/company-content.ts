@@ -7,8 +7,6 @@ export const aboutIntro = [
 ] as const;
 export const contactIntro =
   'Tell us about your project or the business problem you want to solve. Email a brief description, or call us using the details below.';
-export const enquiryNotice =
-  'Online submission is not available yet. Please email a brief description of your project, or call us using the contact details above.';
 
 /** Explicit D-20 About edits; source data and all other company pages remain untouched. */
 export function aboutNodes(nodes: readonly DocumentNode[]): DocumentNode[] {

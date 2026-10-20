@@ -1,5 +1,5 @@
 # Preserve byte-for-byte recovery evidence and revision/checksum inputs on checkout.
-* -text
+* -text whitespace=trailing-space,space-before-tab,cr-at-eol
 *.png binary
 *.jpg binary
 *.jpeg binary

@@ -1,7 +1,8 @@
 import { readFileSync } from 'node:fs';
 import { renderToStaticMarkup } from 'react-dom/server';
 import { createElement } from 'react';
-import { expect, it } from 'vitest';
+import { expect, it, vi } from 'vitest';
+vi.mock('server-only', () => ({}));
 import { secondaryPageLayouts } from '../../src/content/secondary/layouts';
 import { documentSchema } from '../../src/content/site/schema';
 import assets from '../../src/content/secondary/assets.generated.json';

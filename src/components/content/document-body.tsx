@@ -17,6 +17,7 @@ export interface ContentContext {
   identities: readonly { path: string; locale: 'en' | 'ar'; entityId?: string }[];
   searchable: readonly SearchPage[];
   enquiryPlaceholders?: boolean;
+  contactDelivery?: boolean;
   searchAppearance?: 'listing';
   sharedButtons?: boolean;
 }
@@ -53,6 +54,7 @@ function renderNode(node: DocumentNode, context: ContentContext, id: string): Re
           buttonLabel={node.buttonLabel}
           id={`enquiry-${id}`}
           showPlaceholders={context.enquiryPlaceholders ?? false}
+          contactDelivery={context.contactDelivery ?? false}
         />
       );
     case 'map':

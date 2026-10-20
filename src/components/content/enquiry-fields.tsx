@@ -2,6 +2,8 @@ import { ui, type Locale } from '../../i18n/messages';
 import type { EnquiryField } from '../../content/site/schema';
 import { contacts } from '../../content/home/site';
 import { buttonClassName } from '../site/button-styles';
+import { ContactForm } from './contact-form';
+import { contactSiteKey } from '../../lib/contact/config';
 
 /** Preserve the enquiry UI without implying that an unconfigured transport sends mail. */
 export function EnquiryFields({
@@ -10,14 +12,26 @@ export function EnquiryFields({
   id,
   showPlaceholders,
   locale = 'en',
+  contactDelivery = false,
 }: {
   fields: readonly EnquiryField[];
   buttonLabel: string;
   id: string;
   showPlaceholders: boolean;
   locale?: Locale;
+  contactDelivery?: boolean;
 }) {
   const t = ui(locale);
+  if (contactDelivery)
+    return (
+      <ContactForm
+        fields={fields}
+        id={id}
+        showPlaceholders={showPlaceholders}
+        locale={locale}
+        siteKey={contactSiteKey()}
+      />
+    );
   return (
     <section className="content-enquiry" aria-label={t('form.region')} data-recovered-control>
       <div className="content-fields">

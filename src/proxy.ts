@@ -44,6 +44,14 @@ export async function proxy(request: NextRequest) {
     const legacy = resolveLegacy(pathname, search);
     if (legacy && legacy.kind !== 'page') return routeResponse(legacy, request.method);
 
+    // Only this authored endpoint bypasses content resolution; other /api paths stay private.
+    if (pathname === '/api/contact' || pathname === '/api/contact/') {
+      const response = NextResponse.next();
+      response.headers.set('X-Robots-Tag', 'noindex, nofollow');
+      response.headers.set('Cache-Control', 'no-store');
+      return response;
+    }
+
     // Exact legacy rules are checked first, including the literal theme-asterisk rule.
     if (
       pathname.startsWith('/_next/') ||

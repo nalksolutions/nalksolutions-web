@@ -161,8 +161,8 @@ test('listing search, pagination and enquiry state are deliberate', async ({ pag
     'https://nalksolutions.com/category/digital-marketing-strategy/page/2/',
   );
   await page.goto('/contacts/');
-  await expect(page.getByRole('button', { name: 'Send Message', exact: true })).toBeDisabled();
-  await expect(page.getByText('To send your enquiry, email')).toBeVisible();
+  await expect(page.getByRole('button', { name: 'Send Message', exact: true })).toBeEnabled();
+  await expect(page.getByText('Prefer email? Write to', { exact: false })).toBeVisible();
 });
 
 test('search accepts input only after its JavaScript handler is ready', async ({ page }) => {

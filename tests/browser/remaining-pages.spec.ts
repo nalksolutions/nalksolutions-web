@@ -34,7 +34,7 @@ test('remaining page actions share feedback and retain language-aware navigation
       ).toBeVisible();
       await action.focus();
       await expect(action).toBeFocused();
-      await expect(page.getByRole('button', { name: 'Send Message', exact: true })).toBeDisabled();
+      await expect(page.getByRole('button', { name: 'Send Message', exact: true })).toBeEnabled();
       continue;
     }
     const href = (await action.getAttribute('href'))!;

@@ -63,7 +63,21 @@
     "email": "Email",
     "phone": "Phone",
     "message": "Message",
-    "send": "Send Message"
+    "send": "Send Message",
+    "optional": "optional",
+    "introduction": "Tell us what you would like to build, improve or solve. Name, email and message are required; your phone number is optional.",
+    "help": "Fields marked * are required.",
+    "sending": "Sending…",
+    "success": "Your enquiry has been submitted. Thank you for contacting Nalk Solutions.",
+    "invalid": "Please check your details and try again.",
+    "fieldInvalid": "Please check this field.",
+    "verification": "Please complete the security check and try again.",
+    "verificationUnavailable": "The security check could not load. Please refresh the page or contact us by email.",
+    "rate_limited": "Too many attempts. Please wait 10 minutes before trying again, or email us directly.",
+    "unavailable": "Online sending is temporarily unavailable. Your details have been kept here; please try again later or email us directly.",
+    "delivery_failed": "We could not confirm your submission. Your details have been kept here. Please retry without changing them, or email us directly.",
+    "emailAlternative": "Prefer email? Write to",
+    "noScript": "Please enable JavaScript to submit this form, or use the email link above."
   },
   "article": {
     "share": "Share this article",

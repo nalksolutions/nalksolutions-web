@@ -3,7 +3,7 @@ import { copyText, contactArabic } from '../../content/localization/copy';
 import type { DocumentNode, PageDocument } from '../../content/site/schema';
 import { contacts } from '../../content/home/site';
 import { contactOffices, ksaPhone, projectBrief } from '../../content/journey/contact';
-import { contactIntro, enquiryNotice } from '../../content/journey/company-content';
+import { contactIntro } from '../../content/journey/company-content';
 import { DocumentBody, type ContentContext } from '../content/document-body';
 import { ButtonLink } from '../site/button-link';
 
@@ -46,7 +46,12 @@ export function ContactJourney({
     <DocumentBody
       nodes={items}
       prefix={prefix}
-      context={{ ...context, sharedButtons: true, enquiryPlaceholders: true }}
+      context={{
+        ...context,
+        sharedButtons: true,
+        enquiryPlaceholders: true,
+        contactDelivery: true,
+      }}
     />
   );
   return (
@@ -166,7 +171,7 @@ export function ContactJourney({
         aria-labelledby="online-enquiry-heading"
       >
         <h2 id="online-enquiry-heading">{copyText(locale, 'sendEnquiry', 'Send an enquiry')}</h2>
-        <p>{locale === 'ar' ? contactArabic.notice : enquiryNotice}</p>
+        <p>{t('form.introduction')}</p>
         <div className="contact-form-panel home-glass-card">
           {render([enquiry], 'contact-enquiry')}
         </div>

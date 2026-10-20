@@ -66,8 +66,8 @@ for (const [id, layout] of Object.entries(companyPageLayouts)) {
         'href',
         /^https:\/\/maps\.google\.com\/maps/u,
       );
-      await expect(main.getByRole('button', { name: 'Send Message', exact: true })).toBeDisabled();
-      await expect(main.getByText('To send your enquiry, email')).toBeVisible();
+      await expect(main.getByRole('button', { name: 'Send Message', exact: true })).toBeEnabled();
+      await expect(main.getByText('Prefer email? Write to', { exact: false })).toBeVisible();
       await expect(main.locator('.content-fields :is(input, textarea)')).toHaveCount(4);
     } else if (layout === 'arabic-company') {
       await expect(main.locator('.content-company-feature')).toHaveCount(6);

@@ -42,6 +42,11 @@ const env = {
   FIXTURE_DOCUMENTS_PATH: documents,
   TEST_PORT: String(port),
   NEXT_TELEMETRY_DISABLED: '1',
+  // Deterministic local-only transport; never use inherited business credentials.
+  CONTACT_EMAIL_MODE: 'test',
+  RESEND_API_KEY: '',
+  TURNSTILE_SECRET_KEY: '',
+  NEXT_PUBLIC_TURNSTILE_SITE_KEY: '',
 };
 const server = spawn(
   process.execPath,

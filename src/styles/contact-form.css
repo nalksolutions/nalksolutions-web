@@ -1,0 +1,68 @@
+.contact-live-form fieldset {
+  min-inline-size: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+.contact-live-form .site-button {
+  margin-block-start: 24px;
+}
+.company-site .contact-live-form button:disabled {
+  cursor: wait;
+  opacity: 0.7;
+}
+.company-site .contact-live-form .content-fields label {
+  position: static;
+  display: block;
+  width: auto;
+  height: auto;
+  overflow: visible;
+  clip-path: none;
+  white-space: normal;
+  margin-block-end: 8px;
+  color: #f2eff6;
+  font-size: 0.95rem;
+}
+.contact-live-form .contact-form-feedback,
+.contact-live-form .contact-email-alternative {
+  margin-block: 18px 0;
+  color: #dedbe7;
+  font-size: 0.95rem;
+  line-height: 1.7;
+}
+.contact-live-form .contact-form-feedback[data-state='success'] {
+  color: #bdecd1;
+}
+.contact-live-form .contact-form-feedback[data-state='invalid'],
+.contact-live-form .contact-form-feedback[data-state='verification'],
+.contact-live-form .contact-form-feedback[data-state='rate_limited'],
+.contact-live-form .contact-form-feedback[data-state='unavailable'],
+.contact-live-form .contact-form-feedback[data-state='delivery_failed'],
+.contact-live-form .contact-field-error {
+  color: #ffc5b7;
+}
+.contact-live-form [aria-invalid='true'] {
+  outline: 2px solid #ffc5b7;
+  outline-offset: 2px;
+}
+.contact-live-form .contact-field-error {
+  margin-block: 8px 0;
+  font-size: 0.875rem;
+}
+.contact-live-form .contact-honeypot {
+  position: absolute;
+  inline-size: 1px;
+  block-size: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+.contact-verification {
+  margin-block-start: 24px;
+  max-inline-size: 100%;
+}
+.contact-form-feedback:focus-visible {
+  outline: 2px solid #fffbb0;
+  outline-offset: 5px;
+  border-radius: 4px;
+}
