@@ -12,6 +12,10 @@ Arabic phase: [implementation contract](14-arabic-localization.md), [ADR-0005](a
 
 Contact delivery: [direct email implementation and setup](15-contact-email.md), requested October 21, 2026 for Vercel with Resend and no database. English/Arabic Contact now share a submission handler; real inbox delivery requires provider credentials/domain configuration. Sanity and deployment remain separate.
 
+Temporary storage: [retention plan and execution status](16-temporary-artifact-retention.md).
+The owner authorized cleanup on October 22; the checked plan is ready, but automatic approval
+review blocked both deletion attempts before execution. No temporary artifacts were removed.
+
 ## Read in this order
 
 | Document | Purpose |
