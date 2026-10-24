@@ -13,6 +13,8 @@ for (const locale of ['en', 'ar'] as const) {
     ]);
     await page.goto(locale === 'ar' ? '/ar/contacts/' : '/contacts/');
     const form = page.locator('[data-contact-form]');
+    await expect(form.locator('[name="website"]')).toHaveJSProperty('readOnly', true);
+    await expect(form.locator('[name="website"]')).toHaveValue('');
     await form.scrollIntoViewIfNeeded();
     const submit = form.locator('button[type="submit"]');
     await expect(submit).toBeEnabled();

@@ -52,6 +52,7 @@ beforeEach(() => {
     vi.stubEnv(name, '');
   vi.spyOn(console, 'info').mockImplementation(() => {});
   vi.spyOn(console, 'error').mockImplementation(() => {});
+  vi.spyOn(console, 'warn').mockImplementation(() => {});
 });
 afterEach(() => {
   vi.unstubAllGlobals();
@@ -292,6 +293,12 @@ describe('contact transport and response outcomes', () => {
       ).status,
     ).toBe(403);
     expect((await handleContact(request({ ...payload, website: 'spam' }))).status).toBe(403);
+    const diagnostics = vi.mocked(console.warn).mock.calls.map(([value]) => JSON.parse(value));
+    expect(diagnostics.map((entry) => entry.reason)).toEqual(['origin', 'honeypot']);
+    for (const entry of diagnostics) {
+      expect(Object.keys(entry).sort()).toEqual(['event', 'reason', 'reference']);
+      expect(entry.event).toBe('contact_rejected');
+    }
     expect(fetcher).not.toHaveBeenCalled();
   });
   it('reports acceptance only after sending and keeps personal data out of logs and responses', async () => {

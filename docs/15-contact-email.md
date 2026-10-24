@@ -37,7 +37,11 @@ and meaningful message line breaks are preserved. Phone numbers are not restrict
 country. All email content is plaintext; client data cannot select recipients or sender.
 
 The API accepts only approved origins and checks the honeypot. Optional Turnstile verification
-runs only with `CONTACT_TURNSTILE_ENABLED=true`, which requires both keys. Incomplete explicit
+uses the explicit opt-in described below. The hidden honeypot is read-only and initially empty
+so normal browser autofill cannot edit it. Direct submissions with a filled trap are still
+rejected. A 403 logs only `contact_rejected`, its reason (`origin`, `honeypot` or `verification`)
+and a random reference in server logs; submitted values and credentials are omitted.
+Turnstile runs only with `CONTACT_TURNSTILE_ENABLED=true`, which requires both keys. Incomplete explicit
 opt-in and hosted test transport fail closed. Origin matching is independent of Host
 and forwarded-host headers. Only the exact authored API path bypasses page resolution;
 other reserved API paths stay unavailable. The endpoint has noindex/no-store responses.

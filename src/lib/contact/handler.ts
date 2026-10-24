@@ -13,6 +13,11 @@ function reply(result: ContactResult, status: number) {
     headers: { ...headers, ...(status === 429 ? { 'Retry-After': '600' } : {}) },
   });
 }
+function rejected(reason: 'origin' | 'honeypot' | 'verification', reference: string) {
+  // No submitted values, origin URLs, IPs or credentials enter these diagnostics.
+  console.warn(JSON.stringify({ event: 'contact_rejected', reason, reference }));
+  return reply({ ok: false, code: reason === 'verification' ? 'verification' : 'invalid' }, 403);
+}
 export function contactMethodNotAllowed(request: Request) {
   return new Response(request.method === 'HEAD' ? null : JSON.stringify({ ok: false }), {
     status: 405,
@@ -22,7 +27,7 @@ export function contactMethodNotAllowed(request: Request) {
 export async function handleContact(request: Request): Promise<Response> {
   const reference = randomUUID();
   const origin = request.headers.get('origin');
-  if (!allowedContactOrigin(origin, process.env)) return reply({ ok: false, code: 'invalid' }, 403);
+  if (!allowedContactOrigin(origin, process.env)) return rejected('origin', reference);
   if (!allowContactAttempt(request)) return reply({ ok: false, code: 'rate_limited' }, 429);
   let input: unknown;
   try {
@@ -40,7 +45,7 @@ export async function handleContact(request: Request): Promise<Response> {
     );
     return reply({ ok: false, code: 'invalid', fields }, 422);
   }
-  if (parsed.data.website) return reply({ ok: false, code: 'invalid' }, 403);
+  if (parsed.data.website) return rejected('honeypot', reference);
   const config = contactConfig();
   if (!config) {
     console.error(JSON.stringify({ event: 'contact_unavailable', reference }));
@@ -48,7 +53,7 @@ export async function handleContact(request: Request): Promise<Response> {
   }
   try {
     if (!(await verifyContactChallenge(parsed.data, config, origin!)))
-      return reply({ ok: false, code: 'verification' }, 403);
+      return rejected('verification', reference);
   } catch {
     return reply({ ok: false, code: 'unavailable' }, 503);
   }

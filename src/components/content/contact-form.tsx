@@ -180,6 +180,8 @@ export function ContactForm({
             name="website"
             type="text"
             autoComplete="off"
+            readOnly
+            defaultValue=""
             tabIndex={-1}
             maxLength={200}
           />
