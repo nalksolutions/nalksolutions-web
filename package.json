@@ -10,6 +10,7 @@
   "packageManager": "npm@10.8.2",
   "scripts": {
     "prebuild": "node tooling/check-node-runtime.mjs",
+    "postbuild": "node tooling/check-build.mjs",
     "dev": "next dev --hostname 127.0.0.1",
     "build": "next build --webpack",
     "start": "next start --hostname 127.0.0.1",

@@ -42,6 +42,18 @@ are provisioned by pushing this repository.
 
 ## Release boundaries retained
 
+### Function content packaging correction
+
+The first Vercel deployment built successfully but returned the controlled 503 document.
+Its Proxy trace omitted the content repository, while the page trace omitted the authored
+English source file used by Arabic revision checks. A local checkout masked both omissions.
+Next 16.4.3 names the tracing entry `proxy` without a leading slash, so the previous `/*`
+include pattern did not cover it. Includes/excludes now use `*`, with narrow content paths
+and the revision-check source file explicitly included. `postbuild` verifies every repository
+document, translation and declared source input in both the Proxy and page traces separately.
+It fails deployment builds when either independently packaged function lacks required content.
+No route, indexing or publication controls were relaxed to address this packaging failure.
+
 Validation on Node 24.22.1: 95 unit tests passed; ESLint, production Webpack build and
 TypeScript compilation passed; build tracing verified all 116 recovered documents with no
 private/reference files included; documentation/frozen-evidence validation passed (149 routes,

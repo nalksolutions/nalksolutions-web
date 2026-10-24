@@ -18,6 +18,25 @@ let fixtureIncluded = false;
 let articleIncluded = false;
 let siteIncluded = false;
 const documents = new Set();
+const requiredContent = new Set([
+  'src/content/site/pages.generated.json',
+  'src/content/articles/api.generated.json',
+]);
+for (const name of await readdir('src/content/site/documents')) {
+  if (name.endsWith('.json')) requiredContent.add(`src/content/site/documents/${name}`);
+}
+for (const name of await readdir('src/content/localization/pages')) {
+  if (!name.endsWith('.json')) continue;
+  const file = `src/content/localization/pages/${name}`;
+  requiredContent.add(file);
+  const translation = JSON.parse(await readFile(file, 'utf8'));
+  for (const input of translation.review.sourceInputs) requiredContent.add(input.path);
+}
+const contentFunctions = new Set([
+  '.next/server/middleware.js.nft.json',
+  '.next/server/app/[[...path]]/page.js.nft.json',
+]);
+let verifiedContentFunctions = 0;
 async function inspect(directory) {
   for (const item of await readdir(directory, { withFileTypes: true })) {
     const file = path.join(directory, item.name);
@@ -25,6 +44,16 @@ async function inspect(directory) {
     else if (item.name.endsWith('.nft.json')) {
       traces++;
       const manifest = JSON.parse(await readFile(file, 'utf8'));
+      const traced = new Set(
+        manifest.files.map((entry) =>
+          path.relative(root, path.resolve(path.dirname(file), entry)).replaceAll('\\', '/'),
+        ),
+      );
+      if (contentFunctions.has(path.relative(root, file).replaceAll('\\', '/'))) {
+        for (const required of requiredContent)
+          assert(traced.has(required), `Content missing from ${file}: ${required}`);
+        verifiedContentFunctions++;
+      }
       for (const entry of manifest.files) {
         const relative = path
           .relative(root, path.resolve(path.dirname(file), entry))
@@ -42,6 +71,7 @@ async function inspect(directory) {
   }
 }
 await inspect('.next');
+assert.equal(verifiedContentFunctions, 2, 'Verify Proxy and page as separate content consumers');
 assert(traces > 0, 'Expected Next.js output tracing manifests');
 assert(siteIncluded, 'Complete content index must be available to the built server');
 assert.equal(documents.size, 116, 'Every recovered document must be available to the built server');
@@ -55,5 +85,6 @@ console.log(
     articleIncluded,
     siteIncluded,
     documents: documents.size,
+    verifiedContentFunctions,
   }),
 );

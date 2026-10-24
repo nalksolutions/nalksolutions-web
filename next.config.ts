@@ -11,14 +11,19 @@ const config: NextConfig = {
   skipProxyUrlNormalize: true,
   htmlLimitedBots: /.*/,
   outputFileTracingIncludes: {
-    '/*': [
+    // Proxy's build entry is named "proxy", without a leading slash. "/*"
+    // covers page routes but misses that separately packaged function.
+    '*': [
       './src/content/site/**/*.json',
+      './src/content/articles/api.generated.json',
       './src/content/localization/**/*.json',
+      // Arabic revision checks hash the authored English input bytes at runtime.
+      './src/content/journey/pages.ts',
       './src/i18n/messages/*.json',
     ],
   },
   outputFileTracingExcludes: {
-    '/*': [
+    '*': [
       './nalksolutions.com_wordpress_backup/**',
       './nalk-public-archive/**',
       './migration-review/**',
