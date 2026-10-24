@@ -31,7 +31,10 @@ records source-based entrances, button smoothing, typography/spacing corrections
 passes the complete 1,140-test engineering gate. Exact visual
 acceptance remains open for the documented differences; coverage counts do not accept pages.
 
-Use Node 24.15.0 and npm 10.8.2. From the project root:
+Use Node >=24.22.1 <25 and npm 10.8.2. `.node-version` records the patched baseline;
+the build checks the active runtime before compiling. See the
+[security and Vercel handoff](docs/17-security-vercel-handoff.md) before importing the repository.
+From the project root:
 
 ```powershell
 npm.cmd ci

@@ -1,0 +1,17 @@
+# Local evidence, credentials, caches and reports are not deployment inputs.
+.git
+.env*
+!.env.example
+.venv
+__pycache__
+node_modules
+.next
+tmp
+nalksolutions.com_wordpress_backup
+nalk-public-archive
+migration-review
+coverage
+test-results
+playwright-report
+*.log
+*.tsbuildinfo

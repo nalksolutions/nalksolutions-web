@@ -158,3 +158,8 @@ From the workspace root:
 The checker validates internal documentation links, register coverage and status consistency. `--with-evidence` additionally requires the original external evidence files and verifies frozen fingerprints; use it in this workspace or after CI retrieves the evidence. Without that flag, unavailable external evidence links are reported as deferred. The renderer refreshes the page matrix after deliberate route-register edits. Existing archive commands are documented in [scripts/README.txt](../scripts/README.txt). Application commands are documented in Chunk 1 and later chunk runbooks. The current complete gate is npm run verify:visual-engineering; real CMS, integration and deployment checks remain open.
 
 
+## Security and deployment handoff
+
+See [the October 24 security baseline and Vercel repository handoff](17-security-vercel-handoff.md)
+for the patched Node requirement, dependency checks, repository inputs and remaining release gates.
+
