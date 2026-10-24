@@ -23,8 +23,10 @@ Checked October 24, 2026. This is a source handoff, not deployment or public-lau
 Remote: `https://github.com/nalksolutions/nalksolutions-web.git`; branch: `main`.
 Import the repository with the project root as the root directory and Next.js as the framework.
 Use `npm ci` to install and `npm run build` to build; leave the output-directory setting at
-the framework default. Choose Node 24.x in Vercel. Vercel manages the patch version;
-the prebuild check requires at least 24.22.1 in the actual build environment.
+the framework default. Choose Node 24.x in Vercel. Vercel manages the patch version.
+Both npm 10 and npm 11 are supported. The local package-manager baseline remains 10.8.2;
+Vercel's npm 11.19.1 is allowed by the engines range with strict engine checks retained.
+The prebuild check requires at least 24.22.1 in the actual build environment.
 See [Vercel runtime selection](https://vercel.com/docs/functions/runtimes/node-js/node-js-versions).
 
 Application source, localized content, public assets, dependency lockfile, tooling, tests
