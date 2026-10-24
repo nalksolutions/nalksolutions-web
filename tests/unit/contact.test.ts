@@ -44,6 +44,8 @@ beforeEach(() => {
     'NEXT_PUBLIC_TURNSTILE_SITE_KEY',
     'VERCEL',
     'VERCEL_URL',
+    'VERCEL_BRANCH_URL',
+    'VERCEL_PROJECT_PRODUCTION_URL',
     'CONTACT_ALLOWED_ORIGINS',
     'CONTACT_TURNSTILE_ENABLED',
   ])
@@ -112,6 +114,34 @@ describe('contact validation and trust boundary', () => {
     ])
       expect(allowedContactOrigin(origin, hosted)).toBe(false);
     expect(allowedContactOrigin('http://127.0.0.1:3000', {})).toBe(true);
+  });
+  it('accepts exact project and branch aliases without trusting unrelated Vercel sites', () => {
+    const hosted = {
+      VERCEL: '1',
+      VERCEL_URL: 'owned-deployment-123.vercel.app',
+      VERCEL_BRANCH_URL: 'owned-git-main.vercel.app',
+      VERCEL_PROJECT_PRODUCTION_URL: 'owned-project.vercel.app',
+    };
+    for (const hostname of [
+      'nalksolutions-web.vercel.app',
+      hosted.VERCEL_URL,
+      hosted.VERCEL_BRANCH_URL,
+      hosted.VERCEL_PROJECT_PRODUCTION_URL,
+    ])
+      expect(allowedContactOrigin(`https://${hostname}`, hosted)).toBe(true);
+    for (const origin of [
+      'https://unrelated.vercel.app',
+      'https://nalksolutions-web.vercel.app.attacker.example',
+      'http://nalksolutions-web.vercel.app',
+      'https://nalksolutions-web.vercel.app/',
+    ])
+      expect(allowedContactOrigin(origin, hosted)).toBe(false);
+    expect(
+      allowedContactOrigin('https://attacker.example', {
+        ...hosted,
+        VERCEL_BRANCH_URL: 'user@attacker.example',
+      }),
+    ).toBe(false);
   });
   it('defaults Turnstile off even when hosted keys remain configured', () => {
     const env = {
@@ -285,6 +315,18 @@ describe('contact transport and response outcomes', () => {
     const response = await handleContact(request(payload, { origin: 'https://nalksolutions.com' }));
     expect(response.status).toBe(200);
     expect(fetcher).toHaveBeenCalledTimes(1);
+    expect(fetcher.mock.calls[0]![0]).toBe('https://api.resend.com/emails');
+  });
+  it('processes enquiries from the stable Vercel project origin with a distinct deployment URL', async () => {
+    vi.stubEnv('VERCEL', '1');
+    vi.stubEnv('VERCEL_URL', 'nalksolutions-web-unique-build.vercel.app');
+    const fetcher = vi.fn().mockResolvedValue(Response.json({ id: 'accepted' }));
+    vi.stubGlobal('fetch', fetcher);
+    const response = await handleContact(
+      request(payload, { origin: 'https://nalksolutions-web.vercel.app' }),
+    );
+    expect(response.status).toBe(200);
+    expect(fetcher).toHaveBeenCalledOnce();
     expect(fetcher.mock.calls[0]![0]).toBe('https://api.resend.com/emails');
   });
   it('returns controlled unavailable and delivery-failed outcomes without leaking provider secrets', async () => {

@@ -78,9 +78,11 @@ Never commit credentials or expose the Resend/Turnstile secret using a public va
 | `TURNSTILE_SECRET_KEY`           | Server verification secret, used only with explicit Turnstile opt-in                             |
 | `CONTACT_ALLOWED_ORIGINS`        | Optional comma-separated exact HTTPS origins without trailing slashes                            |
 
-The public root and www origins are allowed. The current deployment's `VERCEL_URL` is also
-allowed; arbitrary `*.vercel.app` origins are not. Add an owned branch alias explicitly when
-needed. Local HTTP loopback origins are allowed only outside hosted execution. Turnstile keys
+The public root, www and owned `https://nalksolutions-web.vercel.app` origins are allowed.
+Exact server-provided `VERCEL_URL`, `VERCEL_BRANCH_URL` and `VERCEL_PROJECT_PRODUCTION_URL`
+origins are also allowed; arbitrary `*.vercel.app` origins are not. Additional owned aliases
+can use `CONTACT_ALLOWED_ORIGINS`. Request Host/forwarded headers do not grant access.
+Local HTTP loopback origins are allowed only outside hosted execution. Turnstile keys
 are not needed while it is off. To restore it later, set the flag to `true`, configure both keys
 and configure widget hostnames to match each allowed form origin.
 

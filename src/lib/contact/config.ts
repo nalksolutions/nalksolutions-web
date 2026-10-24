@@ -28,8 +28,23 @@ export function allowedContactOrigin(origin: string | null, env: Environment): b
       ['localhost', '127.0.0.1'].includes(url.hostname)
     )
       return true;
-    const origins = [PUBLIC_ORIGIN, 'https://www.nalksolutions.com'];
-    if (env.VERCEL_URL) origins.push(`https://${env.VERCEL_URL}`);
+    const origins = [
+      PUBLIC_ORIGIN,
+      'https://www.nalksolutions.com',
+      'https://nalksolutions-web.vercel.app',
+    ];
+    // Deployment, branch and production aliases are distinct Vercel addresses.
+    // Trust exact server configuration, never request Host/forwarded headers.
+    for (const hostname of [
+      env.VERCEL_URL,
+      env.VERCEL_BRANCH_URL,
+      env.VERCEL_PROJECT_PRODUCTION_URL,
+    ]) {
+      if (!hostname) continue;
+      const deployment = new URL(`https://${hostname}`);
+      if (deployment.host !== hostname || deployment.origin !== `https://${hostname}`) return false;
+      origins.push(deployment.origin);
+    }
     for (const value of (env.CONTACT_ALLOWED_ORIGINS ?? '').split(',').filter(Boolean)) {
       const extra = new URL(value.trim());
       if (extra.protocol !== 'https:' || extra.origin !== value.trim()) return false;
