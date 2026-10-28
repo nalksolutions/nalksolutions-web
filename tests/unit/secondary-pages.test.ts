@@ -19,12 +19,14 @@ it('omits inherited phone links while preserving email and unrelated numbered co
         {
           type: 'element',
           tag: 'a',
+          variant: null,
           attributes: { href: 'tel:+(012)%204680-396' },
           children: [{ type: 'text', text: '(012) 4680-396' }],
         },
         {
           type: 'element',
           tag: 'a',
+          variant: null,
           attributes: { href: 'mailto:info@nalksolutions.com' },
           children: [{ type: 'text', text: 'Email the team' }],
         },
