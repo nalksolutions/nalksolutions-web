@@ -32,6 +32,8 @@ const reactAttributes: Record<string, string> = {
 };
 
 function renderNode(node: DocumentNode, context: ContentContext, id: string): ReactNode {
+  // Remove inherited profile/template call links as well as authored contact actions.
+  if (node.type === 'element' && /^tel:/iu.test(node.attributes.href ?? '')) return null;
   const render = (nodes: readonly DocumentNode[]) => (
     <DocumentBody nodes={nodes} context={context} prefix={id} />
   );

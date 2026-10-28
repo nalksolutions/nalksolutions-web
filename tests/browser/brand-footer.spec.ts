@@ -30,8 +30,7 @@ test('brand icon, uncropped Contact photo and complete responsive footer', async
   for (const href of Object.values(footerOfferPaths)) {
     await expect(footer.locator(`a[href="${href}"]`)).toBeVisible();
   }
-  await expect(footer.locator('a[href="tel:+966506000843"]')).toBeVisible();
-  await expect(footer.locator('a[href="tel:+923055518777"]')).toBeVisible();
+  await expect(footer.locator('a[href^="tel:"]')).toHaveCount(0);
   await expect(footer.locator('a[href="mailto:info@nalksolutions.com"]')).toBeVisible();
   await expect(footer).toContainText('Bahria Town, Rawalpindi Pakistan');
   await expect(footer).toContainText('Jeddah, Saudi Arabia');

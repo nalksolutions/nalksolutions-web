@@ -8,6 +8,35 @@ import { documentSchema } from '../../src/content/site/schema';
 import assets from '../../src/content/secondary/assets.generated.json';
 import publishedAssets from '../../src/content/site/assets.generated.json';
 import { EnquiryFields } from '../../src/components/content/enquiry-fields';
+import { DocumentBody } from '../../src/components/content/document-body';
+
+it('omits inherited phone links while preserving email and unrelated numbered content', () => {
+  const html = renderToStaticMarkup(
+    createElement(DocumentBody, {
+      prefix: 'contact-policy',
+      context: { locale: 'en', identities: [], searchable: [] },
+      nodes: [
+        {
+          type: 'element',
+          tag: 'a',
+          attributes: { href: 'tel:+(012)%204680-396' },
+          children: [{ type: 'text', text: '(012) 4680-396' }],
+        },
+        {
+          type: 'element',
+          tag: 'a',
+          attributes: { href: 'mailto:info@nalksolutions.com' },
+          children: [{ type: 'text', text: 'Email the team' }],
+        },
+        { type: 'text', text: '120 projects' },
+      ],
+    }),
+  );
+  expect(html).not.toContain('tel:');
+  expect(html).not.toContain('4680-396');
+  expect(html).toContain('mailto:info@nalksolutions.com');
+  expect(html).toContain('120 projects');
+});
 
 it('requires each secondary layout and publishes every recovered background', () => {
   expect(Object.keys(secondaryPageLayouts)).toHaveLength(8);

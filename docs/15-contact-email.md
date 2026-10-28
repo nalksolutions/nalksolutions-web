@@ -1,5 +1,13 @@
 # Contact form: direct email delivery
 
+Owner update, October 28, 2026: remove all published business phone numbers, including
+Saudi and Pakistan numbers, in both languages. Call actions and phone links are removed
+from Contact, the mobile menu and footer; structured-data output omits telephone/fax facts.
+Inherited profile/template phone links are also omitted by the shared document renderer.
+Contact introductions now direct visitors to email or the enquiry form. The optional visitor
+phone field remains available for enquiries. Frozen recovery evidence remains unchanged;
+the structured-data publication boundary applies this explicit owner-directed exception.
+
 Owner direction, October 21, 2026: host on Vercel and deliver contact enquiries by email,
 without a database. D-27 supersedes the earlier unavailable Contact form state. The Arabic
 content work continues independently; this change does not accept the entire bilingual site

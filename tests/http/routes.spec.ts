@@ -13,6 +13,7 @@ import home from '../../src/content/home/home.generated.json' with { type: 'json
 import article from '../../src/content/articles/api.generated.json' with { type: 'json' };
 import editorial from '../../docs/page-reviews/customer-journey-editorial.json' with { type: 'json' };
 import { expectRevisedContent } from './journey-contract';
+import { serializeJsonLd } from '../../src/lib/seo/metadata';
 
 const { pages } = validateDataset(source);
 
@@ -146,11 +147,15 @@ for (const page of pages) {
       if (expected) expect(html.meta(field), field).toEqual([expected.content]);
     }
     expect(html.schemas).toEqual(
-      page.path === '/'
-        ? home.jsonLd
-        : page.content.articleId
-          ? article.seo.jsonLd
-          : page.seo.jsonLd,
+      JSON.parse(
+        serializeJsonLd(
+          page.path === '/'
+            ? home.jsonLd
+            : page.content.articleId
+              ? article.seo.jsonLd
+              : page.seo.jsonLd,
+        ),
+      ),
     );
     const head = await request.head(pathname);
     expect(head.status()).toBe(200);

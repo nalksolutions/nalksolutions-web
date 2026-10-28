@@ -1,6 +1,5 @@
 // D-04: business contacts confirmed by the owner on October 17, 2026.
 export const contacts = {
-  phone: { label: '+92 305 551 8777', href: 'tel:+923055518777' },
   email: { label: 'info@nalksolutions.com', href: 'mailto:info@nalksolutions.com' },
 } as const;
 

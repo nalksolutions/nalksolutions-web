@@ -126,9 +126,6 @@ export function HeaderDialogs({
             <LanguageSwitch locale={locale} href={languageHref} homeHref={homeHref} embedded />
           </nav>
           <address>
-            <a href={contacts.phone.href} tabIndex={0}>
-              {contacts.phone.label}
-            </a>
             <a href={contacts.email.href} tabIndex={0}>
               {contacts.email.label}
             </a>

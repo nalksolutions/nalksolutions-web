@@ -129,6 +129,20 @@ describe('public identity and publication', () => {
 });
 
 describe('SEO boundary', () => {
+  it('omits all withdrawn telephone facts at publication without changing source evidence', () => {
+    const source = {
+      '@type': 'Organization',
+      telephone: '+966506000843',
+      contactPoint: [{ telephone: '+966 50 6000 843' }, { telephone: '+923055518777' }],
+    };
+    const serialized = serializeJsonLd(source);
+    expect(serialized).not.toContain('966');
+    expect(serialized).not.toContain('+923055518777');
+    expect(source.telephone).toBe('+966506000843');
+    for (const page of dataset.pages) {
+      expect(serializeJsonLd(page.seo.jsonLd)).not.toMatch(/\+966/u);
+    }
+  });
   it('preserves absent canonical and source noindex without homepage defaults', () => {
     const page = dataset.pages.find((page) => page.kind === 'profile');
     if (!page) throw new Error('Missing profile fixture');

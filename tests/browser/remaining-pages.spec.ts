@@ -29,9 +29,7 @@ test('remaining page actions share feedback and retain language-aware navigation
       // D-20 removes the competing About promotion. Contact's next action is a
       // real contact link, not another internal page or an unavailable form.
       await expect(action).toHaveAttribute('href', 'mailto:info@nalksolutions.com');
-      await expect(
-        page.locator('.journey-contact-links a[href="tel:+923055518777"]'),
-      ).toBeVisible();
+      await expect(page.locator('a[href^="tel:"]')).toHaveCount(0);
       await action.focus();
       await expect(action).toBeFocused();
       await expect(page.getByRole('button', { name: 'Send Message', exact: true })).toBeEnabled();
@@ -123,13 +121,9 @@ test('remaining company layouts keep headings clear and enquiry controls honest'
   }
   await page.goto('/contacts/');
   const details = page.locator('.journey-contact-links');
-  await expect(details.locator('a')).toHaveCount(3);
-  await expect(details.locator('a').nth(0)).toHaveAttribute('href', 'tel:+966506000843');
-  await expect(details.locator('a').nth(1)).toHaveAttribute('href', 'tel:+923055518777');
-  await expect(details.locator('a').nth(2)).toHaveAttribute(
-    'href',
-    'mailto:info@nalksolutions.com',
-  );
+  await expect(details.locator('a')).toHaveCount(1);
+  await expect(page.locator('a[href^="tel:"]')).toHaveCount(0);
+  await expect(details.locator('a[href="mailto:info@nalksolutions.com"]')).toBeVisible();
 });
 
 test('remaining service and listing actions work without JavaScript', async ({

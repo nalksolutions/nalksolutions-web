@@ -4,7 +4,7 @@ import { ui } from '../../i18n/messages';
 import { localizedHref } from '../../content/localization/identity';
 import type { CSSProperties } from 'react';
 import assets from '../../content/home/assets.generated.json';
-import { contactOffices, ksaPhone } from '../../content/journey/contact';
+import { contactOffices } from '../../content/journey/contact';
 import { mainNavigation } from '../../content/journey/pages';
 import { offers } from '../../content/journey/offers';
 import { footerOfferPaths } from '../../content/journey/footer';
@@ -113,12 +113,6 @@ export function SiteFooter({
           <address>
             <a href={contacts.email.href} dir="ltr">
               {contacts.email.label}
-            </a>
-            <a href={ksaPhone.href}>
-              <span>{t('footer.ksa')}</span> <bdi dir="ltr">{ksaPhone.label}</bdi>
-            </a>
-            <a href={contacts.phone.href}>
-              <span>{t('footer.pakistan')}</span> <bdi dir="ltr">{contacts.phone.label}</bdi>
             </a>
           </address>
           <LocaleLink

@@ -34,7 +34,7 @@ test('customer journey: four offers, direct enquiry and section-aware navigation
   await expect(page.locator('h1')).toHaveText('Contact Us Online');
   const links = page.locator('.journey-contact-links');
   await expect(links.locator('a[href="mailto:info@nalksolutions.com"]')).toBeVisible();
-  await expect(links.locator('a[href="tel:+923055518777"]')).toBeVisible();
+  await expect(page.locator('a[href^="tel:"]')).toHaveCount(0);
   await expect(page.getByRole('button', { name: 'Send Message', exact: true })).toBeEnabled();
   await expect(page.locator('.content-company-contacts-hero a[href="/about-us/"]')).toHaveCount(0);
   await attachCancellations(info);

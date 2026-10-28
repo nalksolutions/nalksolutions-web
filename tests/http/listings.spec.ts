@@ -2,6 +2,7 @@ import { createHash } from 'node:crypto';
 import { expect, test } from '../local-test';
 import source from '../../tooling/sources/blog-query-recovery.generated.json' with { type: 'json' };
 import { inspectHtml } from './html';
+import { serializeJsonLd } from '../../src/lib/seo/metadata';
 
 for (const view of source.pages) {
   test(`Blog query page ${view.page}: server content, canonical and HEAD`, async ({ request }) => {
@@ -17,7 +18,7 @@ for (const view of source.pages) {
       expect(html.meta(key)).toEqual(view.seo[key] ? [view.seo[key]] : []);
     for (const { property, content } of view.seo.social)
       expect(html.meta(property)).toContain(content);
-    expect(html.schemas).toEqual(view.seo.jsonLd);
+    expect(html.schemas).toEqual(JSON.parse(serializeJsonLd(view.seo.jsonLd)));
     expect(
       createHash('sha256')
         .update(html.documentBodyText ?? '')

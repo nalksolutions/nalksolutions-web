@@ -135,7 +135,7 @@ test('Arabic pilot: complete journey, RTL, normal publication and English return
   }
   await expect(page.locator('.contact-form-note input:not([name=website])')).toHaveCount(3);
   await expect(page.getByRole('button', { name: 'إرسال الرسالة', exact: true })).toBeEnabled();
-  await expect(page.locator('.contact-methods a[href="tel:+966506000843"]')).toBeVisible();
+  await expect(page.locator('a[href^="tel:"]')).toHaveCount(0);
   await expect(page.locator('.desktop-nav a').filter({ hasText: 'English' })).toHaveAttribute(
     'href',
     '/contacts/',

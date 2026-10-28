@@ -6,7 +6,7 @@ export const aboutIntro = [
   'We work with ambitious startups and established enterprises in Riyadh, Jeddah, Dammam and the Eastern Province, focusing on useful outcomes and long-term partnerships.',
 ] as const;
 export const contactIntro =
-  'Tell us about your project or the business problem you want to solve. Email a brief description, or call us using the details below.';
+  'Tell us about your project or the business problem you want to solve. Email a brief description, or use the enquiry form below.';
 
 /** Explicit D-20 About edits; source data and all other company pages remain untouched. */
 export function aboutNodes(nodes: readonly DocumentNode[]): DocumentNode[] {

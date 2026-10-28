@@ -15,7 +15,6 @@ export const contactOffices = [
     imageIndex: 0,
   },
 ] as const;
-export const ksaPhone = { href: 'tel:+966506000843', label: '+966 50 6000 843' } as const;
 export const projectBrief = [
   { title: 'Your goal', description: 'What would you like to build, improve or solve?' },
   {

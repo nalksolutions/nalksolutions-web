@@ -2,7 +2,7 @@ import { ui } from '../../i18n/messages';
 import { copyText, contactArabic } from '../../content/localization/copy';
 import type { DocumentNode, PageDocument } from '../../content/site/schema';
 import { contacts } from '../../content/home/site';
-import { contactOffices, ksaPhone, projectBrief } from '../../content/journey/contact';
+import { contactOffices, projectBrief } from '../../content/journey/contact';
 import { contactIntro } from '../../content/journey/company-content';
 import { DocumentBody, type ContentContext } from '../content/document-body';
 import { ButtonLink } from '../site/button-link';
@@ -69,9 +69,6 @@ export function ContactJourney({
             <ButtonLink href={contacts.email.href}>
               {copyText(locale, 'emailBrief', 'Email Your Project Brief')}
             </ButtonLink>
-            <ButtonLink href={ksaPhone.href} outline>
-              {copyText(locale, 'callSaudi', 'Call Our Saudi Team')}
-            </ButtonLink>
           </div>
           <p className="contact-reassurance">
             {copyText(
@@ -112,16 +109,6 @@ export function ContactJourney({
             <span>
               {copyText(locale, 'emailHelp', 'Share your goals, questions or a short brief.')}
             </span>
-          </a>
-          <a className="contact-method home-glass-card" href={ksaPhone.href}>
-            <span>{t('footer.ksa')}</span>
-            <strong dir="ltr">{ksaPhone.label}</strong>
-            <span>{copyText(locale, 'callSaudiHelp', 'Call our Saudi team.')}</span>
-          </a>
-          <a className="contact-method home-glass-card" href={contacts.phone.href}>
-            <span>{t('footer.pakistan')}</span>
-            <strong dir="ltr">{contacts.phone.label}</strong>
-            <span>{copyText(locale, 'callPakistanHelp', 'Call our Pakistan team.')}</span>
           </a>
         </address>
       </section>

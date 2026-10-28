@@ -93,7 +93,11 @@ export function pageMetadata(page: ProofPage, pages: readonly ProofPage[] = []):
 }
 
 export function serializeJsonLd(value: unknown): string {
-  return JSON.stringify(value).replace(/[<>&\u2028\u2029]/gu, (character) => {
+  // Owner removed all contact numbers from publication on October 28, 2026.
+  // Keep recovered evidence intact; omit withdrawn telephone facts at output.
+  return JSON.stringify(value, (key, entry: unknown) =>
+    key === 'telephone' || key === 'faxNumber' ? undefined : entry,
+  ).replace(/[<>&\u2028\u2029]/gu, (character) => {
     const escapes: Record<string, string> = {
       '<': '\\u003c',
       '>': '\\u003e',
